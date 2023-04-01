@@ -177,3 +177,115 @@
 2023-04-01 09:32:34 [INFO] : 正在获取 [Tenable (Nessus)] 威胁情报...
 2023-04-01 09:32:34 [INFO] : 得到 [Tenable (Nessus)] 最新威胁情报 [0] 条
 2023-04-01 09:32:34 [INFO] : --------------------------------------------
+2023-04-01 10:31:56 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-01 10:31:56 [INFO] : 正在获取 [数字观星POC++] 威胁情报...
+2023-04-01 10:31:57 [INFO] : 得到 [数字观星POC++] 最新威胁情报 [0] 条
+2023-04-01 10:31:57 [INFO] : --------------------------------------------
+2023-04-01 10:31:57 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-01 10:31:57 [INFO] : 正在获取 [阿里云] 威胁情报...
+2023-04-01 10:31:59 [INFO] : 得到 [阿里云] 最新威胁情报 [0] 条
+2023-04-01 10:31:59 [INFO] : --------------------------------------------
+2023-04-01 10:31:59 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-01 10:31:59 [INFO] : 正在获取 [国家信息安全漏洞共享平台（CNVD）] 威胁情报...
+2023-04-01 10:32:21 [INFO] : 得到 [国家信息安全漏洞共享平台（CNVD）] 最新威胁情报 [0] 条
+2023-04-01 10:32:21 [INFO] : --------------------------------------------
+2023-04-01 10:32:21 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-01 10:32:21 [INFO] : 正在获取 [国家信息安全漏洞库（CNNVD）] 威胁情报...
+2023-04-01 10:32:23 [WARNING] : 获取 [国家信息安全漏洞库（CNNVD）] 威胁情报失败： [HTTP Error 403]
+2023-04-01 10:32:23 [INFO] : 得到 [国家信息安全漏洞库（CNNVD）] 最新威胁情报 [0] 条
+2023-04-01 10:32:23 [INFO] : --------------------------------------------
+2023-04-01 10:32:23 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-01 10:32:23 [INFO] : 正在获取 [360 网络安全响应中心] 威胁情报...
+2023-04-01 10:32:25 [INFO] : 得到 [360 网络安全响应中心] 最新威胁情报 [0] 条
+2023-04-01 10:32:25 [INFO] : --------------------------------------------
+2023-04-01 10:32:25 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-01 10:32:25 [INFO] : 正在获取 [美国国家漏洞数据库（NVD）] 威胁情报...
+2023-04-01 10:32:26 [INFO] : 得到 [美国国家漏洞数据库（NVD）] 最新威胁情报 [10] 条
+2023-04-01 10:32:26 [INFO] : --------------------------------------------
+2023-04-01 10:32:26 [INFO] : 
+==============================================
+[ TITLE ] ** DISPUTED ** A vulnerability, which was classified as critical, was found in Ubiquiti EdgeRouter X 2.0.9-hotfix.6. Affected is an unknown function of the component Static Routing Configuration Handler. The manipulation of the argument next-hop-interface leads to command injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The real existence of this vulnerability is still doubted at the moment. VDB-223302 is the identifier assigned to this vulnerability. NOTE: The vendor position is that post-authentication issues are not accepted as vulnerabilities.
+[ TIME  ] 2023-03-25 21:15:06 
+[ CVE   ] CVE-2023-1457
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-1457
+2023-04-01 10:32:26 [INFO] : 
+==============================================
+[ TITLE ] A vulnerability, which was classified as critical, has been found in Ubiquiti EdgeRouter X 2.0.9-hotfix.6. This issue affects some unknown processing of the component NAT Configuration Handler. The manipulation leads to command injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The real existence of this vulnerability is still doubted at the moment. The identifier VDB-223301 was assigned to this vulnerability. NOTE: The vendor position is that post-authentication issues are not accepted as vulnerabilities.
+[ TIME  ] 2023-03-25 21:15:06 
+[ CVE   ] CVE-2023-1456
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-1456
+2023-04-01 10:32:26 [INFO] : 
+==============================================
+[ TITLE ] An infinite recursion is triggered in Jettison when constructing a JSONArray from a Collection that contains a self-reference in one of its elements. This leads to a StackOverflowError exception being thrown.
+[ TIME  ] 2023-03-22 06:15:09 
+[ CVE   ] CVE-2023-1436
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-1436
+2023-04-01 10:32:26 [INFO] : 
+==============================================
+[ TITLE ] Grafana is an open-source platform for monitoring and observability. Grafana had a stored XSS vulnerability in the Graphite FunctionDescription tooltip. The stored XSS vulnerability was possible due the value of the Function Description was not properly sanitized. An attacker needs to have control over the Graphite data source in order to manipulate a function description and a Grafana admin needs to configure the data source, later a Grafana user needs to select a tampered function and hover over the description. Users may upgrade to version 8.5.22, 9.2.15 and 9.3.11 to receive a fix.
+[ TIME  ] 2023-03-23 08:15:12 
+[ CVE   ] CVE-2023-1410
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-1410
+2023-04-01 10:32:26 [INFO] : 
+==============================================
+[ TITLE ] The course participation report required additional checks to prevent roles being displayed which the user did not have access to view.
+[ TIME  ] 2023-03-23 21:15:19 
+[ CVE   ] CVE-2023-1402
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-1402
+2023-04-01 10:32:26 [INFO] : 
+==============================================
+[ TITLE ] The Modern Events Calendar Lite WordPress plugin through 5.16.2 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup).
+[ TIME  ] 2023-03-27 16:15:09 
+[ CVE   ] CVE-2023-1400
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-1400
+2023-04-01 10:32:26 [INFO] : 
+==============================================
+[ TITLE ] [Json-smart](https://netplex.github.io/json-smart/) is a performance focused, JSON processor lib. When reaching a &acirc;&euro;&tilde;[&acirc;&euro;&tilde; or &acirc;&euro;&tilde;{&acirc;&euro;&tilde; character in the JSON input, the code parses an array or an object respectively. It was discovered that the code does not have any limit to the nesting of such arrays or objects. Since the parsing of nested arrays and objects is done recursively, nesting too many of them can cause a stack exhaustion (stack overflow) and crash the software.
+[ TIME  ] 2023-03-22 06:15:09 
+[ CVE   ] CVE-2023-1370
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-1370
+2023-04-01 10:32:26 [INFO] : 
+==============================================
+[ TITLE ] An authenticated attacker can leverage an exposed resource.db() accessor method to smuggle Python method calls via a Jinja template, which can lead to code execution. This issue was resolved in the Managed and SaaS deployments on February 1, 2023, and in version 23.2.1 of the Self-Managed version of InsightCloudSec.
+[ TIME  ] 2023-03-21 17:15:11 
+[ CVE   ] CVE-2023-1306
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-1306
+2023-04-01 10:32:26 [INFO] : 
+==============================================
+[ TITLE ] An authenticated attacker can leverage an exposed &acirc;&euro;&oelig;box&acirc;&euro;&#65533; object to read and write arbitrary files from disk, provided those files can be parsed as yaml or JSON. This issue was resolved in the Managed and SaaS deployments on February 1, 2023, and in version 23.2.1 of the Self-Managed version of InsightCloudSec.
+[ TIME  ] 2023-03-21 17:15:11 
+[ CVE   ] CVE-2023-1305
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-1305
+2023-04-01 10:32:26 [INFO] : 
+==============================================
+[ TITLE ] An authenticated attacker can leverage an exposed getattr() method via a Jinja template to smuggle OS commands and perform other actions that are normally expected to be private methods. This issue was resolved in the Managed and SaaS deployments on February 1, 2023, and in version 23.2.1 of the Self-Managed version of InsightCloudSec.
+[ TIME  ] 2023-03-21 17:15:11 
+[ CVE   ] CVE-2023-1304
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-1304
+2023-04-01 10:32:26 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-01 10:32:26 [INFO] : 正在获取 [绿盟] 威胁情报...
+2023-04-01 10:32:28 [INFO] : 得到 [绿盟] 最新威胁情报 [0] 条
+2023-04-01 10:32:28 [INFO] : --------------------------------------------
+2023-04-01 10:32:28 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-01 10:32:28 [INFO] : 正在获取 [奇安信] 威胁情报...
+2023-04-01 10:32:30 [INFO] : 得到 [奇安信] 最新威胁情报 [0] 条
+2023-04-01 10:32:30 [INFO] : --------------------------------------------
+2023-04-01 10:32:30 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-01 10:32:30 [INFO] : 正在获取 [红后] 威胁情报...
+2023-04-01 10:32:31 [INFO] : 得到 [红后] 最新威胁情报 [0] 条
+2023-04-01 10:32:31 [INFO] : --------------------------------------------
+2023-04-01 10:32:31 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-01 10:32:31 [INFO] : 正在获取 [Tenable (Nessus)] 威胁情报...
+2023-04-01 10:32:31 [INFO] : 得到 [Tenable (Nessus)] 最新威胁情报 [0] 条
+2023-04-01 10:32:31 [INFO] : --------------------------------------------
+2023-04-01 10:32:31 [INFO] : [邮件] 正在通过 Github Actions 推送威胁情报...
