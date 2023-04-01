@@ -14,13 +14,13 @@ from src.crawler.nsfocus import Nsfocus
 from src.crawler.qianxin import QiAnXin
 from src.crawler.redqueen import RedQueen
 from src.crawler.alicloud import AliCloud
-from src.crawler.vas import Vas
+# from src.crawler.vas import Vas
 from src.crawler.nvd import NVD
 from src.crawler.cnvd import CNVD
 from src.crawler.cnnvd import CNNVD
 from src.crawler.tenable import Tenable
 from src.crawler.datastarpocplus import PocPlus
-from src.crawler.vulhub import Vulhub
+# from src.crawler.vulhub import Vulhub
 
 import src.notice.page as page
 import src.notice.mail as mail
@@ -53,7 +53,7 @@ def main(help, top, auto_commit, gtk, mail_smtp, mail_user, mail_pass):
 
     else:
         all_cves = {}
-        srcs = [PocPlus(),AliCloud(),CNVD(),CNNVD(),Cert360(),NVD(),Vulhub(),Nsfocus(),QiAnXin(),RedQueen(),Vas(),Tenable()]
+        srcs = [PocPlus(),AliCloud(),CNVD(),CNNVD(),Cert360(),NVD(),Nsfocus(),QiAnXin(),RedQueen(),Tenable()]
         for src in srcs:
             cves = src.cves()
             if cves:
