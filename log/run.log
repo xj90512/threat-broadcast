@@ -2104,3 +2104,115 @@ requests.exceptions.SSLError: HTTPSConnectionPool(host='cert.360.cn', port=443):
 2023-04-02 21:32:48 [INFO] : 正在获取 [Tenable (Nessus)] 威胁情报...
 2023-04-02 21:32:49 [INFO] : 得到 [Tenable (Nessus)] 最新威胁情报 [0] 条
 2023-04-02 21:32:49 [INFO] : --------------------------------------------
+2023-04-02 22:31:48 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-02 22:31:48 [INFO] : 正在获取 [数字观星POC++] 威胁情报...
+2023-04-02 22:31:49 [INFO] : 得到 [数字观星POC++] 最新威胁情报 [0] 条
+2023-04-02 22:31:49 [INFO] : --------------------------------------------
+2023-04-02 22:31:49 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-02 22:31:49 [INFO] : 正在获取 [阿里云] 威胁情报...
+2023-04-02 22:31:51 [INFO] : 得到 [阿里云] 最新威胁情报 [0] 条
+2023-04-02 22:31:51 [INFO] : --------------------------------------------
+2023-04-02 22:31:51 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-02 22:31:51 [INFO] : 正在获取 [国家信息安全漏洞共享平台（CNVD）] 威胁情报...
+2023-04-02 22:32:14 [INFO] : 得到 [国家信息安全漏洞共享平台（CNVD）] 最新威胁情报 [0] 条
+2023-04-02 22:32:14 [INFO] : --------------------------------------------
+2023-04-02 22:32:14 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-02 22:32:14 [INFO] : 正在获取 [国家信息安全漏洞库（CNNVD）] 威胁情报...
+2023-04-02 22:32:15 [WARNING] : 获取 [国家信息安全漏洞库（CNNVD）] 威胁情报失败： [HTTP Error 403]
+2023-04-02 22:32:15 [INFO] : 得到 [国家信息安全漏洞库（CNNVD）] 最新威胁情报 [0] 条
+2023-04-02 22:32:15 [INFO] : --------------------------------------------
+2023-04-02 22:32:15 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-02 22:32:15 [INFO] : 正在获取 [360 网络安全响应中心] 威胁情报...
+2023-04-02 22:32:17 [INFO] : 得到 [360 网络安全响应中心] 最新威胁情报 [0] 条
+2023-04-02 22:32:17 [INFO] : --------------------------------------------
+2023-04-02 22:32:17 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-02 22:32:17 [INFO] : 正在获取 [美国国家漏洞数据库（NVD）] 威胁情报...
+2023-04-02 22:32:18 [INFO] : 得到 [美国国家漏洞数据库（NVD）] 最新威胁情报 [10] 条
+2023-04-02 22:32:18 [INFO] : --------------------------------------------
+2023-04-02 22:32:18 [INFO] : 
+==============================================
+[ TITLE ] TensorFlow is an open source platform for machine learning. Prior to versions 2.12.0 and 2.11.1, there is a heap buffer overflow in TAvgPoolGrad. A fix is included in TensorFlow 2.12.0 and 2.11.1.
+[ TIME  ] 2023-03-25 00:15:07 
+[ CVE   ] CVE-2023-25664
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-25664
+2023-04-02 22:32:18 [INFO] : 
+==============================================
+[ TITLE ] TensorFlow is an open source platform for machine learning. Prior to versions 2.12.0 and 2.11.1, when `ctx-&gt;step_containter()` is a null ptr, the Lookup function will be executed with a null pointer. A fix is included in TensorFlow 2.12.0 and 2.11.1.
+[ TIME  ] 2023-03-25 00:15:07 
+[ CVE   ] CVE-2023-25663
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-25663
+2023-04-02 22:32:18 [INFO] : 
+==============================================
+[ TITLE ] TensorFlow is an open source platform for machine learning. Versions prior to 2.12.0 and 2.11.1 are vulnerable to integer overflow in EditDistance. A fix is included in TensorFlow version 2.12.0 and version 2.11.1.
+[ TIME  ] 2023-03-25 00:15:07 
+[ CVE   ] CVE-2023-25662
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-25662
+2023-04-02 22:32:18 [INFO] : 
+==============================================
+[ TITLE ] TensorFlow is an open source platform for machine learning. Prior to versions 2.12.0 and 2.11.1, when the parameter `summarize` of `tf.raw_ops.Print` is zero, the new method `SummarizeArray&lt;bool&gt;` will reference to a nullptr, leading to a seg fault. A fix is included in TensorFlow version 2.12 and version 2.11.1.
+[ TIME  ] 2023-03-25 00:15:07 
+[ CVE   ] CVE-2023-25660
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-25660
+2023-04-02 22:32:18 [INFO] : 
+==============================================
+[ TITLE ] TensorFlow is an open source platform for machine learning. Prior to versions 2.12.0 and 2.11.1, if the parameter `indices` for `DynamicStitch` does not match the shape of the parameter `data`, it can trigger an stack OOB read. A fix is included in TensorFlow version 2.12.0 and version 2.11.1.
+[ TIME  ] 2023-03-25 00:15:07 
+[ CVE   ] CVE-2023-25659
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-25659
+2023-04-02 22:32:18 [INFO] : 
+==============================================
+[ TITLE ] TensorFlow is an open source platform for machine learning. Prior to versions 2.12.0 and 2.11.1, an out of bounds read is in GRUBlockCellGrad. A fix is included in TensorFlow 2.12.0 and 2.11.1.
+[ TIME  ] 2023-03-25 00:15:07 
+[ CVE   ] CVE-2023-25658
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-25658
+2023-04-02 22:32:18 [INFO] : 
+==============================================
+[ TITLE ] baserCMS is a Content Management system. Prior to version 4.7.5, any file may be uploaded on the management system of baserCMS. Version 4.7.5 contains a patch.
+[ TIME  ] 2023-03-23 20:15:15 
+[ CVE   ] CVE-2023-25655
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-25655
+2023-04-02 22:32:18 [INFO] : 
+==============================================
+[ TITLE ] baserCMS is a Content Management system. Prior to version 4.7.5, there is a Remote Code Execution (RCE) Vulnerability in the management system of baserCMS. Version 4.7.5 contains a patch.
+[ TIME  ] 2023-03-23 20:15:14 
+[ CVE   ] CVE-2023-25654
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-25654
+2023-04-02 22:32:18 [INFO] : 
+==============================================
+[ TITLE ] A vulnerability exists in ClearPass Policy Manager that allows for an attacker with administrative privileges to access sensitive information in a cleartext format. A successful exploit allows an attacker to retrieve information which could be used to potentially gain further access to network services supported by ClearPass Policy Manager.
+[ TIME  ] 2023-03-22 06:15:10 
+[ CVE   ] CVE-2023-25596
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-25596
+2023-04-02 22:32:18 [INFO] : 
+==============================================
+[ TITLE ] A vulnerability exists in the ClearPass OnGuard Ubuntu agent that allows for an attacker with local Ubuntu instance access to potentially obtain sensitive information. Successful Exploitation of this vulnerability allows an attacker to retrieve information that is of a sensitive nature to the ClearPass/OnGuard environment.
+[ TIME  ] 2023-03-22 06:15:10 
+[ CVE   ] CVE-2023-25595
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-25595
+2023-04-02 22:32:18 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-02 22:32:18 [INFO] : 正在获取 [绿盟] 威胁情报...
+2023-04-02 22:32:20 [INFO] : 得到 [绿盟] 最新威胁情报 [0] 条
+2023-04-02 22:32:20 [INFO] : --------------------------------------------
+2023-04-02 22:32:20 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-02 22:32:20 [INFO] : 正在获取 [奇安信] 威胁情报...
+2023-04-02 22:32:21 [INFO] : 得到 [奇安信] 最新威胁情报 [0] 条
+2023-04-02 22:32:21 [INFO] : --------------------------------------------
+2023-04-02 22:32:21 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-02 22:32:21 [INFO] : 正在获取 [红后] 威胁情报...
+2023-04-02 22:32:23 [INFO] : 得到 [红后] 最新威胁情报 [0] 条
+2023-04-02 22:32:23 [INFO] : --------------------------------------------
+2023-04-02 22:32:23 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-02 22:32:23 [INFO] : 正在获取 [Tenable (Nessus)] 威胁情报...
+2023-04-02 22:32:23 [INFO] : 得到 [Tenable (Nessus)] 最新威胁情报 [0] 条
+2023-04-02 22:32:23 [INFO] : --------------------------------------------
+2023-04-02 22:32:23 [INFO] : [邮件] 正在通过 Github Actions 推送威胁情报...
