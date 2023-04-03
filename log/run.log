@@ -3932,3 +3932,115 @@ requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='cert.360.cn', port=44
 [ SRC   ] Tenable (Nessus)
 [ URL   ] https://www.tenable.com/cve/CVE-2022-36440
 2023-04-03 19:32:47 [INFO] : [邮件] 正在通过 Github Actions 推送威胁情报...
+2023-04-03 20:32:15 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 20:32:15 [INFO] : 正在获取 [数字观星POC++] 威胁情报...
+2023-04-03 20:32:16 [INFO] : 得到 [数字观星POC++] 最新威胁情报 [0] 条
+2023-04-03 20:32:16 [INFO] : --------------------------------------------
+2023-04-03 20:32:16 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 20:32:16 [INFO] : 正在获取 [阿里云] 威胁情报...
+2023-04-03 20:32:17 [INFO] : 得到 [阿里云] 最新威胁情报 [0] 条
+2023-04-03 20:32:17 [INFO] : --------------------------------------------
+2023-04-03 20:32:17 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 20:32:17 [INFO] : 正在获取 [国家信息安全漏洞共享平台（CNVD）] 威胁情报...
+2023-04-03 20:32:40 [INFO] : 得到 [国家信息安全漏洞共享平台（CNVD）] 最新威胁情报 [0] 条
+2023-04-03 20:32:40 [INFO] : --------------------------------------------
+2023-04-03 20:32:40 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 20:32:40 [INFO] : 正在获取 [国家信息安全漏洞库（CNNVD）] 威胁情报...
+2023-04-03 20:32:42 [WARNING] : 获取 [国家信息安全漏洞库（CNNVD）] 威胁情报失败： [HTTP Error 403]
+2023-04-03 20:32:42 [INFO] : 得到 [国家信息安全漏洞库（CNNVD）] 最新威胁情报 [0] 条
+2023-04-03 20:32:42 [INFO] : --------------------------------------------
+2023-04-03 20:32:42 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 20:32:42 [INFO] : 正在获取 [360 网络安全响应中心] 威胁情报...
+2023-04-03 20:32:43 [INFO] : 得到 [360 网络安全响应中心] 最新威胁情报 [0] 条
+2023-04-03 20:32:43 [INFO] : --------------------------------------------
+2023-04-03 20:32:43 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 20:32:43 [INFO] : 正在获取 [美国国家漏洞数据库（NVD）] 威胁情报...
+2023-04-03 20:32:48 [INFO] : 得到 [美国国家漏洞数据库（NVD）] 最新威胁情报 [10] 条
+2023-04-03 20:32:48 [INFO] : --------------------------------------------
+2023-04-03 20:32:48 [INFO] : 
+==============================================
+[ TITLE ] An issue was discovered in Independentsoft JWord before 1.1.110. The API is prone to XML external entity (XXE) injection via a remote DTD in a DOCX file.
+[ TIME  ] 2023-03-24 16:15:08 
+[ CVE   ] CVE-2023-28152
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-28152
+2023-04-03 20:32:48 [INFO] : 
+==============================================
+[ TITLE ] An issue was discovered in Independentsoft JSpreadsheet before 1.1.110. The API is prone to XML external entity (XXE) injection via a remote DTD in a DOCX file.
+[ TIME  ] 2023-03-24 20:15:15 
+[ CVE   ] CVE-2023-28151
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-28151
+2023-04-03 20:32:48 [INFO] : 
+==============================================
+[ TITLE ] An issue was discovered in Independentsoft JODF before 1.1.110. The API is prone to XML external entity (XXE) injection via a remote DTD in a DOCX file.
+[ TIME  ] 2023-03-24 22:15:07 
+[ CVE   ] CVE-2023-28150
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-28150
+2023-04-03 20:32:48 [INFO] : 
+==============================================
+[ TITLE ] `cilium-cli` is the command line interface to install, manage, and troubleshoot Kubernetes clusters running Cilium. Prior to version 0.13.2,`cilium-cli`, when used to configure cluster mesh functionality, can remove the enforcement of user permissions on the `etcd` store used to mirror local cluster information to remote clusters. Users who have set up cluster meshes using the Cilium Helm chart are not affected by this issue. Due to an incorrect mount point specification, the settings specified by the `initContainer` that configures `etcd` users and their permissions are overwritten when using `cilium-cli` to configure a cluster mesh. An attacker who has already gained access to a valid key and certificate for an `etcd` cluster compromised in this manner could then modify state in that `etcd` cluster. This issue is patched in `cilium-cli` 0.13.2. As a workaround, one may use Cilium's Helm charts to create their cluster.
+[ TIME  ] 2023-03-22 19:15:12 
+[ CVE   ] CVE-2023-28114
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-28114
+2023-04-03 20:32:48 [INFO] : 
+==============================================
+[ TITLE ] discordrb is an implementation of the Discord API using Ruby. In discordrb before commit `91e13043ffa` the `encoder.rb` file unsafely constructs a shell string using the file parameter, which can potentially leave clients of discordrb vulnerable to command injection. The library is not directly exploitable: the exploit requires that some client of the library calls the vulnerable method with user input. However, if unsafe input reaches the library method, then an attacker can execute arbitrary shell commands on the host machine. Full impact will depend on the permissions of the process running the `discordrb` library and will likely not be total system access. This issue has been addressed in code, but a new release of the `discordrb` gem has not been uploaded to rubygems. This issue is also tracked as `GHSL-2022-094`.
+[ TIME  ] 2023-03-27 22:15:22 
+[ CVE   ] CVE-2023-28102
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-28102
+2023-04-03 20:32:48 [INFO] : 
+==============================================
+[ TITLE ] A vulnerability in Trend Micro Endpoint Encryption Full Disk Encryption version 6.0.0.3204 and below could allow an attacker with physical access to an affected device to bypass Microsoft Windows? Secure Boot process in an attempt to execute other attacks to obtain access to the contents of the device. An attacker must first obtain physical access to the target system in order to exploit this vulnerability. It is also important to note that the contents of the drive(s) encrypted with TMEE FDE would still be protected and would NOT be accessible by the attacker by exploitation of this vulnerability alone.
+[ TIME  ] 2023-03-22 06:15:10 
+[ CVE   ] CVE-2023-28005
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-28005
+2023-04-03 20:32:48 [INFO] : 
+==============================================
+[ TITLE ] An authenticated malicious user could acquire the simple mail transfer protocol (SMTP) Password in cleartext format, despite it being protected and hidden behind asterisks. The attacker could then perform further attacks using the SMTP credentials.
+[ TIME  ] 2023-03-27 20:15:09 
+[ CVE   ] CVE-2023-27927
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-27927
+2023-04-03 20:32:48 [INFO] : 
+==============================================
+[ TITLE ] An attacker authenticated as a user with a non-administrative role and a common remote execution authorization in SAP Solution Manager and ABAP managed systems (ST-PI) - versions 2088_1_700, 2008_1_710, 740, can use a vulnerable interface to execute an application function to perform actions which they would not normally be permitted to perform. Depending on the function executed, the attack can read or modify any user or application data and can make the application unavailable.
+[ TIME  ] 2023-03-14 06:15:12 
+[ CVE   ] CVE-2023-27893
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-27893
+2023-04-03 20:32:48 [INFO] : 
+==============================================
+[ TITLE ] In affected versions, a heap-based buffer over-read condition occurs when the message field indicates more data than is present in the message field in Rockwell Automation's ThinManager ThinServer. An unauthenticated remote attacker can exploit this vulnerability to crash ThinServer.exe due to a read access violation.
+[ TIME  ] 2023-03-22 02:15:48 
+[ CVE   ] CVE-2023-27857
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-27857
+2023-04-03 20:32:48 [INFO] : 
+==============================================
+[ TITLE ] SQL injection vulnerability found in PrestaShop xipblog v.2.0.1 and before allow a remote attacker to gain privileges via the xipcategoryclass and xippostsclass components.
+[ TIME  ] 2023-03-27 16:15:10 
+[ CVE   ] CVE-2023-27847
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-27847
+2023-04-03 20:32:48 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 20:32:48 [INFO] : 正在获取 [绿盟] 威胁情报...
+2023-04-03 20:32:49 [INFO] : 得到 [绿盟] 最新威胁情报 [0] 条
+2023-04-03 20:32:49 [INFO] : --------------------------------------------
+2023-04-03 20:32:49 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 20:32:49 [INFO] : 正在获取 [奇安信] 威胁情报...
+2023-04-03 20:32:50 [INFO] : 得到 [奇安信] 最新威胁情报 [0] 条
+2023-04-03 20:32:50 [INFO] : --------------------------------------------
+2023-04-03 20:32:50 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 20:32:50 [INFO] : 正在获取 [红后] 威胁情报...
+2023-04-03 20:32:51 [INFO] : 得到 [红后] 最新威胁情报 [0] 条
+2023-04-03 20:32:51 [INFO] : --------------------------------------------
+2023-04-03 20:32:51 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 20:32:51 [INFO] : 正在获取 [Tenable (Nessus)] 威胁情报...
+2023-04-03 20:32:52 [INFO] : 得到 [Tenable (Nessus)] 最新威胁情报 [0] 条
+2023-04-03 20:32:52 [INFO] : --------------------------------------------
+2023-04-03 20:32:52 [INFO] : [邮件] 正在通过 Github Actions 推送威胁情报...
