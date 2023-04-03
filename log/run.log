@@ -3841,3 +3841,94 @@ requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='cert.360.cn', port=44
 [ SRC   ] Tenable (Nessus)
 [ URL   ] https://www.tenable.com/cve/CVE-2023-1765
 2023-04-03 17:32:26 [INFO] : [邮件] 正在通过 Github Actions 推送威胁情报...
+2023-04-03 19:32:06 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 19:32:06 [INFO] : 正在获取 [数字观星POC++] 威胁情报...
+2023-04-03 19:32:07 [INFO] : 得到 [数字观星POC++] 最新威胁情报 [0] 条
+2023-04-03 19:32:07 [INFO] : --------------------------------------------
+2023-04-03 19:32:07 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 19:32:07 [INFO] : 正在获取 [阿里云] 威胁情报...
+2023-04-03 19:32:09 [INFO] : 得到 [阿里云] 最新威胁情报 [0] 条
+2023-04-03 19:32:09 [INFO] : --------------------------------------------
+2023-04-03 19:32:09 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 19:32:09 [INFO] : 正在获取 [国家信息安全漏洞共享平台（CNVD）] 威胁情报...
+2023-04-03 19:32:33 [INFO] : 得到 [国家信息安全漏洞共享平台（CNVD）] 最新威胁情报 [0] 条
+2023-04-03 19:32:33 [INFO] : --------------------------------------------
+2023-04-03 19:32:33 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 19:32:33 [INFO] : 正在获取 [国家信息安全漏洞库（CNNVD）] 威胁情报...
+2023-04-03 19:32:35 [WARNING] : 获取 [国家信息安全漏洞库（CNNVD）] 威胁情报失败： [HTTP Error 403]
+2023-04-03 19:32:35 [INFO] : 得到 [国家信息安全漏洞库（CNNVD）] 最新威胁情报 [0] 条
+2023-04-03 19:32:35 [INFO] : --------------------------------------------
+2023-04-03 19:32:35 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 19:32:35 [INFO] : 正在获取 [360 网络安全响应中心] 威胁情报...
+2023-04-03 19:32:38 [INFO] : 得到 [360 网络安全响应中心] 最新威胁情报 [0] 条
+2023-04-03 19:32:38 [INFO] : --------------------------------------------
+2023-04-03 19:32:38 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 19:32:38 [INFO] : 正在获取 [美国国家漏洞数据库（NVD）] 威胁情报...
+2023-04-03 19:32:38 [INFO] : 得到 [美国国家漏洞数据库（NVD）] 最新威胁情报 [0] 条
+2023-04-03 19:32:38 [INFO] : --------------------------------------------
+2023-04-03 19:32:38 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 19:32:38 [INFO] : 正在获取 [绿盟] 威胁情报...
+2023-04-03 19:32:39 [INFO] : 得到 [绿盟] 最新威胁情报 [0] 条
+2023-04-03 19:32:39 [INFO] : --------------------------------------------
+2023-04-03 19:32:39 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 19:32:39 [INFO] : 正在获取 [奇安信] 威胁情报...
+2023-04-03 19:32:45 [INFO] : 得到 [奇安信] 最新威胁情报 [0] 条
+2023-04-03 19:32:45 [INFO] : --------------------------------------------
+2023-04-03 19:32:45 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 19:32:45 [INFO] : 正在获取 [红后] 威胁情报...
+2023-04-03 19:32:46 [INFO] : 得到 [红后] 最新威胁情报 [0] 条
+2023-04-03 19:32:46 [INFO] : --------------------------------------------
+2023-04-03 19:32:46 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 19:32:46 [INFO] : 正在获取 [Tenable (Nessus)] 威胁情报...
+2023-04-03 19:32:47 [INFO] : 得到 [Tenable (Nessus)] 最新威胁情报 [7] 条
+2023-04-03 19:32:47 [INFO] : --------------------------------------------
+2023-04-03 19:32:47 [INFO] : 
+==============================================
+[ TITLE ] Wagtail is an open source content management system built on Django. Prior to versions 4.1.4 and 4.2.2, a memory exhaustion bug exists in Wagtail's handling of uploaded images and documents. For both images and documents, files are loaded into memory during upload for additional processing. A user with access to upload images or documents through the Wagtail admin interface could upload a file so large that it results in a crash of denial of service. The vulnerability is not exploitable by an ordinary site visitor without access to the Wagtail admin. It can only be exploited by admin users with permission to upload images or documents. Image uploads are restricted to 10MB by default, however this validation only happens on the frontend and on the backend after the vulnerable code. Patched versions have been released as Wagtail 4.1.4 and Wagtail 4.2.2). Site owners who are unable to upgrade to the new versions are encouraged to add extra protections outside of Wagtail to limit the size of uploaded files.
+[ TIME  ] 2023-04-03 17:15:00
+[ CVE   ] CVE-2023-28837
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-28837
+2023-04-03 19:32:47 [INFO] : 
+==============================================
+[ TITLE ] Wagtail is an open source content management system built on Django. Starting in version 1.5 and prior to versions 4.1.4 and 4.2.2, a stored cross-site scripting (XSS) vulnerability exists on ModelAdmin views within the Wagtail admin interface. A user with a limited-permission editor account for the Wagtail admin could potentially craft pages and documents that, when viewed by a user with higher privileges, could perform actions with that user's credentials. The vulnerability is not exploitable by an ordinary site visitor without access to the Wagtail admin, and only affects sites with ModelAdmin enabled. For page, the vulnerability is in the "Choose a parent page" ModelAdmin view (`ChooseParentView`), available when managing pages via ModelAdmin. For documents, the vulnerability is in the ModelAdmin Inspect view (`InspectView`) when displaying document fields. Patched versions have been released as Wagtail 4.1.4 and Wagtail 4.2.2. Site owners who are unable to upgrade to the new versions can disable or override the corresponding functionality.
+[ TIME  ] 2023-04-03 17:15:00
+[ CVE   ] CVE-2023-28836
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-28836
+2023-04-03 19:32:47 [INFO] : 
+==============================================
+[ TITLE ] Nextcloud Server is an open source personal cloud server. Nextcloud Server 24.0.0 until 24.0.6 and 25.0.0 until 25.0.4, as well as Nextcloud Enterprise Server 23.0.0 until 23.0.11, 24.0.0 until 24.0.6, and 25.0.0 until 25.0.4, have an information disclosure vulnerability. A user was able to get the full data directory path of the Nextcloud server from an API endpoint. By itself this information is not problematic as it can also be guessed for most common setups, but it could speed up other unknown attacks in the future if the information is known. Nextcloud Server 24.0.6 and 25.0.4 and Nextcloud Enterprise Server 23.0.11, 24.0.6, and 25.0.4 contain patches for this issue. There are no known workarounds.
+[ TIME  ] 2023-04-03 17:15:00
+[ CVE   ] CVE-2023-28834
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-28834
+2023-04-03 19:32:47 [INFO] : 
+==============================================
+[ TITLE ] A heap-based overflow vulnerability in Trellix Agent (Windows and Linux) version 5.7.8 and earlier, allows a remote user to alter the page heap in the macmnsvc process memory block resulting in the service becoming unavailable.
+[ TIME  ] 2023-04-03 16:15:00
+[ CVE   ] CVE-2023-0977
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-0977
+2023-04-03 19:32:47 [INFO] : 
+==============================================
+[ TITLE ] A vulnerability exists in Trellix Agent for Windows version 5.7.8 and earlier, that allows local users, during install/upgrade workflow, to replace one of the Agent’s executables before it can be executed. This allows the user to elevate their permissions.
+[ TIME  ] 2023-04-03 16:15:00
+[ CVE   ] CVE-2023-0975
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-0975
+2023-04-03 19:32:47 [INFO] : 
+==============================================
+[ TITLE ] An improper array index validation vulnerability exists in the stl_fix_normal_directions functionality of ADMesh Master Commit 767a105 and v0.98.4. A specially-crafted stl file can lead to a heap buffer overflow. An attacker can provide a malicious file to trigger this vulnerability.
+[ TIME  ] 2023-04-03 16:15:00
+[ CVE   ] CVE-2022-38072
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2022-38072
+2023-04-03 19:32:47 [INFO] : 
+==============================================
+[ TITLE ] A reachable assertion was found in Frrouting frr-bgpd 8.3.0 in the peek_for_as4_capability function. Attackers can maliciously construct BGP open packets and send them to BGP peers running frr-bgpd, resulting in DoS.
+[ TIME  ] 2023-04-03 16:15:00
+[ CVE   ] CVE-2022-36440
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2022-36440
+2023-04-03 19:32:47 [INFO] : [邮件] 正在通过 Github Actions 推送威胁情报...
