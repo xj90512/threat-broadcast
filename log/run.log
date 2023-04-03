@@ -2421,3 +2421,115 @@ requests.exceptions.SSLError: HTTPSConnectionPool(host='cert.360.cn', port=443):
 2023-04-03 04:33:27 [INFO] : 正在获取 [Tenable (Nessus)] 威胁情报...
 2023-04-03 04:33:28 [INFO] : 得到 [Tenable (Nessus)] 最新威胁情报 [0] 条
 2023-04-03 04:33:28 [INFO] : --------------------------------------------
+2023-04-03 05:32:03 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 05:32:03 [INFO] : 正在获取 [数字观星POC++] 威胁情报...
+2023-04-03 05:32:05 [INFO] : 得到 [数字观星POC++] 最新威胁情报 [0] 条
+2023-04-03 05:32:05 [INFO] : --------------------------------------------
+2023-04-03 05:32:05 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 05:32:05 [INFO] : 正在获取 [阿里云] 威胁情报...
+2023-04-03 05:32:06 [INFO] : 得到 [阿里云] 最新威胁情报 [0] 条
+2023-04-03 05:32:06 [INFO] : --------------------------------------------
+2023-04-03 05:32:06 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 05:32:06 [INFO] : 正在获取 [国家信息安全漏洞共享平台（CNVD）] 威胁情报...
+2023-04-03 05:32:44 [INFO] : 得到 [国家信息安全漏洞共享平台（CNVD）] 最新威胁情报 [0] 条
+2023-04-03 05:32:44 [INFO] : --------------------------------------------
+2023-04-03 05:32:44 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 05:32:44 [INFO] : 正在获取 [国家信息安全漏洞库（CNNVD）] 威胁情报...
+2023-04-03 05:32:46 [WARNING] : 获取 [国家信息安全漏洞库（CNNVD）] 威胁情报失败： [HTTP Error 403]
+2023-04-03 05:32:46 [INFO] : 得到 [国家信息安全漏洞库（CNNVD）] 最新威胁情报 [0] 条
+2023-04-03 05:32:46 [INFO] : --------------------------------------------
+2023-04-03 05:32:46 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 05:32:46 [INFO] : 正在获取 [360 网络安全响应中心] 威胁情报...
+2023-04-03 05:32:48 [INFO] : 得到 [360 网络安全响应中心] 最新威胁情报 [0] 条
+2023-04-03 05:32:48 [INFO] : --------------------------------------------
+2023-04-03 05:32:48 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 05:32:48 [INFO] : 正在获取 [美国国家漏洞数据库（NVD）] 威胁情报...
+2023-04-03 05:32:49 [INFO] : 得到 [美国国家漏洞数据库（NVD）] 最新威胁情报 [10] 条
+2023-04-03 05:32:49 [INFO] : --------------------------------------------
+2023-04-03 05:32:49 [INFO] : 
+==============================================
+[ TITLE ] Malwarebytes AdwCleaner 8.4.0 runs as Administrator and performs an insecure file delete operation on C:\AdwCleaner\Logs\AdwCleaner_Debug.log in which the target location is user-controllable, allowing a non-admin user to escalate privileges to SYSTEM via a symbolic link.
+[ TIME  ] 2023-03-29 15:15:07 
+[ CVE   ] CVE-2023-28892
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-28892
+2023-04-03 05:32:49 [INFO] : 
+==============================================
+[ TITLE ] In MISP 2.4.169, app/Lib/Tools/CustomPaginationTool.php allows XSS in the community index.
+[ TIME  ] 2023-03-27 03:15:07 
+[ CVE   ] CVE-2023-28884
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-28884
+2023-04-03 05:32:49 [INFO] : 
+==============================================
+[ TITLE ] In Cerebrate 1.13, a blind SQL injection exists in the searchAll API endpoint.
+[ TIME  ] 2023-03-27 03:15:07 
+[ CVE   ] CVE-2023-28883
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-28883
+2023-04-03 05:32:49 [INFO] : 
+==============================================
+[ TITLE ] An issue was discovered in Veritas NetBackup IT Analytics 11 before 11.2.0. The application upgrade process included unsigned files that could be exploited and result in a customer installing unauthentic components. A malicious actor could install rogue Collector executable files (aptare.jar or upgrademanager.zip) on the Portal server, which might then be downloaded and installed on collectors.
+[ TIME  ] 2023-03-24 04:15:56 
+[ CVE   ] CVE-2023-28818
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-28818
+2023-04-03 05:32:49 [INFO] : 
+==============================================
+[ TITLE ] Dino before 0.2.3, 0.3.x before 0.3.2, and 0.4.x before 0.4.2 allows attackers to modify the personal bookmark store via a crafted message. The attacker can change the display of group chats or force a victim to join a group chat; the victim may then be tricked into disclosing sensitive information.
+[ TIME  ] 2023-03-24 04:15:55 
+[ CVE   ] CVE-2023-28686
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-28686
+2023-04-03 05:32:49 [INFO] : 
+==============================================
+[ TITLE ] A malicious user could leverage this vulnerability to escalate privileges or perform unauthorized actions in the context of the targeted privileged users.
+[ TIME  ] 2023-03-27 20:15:09 
+[ CVE   ] CVE-2023-28655
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-28655
+2023-04-03 05:32:49 [INFO] : 
+==============================================
+[ TITLE ] An authenticated malicious user could successfully upload a malicious image could lead to a denial-of-service condition.
+[ TIME  ] 2023-03-27 20:15:09 
+[ CVE   ] CVE-2023-28652
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-28652
+2023-04-03 05:32:49 [INFO] : 
+==============================================
+[ TITLE ] An unauthenticated remote attacker could provide a malicious link and trick an unsuspecting user into clicking on it. If clicked, the attacker could execute the malicious JavaScript (JS) payload in the target&acirc;&euro;&trade;s security context.
+[ TIME  ] 2023-03-27 20:15:09 
+[ CVE   ] CVE-2023-28650
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-28650
+2023-04-03 05:32:49 [INFO] : 
+==============================================
+[ TITLE ] Apiman is a flexible and open source API Management platform. Due to a missing permissions check, an attacker with an authenticated Apiman Manager account may be able to gain access to API keys they do not have permission for if they correctly guess the URL, which includes Organisation ID, Client ID, and Client Version of the targeted non-permitted resource. While not trivial to exploit, it could be achieved by brute-forcing or guessing common names. Access to the non-permitted API Keys could allow use of other users' resources without their permission (depending on the specifics of configuration, such as whether an API key is the only form of security). Apiman 3.1.0.Final resolved this issue. Users are advised to upgrade. The only known workaround is to restrict account access.
+[ TIME  ] 2023-03-27 21:15:12 
+[ CVE   ] CVE-2023-28640
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-28640
+2023-04-03 05:32:49 [INFO] : 
+==============================================
+[ TITLE ] Versionize is a framework for version tolerant serializion/deserialization of Rust data structures, designed for usecases that need fast deserialization times and minimal size overhead. An issue was discovered in the &acirc;&euro;&tilde;Versionize::deserialize&acirc;&euro;&trade; implementation provided by the &acirc;&euro;&tilde;versionize&acirc;&euro;&trade; crate for &acirc;&euro;&tilde;vmm_sys_utils::fam::FamStructWrapper', which can lead to out of bounds memory accesses. The impact started with version 0.1.1. The issue was corrected in version 0.1.10 by inserting a check that verifies, for any deserialized header, the lengths of compared flexible arrays are equal and aborting deserialization otherwise.
+[ TIME  ] 2023-03-24 20:15:15 
+[ CVE   ] CVE-2023-28448
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-28448
+2023-04-03 05:32:49 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 05:32:49 [INFO] : 正在获取 [绿盟] 威胁情报...
+2023-04-03 05:32:50 [INFO] : 得到 [绿盟] 最新威胁情报 [0] 条
+2023-04-03 05:32:50 [INFO] : --------------------------------------------
+2023-04-03 05:32:50 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 05:32:50 [INFO] : 正在获取 [奇安信] 威胁情报...
+2023-04-03 05:32:52 [INFO] : 得到 [奇安信] 最新威胁情报 [0] 条
+2023-04-03 05:32:52 [INFO] : --------------------------------------------
+2023-04-03 05:32:52 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 05:32:52 [INFO] : 正在获取 [红后] 威胁情报...
+2023-04-03 05:32:53 [INFO] : 得到 [红后] 最新威胁情报 [0] 条
+2023-04-03 05:32:53 [INFO] : --------------------------------------------
+2023-04-03 05:32:53 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 05:32:53 [INFO] : 正在获取 [Tenable (Nessus)] 威胁情报...
+2023-04-03 05:32:53 [INFO] : 得到 [Tenable (Nessus)] 最新威胁情报 [0] 条
+2023-04-03 05:32:53 [INFO] : --------------------------------------------
+2023-04-03 05:32:54 [INFO] : [邮件] 正在通过 Github Actions 推送威胁情报...
