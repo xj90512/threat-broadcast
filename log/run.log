@@ -3729,3 +3729,115 @@ requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='cert.360.cn', port=44
 2023-04-03 16:38:36 [INFO] : 得到 [Tenable (Nessus)] 最新威胁情报 [0] 条
 2023-04-03 16:38:36 [INFO] : --------------------------------------------
 2023-04-03 16:38:36 [INFO] : [邮件] 正在通过 Github Actions 推送威胁情报...
+2023-04-03 17:31:53 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 17:31:53 [INFO] : 正在获取 [数字观星POC++] 威胁情报...
+2023-04-03 17:31:54 [INFO] : 得到 [数字观星POC++] 最新威胁情报 [0] 条
+2023-04-03 17:31:54 [INFO] : --------------------------------------------
+2023-04-03 17:31:54 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 17:31:54 [INFO] : 正在获取 [阿里云] 威胁情报...
+2023-04-03 17:31:55 [INFO] : 得到 [阿里云] 最新威胁情报 [0] 条
+2023-04-03 17:31:55 [INFO] : --------------------------------------------
+2023-04-03 17:31:55 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 17:31:55 [INFO] : 正在获取 [国家信息安全漏洞共享平台（CNVD）] 威胁情报...
+2023-04-03 17:32:18 [INFO] : 得到 [国家信息安全漏洞共享平台（CNVD）] 最新威胁情报 [0] 条
+2023-04-03 17:32:18 [INFO] : --------------------------------------------
+2023-04-03 17:32:18 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 17:32:18 [INFO] : 正在获取 [国家信息安全漏洞库（CNNVD）] 威胁情报...
+2023-04-03 17:32:20 [WARNING] : 获取 [国家信息安全漏洞库（CNNVD）] 威胁情报失败： [HTTP Error 403]
+2023-04-03 17:32:20 [INFO] : 得到 [国家信息安全漏洞库（CNNVD）] 最新威胁情报 [0] 条
+2023-04-03 17:32:20 [INFO] : --------------------------------------------
+2023-04-03 17:32:20 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 17:32:20 [INFO] : 正在获取 [360 网络安全响应中心] 威胁情报...
+2023-04-03 17:32:21 [INFO] : 得到 [360 网络安全响应中心] 最新威胁情报 [0] 条
+2023-04-03 17:32:21 [INFO] : --------------------------------------------
+2023-04-03 17:32:21 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 17:32:21 [INFO] : 正在获取 [美国国家漏洞数据库（NVD）] 威胁情报...
+2023-04-03 17:32:22 [INFO] : 得到 [美国国家漏洞数据库（NVD）] 最新威胁情报 [0] 条
+2023-04-03 17:32:22 [INFO] : --------------------------------------------
+2023-04-03 17:32:22 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 17:32:22 [INFO] : 正在获取 [绿盟] 威胁情报...
+2023-04-03 17:32:23 [INFO] : 得到 [绿盟] 最新威胁情报 [0] 条
+2023-04-03 17:32:23 [INFO] : --------------------------------------------
+2023-04-03 17:32:23 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 17:32:23 [INFO] : 正在获取 [奇安信] 威胁情报...
+2023-04-03 17:32:25 [INFO] : 得到 [奇安信] 最新威胁情报 [0] 条
+2023-04-03 17:32:25 [INFO] : --------------------------------------------
+2023-04-03 17:32:25 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 17:32:25 [INFO] : 正在获取 [红后] 威胁情报...
+2023-04-03 17:32:26 [INFO] : 得到 [红后] 最新威胁情报 [0] 条
+2023-04-03 17:32:26 [INFO] : --------------------------------------------
+2023-04-03 17:32:26 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-03 17:32:26 [INFO] : 正在获取 [Tenable (Nessus)] 威胁情报...
+2023-04-03 17:32:26 [INFO] : 得到 [Tenable (Nessus)] 最新威胁情报 [10] 条
+2023-04-03 17:32:26 [INFO] : --------------------------------------------
+2023-04-03 17:32:26 [INFO] : 
+==============================================
+[ TITLE ] The Solidres WordPress plugin through 0.9.4 does not sanitise and escape numerous parameter before outputting them back in pages, leading to Reflected Cross-Site Scripting which could be used against high privilege users such as admin
+[ TIME  ] 2023-04-03 15:15:00
+[ CVE   ] CVE-2023-1377
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-1377
+2023-04-03 17:32:26 [INFO] : 
+==============================================
+[ TITLE ] The Redirection WordPress plugin before 1.1.4 does not add nonce verification in place when adding the redirect, which could allow attackers to add redirects via a CSRF attack.
+[ TIME  ] 2023-04-03 15:15:00
+[ CVE   ] CVE-2023-1330
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-1330
+2023-04-03 17:32:26 [INFO] : 
+==============================================
+[ TITLE ] The Shopping Cart & eCommerce Store WordPress plugin before 5.4.3 does not validate HTTP requests, allowing authenticated users with admin privileges to perform LFI attacks.
+[ TIME  ] 2023-04-03 15:15:00
+[ CVE   ] CVE-2023-1124
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-1124
+2023-04-03 17:32:26 [INFO] : 
+==============================================
+[ TITLE ] The User Role by BestWebSoft WordPress plugin before 1.6.7 does not protect against CSRF in requests to update role capabilities, leading to arbitrary privilege escalation of any role.
+[ TIME  ] 2023-04-03 15:15:00
+[ CVE   ] CVE-2023-0820
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-0820
+2023-04-03 17:32:26 [INFO] : 
+==============================================
+[ TITLE ] The Image Over Image For WPBakery Page Builder WordPress plugin before 3.0 does not validate and escape some of its shortcode attributes before outputting them back in a page/post where the shortcode is embed, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks.
+[ TIME  ] 2023-04-03 15:15:00
+[ CVE   ] CVE-2023-0399
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-0399
+2023-04-03 17:32:26 [INFO] : 
+==============================================
+[ TITLE ] BluePage CMS thru v3.9 processes an insufficiently sanitized HTTP Header allowing MySQL Injection in the 'User-Agent' field using a Time-based blind SLEEP payload.
+[ TIME  ] 2023-04-03 15:15:00
+[ CVE   ] CVE-2022-38923
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2022-38923
+2023-04-03 17:32:26 [INFO] : 
+==============================================
+[ TITLE ] BluePage CMS thru 3.9 processes an insufficiently sanitized HTTP Header Cookie value allowing MySQL Injection in the 'users-cookie-settings' token using a Time-based blind SLEEP payload.
+[ TIME  ] 2023-04-03 15:15:00
+[ CVE   ] CVE-2022-38922
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2022-38922
+2023-04-03 17:32:26 [INFO] : 
+==============================================
+[ TITLE ] mod_auth_openidc is an authentication and authorization module for the Apache 2.x HTTP server that implements the OpenID Connect Relying Party functionality. In versions 2.0.0 through 2.4.13.1, when `OIDCStripCookies` is set and a crafted cookie supplied, a NULL pointer dereference would occur, resulting in a segmentation fault. This could be used in a Denial-of-Service attack and thus presents an availability risk. Version 2.4.13.2 contains a patch for this issue. As a workaround, avoid using `OIDCStripCookies`.
+[ TIME  ] 2023-04-03 14:15:00
+[ CVE   ] CVE-2023-28625
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-28625
+2023-04-03 17:32:26 [INFO] : 
+==============================================
+[ TITLE ] Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Akbim Computer Panon allows Reflected XSS.This issue affects Panon: before 1.0.2.
+[ TIME  ] 2023-04-03 14:15:00
+[ CVE   ] CVE-2023-1766
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-1766
+2023-04-03 17:32:26 [INFO] : 
+==============================================
+[ TITLE ] Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Akbim Computer Panon allows SQL Injection.This issue affects Panon: before 1.0.2.
+[ TIME  ] 2023-04-03 14:15:00
+[ CVE   ] CVE-2023-1765
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-1765
+2023-04-03 17:32:26 [INFO] : [邮件] 正在通过 Github Actions 推送威胁情报...
