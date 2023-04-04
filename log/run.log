@@ -5451,3 +5451,115 @@ requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected(
 2023-04-04 14:32:32 [INFO] : 得到 [Tenable (Nessus)] 最新威胁情报 [0] 条
 2023-04-04 14:32:32 [INFO] : --------------------------------------------
 2023-04-04 14:32:32 [INFO] : [邮件] 正在通过 Github Actions 推送威胁情报...
+2023-04-04 15:32:06 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 15:32:06 [INFO] : 正在获取 [数字观星POC++] 威胁情报...
+2023-04-04 15:32:08 [INFO] : 得到 [数字观星POC++] 最新威胁情报 [0] 条
+2023-04-04 15:32:08 [INFO] : --------------------------------------------
+2023-04-04 15:32:08 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 15:32:08 [INFO] : 正在获取 [阿里云] 威胁情报...
+2023-04-04 15:32:09 [INFO] : 得到 [阿里云] 最新威胁情报 [0] 条
+2023-04-04 15:32:09 [INFO] : --------------------------------------------
+2023-04-04 15:32:09 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 15:32:09 [INFO] : 正在获取 [国家信息安全漏洞共享平台（CNVD）] 威胁情报...
+2023-04-04 15:32:32 [INFO] : 得到 [国家信息安全漏洞共享平台（CNVD）] 最新威胁情报 [0] 条
+2023-04-04 15:32:32 [INFO] : --------------------------------------------
+2023-04-04 15:32:32 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 15:32:32 [INFO] : 正在获取 [国家信息安全漏洞库（CNNVD）] 威胁情报...
+2023-04-04 15:32:34 [WARNING] : 获取 [国家信息安全漏洞库（CNNVD）] 威胁情报失败： [HTTP Error 403]
+2023-04-04 15:32:34 [INFO] : 得到 [国家信息安全漏洞库（CNNVD）] 最新威胁情报 [0] 条
+2023-04-04 15:32:34 [INFO] : --------------------------------------------
+2023-04-04 15:32:34 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 15:32:34 [INFO] : 正在获取 [360 网络安全响应中心] 威胁情报...
+2023-04-04 15:32:37 [INFO] : 得到 [360 网络安全响应中心] 最新威胁情报 [0] 条
+2023-04-04 15:32:37 [INFO] : --------------------------------------------
+2023-04-04 15:32:37 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 15:32:37 [INFO] : 正在获取 [美国国家漏洞数据库（NVD）] 威胁情报...
+2023-04-04 15:32:38 [INFO] : 得到 [美国国家漏洞数据库（NVD）] 最新威胁情报 [0] 条
+2023-04-04 15:32:38 [INFO] : --------------------------------------------
+2023-04-04 15:32:38 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 15:32:38 [INFO] : 正在获取 [绿盟] 威胁情报...
+2023-04-04 15:32:39 [INFO] : 得到 [绿盟] 最新威胁情报 [0] 条
+2023-04-04 15:32:39 [INFO] : --------------------------------------------
+2023-04-04 15:32:39 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 15:32:39 [INFO] : 正在获取 [奇安信] 威胁情报...
+2023-04-04 15:32:40 [INFO] : 得到 [奇安信] 最新威胁情报 [0] 条
+2023-04-04 15:32:40 [INFO] : --------------------------------------------
+2023-04-04 15:32:40 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 15:32:40 [INFO] : 正在获取 [红后] 威胁情报...
+2023-04-04 15:32:41 [INFO] : 得到 [红后] 最新威胁情报 [0] 条
+2023-04-04 15:32:41 [INFO] : --------------------------------------------
+2023-04-04 15:32:41 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 15:32:41 [INFO] : 正在获取 [Tenable (Nessus)] 威胁情报...
+2023-04-04 15:32:42 [INFO] : 得到 [Tenable (Nessus)] 最新威胁情报 [10] 条
+2023-04-04 15:32:42 [INFO] : --------------------------------------------
+2023-04-04 15:32:42 [INFO] : 
+==============================================
+[ TITLE ] The Nextcloud Desktop Client is a tool to synchronize files from Nextcloud Server. Starting with version 3.0.0 and prior to version 3.7.0, by trusting that the server will return a certificate that belongs to the keypair of the user, a malicious server could get the desktop client to encrypt files with a key known to the attacker. This issue is fixed in Nextcloud Desktop 3.7.0. No known workarounds are available.
+[ TIME  ] 2023-04-04 13:15:00
+[ CVE   ] CVE-2023-29000
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-29000
+2023-04-04 15:32:42 [INFO] : 
+==============================================
+[ TITLE ] Nextcloud is an open-source productivity platform. In Nextcloud Desktop client 3.0.0 until 3.8.0, Nextcloud Android app 3.13.0 until 3.25.0, and Nextcloud iOS app 3.0.5 until 4.8.0, a malicious server administrator can gain full access to an end-to-end encrypted folder. They can decrypt files, recover the folder structure and add new files.? This issue is fixed in Nextcloud Desktop 3.8.0, Nextcloud Android 3.25.0, and Nextcloud iOS 4.8.0. No known workarounds are available.
+[ TIME  ] 2023-04-04 13:15:00
+[ CVE   ] CVE-2023-28999
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-28999
+2023-04-04 15:32:42 [INFO] : 
+==============================================
+[ TITLE ] The Nextcloud Desktop Client is a tool to synchronize files from Nextcloud Server. Starting with version 3.0.0 and prior to version 3.6.5, a malicious server administrator can gain full access to an end-to-end encrypted folder. They can decrypt files, recover the folder structure, and add new files.? Users should upgrade the Nextcloud Desktop client to 3.6.5 to receive a patch. No known workarounds are available.
+[ TIME  ] 2023-04-04 13:15:00
+[ CVE   ] CVE-2023-28998
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-28998
+2023-04-04 15:32:42 [INFO] : 
+==============================================
+[ TITLE ] The Nextcloud Desktop Client is a tool to synchronize files from Nextcloud Server. Starting with version 3.0.0 and prior to version 3.6.5, a malicious server administrator can recover and modify the contents of end-to-end encrypted files. Users should upgrade the Nextcloud Desktop client to 3.6.5 to receive a patch. No known workarounds are available.
+[ TIME  ] 2023-04-04 13:15:00
+[ CVE   ] CVE-2023-28997
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-28997
+2023-04-04 15:32:42 [INFO] : 
+==============================================
+[ TITLE ] user_oidc is the OIDC connect user backend for Nextcloud, an open source collaboration platform. A vulnerability in versions 1.0.0 until 1.3.0 effectively allowed an attacker to bypass the state protection as they could just copy the expected state token from the first request to their second request. Users should upgrade user_oidc to 1.3.0 to receive a patch for the issue. No known workarounds are available.
+[ TIME  ] 2023-04-04 13:15:00
+[ CVE   ] CVE-2023-28848
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-28848
+2023-04-04 15:32:42 [INFO] : 
+==============================================
+[ TITLE ] GreenPacket OH736's WR-1200 Indoor Unit, OT-235 with firmware versions M-IDU-1.6.0.3_V1.1 and MH-46360-2.0.3-R5-GP respectively are vulnerable to remote command injection. Commands are executed using pre-login execution and executed with root privileges allowing complete takeover.
+[ TIME  ] 2023-04-04 13:15:00
+[ CVE   ] CVE-2023-26866
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-26866
+2023-04-04 15:32:42 [INFO] : 
+==============================================
+[ TITLE ] CoreDial sipXcom up to and including 21.04 is vulnerable to Improper Neutralization of Argument Delimiters in a Command. XMPP users are able to inject arbitrary arguments into a system command, which can be used to read files from, and write files to, the sipXcom server. This can also be leveraged to gain remote command execution.
+[ TIME  ] 2023-04-04 13:15:00
+[ CVE   ] CVE-2023-25356
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-25356
+2023-04-04 15:32:42 [INFO] : 
+==============================================
+[ TITLE ] CoreDial sipXcom up to and including 21.04 is vulnerable to Insecure Permissions. A user who has the ability to run commands as the `daemon` user on a sipXcom server can overwrite a service file, and escalate their privileges to `root`.
+[ TIME  ] 2023-04-04 13:15:00
+[ CVE   ] CVE-2023-25355
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-25355
+2023-04-04 15:32:42 [INFO] : 
+==============================================
+[ TITLE ] PolyMC Launcher <= 1.4.3 is vulnerable to Directory Traversal. A mrpack file can be maliciously crafted to create arbitrary files outside of the installation directory.
+[ TIME  ] 2023-04-04 13:15:00
+[ CVE   ] CVE-2023-25305
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-25305
+2023-04-04 15:32:42 [INFO] : 
+==============================================
+[ TITLE ] ATLauncher <= 3.4.26.0 is vulnerable to Directory Traversal. A mrpack file can be maliciously crafted to create arbitrary files outside of the installation directory.
+[ TIME  ] 2023-04-04 13:15:00
+[ CVE   ] CVE-2023-25303
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-25303
+2023-04-04 15:32:42 [INFO] : [邮件] 正在通过 Github Actions 推送威胁情报...
