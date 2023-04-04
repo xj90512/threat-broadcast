@@ -4275,3 +4275,143 @@ requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='cert.360.cn', port=44
 [ SRC   ] Tenable (Nessus)
 [ URL   ] https://www.tenable.com/cve/CVE-2023-29218
 2023-04-03 23:32:49 [INFO] : [邮件] 正在通过 Github Actions 推送威胁情报...
+2023-04-04 01:47:27 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 01:47:27 [INFO] : 正在获取 [数字观星POC++] 威胁情报...
+2023-04-04 01:47:29 [INFO] : 得到 [数字观星POC++] 最新威胁情报 [0] 条
+2023-04-04 01:47:29 [INFO] : --------------------------------------------
+2023-04-04 01:47:29 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 01:47:29 [INFO] : 正在获取 [阿里云] 威胁情报...
+2023-04-04 01:47:30 [INFO] : 得到 [阿里云] 最新威胁情报 [0] 条
+2023-04-04 01:47:30 [INFO] : --------------------------------------------
+2023-04-04 01:47:30 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 01:47:30 [INFO] : 正在获取 [国家信息安全漏洞共享平台（CNVD）] 威胁情报...
+2023-04-04 01:47:53 [INFO] : 得到 [国家信息安全漏洞共享平台（CNVD）] 最新威胁情报 [0] 条
+2023-04-04 01:47:53 [INFO] : --------------------------------------------
+2023-04-04 01:47:53 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 01:47:53 [INFO] : 正在获取 [国家信息安全漏洞库（CNNVD）] 威胁情报...
+2023-04-04 01:47:56 [WARNING] : 获取 [国家信息安全漏洞库（CNNVD）] 威胁情报失败： [HTTP Error 403]
+2023-04-04 01:47:56 [INFO] : 得到 [国家信息安全漏洞库（CNNVD）] 最新威胁情报 [0] 条
+2023-04-04 01:47:56 [INFO] : --------------------------------------------
+2023-04-04 01:47:56 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 01:47:56 [INFO] : 正在获取 [360 网络安全响应中心] 威胁情报...
+2023-04-04 01:47:57 [INFO] : 得到 [360 网络安全响应中心] 最新威胁情报 [0] 条
+2023-04-04 01:47:57 [INFO] : --------------------------------------------
+2023-04-04 01:47:57 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 01:47:57 [INFO] : 正在获取 [美国国家漏洞数据库（NVD）] 威胁情报...
+2023-04-04 01:47:58 [INFO] : 得到 [美国国家漏洞数据库（NVD）] 最新威胁情报 [7] 条
+2023-04-04 01:47:58 [INFO] : --------------------------------------------
+2023-04-04 01:47:58 [INFO] : 
+==============================================
+[ TITLE ] RG-EW1200G PRO Wireless Routers EW_3.0(1)B11P204, RG-EW1800GX PRO Wireless Routers EW_3.0(1)B11P204, and RG-EW3200GX PRO Wireless Routers EW_3.0(1)B11P204 were discovered to contain multiple command injection vulnerabilities via the data.ip, data.protocal, data.iface and data.package parameters in the runPackDiagnose function of diagnose.lua.
+[ TIME  ] 2023-03-26 21:15:07 
+[ CVE   ] CVE-2023-27796
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-27796
+2023-04-04 01:47:58 [INFO] : 
+==============================================
+[ TITLE ] MuYuCMS v2.2 was discovered to contain an arbitrary file deletion vulnerability via the component /database/sqldel.html.
+[ TIME  ] 2023-03-28 14:15:07 
+[ CVE   ] CVE-2023-27701
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-27701
+2023-04-04 01:47:58 [INFO] : 
+==============================================
+[ TITLE ] MuYuCMS v2.2 was discovered to contain an arbitrary file deletion vulnerability via the component /accessory/picdel.html.
+[ TIME  ] 2023-03-28 01:15:10 
+[ CVE   ] CVE-2023-27700
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-27700
+2023-04-04 01:47:58 [INFO] : 
+==============================================
+[ TITLE ] TensorFlow is an end-to-end open source platform for machine learning. Constructing a tflite model with a paramater `filter_input_channel` of less than 1 gives a FPE. This issue has been patched in version 2.12. TensorFlow will also cherrypick the fix commit on TensorFlow 2.11.1.
+[ TIME  ] 2023-03-25 00:15:08 
+[ CVE   ] CVE-2023-27579
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-27579
+2023-04-04 01:47:58 [INFO] : 
+==============================================
+[ TITLE ] Deserialization of Untrusted Data vulnerability in Apache Software Foundation Apache InLong. It could be triggered by authenticated users of InLong, you could refer to [1] to know more about this vulnerability. This issue affects Apache InLong: from 1.1.0 through 1.5.0. Users are advised to upgrade to Apache InLong's latest version or cherry-pick [2] to solve it. [1] https://programmer.help/blogs/jdbc-deserialization-vulnerability-learning.html https://programmer.help/blogs/jdbc-deserialization-vulnerability-learning.html [2] https://github.com/apache/inlong/pull/7422 https://github.com/apache/inlong/pull/7422
+[ TIME  ] 2023-03-27 15:15:08 
+[ CVE   ] CVE-2023-27296
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-27296
+2023-04-04 01:47:58 [INFO] : 
+==============================================
+[ TITLE ] A cross-site scripting (XSS) vulnerability in File Management Project 1.0.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Name field under the Edit User module.
+[ TIME  ] 2023-03-27 17:15:09 
+[ CVE   ] CVE-2023-27245
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-27245
+2023-04-04 01:47:58 [INFO] : 
+==============================================
+[ TITLE ] SourceCodester Loan Management System v1.0 was discovered to contain a cross-site scripting (XSS) vulnerability via the Type parameter under the Edit Loan Types module.
+[ TIME  ] 2023-03-24 12:15:07 
+[ CVE   ] CVE-2023-27242
+[ SRC   ] 美国国家漏洞数据库（NVD）
+[ URL   ] https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-27242
+2023-04-04 01:47:58 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 01:47:58 [INFO] : 正在获取 [绿盟] 威胁情报...
+2023-04-04 01:47:59 [INFO] : 得到 [绿盟] 最新威胁情报 [0] 条
+2023-04-04 01:47:59 [INFO] : --------------------------------------------
+2023-04-04 01:47:59 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 01:47:59 [INFO] : 正在获取 [奇安信] 威胁情报...
+2023-04-04 01:48:01 [INFO] : 得到 [奇安信] 最新威胁情报 [0] 条
+2023-04-04 01:48:01 [INFO] : --------------------------------------------
+2023-04-04 01:48:01 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 01:48:01 [INFO] : 正在获取 [红后] 威胁情报...
+2023-04-04 01:48:02 [INFO] : 得到 [红后] 最新威胁情报 [0] 条
+2023-04-04 01:48:02 [INFO] : --------------------------------------------
+2023-04-04 01:48:02 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 01:48:02 [INFO] : 正在获取 [Tenable (Nessus)] 威胁情报...
+2023-04-04 01:48:02 [INFO] : 得到 [Tenable (Nessus)] 最新威胁情报 [7] 条
+2023-04-04 01:48:02 [INFO] : --------------------------------------------
+2023-04-04 01:48:02 [INFO] : 
+==============================================
+[ TITLE ] Heap based buffer overflow in binutils-gdb/bfd/libbfd.c in bfd_getl64.
+[ TIME  ] 2023-04-03 23:15:00
+[ CVE   ] CVE-2023-1579
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-1579
+2023-04-04 01:48:02 [INFO] : 
+==============================================
+[ TITLE ] The Samba AD DC administration tool, when operating against a remote LDAP server, will by default send new or reset passwords over a signed-only connection.
+[ TIME  ] 2023-04-03 23:15:00
+[ CVE   ] CVE-2023-0922
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-0922
+2023-04-04 01:48:02 [INFO] : 
+==============================================
+[ TITLE ] The fix in 4.6.16, 4.7.9, 4.8.4 and 4.9.7 for CVE-2018-10919 Confidential attribute disclosure vi LDAP filters was insufficient and an attacker may be able to obtain confidential BitLocker recovery keys from a Samba AD DC.
+[ TIME  ] 2023-04-03 23:15:00
+[ CVE   ] CVE-2023-0614
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-0614
+2023-04-04 01:48:02 [INFO] : 
+==============================================
+[ TITLE ] A flaw was found in Samba. An incomplete access check on dnsHostName allows authenticated but otherwise unprivileged users to delete this attribute from any object in the directory.
+[ TIME  ] 2023-04-03 23:15:00
+[ CVE   ] CVE-2023-0225
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-0225
+2023-04-04 01:48:02 [INFO] : 
+==============================================
+[ TITLE ] libyang from v2.0.164 to v2.1.30 was discovered to contain a NULL pointer dereference via the function lys_parse_mem at lys_parse_mem.c.
+[ TIME  ] 2023-04-03 22:15:00
+[ CVE   ] CVE-2023-26916
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-26916
+2023-04-04 01:48:02 [INFO] : 
+==============================================
+[ TITLE ] A stored cross site scripting (XSS) vulnerability was discovered in the user management module of the SAS 9.4 Admin Console, due to insufficient validation and sanitization of data input into the user creation and editing form fields.
+[ TIME  ] 2023-04-03 22:15:00
+[ CVE   ] CVE-2023-24724
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-24724
+2023-04-04 01:48:02 [INFO] : 
+==============================================
+[ TITLE ] A use-after-free flaw was found in btrfs_search_slot in fs/btrfs/ctree.c in btrfs in the Linux Kernel.This flaw allows an attacker to crash the system and possibly cause a kernel information lea
+[ TIME  ] 2023-04-03 22:15:00
+[ CVE   ] CVE-2023-1611
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-1611
+2023-04-04 01:48:02 [INFO] : [邮件] 正在通过 Github Actions 推送威胁情报...
