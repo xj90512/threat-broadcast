@@ -5757,3 +5757,115 @@ requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected(
 2023-04-04 18:32:30 [INFO] : 正在获取 [Tenable (Nessus)] 威胁情报...
 2023-04-04 18:32:31 [INFO] : 得到 [Tenable (Nessus)] 最新威胁情报 [0] 条
 2023-04-04 18:32:31 [INFO] : --------------------------------------------
+2023-04-04 19:31:56 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 19:31:56 [INFO] : 正在获取 [数字观星POC++] 威胁情报...
+2023-04-04 19:31:58 [INFO] : 得到 [数字观星POC++] 最新威胁情报 [0] 条
+2023-04-04 19:31:58 [INFO] : --------------------------------------------
+2023-04-04 19:31:58 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 19:31:58 [INFO] : 正在获取 [阿里云] 威胁情报...
+2023-04-04 19:31:59 [INFO] : 得到 [阿里云] 最新威胁情报 [0] 条
+2023-04-04 19:31:59 [INFO] : --------------------------------------------
+2023-04-04 19:31:59 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 19:31:59 [INFO] : 正在获取 [国家信息安全漏洞共享平台（CNVD）] 威胁情报...
+2023-04-04 19:32:23 [INFO] : 得到 [国家信息安全漏洞共享平台（CNVD）] 最新威胁情报 [0] 条
+2023-04-04 19:32:23 [INFO] : --------------------------------------------
+2023-04-04 19:32:23 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 19:32:23 [INFO] : 正在获取 [国家信息安全漏洞库（CNNVD）] 威胁情报...
+2023-04-04 19:32:25 [WARNING] : 获取 [国家信息安全漏洞库（CNNVD）] 威胁情报失败： [HTTP Error 403]
+2023-04-04 19:32:25 [INFO] : 得到 [国家信息安全漏洞库（CNNVD）] 最新威胁情报 [0] 条
+2023-04-04 19:32:25 [INFO] : --------------------------------------------
+2023-04-04 19:32:25 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 19:32:25 [INFO] : 正在获取 [360 网络安全响应中心] 威胁情报...
+2023-04-04 19:32:27 [INFO] : 得到 [360 网络安全响应中心] 最新威胁情报 [0] 条
+2023-04-04 19:32:27 [INFO] : --------------------------------------------
+2023-04-04 19:32:27 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 19:32:27 [INFO] : 正在获取 [美国国家漏洞数据库（NVD）] 威胁情报...
+2023-04-04 19:32:28 [INFO] : 得到 [美国国家漏洞数据库（NVD）] 最新威胁情报 [0] 条
+2023-04-04 19:32:28 [INFO] : --------------------------------------------
+2023-04-04 19:32:28 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 19:32:28 [INFO] : 正在获取 [绿盟] 威胁情报...
+2023-04-04 19:32:29 [INFO] : 得到 [绿盟] 最新威胁情报 [0] 条
+2023-04-04 19:32:29 [INFO] : --------------------------------------------
+2023-04-04 19:32:29 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 19:32:29 [INFO] : 正在获取 [奇安信] 威胁情报...
+2023-04-04 19:32:31 [INFO] : 得到 [奇安信] 最新威胁情报 [0] 条
+2023-04-04 19:32:31 [INFO] : --------------------------------------------
+2023-04-04 19:32:31 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 19:32:31 [INFO] : 正在获取 [红后] 威胁情报...
+2023-04-04 19:32:33 [INFO] : 得到 [红后] 最新威胁情报 [0] 条
+2023-04-04 19:32:33 [INFO] : --------------------------------------------
+2023-04-04 19:32:33 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 19:32:33 [INFO] : 正在获取 [Tenable (Nessus)] 威胁情报...
+2023-04-04 19:32:33 [INFO] : 得到 [Tenable (Nessus)] 最新威胁情报 [10] 条
+2023-04-04 19:32:33 [INFO] : --------------------------------------------
+2023-04-04 19:32:33 [INFO] : 
+==============================================
+[ TITLE ] The listed versions of Nexx Smart Home devices could allow any user to register an already registered alarm or associated device with only the device’s MAC address.
+[ TIME  ] 2023-04-04 17:15:00
+[ CVE   ] CVE-2023-1752
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-1752
+2023-04-04 19:32:33 [INFO] : 
+==============================================
+[ TITLE ] The listed versions of Nexx Smart Home devices use a WebSocket server that does not validate if the bearer token in the Authorization header belongs to the device attempting to associate. This could allow any authorized user to receive alarm information and signals meant for other devices which leak a deviceId.
+[ TIME  ] 2023-04-04 17:15:00
+[ CVE   ] CVE-2023-1751
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-1751
+2023-04-04 19:32:33 [INFO] : 
+==============================================
+[ TITLE ] The listed versions of Nexx Smart Home devices lack proper access control when executing actions. An attacker with a valid NexxHome deviceId could retrieve device history, set device settings, and retrieve device information.
+[ TIME  ] 2023-04-04 17:15:00
+[ CVE   ] CVE-2023-1750
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-1750
+2023-04-04 19:32:33 [INFO] : 
+==============================================
+[ TITLE ] The listed versions of Nexx Smart Home devices lack proper access control when executing actions. An attacker with a valid NexxHome deviceId could send API requests that the affected devices would execute.
+[ TIME  ] 2023-04-04 17:15:00
+[ CVE   ] CVE-2023-1749
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-1749
+2023-04-04 19:32:33 [INFO] : 
+==============================================
+[ TITLE ] The listed versions of Nexx Smart Home devices use hard-coded credentials. An attacker with unauthenticated access to the Nexx Home mobile application or the affected firmware could view the credentials and access the MQ Telemetry Server (MQTT) server and the ability to remotely control garage doors or smart plugs for any customer.
+[ TIME  ] 2023-04-04 17:15:00
+[ CVE   ] CVE-2023-1748
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-1748
+2023-04-04 19:32:33 [INFO] : 
+==============================================
+[ TITLE ] An issue was discovered in Samsung Exynos Mobile Processor and Baseband Modem Processor for Exynos 1280, Exynos 2200, and Exynos Modem 5300. An integer overflow in IPv4 fragment handling can occur due to insufficient parameter validation when reassembling these fragments.
+[ TIME  ] 2023-04-04 16:15:00
+[ CVE   ] CVE-2023-28613
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-28613
+2023-04-04 19:32:33 [INFO] : 
+==============================================
+[ TITLE ] Envoy is an open source edge and service proxy designed for cloud-native applications. Prior to versions 1.26.0, 1.25.3, 1.24.4, 1.23.6, and 1.22.9, the client may bypass JSON Web Token (JWT) checks and forge fake original paths. The header `x-envoy-original-path` should be an internal header, but Envoy does not remove this header from the request at the beginning of request processing when it is sent from an untrusted client. The faked header would then be used for trace logs and grpc logs, as well as used in the URL used for `jwt_authn` checks if the `jwt_authn` filter is used, and any other upstream use of the x-envoy-original-path header. Attackers may forge a trusted `x-envoy-original-path` header. Versions 1.26.0, 1.25.3, 1.24.4, 1.23.6, and 1.22.9 have patches for this issue.
+[ TIME  ] 2023-04-04 16:15:00
+[ CVE   ] CVE-2023-27487
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-27487
+2023-04-04 19:32:33 [INFO] : 
+==============================================
+[ TITLE ] Irfanview v4.62 allows a user-mode write access violation via a crafted JPEG 2000 file starting at JPEG2000+0x0000000000001bf0.
+[ TIME  ] 2023-04-04 16:15:00
+[ CVE   ] CVE-2023-26974
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-26974
+2023-04-04 19:32:33 [INFO] : 
+==============================================
+[ TITLE ] An issue was discovered in Acuant AsureID Sentinel before 5.2.149. It allows elevation of privileges because it opens Notepad after the installation of AssureID, Identify x64, and Identify x86, aka CORE-7361.
+[ TIME  ] 2023-04-04 16:15:00
+[ CVE   ] CVE-2022-48227
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2022-48227
+2023-04-04 19:32:33 [INFO] : 
+==============================================
+[ TITLE ] An issue was discovered in Acuant AcuFill SDK before 10.22.02.03. It is installed with insecure permissions (full write access within Program Files). Standard users can replace files within this directory that get executed with elevated privileges, leading to a complete arbitrary code execution (elevation of privileges).
+[ TIME  ] 2023-04-04 16:15:00
+[ CVE   ] CVE-2022-48224
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2022-48224
+2023-04-04 19:32:33 [INFO] : [邮件] 正在通过 Github Actions 推送威胁情报...
