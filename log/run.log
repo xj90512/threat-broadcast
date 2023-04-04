@@ -6028,3 +6028,232 @@ requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected(
 2023-04-04 22:32:15 [INFO] : 正在获取 [Tenable (Nessus)] 威胁情报...
 2023-04-04 22:32:15 [INFO] : 得到 [Tenable (Nessus)] 最新威胁情报 [0] 条
 2023-04-04 22:32:15 [INFO] : --------------------------------------------
+2023-04-04 23:32:06 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 23:32:06 [INFO] : 正在获取 [数字观星POC++] 威胁情报...
+2023-04-04 23:32:08 [INFO] : 得到 [数字观星POC++] 最新威胁情报 [0] 条
+2023-04-04 23:32:08 [INFO] : --------------------------------------------
+2023-04-04 23:32:08 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 23:32:08 [INFO] : 正在获取 [阿里云] 威胁情报...
+2023-04-04 23:32:09 [INFO] : 得到 [阿里云] 最新威胁情报 [0] 条
+2023-04-04 23:32:09 [INFO] : --------------------------------------------
+2023-04-04 23:32:09 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 23:32:09 [INFO] : 正在获取 [国家信息安全漏洞共享平台（CNVD）] 威胁情报...
+2023-04-04 23:33:09 [ERROR] : 获取 [国家信息安全漏洞共享平台（CNVD）] 威胁情报异常
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/connectionpool.py", line 426, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/connectionpool.py", line 421, in _make_request
+    httplib_response = conn.getresponse()
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/http/client.py", line 1348, in getresponse
+    response.begin()
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/http/client.py", line 316, in begin
+    version, status, reason = self._read_status()
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/http/client.py", line 277, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/connectionpool.py", line 726, in urlopen
+    retries = retries.increment(
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/util/retry.py", line 410, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/packages/six.py", line 735, in reraise
+    raise value
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/connectionpool.py", line 428, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/connectionpool.py", line 335, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='www.cnvd.org.cn', port=443): Read timed out. (read timeout=60)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/work/threat-broadcast/threat-broadcast/src/crawler/_base_crawler.py", line 62, in cves
+    new_cves = self.get_cves()
+  File "/home/runner/work/threat-broadcast/threat-broadcast/src/crawler/cnvd.py", line 117, in get_cves
+    response = self.session.get(
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/requests/sessions.py", line 546, in get
+    return self.request('GET', url, **kwargs)
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/requests/adapters.py", line 529, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='www.cnvd.org.cn', port=443): Read timed out. (read timeout=60)
+2023-04-04 23:33:09 [ERROR] : Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/connectionpool.py", line 426, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/connectionpool.py", line 421, in _make_request
+    httplib_response = conn.getresponse()
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/http/client.py", line 1348, in getresponse
+    response.begin()
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/http/client.py", line 316, in begin
+    version, status, reason = self._read_status()
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/http/client.py", line 277, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/connectionpool.py", line 726, in urlopen
+    retries = retries.increment(
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/util/retry.py", line 410, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/packages/six.py", line 735, in reraise
+    raise value
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/connectionpool.py", line 428, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/connectionpool.py", line 335, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='www.cnvd.org.cn', port=443): Read timed out. (read timeout=60)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/work/threat-broadcast/threat-broadcast/src/crawler/_base_crawler.py", line 62, in cves
+    new_cves = self.get_cves()
+  File "/home/runner/work/threat-broadcast/threat-broadcast/src/crawler/cnvd.py", line 117, in get_cves
+    response = self.session.get(
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/requests/sessions.py", line 546, in get
+    return self.request('GET', url, **kwargs)
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/requests/adapters.py", line 529, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='www.cnvd.org.cn', port=443): Read timed out. (read timeout=60)
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/connectionpool.py", line 426, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/connectionpool.py", line 421, in _make_request
+    httplib_response = conn.getresponse()
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/http/client.py", line 1348, in getresponse
+    response.begin()
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/http/client.py", line 316, in begin
+    version, status, reason = self._read_status()
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/http/client.py", line 277, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/connectionpool.py", line 726, in urlopen
+    retries = retries.increment(
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/util/retry.py", line 410, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/packages/six.py", line 735, in reraise
+    raise value
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/connectionpool.py", line 428, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/connectionpool.py", line 335, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='www.cnvd.org.cn', port=443): Read timed out. (read timeout=60)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/work/threat-broadcast/threat-broadcast/src/crawler/_base_crawler.py", line 62, in cves
+    new_cves = self.get_cves()
+  File "/home/runner/work/threat-broadcast/threat-broadcast/src/crawler/cnvd.py", line 117, in get_cves
+    response = self.session.get(
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/requests/sessions.py", line 546, in get
+    return self.request('GET', url, **kwargs)
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/requests/adapters.py", line 529, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='www.cnvd.org.cn', port=443): Read timed out. (read timeout=60)
+2023-04-04 23:33:09 [INFO] : 得到 [国家信息安全漏洞共享平台（CNVD）] 最新威胁情报 [0] 条
+2023-04-04 23:33:09 [INFO] : --------------------------------------------
+2023-04-04 23:33:09 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 23:33:09 [INFO] : 正在获取 [国家信息安全漏洞库（CNNVD）] 威胁情报...
+2023-04-04 23:33:12 [WARNING] : 获取 [国家信息安全漏洞库（CNNVD）] 威胁情报失败： [HTTP Error 403]
+2023-04-04 23:33:12 [INFO] : 得到 [国家信息安全漏洞库（CNNVD）] 最新威胁情报 [0] 条
+2023-04-04 23:33:12 [INFO] : --------------------------------------------
+2023-04-04 23:33:12 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 23:33:12 [INFO] : 正在获取 [360 网络安全响应中心] 威胁情报...
+2023-04-04 23:33:14 [INFO] : 得到 [360 网络安全响应中心] 最新威胁情报 [0] 条
+2023-04-04 23:33:14 [INFO] : --------------------------------------------
+2023-04-04 23:33:14 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 23:33:14 [INFO] : 正在获取 [美国国家漏洞数据库（NVD）] 威胁情报...
+2023-04-04 23:33:14 [INFO] : 得到 [美国国家漏洞数据库（NVD）] 最新威胁情报 [0] 条
+2023-04-04 23:33:14 [INFO] : --------------------------------------------
+2023-04-04 23:33:14 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 23:33:14 [INFO] : 正在获取 [绿盟] 威胁情报...
+2023-04-04 23:33:15 [INFO] : 得到 [绿盟] 最新威胁情报 [0] 条
+2023-04-04 23:33:15 [INFO] : --------------------------------------------
+2023-04-04 23:33:15 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 23:33:15 [INFO] : 正在获取 [奇安信] 威胁情报...
+2023-04-04 23:33:18 [INFO] : 得到 [奇安信] 最新威胁情报 [0] 条
+2023-04-04 23:33:18 [INFO] : --------------------------------------------
+2023-04-04 23:33:18 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 23:33:18 [INFO] : 正在获取 [红后] 威胁情报...
+2023-04-04 23:33:19 [INFO] : 得到 [红后] 最新威胁情报 [0] 条
+2023-04-04 23:33:19 [INFO] : --------------------------------------------
+2023-04-04 23:33:19 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-04 23:33:19 [INFO] : 正在获取 [Tenable (Nessus)] 威胁情报...
+2023-04-04 23:33:19 [INFO] : 得到 [Tenable (Nessus)] 最新威胁情报 [3] 条
+2023-04-04 23:33:19 [INFO] : --------------------------------------------
+2023-04-04 23:33:19 [INFO] : 
+==============================================
+[ TITLE ] Envoy is an open source edge and service proxy designed for cloud-native applications. Prior to versions 1.26.0, 1.25.3, 1.24.4, 1.23.6, and 1.22.9, the OAuth filter assumes that a `state` query param is present on any response that looks like an OAuth redirect response. Sending it a request with the URI path equivalent to the redirect path, without the `state` parameter, will lead to abnormal termination of Envoy process. Versions 1.26.0, 1.25.3, 1.24.4, 1.23.6, and 1.22.9 contain a patch. The issue can also be mitigated by locking down OAuth traffic, disabling the filter, or by filtering traffic before it reaches the OAuth filter (e.g. via a lua script).
+[ TIME  ] 2023-04-04 20:15:00
+[ CVE   ] CVE-2023-27496
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-27496
+2023-04-04 23:33:19 [INFO] : 
+==============================================
+[ TITLE ] Envoy is an open source edge and service proxy designed for cloud-native applications. Prior to versions 1.26.0, 1.25.3, 1.24.4, 1.23.6, and 1.22.9, Envoy does not sanitize or escape request properties when generating request headers. This can lead to characters that are illegal in header values to be sent to the upstream service. In the worst case, it can cause upstream service to interpret the original request as two pipelined requests, possibly bypassing the intent of Envoy’s security policy. Versions 1.26.0, 1.25.3, 1.24.4, 1.23.6, and 1.22.9 contain a patch. As a workaround, disable adding request headers based on the downstream request properties, such as downstream certificate properties.
+[ TIME  ] 2023-04-04 20:15:00
+[ CVE   ] CVE-2023-27493
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-27493
+2023-04-04 23:33:19 [INFO] : 
+==============================================
+[ TITLE ] The Sp*tify Play Button for WordPress plugin for WordPress is vulnerable to Stored Cross-Site Scripting via admin settings in versions up to, and including, 2.07 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with administrator-level permissions and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. This only affects multi-site installations and installations where unfiltered_html has been disabled.
+[ TIME  ] 2023-04-04 20:15:00
+[ CVE   ] CVE-2023-1840
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-1840
+2023-04-04 23:33:20 [INFO] : [邮件] 正在通过 Github Actions 推送威胁情报...
