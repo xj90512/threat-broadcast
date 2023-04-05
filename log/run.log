@@ -8621,3 +8621,115 @@ requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='www.cnvd.org.cn', por
 2023-04-05 22:32:30 [INFO] : 正在获取 [Tenable (Nessus)] 威胁情报...
 2023-04-05 22:32:30 [INFO] : 得到 [Tenable (Nessus)] 最新威胁情报 [0] 条
 2023-04-05 22:32:30 [INFO] : --------------------------------------------
+2023-04-05 23:31:40 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-05 23:31:40 [INFO] : 正在获取 [数字观星POC++] 威胁情报...
+2023-04-05 23:31:41 [INFO] : 得到 [数字观星POC++] 最新威胁情报 [0] 条
+2023-04-05 23:31:41 [INFO] : --------------------------------------------
+2023-04-05 23:31:41 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-05 23:31:41 [INFO] : 正在获取 [阿里云] 威胁情报...
+2023-04-05 23:31:43 [INFO] : 得到 [阿里云] 最新威胁情报 [0] 条
+2023-04-05 23:31:43 [INFO] : --------------------------------------------
+2023-04-05 23:31:43 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-05 23:31:43 [INFO] : 正在获取 [国家信息安全漏洞共享平台（CNVD）] 威胁情报...
+2023-04-05 23:32:06 [INFO] : 得到 [国家信息安全漏洞共享平台（CNVD）] 最新威胁情报 [0] 条
+2023-04-05 23:32:06 [INFO] : --------------------------------------------
+2023-04-05 23:32:06 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-05 23:32:06 [INFO] : 正在获取 [国家信息安全漏洞库（CNNVD）] 威胁情报...
+2023-04-05 23:32:08 [WARNING] : 获取 [国家信息安全漏洞库（CNNVD）] 威胁情报失败： [HTTP Error 403]
+2023-04-05 23:32:08 [INFO] : 得到 [国家信息安全漏洞库（CNNVD）] 最新威胁情报 [0] 条
+2023-04-05 23:32:08 [INFO] : --------------------------------------------
+2023-04-05 23:32:08 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-05 23:32:08 [INFO] : 正在获取 [360 网络安全响应中心] 威胁情报...
+2023-04-05 23:32:15 [INFO] : 得到 [360 网络安全响应中心] 最新威胁情报 [0] 条
+2023-04-05 23:32:15 [INFO] : --------------------------------------------
+2023-04-05 23:32:15 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-05 23:32:15 [INFO] : 正在获取 [美国国家漏洞数据库（NVD）] 威胁情报...
+2023-04-05 23:32:15 [INFO] : 得到 [美国国家漏洞数据库（NVD）] 最新威胁情报 [0] 条
+2023-04-05 23:32:15 [INFO] : --------------------------------------------
+2023-04-05 23:32:15 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-05 23:32:15 [INFO] : 正在获取 [绿盟] 威胁情报...
+2023-04-05 23:32:17 [INFO] : 得到 [绿盟] 最新威胁情报 [0] 条
+2023-04-05 23:32:17 [INFO] : --------------------------------------------
+2023-04-05 23:32:17 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-05 23:32:17 [INFO] : 正在获取 [奇安信] 威胁情报...
+2023-04-05 23:32:19 [INFO] : 得到 [奇安信] 最新威胁情报 [0] 条
+2023-04-05 23:32:19 [INFO] : --------------------------------------------
+2023-04-05 23:32:19 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-05 23:32:19 [INFO] : 正在获取 [红后] 威胁情报...
+2023-04-05 23:32:21 [INFO] : 得到 [红后] 最新威胁情报 [0] 条
+2023-04-05 23:32:21 [INFO] : --------------------------------------------
+2023-04-05 23:32:21 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-05 23:32:21 [INFO] : 正在获取 [Tenable (Nessus)] 威胁情报...
+2023-04-05 23:32:21 [INFO] : 得到 [Tenable (Nessus)] 最新威胁情报 [10] 条
+2023-04-05 23:32:21 [INFO] : --------------------------------------------
+2023-04-05 23:32:21 [INFO] : 
+==============================================
+[ TITLE ] An issue has been discovered in GitLab affecting all versions starting from 15.9 before 15.9.4, all versions starting from 15.10 before 15.10.1. A search timeout could be triggered if a specific HTML payload was used in the issue description.
+[ TIME  ] 2023-04-05 21:15:00
+[ CVE   ] CVE-2023-1787
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-1787
+2023-04-05 23:32:21 [INFO] : 
+==============================================
+[ TITLE ] A sensitive information disclosure vulnerability in GitLab affecting all versions from 15.0 prior to 15.8.5, 15.9 prior to 15.9.4 and 15.10 prior to 15.10.1 allows an attacker to view the count of internal notes for a given issue.
+[ TIME  ] 2023-04-05 21:15:00
+[ CVE   ] CVE-2023-1710
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-1710
+2023-04-05 23:32:21 [INFO] : 
+==============================================
+[ TITLE ] An issue was identified in GitLab CE/EE affecting all versions from 1.0 prior to 15.8.5, 15.9 prior to 15.9.4, and 15.10 prior to 15.10.1 where non-printable characters gets copied from clipboard, allowing unexpected commands to be executed on victim machine.
+[ TIME  ] 2023-04-05 21:15:00
+[ CVE   ] CVE-2023-1708
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-1708
+2023-04-05 23:32:21 [INFO] : 
+==============================================
+[ TITLE ] An issue has been discovered in GitLab affecting all versions starting from 15.9 before 15.9.4, all versions starting from 15.10 before 15.10.1. It was possible for an unauthorised user to add child epics linked to victim's epic in an unrelated group.
+[ TIME  ] 2023-04-05 21:15:00
+[ CVE   ] CVE-2023-1417
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-1417
+2023-04-05 23:32:21 [INFO] : 
+==============================================
+[ TITLE ] Improper authorization in Gitlab EE affecting all versions from 12.3.0 before 15.8.5, all versions starting from 15.9 before 15.9.4, all versions starting from 15.10 before 15.10.1 allows an unauthorized access to security reports in MR.
+[ TIME  ] 2023-04-05 21:15:00
+[ CVE   ] CVE-2023-1167
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-1167
+2023-04-05 23:32:21 [INFO] : 
+==============================================
+[ TITLE ] An issue has been discovered in GitLab affecting all versions from 15.5 before 15.8.5, all versions starting from 15.9 before 15.9.4, all versions starting from 15.10 before 15.10.1. Due to improper permissions checks it was possible for an unauthorised user to remove an issue from an epic.
+[ TIME  ] 2023-04-05 21:15:00
+[ CVE   ] CVE-2023-1071
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-1071
+2023-04-05 23:32:21 [INFO] : 
+==============================================
+[ TITLE ] An issue has been discovered in GitLab affecting versions starting from 15.1 before 15.8.5, 15.9 before 15.9.4, and 15.10 before 15.10.1. A maintainer could modify a webhook URL to leak masked webhook secrets by adding a new parameter to the url. This addresses an incomplete fix for CVE-2022-4342.
+[ TIME  ] 2023-04-05 21:15:00
+[ CVE   ] CVE-2023-0838
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-0838
+2023-04-05 23:32:21 [INFO] : 
+==============================================
+[ TITLE ] An issue has been discovered in GitLab affecting all versions starting from 8.1 to 15.8.5, and from 15.9 to 15.9.4, and from 15.10 to 15.10.1. It was possible to add a branch with an ambiguous name that could be used to social engineer users.
+[ TIME  ] 2023-04-05 21:15:00
+[ CVE   ] CVE-2023-0450
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-0450
+2023-04-05 23:32:21 [INFO] : 
+==============================================
+[ TITLE ] Jfinal CMS v5.1 was discovered to contain a cross-site scripting (XSS) vulnerability via the component /system/dict/list.
+[ TIME  ] 2023-04-05 20:15:00
+[ CVE   ] CVE-2023-24747
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-24747
+2023-04-05 23:32:21 [INFO] : 
+==============================================
+[ TITLE ] An arbitrary file upload vulnerability in readium-js v0.32.0 allows attackers to execute arbitrary code via uploading a crafted EPUB file.
+[ TIME  ] 2023-04-05 20:15:00
+[ CVE   ] CVE-2023-24720
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-24720
+2023-04-05 23:32:21 [INFO] : [邮件] 正在通过 Github Actions 推送威胁情报...
