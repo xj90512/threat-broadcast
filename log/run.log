@@ -7742,3 +7742,115 @@ requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='www.cnvd.org.cn', por
 2023-04-05 10:35:41 [INFO] : 正在获取 [Tenable (Nessus)] 威胁情报...
 2023-04-05 10:35:41 [INFO] : 得到 [Tenable (Nessus)] 最新威胁情报 [0] 条
 2023-04-05 10:35:41 [INFO] : --------------------------------------------
+2023-04-05 11:32:09 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-05 11:32:09 [INFO] : 正在获取 [数字观星POC++] 威胁情报...
+2023-04-05 11:32:10 [INFO] : 得到 [数字观星POC++] 最新威胁情报 [0] 条
+2023-04-05 11:32:10 [INFO] : --------------------------------------------
+2023-04-05 11:32:10 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-05 11:32:10 [INFO] : 正在获取 [阿里云] 威胁情报...
+2023-04-05 11:32:11 [INFO] : 得到 [阿里云] 最新威胁情报 [0] 条
+2023-04-05 11:32:11 [INFO] : --------------------------------------------
+2023-04-05 11:32:11 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-05 11:32:11 [INFO] : 正在获取 [国家信息安全漏洞共享平台（CNVD）] 威胁情报...
+2023-04-05 11:32:35 [INFO] : 得到 [国家信息安全漏洞共享平台（CNVD）] 最新威胁情报 [0] 条
+2023-04-05 11:32:35 [INFO] : --------------------------------------------
+2023-04-05 11:32:35 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-05 11:32:35 [INFO] : 正在获取 [国家信息安全漏洞库（CNNVD）] 威胁情报...
+2023-04-05 11:32:37 [WARNING] : 获取 [国家信息安全漏洞库（CNNVD）] 威胁情报失败： [HTTP Error 403]
+2023-04-05 11:32:37 [INFO] : 得到 [国家信息安全漏洞库（CNNVD）] 最新威胁情报 [0] 条
+2023-04-05 11:32:37 [INFO] : --------------------------------------------
+2023-04-05 11:32:37 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-05 11:32:37 [INFO] : 正在获取 [360 网络安全响应中心] 威胁情报...
+2023-04-05 11:32:39 [INFO] : 得到 [360 网络安全响应中心] 最新威胁情报 [0] 条
+2023-04-05 11:32:39 [INFO] : --------------------------------------------
+2023-04-05 11:32:39 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-05 11:32:39 [INFO] : 正在获取 [美国国家漏洞数据库（NVD）] 威胁情报...
+2023-04-05 11:32:40 [INFO] : 得到 [美国国家漏洞数据库（NVD）] 最新威胁情报 [0] 条
+2023-04-05 11:32:40 [INFO] : --------------------------------------------
+2023-04-05 11:32:40 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-05 11:32:40 [INFO] : 正在获取 [绿盟] 威胁情报...
+2023-04-05 11:32:41 [INFO] : 得到 [绿盟] 最新威胁情报 [0] 条
+2023-04-05 11:32:41 [INFO] : --------------------------------------------
+2023-04-05 11:32:41 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-05 11:32:41 [INFO] : 正在获取 [奇安信] 威胁情报...
+2023-04-05 11:32:43 [INFO] : 得到 [奇安信] 最新威胁情报 [0] 条
+2023-04-05 11:32:43 [INFO] : --------------------------------------------
+2023-04-05 11:32:43 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-05 11:32:43 [INFO] : 正在获取 [红后] 威胁情报...
+2023-04-05 11:32:44 [INFO] : 得到 [红后] 最新威胁情报 [0] 条
+2023-04-05 11:32:44 [INFO] : --------------------------------------------
+2023-04-05 11:32:44 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2023-04-05 11:32:44 [INFO] : 正在获取 [Tenable (Nessus)] 威胁情报...
+2023-04-05 11:32:45 [INFO] : 得到 [Tenable (Nessus)] 最新威胁情报 [10] 条
+2023-04-05 11:32:45 [INFO] : --------------------------------------------
+2023-04-05 11:32:45 [INFO] : 
+==============================================
+[ TITLE ] A vulnerability was found in Keysight IXIA Hawkeye 3.3.16.28. It has been declared as problematic. This vulnerability affects unknown code of the file /licenses. The manipulation of the argument view with the input teste"><script>alert(%27c4ng4c3ir0%27)</script> leads to cross site scripting. The attack can be initiated remotely. VDB-224998 is the identifier assigned to this vulnerability. NOTE: Vendor did not respond if and how they may handle this issue.
+[ TIME  ] 2023-04-05 09:15:00
+[ CVE   ] CVE-2023-1860
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-1860
+2023-04-05 11:32:45 [INFO] : 
+==============================================
+[ TITLE ] A vulnerability was found in SourceCodester Earnings and Expense Tracker App 1.0. It has been classified as problematic. This affects an unknown part of the file index.php. The manipulation of the argument page leads to information disclosure. It is possible to initiate the attack remotely. The identifier VDB-224997 was assigned to this vulnerability.
+[ TIME  ] 2023-04-05 09:15:00
+[ CVE   ] CVE-2023-1858
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-1858
+2023-04-05 11:32:45 [INFO] : 
+==============================================
+[ TITLE ] Dell Streaming Data Platform prior to 1.4 contains Open Redirect vulnerability. An attacker with privileges same as a legitimate user can phish the legitimate the user to redirect to malicious website leading to information disclosure and launch of phishing attacks.
+[ TIME  ] 2023-04-05 08:15:00
+[ CVE   ] CVE-2023-28069
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-28069
+2023-04-05 11:32:45 [INFO] : 
+==============================================
+[ TITLE ] Auth. (contributor+) Cross-Site Scripting (XSS) vulnerability in Jonk @ Follow me Darling Sp*tify Play Button for WordPress plugin <= 2.05 versions.
+[ TIME  ] 2023-04-05 08:15:00
+[ CVE   ] CVE-2023-26536
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-26536
+2023-04-05 11:32:45 [INFO] : 
+==============================================
+[ TITLE ] A vulnerability was found in SourceCodester Online Computer and Laptop Store 1.0 and classified as problematic. Affected by this issue is some unknown functionality of the file /admin/?page=product/manage_product&id=2. The manipulation of the argument Product Name leads to cross site scripting. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-224996.
+[ TIME  ] 2023-04-05 08:15:00
+[ CVE   ] CVE-2023-1857
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-1857
+2023-04-05 11:32:45 [INFO] : 
+==============================================
+[ TITLE ] A vulnerability has been found in SourceCodester Air Cargo Management System 1.0 and classified as critical. Affected by this vulnerability is an unknown functionality of the file /admin/transactions/track_shipment.php of the component GET Parameter Handler. The manipulation of the argument id leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-224995.
+[ TIME  ] 2023-04-05 08:15:00
+[ CVE   ] CVE-2023-1856
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-1856
+2023-04-05 11:32:45 [INFO] : 
+==============================================
+[ TITLE ] A vulnerability, which was classified as problematic, was found in SourceCodester Online Graduate Tracer System 1.0. Affected is an unknown function of the file admin/. The manipulation leads to session expiration. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VDB-224994 is the identifier assigned to this vulnerability.
+[ TIME  ] 2023-04-05 08:15:00
+[ CVE   ] CVE-2023-1854
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-1854
+2023-04-05 11:32:45 [INFO] : 
+==============================================
+[ TITLE ] A vulnerability, which was classified as problematic, has been found in SourceCodester Online Payroll System 1.0. This issue affects some unknown processing of the file /admin/employee_edit.php. The manipulation of the argument of leads to cross site scripting. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-224993 was assigned to this vulnerability.
+[ TIME  ] 2023-04-05 08:15:00
+[ CVE   ] CVE-2023-1853
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-1853
+2023-04-05 11:32:45 [INFO] : 
+==============================================
+[ TITLE ] A vulnerability classified as problematic was found in SourceCodester Online Payroll System 1.0. This vulnerability affects unknown code of the file /admin/deduction_edit.php. The manipulation of the argument description leads to cross site scripting. The attack can be initiated remotely. The identifier of this vulnerability is VDB-224992.
+[ TIME  ] 2023-04-05 08:15:00
+[ CVE   ] CVE-2023-1852
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-1852
+2023-04-05 11:32:45 [INFO] : 
+==============================================
+[ TITLE ] A vulnerability classified as problematic has been found in SourceCodester Online Payroll System 1.0. This affects an unknown part of the file /admin/employee_add.php. The manipulation of the argument of leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-224991.
+[ TIME  ] 2023-04-05 08:15:00
+[ CVE   ] CVE-2023-1851
+[ SRC   ] Tenable (Nessus)
+[ URL   ] https://www.tenable.com/cve/CVE-2023-1851
+2023-04-05 11:32:45 [INFO] : [邮件] 正在通过 Github Actions 推送威胁情报...
