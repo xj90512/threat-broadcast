@@ -5,6 +5,7 @@
 # -----------------------------------------------
 
 import sys
+import argparse
 from src.config import settings
 from src.utils import log
 from pypdm.dbc._sqlite import SqliteDBC
@@ -26,48 +27,73 @@ import src.notice.page as page
 import src.notice.mail as mail
 import src.utils._git as git
 
+def args() :
+    parser = argparse.ArgumentParser(
+        prog='', # 会被 usage 覆盖
+        usage='威胁情报播报 - 帮助信息',  
+        description='从多个公开的威胁情报来源爬取并整合最新信息',  
+        epilog='\r\n'.join([
+            '使用示例: ', 
+            '  python main.py -t 10 --gtk {GRAPAQL_TOKEN}', 
+        ])
+    )
+    parser.add_argument('-g', '--git', dest='git', type=str, default=GIT_CRAWL_PWD, help='Github Action 的启动密码（避免被 Fork 时别人可以直接运行，导致目标站点被 DDos）')
+    parser.add_argument('-t', '--top', dest='top', type=int, default=30, help='播报时每个来源最多取最新的前 N 个 CVE')
+    parser.add_argument('-ac', '--auto_commit', dest='auto_commit', action='store_true', default=False, help='自动提交变更到仓库（因使用 Github Actions ，故默认关闭）')
+    parser.add_argument('-k', '--gtk', dest='gtk', type=str, default='', help='Github Token，若非空值则使用 Github Actions 发送播报邮件')
+    parser.add_argument('-ms', '--mail_smtp', dest='mail_smtp', type=str, default='smtp.qq.com', help='用于发送播报信息的邮箱 SMTP 服务器')
+    parser.add_argument('-mu', '--mail_user', dest='mail_user', type=str, default='threatbroadcast@qq.com', help='用于发送播报信息的邮箱账号')
+    parser.add_argument('-mp', '--mail_pass', dest='mail_pass', type=str, default='', help='用于发送播报信息的邮箱密码')
+    return parser.parse_args()
 
 
-def help_info():
-    return '''
-    -h                帮助信息
-    -top <number>     播报时每个来源最多取最新的前 N 个 CVE（默认 10）
-    -ac               自动提交变更到仓库（可自动归档、生成 Github Page，默认关闭）
-    -gtk              Github Token，若非空值则使用 Github Actions 发送播报邮件
-    -ms  <mail-smtp>  用于发送播报信息的邮箱 SMTP 服务器（默认 smtp.126.com）
-    -mu  <mail-user>  用于发送播报信息的邮箱账号（默认 ThreatBroadcast@126.com）
-    -mp  <mail-pass>  用于发送播报信息的邮箱密码（部分邮箱为授权码）
-'''
+def get_args(args) :
+    if args.git != GIT_CRAWL_PWD :
+        # Github Action 调用了 -g 参数，若仓库没有设置 secrets.CRAWL_PWD 会赋予为空值
+        # 导致验证 Github Action 的 secrets.CRAWL_PWD 失败，爬虫进程终止执行
+        # 目的是在仓库被 Fork 时，可以保护目标站点不被 DDos
+        exit(0)
+
+    top = args.top or settings.crawler['top']
+    auto_commit = args.auto_commit or settings.github['auto_commit']
+    gtk = args.gtk or settings.github['gtk']
+    mail_smtp = args.mail_smtp or settings.notify['mail_smtp']
+    mail_user = args.mail_user or settings.notify['mail_user']
+    mail_pass = args.mail_pass or settings.notify['mail_pass']
+
+    return [ top, auto_commit, gtk, mail_smtp, mail_user, mail_pass]
 
 
 def init():
-    log.init()
     sdbc = SqliteDBC(options=settings.database)
     sdbc.exec_script(settings.database['sqlpath'])
 
 
+def main(top, auto_commit, gtk, mail_smtp, mail_user, mail_pass):
+    all_cves = {}
+    srcs = [ 
+        Cert360(), 
+        Nsfocus(), 
+        QiAnXin(), 
+        RedQueen(), 
+        AliCloud(),
+        PocPlus(), 
+        NVD(), 
+        CNNVD(), 
+        Tenable() 
+    ]
+    for src in srcs:
+        cves = src.cves()
+        if cves:
+            to_log(cves)
+            all_cves[src] = cves
 
-def main(help, top, auto_commit, gtk, mail_smtp, mail_user, mail_pass):
-    if help:
-        log.info(help_info())
+    if all_cves:
+        page.to_page(top)
+        mail.to_mail(gtk, all_cves, mail_smtp, mail_user, mail_pass)
 
-    else:
-        all_cves = {}
-        srcs = [PocPlus(),AliCloud(),CNVD(),CNNVD(),Cert360(),NVD(),Nsfocus(),QiAnXin(),RedQueen(),Tenable()]
-        for src in srcs:
-            cves = src.cves()
-            if cves:
-                to_log(cves)
-                all_cves[src] = cves
-
-        if all_cves:
-            page.to_page(top)
-            mail.to_mail(gtk, all_cves, mail_smtp, mail_user, mail_pass)
-
-
-            if auto_commit:
-                git.auto_commit()
-
+        if auto_commit:
+            git.auto_commit()
 
 
 def to_log(cves):
@@ -76,57 +102,6 @@ def to_log(cves):
 
 
 
-def get_sys_args(sys_args) :
-    help = False
-    top = settings.crawler['top']
-    auto_commit = settings.github['auto_commit']
-    gtk = settings.github['gtk']
-    mail_smtp = settings.notify['mail_smtp']
-    mail_user = settings.notify['mail_user']
-    mail_pass = settings.notify['mail_pass']
-
-    idx = 1
-    size = len(sys_args)
-    while idx < size :
-        try :
-            if sys_args[idx] == '-h' :
-                help = True
-
-            elif sys_args[idx] == '-top' :
-                idx += 1
-                top = int(sys_args[idx])
-
-            elif sys_args[idx] == '-ac' :
-                auto_commit = True
-
-            elif sys_args[idx] == '-gtk' :
-                idx += 1
-                gtk = sys_args[idx]
-
-            elif sys_args[idx] == '-ms' :
-                idx += 1
-                mail_smtp = sys_args[idx]
-
-            elif sys_args[idx] == '-mu' :
-                idx += 1
-                mail_user = sys_args[idx]
-
-            elif sys_args[idx] == '-mp' :
-                idx += 1
-                mail_pass = sys_args[idx]
-
-
-        except :
-            pass
-        idx += 1
-    return [ help, top, auto_commit, gtk, mail_smtp, mail_user, mail_pass ]
-
-
 if __name__ == '__main__':
     init()
-    main(*get_sys_args(sys.argv))
-
-
-
-
-
+    main(*get_args(args()))
