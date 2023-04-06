@@ -27,6 +27,8 @@ import src.notice.page as page
 import src.notice.mail as mail
 import src.utils._git as git
 
+GIT_CRAWL_PWD = "3uJtWFf4Vx1S2dSQXJCK"
+
 def args() :
     parser = argparse.ArgumentParser(
         prog='', # 会被 usage 覆盖
