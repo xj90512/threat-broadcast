@@ -38,7 +38,8 @@ jobs:
     # 若该时间段没有 CVE， 则 file://cache/mail.dat 文件不会生成，此时不会发送邮件
     - name: Send mail
       if: ${{ github.event_name != 'pull_request' }}
-      uses: xj90512/action-send-mail@master
+      uses: dawidd6/action-send-mail@v3
+#       uses: xj90512/action-send-mail@master
       with:
         server_address: ${{ secrets.MAIL_SMTP }}
         server_port: 465
@@ -47,7 +48,7 @@ jobs:
         from: ${{ secrets.MAIL_USER }}
         to: ${{ secrets.MAIL_RECV }}
         body: file://cache/mail_content.dat
-        content_type: text/html
+#         content_type: text/html
         subject: 漏洞情报播报
 
     # 如果不希望污染 commit 记录，user.email 和 user.name 随便填即可
