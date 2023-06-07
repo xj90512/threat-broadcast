@@ -1,11 +1,11 @@
 
 <h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://www.tenable.com/">Tenable (Nessus)</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-3140</font><br/>[<b>披露时间</b>] 2023-06-07 10:15:00<br/>[<b>漏洞描述</b>] Missing HTTP headers (X-Frame-Options, Content-Security-Policy) in KNIME Business Hub before 1.4.0 has left users vulnerable to click jacking. Clickjacking is an attack that occurs when an attacker uses a transparent iframe in a window to trick a user into clicking on an actionable item, such as a button or link, to another server in which they have an identical webpage. The attacker essentially hijacks the user activity intended for the original server and sends them to the other server.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2023-3140'>https://www.tenable.com/cve/CVE-2023-3140</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-2999</font><br/>[<b>披露时间</b>] 2023-06-07 20:29:10<br/>[<b>漏洞描述</b>] PHPMYFAQ PHPMYFAQ Vulnerability<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=f9639e3ea8604358bda922b9fb5147fa'>https://redqueen.tj-un.com/IntelDetails.html?id=f9639e3ea8604358bda922b9fb5147fa</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
