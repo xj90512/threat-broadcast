@@ -1,4 +1,4 @@
-<!-- RELEASE TIME : 2023-06-21 12:51:35 -->
+<!-- RELEASE TIME : 2023-06-21 13:32:06 -->
 <html lang="zh-cn">
 
  <head>
@@ -280,6 +280,14 @@
        <th scope="col">URL</th>
       </tr>
       <tr>
+       <td scope="row">1a33e6111b879061675e8e7e83294d3b</td>
+       <td>CVE-2023-34981</td>
+       <td>2023-06-21 11:15:00 <img src="imgs/new.gif" /></td>
+       <td>A regression in the fix for bug 66512 in Apache Tomcat 11.0.0-M5, 10.1.8, 9.0.74 and 8.5.88 meant that, if a response did not include any HTTP headers no AJP SEND_HEADERS messare woudl be sent for the response which in turn meant that at least one AJP proxy (mod_proxy_ajp) would use the response headers from the previous request leading to an information leak.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-34981">详情</a></td>
+      </tr>
+
+      <tr>
        <td scope="row">044ec1c2c978cb9aee8371bbce069d0a</td>
        <td>CVE-2023-34340</td>
        <td>2023-06-21 08:15:00 <img src="imgs/new.gif" /></td>
@@ -509,14 +517,6 @@
        <td>2023-06-20 10:15:00 <img src="imgs/new.gif" /></td>
        <td>Unauth. Reflected Cross-Site Scripting (XSS) vulnerability in Internet Marketing Dojo WP Affiliate Links plugin <= 0.1.1 versions.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-35097">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">6dfae03eef849dd54bf2624e1720317c</td>
-       <td>CVE-2023-1862</td>
-       <td>2023-06-20 09:15:00 <img src="imgs/new.gif" /></td>
-       <td>Cloudflare WARP client for Windows (up to v2023.3.381.0) allowed a malicious actor to remotely access the warp-svc.exe binary due to an insufficient access control policy on an IPC Named Pipe. This would have enabled an attacker to trigger WARP connect and disconnect commands, as well as obtaining network diagnostics and application configuration from the target's device. It is important to note that in order to exploit this, a set of requirements would need to be met, such as the target's device must've been reachable on port 445, allowed authentication with NULL sessions or otherwise having knowledge of the target's credentials.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-1862">详情</a></td>
       </tr>
 
      </tbody>
