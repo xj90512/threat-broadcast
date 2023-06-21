@@ -1,11 +1,12 @@
 
 <h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://www.tenable.com/">Tenable (Nessus)</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-35166</font><br/>[<b>披露时间</b>] 2023-06-20 20:15:00<br/>[<b>漏洞描述</b>] XWiki Platform is a generic wiki platform offering runtime services for applications built on top of it. It's possible to execute any wiki content with the right of the TipsPanel author by creating a tip UI extension. This has been patched in XWiki 15.1-rc-1 and 14.10.5.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2023-35166'>https://www.tenable.com/cve/CVE-2023-35166</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-3224</font><br/>[<b>披露时间</b>] 2023-06-14 02:46:44<br/>[<b>漏洞描述</b>] Nuxt.js <3.4.3 dev模式下代码执行漏洞（CVE-2023-3224）	
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2023-3224'>https://avd.aliyun.com/detail?id=AVD-2023-3224</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
