@@ -1,14 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">4</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">4</font>条由 [<a href="https://www.tenable.com/">Tenable (Nessus)</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="http://www.cnnvd.org.cn/">国家信息安全漏洞库（CNNVD）</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-38671</font><br/>[<b>披露时间</b>] 2023-07-26 11:15:00<br/>[<b>漏洞描述</b>] Heap buffer overflow in paddle.trace in PaddlePaddle before 2.5.0. This flaw can lead to a denial of service, information disclosure, or more damage is possible.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2023-38671'>https://www.tenable.com/cve/CVE-2023-38671</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-38670</font><br/>[<b>披露时间</b>] 2023-07-26 11:15:00<br/>[<b>漏洞描述</b>] Null pointer dereference in paddle.flip in PaddlePaddle before 2.5.0. This resulted in a runtime crash and denial of service.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2023-38670'>https://www.tenable.com/cve/CVE-2023-38670</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-28130</font><br/>[<b>披露时间</b>] 2023-07-26 11:15:00<br/>[<b>漏洞描述</b>] Local user may lead to privilege escalation using Gaia Portal hostnames page.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2023-28130'>https://www.tenable.com/cve/CVE-2023-28130</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-38669</font><br/>[<b>披露时间</b>] 2023-07-26 10:15:00<br/>[<b>漏洞描述</b>] Use after free in paddle.diagonal in PaddlePaddle before 2.5.0. This resulted in a potentially exploitable condition.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2023-38669'>https://www.tenable.com/cve/CVE-2023-38669</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 国家信息安全漏洞库（CNNVD）<br/>[<b>漏洞编号</b>] <font color='blue'>CNNVD-202307-2060 (CVE-2022-46902)</font><br/>[<b>披露时间</b>] 2023-07-25 14:37:41<br/>[<b>漏洞描述</b>] Vocera Report Server 安全漏洞<br/>[<b>相关链接</b>] <a href='http://www.cnnvd.org.cn/web/xxk/ldxqById.tag?CNNVD=CNNVD-202307-2060'>http://www.cnnvd.org.cn/web/xxk/ldxqById.tag?CNNVD=CNNVD-202307-2060</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
