@@ -1,11 +1,14 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">4</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://www.tenable.com/">Tenable (Nessus)</a>] 提供</li>
+    <li><font color="red">4</font>条由 [<a href="https://www.tenable.com/">Tenable (Nessus)</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-30577</font><br/>[<b>披露时间</b>] 2023-07-26 17:15:00<br/>[<b>漏洞描述</b>] AMANDA (Advanced Maryland Automatic Network Disk Archiver) before tag-community-3.5.4 mishandles argument checking for runtar.c, a different vulnerability than CVE-2022-37705.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2023-30577'>https://www.tenable.com/cve/CVE-2023-30577</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-3442</font><br/>[<b>披露时间</b>] 2023-07-26 19:15:00<br/>[<b>漏洞描述</b>] A missing authorization vulnerability exists in versions of the Jenkins Plug-in for ServiceNow DevOps prior to 1.38.1 that, if exploited successfully, could cause the unwanted exposure of sensitive information. To address this issue, apply the 1.38.1 version of the Jenkins plug-in for ServiceNow DevOps on your Jenkins server.  No changes are required on your instances of the Now Platform.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2023-3442'>https://www.tenable.com/cve/CVE-2023-3442</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-3414</font><br/>[<b>披露时间</b>] 2023-07-26 19:15:00<br/>[<b>漏洞描述</b>] A cross-site request forgery vulnerability exists in versions of the Jenkins Plug-in for ServiceNow DevOps prior to 1.38.1 that, if exploited successfully, could cause the unwanted exposure of sensitive information. To address this issue, apply the 1.38.1 version of the Jenkins plug-in for ServiceNow DevOps on your Jenkins server.  No changes are required on your instances of the Now Platform.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2023-3414'>https://www.tenable.com/cve/CVE-2023-3414</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-3242</font><br/>[<b>披露时间</b>] 2023-07-26 18:15:00<br/>[<b>漏洞描述</b>] Allocation of Resources Without Limits or Throttling, Improper Initialization vulnerability in B&R Industrial Automation B&R Automation Runtime allows Flooding, Leveraging Race Conditions.This issue affects B&R Automation Runtime: <G4.93.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2023-3242'>https://www.tenable.com/cve/CVE-2023-3242</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-30949</font><br/>[<b>披露时间</b>] 2023-07-26 18:15:00<br/>[<b>漏洞描述</b>] A missing origin validation in Slate sandbox could be exploited by a malicious user to modify the page's content, which could lead to phishing attacks.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2023-30949'>https://www.tenable.com/cve/CVE-2023-30949</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
