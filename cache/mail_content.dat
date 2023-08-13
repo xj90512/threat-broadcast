@@ -1,15 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">5</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">5</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://www.tenable.com/">Tenable (Nessus)</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2023-08-14 00:01:22<br/>[<b>漏洞描述</b>] 红帆iOffice.net zyy_AttFile.asmx SQL注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=9050'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=9050</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2023-08-14 00:01:22<br/>[<b>漏洞描述</b>] Nacos-Sync 未授权访问漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=9049'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=9049</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-4120</font><br/>[<b>披露时间</b>] 2023-08-14 00:01:22<br/>[<b>漏洞描述</b>] 百卓Smart S85F SQL注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=9048'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=9048</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-4121</font><br/>[<b>披露时间</b>] 2023-08-14 00:01:22<br/>[<b>漏洞描述</b>] 百卓Smart S85F 后台文件上传漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=9047'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=9047</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2023-08-14 00:01:22<br/>[<b>漏洞描述</b>] 帆软 channel 接口反序列化漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=9046'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=9046</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-23208</font><br/>[<b>披露时间</b>] 2023-08-13 21:15:00<br/>[<b>漏洞描述</b>] Genesys Administrator Extension (GAX) before 9.0.105.15 is vulnerable to Cross Site Scripting (XSS) via the Business Structure page of the iWD plugin, aka GAX-11261.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2023-23208'>https://www.tenable.com/cve/CVE-2023-23208</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
