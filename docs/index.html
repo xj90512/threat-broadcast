@@ -1,4 +1,4 @@
-<!-- RELEASE TIME : 2023-08-15 06:35:38 -->
+<!-- RELEASE TIME : 2023-08-15 11:35:22 -->
 <html lang="zh-cn">
 
  <head>
@@ -280,6 +280,22 @@
        <th scope="col">URL</th>
       </tr>
       <tr>
+       <td scope="row">84998a84fe5350b9b2e8435c3a3c0148</td>
+       <td>CVE-2023-2916</td>
+       <td>2023-08-15 09:15:00 <img src="imgs/new.gif" /></td>
+       <td>The InfiniteWP Client plugin for WordPress is vulnerable to Sensitive Information Exposure in versions up to, and including, 1.11.1 via the 'admin_notice' function. This can allow authenticated attackers with subscriber-level permissions or above to extract sensitive data including configuration. It can only be exploited if the plugin has not been configured yet. If combined with another arbitrary plugin installation and activation vulnerability, it may be possible to connect a site to InfiniteWP which would make remote management possible and allow for elevation of privileges.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-2916">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">237ed80e2b3ff03efc55f63b2656d7ac</td>
+       <td>CVE-2023-4308</td>
+       <td>2023-08-15 08:15:00 <img src="imgs/new.gif" /></td>
+       <td>The User Submitted Posts plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the ‘user-submitted-content’ parameter in versions up to, and including, 20230809 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-4308">详情</a></td>
+      </tr>
+
+      <tr>
        <td scope="row">59ec68d78bf184e49f4679ee873168f8</td>
        <td>CVE-2023-4347</td>
        <td>2023-08-15 02:15:00 <img src="imgs/new.gif" /></td>
@@ -501,22 +517,6 @@
        <td>2023-08-14 19:15:00 <img src="imgs/new.gif" /></td>
        <td>An issue was discovered in Tigergraph Enterprise 3.7.0. There is unsecured write access to SSH authorized keys file. Any code running as the tigergraph user is able to add their SSH public key into the authorised keys file. This allows an attacker to obtain password-less SSH key access by using their own SSH key.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-28481">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">e3407e1fbc9964e9005b7f488660cdb8</td>
-       <td>CVE-2023-28480</td>
-       <td>2023-08-14 19:15:00 <img src="imgs/new.gif" /></td>
-       <td>An issue was discovered in Tigergraph Enterprise 3.7.0. The TigerGraph platform allows users to define new User Defined Functions (UDFs) from C/C++ code. To support this functionality TigerGraph allows users to upload custom C/C++ code which is then compiled and installed into the platform. An attacker who has filesystem access on a remote TigerGraph system can alter the behavior of the database against the will of the database administrator; thus effectively bypassing the built in RBAC controls.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-28480">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">6e98767de0898d6e630ebc5ed23d68cf</td>
-       <td>CVE-2023-40360</td>
-       <td>2023-08-14 18:15:00 <img src="imgs/new.gif" /></td>
-       <td>QEMU through 8.0.4 accesses a NULL pointer in nvme_directive_receive in hw/nvme/ctrl.c because there is no check for whether an endurance group is configured before checking whether Flexible Data Placement is enabled.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-40360">详情</a></td>
       </tr>
 
      </tbody>
