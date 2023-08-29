@@ -5,7 +5,7 @@
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-40787</font><br/>[<b>披露时间</b>] 2023-08-29 13:15:00<br/>[<b>漏洞描述</b>] In SpringBlade V3.6.0 when executing SQL query, the parameters submitted by the user are not wrapped in quotation marks, which leads to SQL injection.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2023-40787'>https://www.tenable.com/cve/CVE-2023-40787</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-0238</font><br/>[<b>披露时间</b>] 2023-08-29 15:15:00<br/>[<b>漏洞描述</b>] Due to lack of a security policy, the WARP Mobile Client (<=6.29) for Android was susceptible to this vulnerability which allowed a malicious app installed on a victim's device to exploit a peculiarity in an Android function, wherein under certain conditions, the malicious app could dictate the task behaviour of the WARP app.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2023-0238'>https://www.tenable.com/cve/CVE-2023-0238</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
