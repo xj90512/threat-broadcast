@@ -1,4 +1,4 @@
-<!-- RELEASE TIME : 2023-09-01 04:34:17 -->
+<!-- RELEASE TIME : 2023-09-01 07:34:07 -->
 <html lang="zh-cn">
 
  <head>
@@ -280,6 +280,86 @@
        <th scope="col">URL</th>
       </tr>
       <tr>
+       <td scope="row">c1557a1dd78465428acd6141e8ccf4b8</td>
+       <td>CVE-2023-39912</td>
+       <td>2023-08-31 23:15:00 <img src="imgs/new.gif" /></td>
+       <td>Zoho ManageEngine ADManager Plus through 7202 allows admin users to download any file from the server machine via directory traversal.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-39912">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">810eff2d436198e09da057b864dd6fe0</td>
+       <td>CVE-2023-40576</td>
+       <td>2023-08-31 22:15:00 <img src="imgs/new.gif" /></td>
+       <td>FreeRDP is a free implementation of the Remote Desktop Protocol (RDP), released under the Apache license. Affected versions are subject to an Out-Of-Bounds Read in the `RleDecompress` function. This Out-Of-Bounds Read occurs because FreeRDP processes the `pbSrcBuffer` variable without checking if it contains data of sufficient length. Insufficient data in the `pbSrcBuffer` variable may cause errors or crashes. This issue has been addressed in version 3.0.0-beta3. Users are advised to upgrade. There are no known workarounds for this issue.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-40576">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">4d7bcc9af71fb1a1e4cd86e5d2fc3b01</td>
+       <td>CVE-2023-40575</td>
+       <td>2023-08-31 22:15:00 <img src="imgs/new.gif" /></td>
+       <td>FreeRDP is a free implementation of the Remote Desktop Protocol (RDP), released under the Apache license. Affected versions are subject to an Out-Of-Bounds Read in the `general_YUV444ToRGB_8u_P3AC4R_BGRX` function. This issue is likely down to insufficient data for the `pSrc` variable and results in crashes. This issue has been addressed in version 3.0.0-beta3. Users are advised to upgrade. There are no known workarounds for this issue.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-40575">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">b1dcfa967a05c8ea0f82cfde127fc509</td>
+       <td>CVE-2023-40574</td>
+       <td>2023-08-31 22:15:00 <img src="imgs/new.gif" /></td>
+       <td>FreeRDP is a free implementation of the Remote Desktop Protocol (RDP), released under the Apache license. Affected versions are subject to an Out-Of-Bounds Write in the `writePixelBGRX` function. This issue is likely down to incorrect calculations of the `nHeight` and `srcStep` variables. This issue has been addressed in version 3.0.0-beta3. Users are advised to upgrade. There are no known workarounds for this issue.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-40574">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">dd9fca2182b893afac5b1f01fe2f09d5</td>
+       <td>CVE-2023-40569</td>
+       <td>2023-08-31 22:15:00 <img src="imgs/new.gif" /></td>
+       <td>FreeRDP is a free implementation of the Remote Desktop Protocol (RDP), released under the Apache license. Affected versions are subject to an Out-Of-Bounds Write in the `progressive_decompress` function. This issue is likely down to incorrect calculations of the `nXSrc` and `nYSrc` variables. This issue has been addressed in versions 2.11.0 and 3.0.0-beta3. Users are advised to upgrade. there are no known workarounds for this vulnerability.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-40569">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">e71edaef8cf88a447c9990000f576c3c</td>
+       <td>CVE-2023-40567</td>
+       <td>2023-08-31 22:15:00 <img src="imgs/new.gif" /></td>
+       <td>FreeRDP is a free implementation of the Remote Desktop Protocol (RDP), released under the Apache license. Affected versions are subject to an Out-Of-Bounds Write in the `clear_decompress_bands_data` function in which there is no offset validation. Abuse of this vulnerability may lead to an out of bounds write. This issue has been addressed in versions 2.11.0 and 3.0.0-beta3. Users are advised to upgrade. there are no known workarounds for this vulnerability.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-40567">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">3fd669cd0833adc74f2b004b990ed8a0</td>
+       <td>CVE-2023-40188</td>
+       <td>2023-08-31 22:15:00 <img src="imgs/new.gif" /></td>
+       <td>FreeRDP is a free implementation of the Remote Desktop Protocol (RDP), released under the Apache license. Affected versions are subject to an Out-Of-Bounds Read in the `general_LumaToYUV444` function. This Out-Of-Bounds Read occurs because processing is done on the `in` variable without checking if it contains data of sufficient length. Insufficient data for the `in` variable may cause errors or crashes. This issue has been addressed in versions 2.11.0 and 3.0.0-beta3. Users are advised to upgrade. There are no known workarounds for this issue.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-40188">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">b74a02a905d6a9cbf7f26f47d24b2dc9</td>
+       <td>CVE-2023-40187</td>
+       <td>2023-08-31 22:15:00 <img src="imgs/new.gif" /></td>
+       <td>FreeRDP is a free implementation of the Remote Desktop Protocol (RDP), released under the Apache license. Affected versions of the 3.x beta branch are subject to a Use-After-Free issue in the `avc420_ensure_buffer` and `avc444_ensure_buffer` functions. If the value of `piDstSize[x]` is 0, `ppYUVDstData[x]` will be freed. However, in this case `ppYUVDstData[x]` will not have been updated which leads to a Use-After-Free vulnerability. This issue has been addressed in version 3.0.0-beta3. Users of the 3.x beta releases are advised to upgrade. There are no known workarounds for this vulnerability.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-40187">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">64309658569ec5abb07a60bae1508876</td>
+       <td>CVE-2023-40186</td>
+       <td>2023-08-31 22:15:00 <img src="imgs/new.gif" /></td>
+       <td>FreeRDP is a free implementation of the Remote Desktop Protocol (RDP), released under the Apache license. Affected versions are subject to an IntegerOverflow leading to Out-Of-Bound Write Vulnerability in the `gdi_CreateSurface` function. This issue affects FreeRDP based clients only. FreeRDP proxies are not affected as image decoding is not done by a proxy. This issue has been addressed in versions 2.11.0 and 3.0.0-beta3. Users are advised to upgrade. There are no known workarounds for this issue.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-40186">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">ec546a8e89602901fcb958c307d164e0</td>
+       <td>CVE-2023-40181</td>
+       <td>2023-08-31 22:15:00 <img src="imgs/new.gif" /></td>
+       <td>FreeRDP is a free implementation of the Remote Desktop Protocol (RDP), released under the Apache license. Affected versions are subject to an Integer-Underflow leading to Out-Of-Bound Read in the `zgfx_decompress_segment` function. In the context of `CopyMemory`, it's possible to read data beyond the transmitted packet range and likely cause a crash. This issue has been addressed in versions 2.11.0 and 3.0.0-beta3. Users are advised to upgrade. There are no known workarounds for this issue.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-40181">详情</a></td>
+      </tr>
+
+      <tr>
        <td scope="row">4b1aa3256d3325e863d58d90be9d8e77</td>
        <td>CVE-2023-33833</td>
        <td>2023-08-31 13:15:00 <img src="imgs/new.gif" /></td>
@@ -437,86 +517,6 @@
        <td>2023-08-31 01:15:00 <img src="imgs/new.gif" /></td>
        <td>Sensitive Cookie in HTTPS Session Without 'Secure' Attribute in GitHub repository instantsoft/icms2 prior to 2.16.1.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-4654">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">efd9131d3b3e73dc1015ba59e0fb1651</td>
-       <td>CVE-2023-4653</td>
-       <td>2023-08-31 01:15:00 <img src="imgs/new.gif" /></td>
-       <td>Cross-site Scripting (XSS) - Stored in GitHub repository instantsoft/icms2 prior to 2.16.1-git.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-4653">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">192204e189796ab901466f6ffdaa0373</td>
-       <td>CVE-2023-4652</td>
-       <td>2023-08-31 01:15:00 <img src="imgs/new.gif" /></td>
-       <td>Cross-site Scripting (XSS) - Stored in GitHub repository instantsoft/icms2 prior to 2.16.1-git.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-4652">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">2c394697d2eb5ebdaeef32f755f90534</td>
-       <td>CVE-2023-4651</td>
-       <td>2023-08-31 01:15:00 <img src="imgs/new.gif" /></td>
-       <td>Server-Side Request Forgery (SSRF) in GitHub repository instantsoft/icms2 prior to 2.16.1.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-4651">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">430e2475136dd284272a9487947f0ed0</td>
-       <td>CVE-2023-4650</td>
-       <td>2023-08-31 01:15:00 <img src="imgs/new.gif" /></td>
-       <td>Improper Access Control in GitHub repository instantsoft/icms2 prior to 2.16.1-git.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-4650">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">24d26ade65fd5d8c0b864459ea96eeb8</td>
-       <td>CVE-2023-4649</td>
-       <td>2023-08-31 01:15:00 <img src="imgs/new.gif" /></td>
-       <td>Session Fixation in GitHub repository instantsoft/icms2 prior to 2.16.1.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-4649">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">247762d2171973867804d5c80b61f4dd</td>
-       <td>CVE-2023-4163</td>
-       <td>2023-08-31 01:15:00 <img src="imgs/new.gif" /></td>
-       <td>In Brocade Fabric OS before v9.2.0a, a local authenticated privileged user can trigger a buffer overflow condition, leading to a kernel panic with large input to buffers in the portcfgfportbuffers command.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-4163">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">cd5fc0107e18cd226b170721f90ce9f3</td>
-       <td>CVE-2023-4162</td>
-       <td>2023-08-31 01:15:00 <img src="imgs/new.gif" /></td>
-       <td>A segmentation fault can occur in Brocade Fabric OS after Brocade Fabric OS v9.0 and before Brocade Fabric OS v9.2.0a through the passwdcfg command. This could allow an authenticated privileged user local user to crash a Brocade Fabric OS swith using the cli “passwdcfg --set -expire -minDiff“.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-4162">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">f159e4f10bdf35c8c4156d718bd70ede</td>
-       <td>CVE-2023-31925</td>
-       <td>2023-08-31 01:15:00 <img src="imgs/new.gif" /></td>
-       <td>Brocade SANnav before v2.3.0 and v2.2.2a stores SNMPv3 Authentication passwords in plaintext. A privileged user could retrieve these credentials with knowledge and access to these log files. SNMP credentials could be seen in SANnav SupportSave if the capture is performed after an SNMP configuration failure causes an SNMP communication log dump.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-31925">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">b5b137a9b53f3c9fedcd6e1051e43d72</td>
-       <td>CVE-2023-23765</td>
-       <td>2023-08-30 23:15:00</td>
-       <td>An incorrect comparison vulnerability was identified in GitHub Enterprise Server that allowed commit smuggling by displaying an incorrect diff in a re-opened Pull Request. To exploit this vulnerability, an attacker would need write access to the repository. This vulnerability was reported via the  GitHub Bug Bounty Program https://bounty.github.com/ .</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-23765">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">a49bd776841ecca0387fc14c687a6a64</td>
-       <td>CVE-2023-41163</td>
-       <td>2023-08-30 22:15:00</td>
-       <td>A Reflected Cross-site scripting (XSS) vulnerability in the file manager tab in Usermin 2.000 allows remote attackers to inject arbitrary web script or HTML via the replace in results field while replacing the results under the tools drop down.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-41163">详情</a></td>
       </tr>
 
      </tbody>
@@ -2198,6 +2198,126 @@
        <th scope="col">URL</th>
       </tr>
       <tr>
+       <td scope="row">251d8fa210d09239f1ca2f6888f923be</td>
+       <td>CVE-2023-35830</td>
+       <td>2023-09-01 07:31:59 <img src="imgs/new.gif" /></td>
+       <td>Sensor-Technik Wiedemann TCG-4远程代码执行漏洞</td>
+       <td><a target="_blank" href="http://www.nsfocus.net/vulndb/84061">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">2d215858d1baa81d1923719d4f3c5823</td>
+       <td>CVE-2023-21152</td>
+       <td>2023-09-01 07:31:59 <img src="imgs/new.gif" /></td>
+       <td>Google Android Kernel越界读取漏洞</td>
+       <td><a target="_blank" href="http://www.nsfocus.net/vulndb/84060">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">b4a84db6b4566bc545e90e2efbb16a02</td>
+       <td>CVE-2023-34849</td>
+       <td>2023-09-01 07:31:59 <img src="imgs/new.gif" /></td>
+       <td>IKuai OS命令注入漏洞</td>
+       <td><a target="_blank" href="http://www.nsfocus.net/vulndb/84059">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">d44898fc5edf7f66ce54897d4c9f29c3</td>
+       <td>CVE-2023-3357</td>
+       <td>2023-09-01 07:31:59 <img src="imgs/new.gif" /></td>
+       <td>Linux Kernel空指针解引用漏洞</td>
+       <td><a target="_blank" href="http://www.nsfocus.net/vulndb/84058">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">69fd06fc0bfe9dc6b2d8337830abe337</td>
+       <td>CVE-2023-3355</td>
+       <td>2023-09-01 07:31:59 <img src="imgs/new.gif" /></td>
+       <td>Linux Kernel空指针解引用漏洞</td>
+       <td><a target="_blank" href="http://www.nsfocus.net/vulndb/84057">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">ef6a22c83a38d61bab686e094a3bae88</td>
+       <td>CVE-2023-32612</td>
+       <td>2023-09-01 07:31:59 <img src="imgs/new.gif" /></td>
+       <td>WAVLINK WL-WN531AX2客户端强制执行漏洞</td>
+       <td><a target="_blank" href="http://www.nsfocus.net/vulndb/84056">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">06a62b94752e7e422191c7ce5a0c6e59</td>
+       <td>CVE-2023-21517</td>
+       <td>2023-09-01 07:31:59 <img src="imgs/new.gif" /></td>
+       <td>Samsung Mobile堆越界写入漏洞</td>
+       <td><a target="_blank" href="http://www.nsfocus.net/vulndb/84055">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">669f9af82e70677ffaa95b001211f6c9</td>
+       <td>CVE-2023-33190</td>
+       <td>2023-09-01 07:31:59 <img src="imgs/new.gif" /></td>
+       <td>Sealos身份认证错误漏洞</td>
+       <td><a target="_blank" href="http://www.nsfocus.net/vulndb/84054">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">49504c8211c2abaebe239c56f3933254</td>
+       <td>CVE-2023-1206</td>
+       <td>2023-09-01 07:31:59 <img src="imgs/new.gif" /></td>
+       <td>Linux Kernel不受控制的资源消耗漏洞</td>
+       <td><a target="_blank" href="http://www.nsfocus.net/vulndb/84053">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">c35339dbe79386de5c35a4326a8b2b05</td>
+       <td>CVE-2023-33298</td>
+       <td>2023-09-01 07:31:59 <img src="imgs/new.gif" /></td>
+       <td>Perimeter81权限提升漏洞</td>
+       <td><a target="_blank" href="http://www.nsfocus.net/vulndb/84052">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">18ca62d000a2aa7d4564a0219872338f</td>
+       <td>CVE-2023-34937</td>
+       <td>2023-09-01 07:31:59 <img src="imgs/new.gif" /></td>
+       <td>H3C Magic B1ST堆栈缓冲区溢出漏洞</td>
+       <td><a target="_blank" href="http://www.nsfocus.net/vulndb/84051">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">1d908cbd47bf4d986046cc778f7f9fea</td>
+       <td>CVE-2023-36469</td>
+       <td>2023-09-01 07:31:59 <img src="imgs/new.gif" /></td>
+       <td>XWiki Platform注入漏洞</td>
+       <td><a target="_blank" href="http://www.nsfocus.net/vulndb/84050">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">05ef2259392b5cdcc86fd438d3093152</td>
+       <td>CVE-2023-36470</td>
+       <td>2023-09-01 07:31:59 <img src="imgs/new.gif" /></td>
+       <td>XWiki Platform注入漏洞</td>
+       <td><a target="_blank" href="http://www.nsfocus.net/vulndb/84049">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">5514685f5682546323fdd01162513aea</td>
+       <td>CVE-2023-21153</td>
+       <td>2023-09-01 07:31:59 <img src="imgs/new.gif" /></td>
+       <td>Google Android Kernel越界读取漏洞</td>
+       <td><a target="_blank" href="http://www.nsfocus.net/vulndb/84048">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">13e2f16fa5db3019e1e230b095c2302d</td>
+       <td>CVE-2023-20120</td>
+       <td>2023-09-01 07:31:59 <img src="imgs/new.gif" /></td>
+       <td>Cisco AsyncOS和Cisco Secure Email跨站脚本漏洞</td>
+       <td><a target="_blank" href="http://www.nsfocus.net/vulndb/84047">详情</a></td>
+      </tr>
+
+      <tr>
        <td scope="row">975ef7dc58875cf284b3913a934afa23</td>
        <td>CVE-2023-20006</td>
        <td>2023-08-31 07:32:15 <img src="imgs/new.gif" /></td>
@@ -2315,126 +2435,6 @@
        <td>2023-08-31 07:32:15 <img src="imgs/new.gif" /></td>
        <td>Cisco AsyncOS和Cisco Secure Email跨站脚本漏洞</td>
        <td><a target="_blank" href="http://www.nsfocus.net/vulndb/83962">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">c06c86c8f7dcfe89496310ae22f17107</td>
-       <td>CVE-2023-2852</td>
-       <td>2023-08-31 03:32:19 <img src="imgs/new.gif" /></td>
-       <td>Softmed SelfPatron SQL注入漏洞</td>
-       <td><a target="_blank" href="http://www.nsfocus.net/vulndb/84022">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">18dd634323d86b9a944f5f0277d4848f</td>
-       <td>CVE-2023-3045</td>
-       <td>2023-08-31 03:32:19 <img src="imgs/new.gif" /></td>
-       <td>Tise Technology Parking Web Report SQL注入漏洞</td>
-       <td><a target="_blank" href="http://www.nsfocus.net/vulndb/84021">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">68f2c7f2a320eb123cef42d68b8ba1db</td>
-       <td>CVE-2023-35699</td>
-       <td>2023-08-31 03:32:19 <img src="imgs/new.gif" /></td>
-       <td>SICK ICR890-4敏感信息明文存储漏洞</td>
-       <td><a target="_blank" href="http://www.nsfocus.net/vulndb/84020">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">974e5accb65cd73b9c1e4f271c23cc46</td>
-       <td>CVE-2023-3175</td>
-       <td>2023-08-31 03:32:19 <img src="imgs/new.gif" /></td>
-       <td>WordPress AI ChatBot plugin跨站脚本漏洞</td>
-       <td><a target="_blank" href="http://www.nsfocus.net/vulndb/84019">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">e5c97e9522878606b80a9b04ac9ef3da</td>
-       <td>CVE-2023-34842</td>
-       <td>2023-08-31 03:32:19 <img src="imgs/new.gif" /></td>
-       <td>Desdev DedeCMS远程代码执行漏洞</td>
-       <td><a target="_blank" href="http://www.nsfocus.net/vulndb/84018">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">bf45b85ff482b43a3215215d0c4e22c5</td>
-       <td>CVE-2021-4384</td>
-       <td>2023-08-31 03:32:19 <img src="imgs/new.gif" /></td>
-       <td>WordPress Photo Gallery – Image Gallery plugin跨站请求伪造漏洞</td>
-       <td><a target="_blank" href="http://www.nsfocus.net/vulndb/84017">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">56f1b61ab6671ecfa646f49e909a227f</td>
-       <td>CVE-2015-10119</td>
-       <td>2023-08-31 03:32:19 <img src="imgs/new.gif" /></td>
-       <td>WordPress view-all-posts-pages plugin跨站脚本漏洞</td>
-       <td><a target="_blank" href="http://www.nsfocus.net/vulndb/84016">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">5790051e251116bbb04e46075b765c46</td>
-       <td>CVE-2020-36742</td>
-       <td>2023-08-31 03:32:19 <img src="imgs/new.gif" /></td>
-       <td>WordPress Custom Field Template Plugin跨站请求伪造漏洞</td>
-       <td><a target="_blank" href="http://www.nsfocus.net/vulndb/84015">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">63b8667920cc8a3dbec18d755a0d5b68</td>
-       <td>CVE-2021-4390</td>
-       <td>2023-08-31 03:32:19 <img src="imgs/new.gif" /></td>
-       <td>WordPress Contact Form 7 Style Plugin跨站请求伪造漏洞</td>
-       <td><a target="_blank" href="http://www.nsfocus.net/vulndb/84014">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">ba555ecb7c8d5fe3f46bc73bc7a5313f</td>
-       <td>CVE-2020-36746</td>
-       <td>2023-08-31 03:32:19 <img src="imgs/new.gif" /></td>
-       <td>WordPress Menu Swapper Plugin跨站请求伪造漏洞</td>
-       <td><a target="_blank" href="http://www.nsfocus.net/vulndb/84013">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">476c541fc1b36b7219a71f16faf4cf60</td>
-       <td>CVE-2021-4397</td>
-       <td>2023-08-31 03:32:19 <img src="imgs/new.gif" /></td>
-       <td>WordPress Staff Directory Plugin跨站请求伪造漏洞</td>
-       <td><a target="_blank" href="http://www.nsfocus.net/vulndb/84012">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">98a8b671a223987273d671f8a98a99c2</td>
-       <td>CVE-2023-1208</td>
-       <td>2023-08-31 03:32:19 <img src="imgs/new.gif" /></td>
-       <td>WordPress HTTP Headers Plugin远程代码执行漏洞</td>
-       <td><a target="_blank" href="http://www.nsfocus.net/vulndb/84011">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">b1a3407441162266e42815148d58333f</td>
-       <td>CVE-2021-4403</td>
-       <td>2023-08-31 03:32:19 <img src="imgs/new.gif" /></td>
-       <td>WordPress Remove Schema Plugin跨站请求伪造漏洞</td>
-       <td><a target="_blank" href="http://www.nsfocus.net/vulndb/84010">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">6c47c5209ae02676c484117921b6d5da</td>
-       <td>CVE-2020-22597</td>
-       <td>2023-08-31 03:32:19 <img src="imgs/new.gif" /></td>
-       <td>JerryScript任意代码执行漏洞</td>
-       <td><a target="_blank" href="http://www.nsfocus.net/vulndb/84009">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">5a8aca0d8f2a629c5abde150c86d0107</td>
-       <td>CVE-2023-36814</td>
-       <td>2023-08-31 03:32:19 <img src="imgs/new.gif" /></td>
-       <td>Zope Products.CMFCore拒绝服务漏洞</td>
-       <td><a target="_blank" href="http://www.nsfocus.net/vulndb/84008">详情</a></td>
       </tr>
 
      </tbody>
