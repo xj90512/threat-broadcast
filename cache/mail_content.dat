@@ -5,7 +5,7 @@
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 美国国家漏洞数据库（NVD）<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-4650</font><br/>[<b>披露时间</b>] 2023-08-31 01:15:09 <br/>[<b>漏洞描述</b>] Improper Access Control in GitHub repository instantsoft/icms2 prior to 2.16.1-git.<br/>[<b>相关链接</b>] <a href='https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-4650'>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-4650</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 美国国家漏洞数据库（NVD）<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-4647</font><br/>[<b>披露时间</b>] 2023-09-01 11:15:43 <br/>[<b>漏洞描述</b>] An issue has been discovered in GitLab affecting all versions starting from 15.2 before 16.1.5, all versions starting from 16.2 before 16.2.5, all versions starting from 16.3 before 16.3.1 in which the projects API pagination can be skipped, potentially leading to DoS on certain instances.<br/>[<b>相关链接</b>] <a href='https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-4647'>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-4647</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
