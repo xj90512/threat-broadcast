@@ -1,11 +1,12 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">2</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://nvd.nist.gov/">美国国家漏洞数据库（NVD）</a>] 提供</li>
+    <li><font color="red">2</font>条由 [<a href="https://nvd.nist.gov/">美国国家漏洞数据库（NVD）</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 美国国家漏洞数据库（NVD）<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-4685</font><br/>[<b>披露时间</b>] 2023-09-07 18:15:07 <br/>[<b>漏洞描述</b>] Delta Electronics' CNCSoft-B version 1.0.0.4 and DOPSoft versions 4.0.0.82 and prior are vulnerable to stack-based buffer overflow, which could allow an attacker to execute arbitrary code.<br/>[<b>相关链接</b>] <a href='https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-4685'>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-4685</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 美国国家漏洞数据库（NVD）<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-4634</font><br/>[<b>披露时间</b>] 2023-09-06 09:15:08 <br/>[<b>漏洞描述</b>] The Media Library Assistant plugin for WordPress is vulnerable to Local File Inclusion and Remote Code Execution in versions up to, and including, 3.09. This is due to insufficient controls on file paths being supplied to the 'mla_stream_file' parameter from the ~/includes/mla-stream-image.php file, where images are processed via Imagick(). This makes it possible for unauthenticated attackers to supply files via FTP that will make directory lists, local file inclusion, and remote code execution possible.<br/>[<b>相关链接</b>] <a href='https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-4634'>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-4634</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 美国国家漏洞数据库（NVD）<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-4623</font><br/>[<b>披露时间</b>] 2023-09-06 14:15:12 <br/>[<b>漏洞描述</b>] A use-after-free vulnerability in the Linux kernel's net/sched: sch_hfsc (HFSC qdisc traffic control) component can be exploited to achieve local privilege escalation.If a class with a link-sharing curve (i.e. with the HFSC_FSC flag set) has a parent without a link-sharing curve, then init_vf() will call vttree_insert() on the parent, but vttree_remove() will be skipped in update_vf(). This leaves a dangling pointer that can cause a use-after-free.We recommend upgrading past commit b3d26c5702c7d6c45456326e56d2ccf3f103e60f.<br/>[<b>相关链接</b>] <a href='https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-4623'>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-4623</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
