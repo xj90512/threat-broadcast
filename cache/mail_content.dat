@@ -1,11 +1,13 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">3</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://cert.360.cn/warning">360 网络安全响应中心</a>] 提供</li>
+    <li><font color="red">3</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 360 网络安全响应中心<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46747</font><br/>[<b>披露时间</b>] 2023-10-27 08:01:58<br/>[<b>漏洞描述</b>] CVE-2023-46747：F5 BIG-IP 远程代码执行漏洞通告<br/>[<b>相关链接</b>] <a href='https://cert.360.cn/warning/detail?id=653b6e76ea0822e915605e86'>https://cert.360.cn/warning/detail?id=653b6e76ea0822e915605e86</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2022-28832</font><br/>[<b>披露时间</b>] 2023-10-26 09:32:21<br/>[<b>漏洞描述</b>] Adobe InDesign越界读取漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/85724'>http://www.nsfocus.net/vulndb/85724</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2023-10-26 09:32:21<br/>[<b>漏洞描述</b>] Beijing Baichuo Smart S45F Multi-Service Secure Gateway Intelligent Management P<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/85723'>http://www.nsfocus.net/vulndb/85723</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-4869</font><br/>[<b>披露时间</b>] 2023-10-26 09:32:21<br/>[<b>漏洞描述</b>] Contact Manager App跨站请求伪造漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/85722'>http://www.nsfocus.net/vulndb/85722</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
