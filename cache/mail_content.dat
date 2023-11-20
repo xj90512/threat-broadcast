@@ -5,7 +5,7 @@
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2022-1471</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Snakeyaml_project Snakeyaml存在可信数据的反序列化漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=ccd6aa02-3b0c-402f-b14b-7244adbab1bd'>https://redqueen.tj-un.com/IntelDetails.html?id=ccd6aa02-3b0c-402f-b14b-7244adbab1bd</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-31102</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] 7-zip等厂商的多款产品存在整数下溢或超界折返漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=456c31a1-405a-4346-98de-0e9a7abbdf2e'>https://redqueen.tj-un.com/IntelDetails.html?id=456c31a1-405a-4346-98de-0e9a7abbdf2e</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
