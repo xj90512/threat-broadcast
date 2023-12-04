@@ -1,11 +1,25 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://cert.360.cn/warning">360 网络安全响应中心</a>] 提供</li>
+    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 360 网络安全响应中心<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2023-12-04 07:21:30<br/>[<b>漏洞描述</b>] 安全事件周报 2023-11-27 第48周<br/>[<b>相关链接</b>] <a href='https://cert.360.cn/warning/detail?id=656d7de7ea0822e91560603f'>https://cert.360.cn/warning/detail?id=656d7de7ea0822e91560603f</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-38865</font><br/>[<b>披露时间</b>] 2023-12-04 09:32:08<br/>[<b>漏洞描述</b>] COMFAST CF-XR11命令注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87482'>http://www.nsfocus.net/vulndb/87482</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-38401</font><br/>[<b>披露时间</b>] 2023-12-04 09:32:08<br/>[<b>漏洞描述</b>] HPE Aruba Networking Virtual Intranet Access权限提升漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87481'>http://www.nsfocus.net/vulndb/87481</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-4369</font><br/>[<b>披露时间</b>] 2023-12-04 09:32:08<br/>[<b>漏洞描述</b>] Google Chrome数据验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87480'>http://www.nsfocus.net/vulndb/87480</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-4368</font><br/>[<b>披露时间</b>] 2023-12-04 09:32:08<br/>[<b>漏洞描述</b>] Google Chrome策略实施错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87479'>http://www.nsfocus.net/vulndb/87479</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-4364</font><br/>[<b>披露时间</b>] 2023-12-04 09:32:08<br/>[<b>漏洞描述</b>] Google Chrome实现不当漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87478'>http://www.nsfocus.net/vulndb/87478</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-4363</font><br/>[<b>披露时间</b>] 2023-12-04 09:32:08<br/>[<b>漏洞描述</b>] Google Chrome实现不当漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87477'>http://www.nsfocus.net/vulndb/87477</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-4358</font><br/>[<b>披露时间</b>] 2023-12-04 09:32:08<br/>[<b>漏洞描述</b>] Google Chrome内存错误引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87476'>http://www.nsfocus.net/vulndb/87476</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-4357</font><br/>[<b>披露时间</b>] 2023-12-04 09:32:08<br/>[<b>漏洞描述</b>] Google Chrome输入验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87475'>http://www.nsfocus.net/vulndb/87475</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-4352</font><br/>[<b>披露时间</b>] 2023-12-04 09:32:08<br/>[<b>漏洞描述</b>] Google Chrome类型混淆漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87474'>http://www.nsfocus.net/vulndb/87474</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-2312</font><br/>[<b>披露时间</b>] 2023-12-04 09:32:08<br/>[<b>漏洞描述</b>] Google Chrome内存错误引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87473'>http://www.nsfocus.net/vulndb/87473</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-38915</font><br/>[<b>披露时间</b>] 2023-12-04 09:32:08<br/>[<b>漏洞描述</b>] EasyAdmin8任意文件上传漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87472'>http://www.nsfocus.net/vulndb/87472</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-38857</font><br/>[<b>披露时间</b>] 2023-12-04 09:32:08<br/>[<b>漏洞描述</b>] Faad2缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87471'>http://www.nsfocus.net/vulndb/87471</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-38851</font><br/>[<b>披露时间</b>] 2023-12-04 09:32:08<br/>[<b>漏洞描述</b>] libxls缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87470'>http://www.nsfocus.net/vulndb/87470</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-32003</font><br/>[<b>披露时间</b>] 2023-12-04 09:32:08<br/>[<b>漏洞描述</b>] Node.js路径遍历漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87469'>http://www.nsfocus.net/vulndb/87469</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-28199</font><br/>[<b>披露时间</b>] 2023-12-04 09:32:08<br/>[<b>漏洞描述</b>] Apple macOS Ventura越界读取漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87468'>http://www.nsfocus.net/vulndb/87468</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
