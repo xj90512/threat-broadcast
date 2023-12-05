@@ -1,11 +1,12 @@
 
 <h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-49103</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Owncloud Graph_api存在安全漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=4bcb4546-5ceb-452a-be4c-79a38f882612'>https://redqueen.tj-un.com/IntelDetails.html?id=4bcb4546-5ceb-452a-be4c-79a38f882612</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>AVD-2023-1699235</font><br/>[<b>披露时间</b>] 2023-10-27 08:34:08<br/>[<b>漏洞描述</b>] Yongyou U8cloud CacheInvokeServlet 反序列化代码执行漏洞
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2023-1699235'>https://avd.aliyun.com/detail?id=AVD-2023-1699235</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
