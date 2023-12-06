@@ -1,12 +1,25 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
+    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-22522</font><br/>[<b>披露时间</b>] 2023-12-06 06:35:02<br/>[<b>漏洞描述</b>] Atlassian Confluence 模板注入代码执行漏洞（CVE-2023-22522）
-                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2023-22522'>https://avd.aliyun.com/detail?id=AVD-2023-22522</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2022-48564</font><br/>[<b>披露时间</b>] 2023-12-06 09:32:10<br/>[<b>漏洞描述</b>] Python不受控制的资源消耗漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87578'>http://www.nsfocus.net/vulndb/87578</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-4373</font><br/>[<b>披露时间</b>] 2023-12-06 09:32:10<br/>[<b>漏洞描述</b>] Devolutions Remote Desktop Manager权限验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87577'>http://www.nsfocus.net/vulndb/87577</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2022-43357</font><br/>[<b>披露时间</b>] 2023-12-06 09:32:10<br/>[<b>漏洞描述</b>] LibSass堆栈溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87576'>http://www.nsfocus.net/vulndb/87576</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-25913</font><br/>[<b>披露时间</b>] 2023-12-06 09:32:10<br/>[<b>漏洞描述</b>] Danfoss AK-SM800A身份认证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87575'>http://www.nsfocus.net/vulndb/87575</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-3604</font><br/>[<b>披露时间</b>] 2023-12-06 09:32:10<br/>[<b>漏洞描述</b>] WordPress Change WP Admin Login Plugin身份认证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87574'>http://www.nsfocus.net/vulndb/87574</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-40352</font><br/>[<b>披露时间</b>] 2023-12-06 09:32:10<br/>[<b>漏洞描述</b>] McAfee Safe Connect不受控制的搜索路径元素漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87573'>http://www.nsfocus.net/vulndb/87573</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-38906</font><br/>[<b>披露时间</b>] 2023-12-06 09:32:10<br/>[<b>漏洞描述</b>] TP-LINK Smart bulb Tapo信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87572'>http://www.nsfocus.net/vulndb/87572</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-25914</font><br/>[<b>披露时间</b>] 2023-12-06 09:32:10<br/>[<b>漏洞描述</b>] Danfoss AK-SM800A路径遍历漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87571'>http://www.nsfocus.net/vulndb/87571</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-38908</font><br/>[<b>披露时间</b>] 2023-12-06 09:32:10<br/>[<b>漏洞描述</b>] TP-LINK Smart bulb Tapo信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87570'>http://www.nsfocus.net/vulndb/87570</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2020-24294</font><br/>[<b>披露时间</b>] 2023-12-06 09:32:10<br/>[<b>漏洞描述</b>] FreeImage缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87569'>http://www.nsfocus.net/vulndb/87569</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2020-18494</font><br/>[<b>披露时间</b>] 2023-12-06 09:32:10<br/>[<b>漏洞描述</b>] HDF Group HDF5缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87568'>http://www.nsfocus.net/vulndb/87568</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2020-19188</font><br/>[<b>披露时间</b>] 2023-12-06 09:32:10<br/>[<b>漏洞描述</b>] ncurses缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87567'>http://www.nsfocus.net/vulndb/87567</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2020-25887</font><br/>[<b>披露时间</b>] 2023-12-06 09:32:10<br/>[<b>漏洞描述</b>] Cesanta Mongoose缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87566'>http://www.nsfocus.net/vulndb/87566</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2020-35342</font><br/>[<b>披露时间</b>] 2023-12-06 09:32:10<br/>[<b>漏洞描述</b>] GNU Binutils初始化错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87565'>http://www.nsfocus.net/vulndb/87565</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2021-43171</font><br/>[<b>披露时间</b>] 2023-12-06 09:32:10<br/>[<b>漏洞描述</b>] App Lounge加密签名验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87564'>http://www.nsfocus.net/vulndb/87564</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
