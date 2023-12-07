@@ -1,25 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-39059</font><br/>[<b>披露时间</b>] 2023-12-07 09:32:26<br/>[<b>漏洞描述</b>] Red Hat ansible semaphore任意代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87627'>http://www.nsfocus.net/vulndb/87627</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-40857</font><br/>[<b>披露时间</b>] 2023-12-07 09:32:26<br/>[<b>漏洞描述</b>] VirusTotal yara缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87626'>http://www.nsfocus.net/vulndb/87626</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-38969</font><br/>[<b>披露时间</b>] 2023-12-07 09:32:26<br/>[<b>漏洞描述</b>] Badaso跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87625'>http://www.nsfocus.net/vulndb/87625</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-40590</font><br/>[<b>披露时间</b>] 2023-12-07 09:32:26<br/>[<b>漏洞描述</b>] GitPython不受信搜索路径漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87624'>http://www.nsfocus.net/vulndb/87624</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-40766</font><br/>[<b>披露时间</b>] 2023-12-07 09:32:26<br/>[<b>漏洞描述</b>] Ticket Support Script信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87623'>http://www.nsfocus.net/vulndb/87623</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-40765</font><br/>[<b>披露时间</b>] 2023-12-07 09:32:26<br/>[<b>漏洞描述</b>] Event Booking Calendar信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87622'>http://www.nsfocus.net/vulndb/87622</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-40760</font><br/>[<b>披露时间</b>] 2023-12-07 09:32:26<br/>[<b>漏洞描述</b>] Hotel Booking System信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87621'>http://www.nsfocus.net/vulndb/87621</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-40759</font><br/>[<b>披露时间</b>] 2023-12-07 09:32:26<br/>[<b>漏洞描述</b>] Restaurant Booking Script信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87620'>http://www.nsfocus.net/vulndb/87620</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-32457</font><br/>[<b>披露时间</b>] 2023-12-07 09:32:26<br/>[<b>漏洞描述</b>] Dell PowerScale OneFS权限管理错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87619'>http://www.nsfocus.net/vulndb/87619</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-32202</font><br/>[<b>披露时间</b>] 2023-12-07 09:32:26<br/>[<b>漏洞描述</b>] Walchem Intuition身份认证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87618'>http://www.nsfocus.net/vulndb/87618</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-40572</font><br/>[<b>披露时间</b>] 2023-12-07 09:32:26<br/>[<b>漏洞描述</b>] XWiki Platform跨站请求伪造漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87617'>http://www.nsfocus.net/vulndb/87617</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-2906</font><br/>[<b>披露时间</b>] 2023-12-07 09:32:26<br/>[<b>漏洞描述</b>] Wireshark除零漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87616'>http://www.nsfocus.net/vulndb/87616</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-40580</font><br/>[<b>披露时间</b>] 2023-12-07 09:32:26<br/>[<b>漏洞描述</b>] Freighter信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87615'>http://www.nsfocus.net/vulndb/87615</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-24620</font><br/>[<b>披露时间</b>] 2023-12-07 09:32:26<br/>[<b>漏洞描述</b>] YamlBeans XML外部实体引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87614'>http://www.nsfocus.net/vulndb/87614</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-38201</font><br/>[<b>披露时间</b>] 2023-12-07 09:32:26<br/>[<b>漏洞描述</b>] Keylime授权绕过漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87613'>http://www.nsfocus.net/vulndb/87613</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-22522</font><br/>[<b>披露时间</b>] 2023-12-08 00:22:03<br/>[<b>漏洞描述</b>] Confluence Data Center and Server 远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=9970'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=9970</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
