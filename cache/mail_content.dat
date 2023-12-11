@@ -1,28 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">16</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
-    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-39277</font><br/>[<b>披露时间</b>] 2023-12-11 09:32:35<br/>[<b>漏洞描述</b>] SonicWALL SonicOS堆栈缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87713'>http://www.nsfocus.net/vulndb/87713</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-39278</font><br/>[<b>披露时间</b>] 2023-12-11 09:32:35<br/>[<b>漏洞描述</b>] SonicWALL SonicOS堆栈缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87712'>http://www.nsfocus.net/vulndb/87712</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-39276</font><br/>[<b>披露时间</b>] 2023-12-11 09:32:35<br/>[<b>漏洞描述</b>] SonicWALL SonicOS堆栈缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87711'>http://www.nsfocus.net/vulndb/87711</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-41631</font><br/>[<b>披露时间</b>] 2023-12-11 09:32:35<br/>[<b>漏洞描述</b>] eSST Monitoring远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87710'>http://www.nsfocus.net/vulndb/87710</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-41630</font><br/>[<b>披露时间</b>] 2023-12-11 09:32:35<br/>[<b>漏洞描述</b>] eSST Monitoring代码注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87709'>http://www.nsfocus.net/vulndb/87709</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-41629</font><br/>[<b>披露时间</b>] 2023-12-11 09:32:35<br/>[<b>漏洞描述</b>] eSST Monitoring路径遍历漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87708'>http://www.nsfocus.net/vulndb/87708</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-42506</font><br/>[<b>披露时间</b>] 2023-12-11 09:32:35<br/>[<b>漏洞描述</b>] JTEKT ELECTRONICS OnSinView2内存缓冲区边界操作限制错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87707'>http://www.nsfocus.net/vulndb/87707</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-41712</font><br/>[<b>披露时间</b>] 2023-12-11 09:32:35<br/>[<b>漏洞描述</b>] SonicWALL SonicOS堆栈缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87706'>http://www.nsfocus.net/vulndb/87706</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-41715</font><br/>[<b>披露时间</b>] 2023-12-11 09:32:35<br/>[<b>漏洞描述</b>] SonicWALL SonicOS堆栈缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87705'>http://www.nsfocus.net/vulndb/87705</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-41711</font><br/>[<b>披露时间</b>] 2023-12-11 09:32:35<br/>[<b>漏洞描述</b>] SonicWALL SonicOS堆栈缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87704'>http://www.nsfocus.net/vulndb/87704</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-39280</font><br/>[<b>披露时间</b>] 2023-12-11 09:32:35<br/>[<b>漏洞描述</b>] SonicWALL SonicOS堆栈缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87703'>http://www.nsfocus.net/vulndb/87703</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-39279</font><br/>[<b>披露时间</b>] 2023-12-11 09:32:35<br/>[<b>漏洞描述</b>] SonicWALL SonicOS堆栈缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87702'>http://www.nsfocus.net/vulndb/87702</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-22110</font><br/>[<b>披露时间</b>] 2023-12-11 09:32:35<br/>[<b>漏洞描述</b>] Oracle MySQL Server拒绝服务漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87701'>http://www.nsfocus.net/vulndb/87701</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-22113</font><br/>[<b>披露时间</b>] 2023-12-11 09:32:35<br/>[<b>漏洞描述</b>] Oracle MySQL Server信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87700'>http://www.nsfocus.net/vulndb/87700</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-22121</font><br/>[<b>披露时间</b>] 2023-12-11 09:32:35<br/>[<b>漏洞描述</b>] Oracle Banking Trade Finance信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87699'>http://www.nsfocus.net/vulndb/87699</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>AVD-2023-1700015</font><br/>[<b>披露时间</b>] 2023-12-11 09:32:41<br/>[<b>漏洞描述</b>] WordPress 6.4.0 ~ 6.4.1 WP_HTML_Token 反序列化漏洞
-                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2023-1700015'>https://avd.aliyun.com/detail?id=AVD-2023-1700015</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-50164</font><br/>[<b>披露时间</b>] 2023-12-12 00:22:03<br/>[<b>漏洞描述</b>] Apache Struts2 远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=9985'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=9985</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
