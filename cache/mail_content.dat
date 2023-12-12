@@ -1,14 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">4</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">4</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5552</font><br/>[<b>披露时间</b>] 2023-12-12 07:32:07<br/>[<b>漏洞描述</b>] Sophos Firewall信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87745'>http://www.nsfocus.net/vulndb/87745</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-42507</font><br/>[<b>披露时间</b>] 2023-12-12 07:32:07<br/>[<b>漏洞描述</b>] JTEKT ELECTRONICS OnSinView2堆栈缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87744'>http://www.nsfocus.net/vulndb/87744</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-45810</font><br/>[<b>披露时间</b>] 2023-12-12 07:32:07<br/>[<b>漏洞描述</b>] OpenFGA不受控制的资源消耗漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87743'>http://www.nsfocus.net/vulndb/87743</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-45811</font><br/>[<b>披露时间</b>] 2023-12-12 07:32:07<br/>[<b>漏洞描述</b>] synchrony原型污染漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87742'>http://www.nsfocus.net/vulndb/87742</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-50164</font><br/>[<b>披露时间</b>] 2023-12-12 00:22:03<br/>[<b>漏洞描述</b>] Apache Struts2 存在远程代码执行漏洞(S2-066)<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=9985'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=9985</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
