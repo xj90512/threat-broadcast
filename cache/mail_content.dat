@@ -1,12 +1,27 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">16</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://cert.360.cn/warning">360 网络安全响应中心</a>] 提供</li>
+    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-49105</font><br/>[<b>披露时间</b>] 2023-11-22 07:32:38<br/>[<b>漏洞描述</b>] OwnCloud webdav 权限绕过致代码执行漏洞（CVE-2023-49105）
-                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2023-49105'>https://avd.aliyun.com/detail?id=AVD-2023-49105</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 360 网络安全响应中心<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2023-12-13 08:50:10<br/>[<b>漏洞描述</b>] 2023-12 补丁日: 微软多个漏洞安全更新通告<br/>[<b>相关链接</b>] <a href='https://cert.360.cn/warning/detail?id=65796f09ea0822e9156060b4'>https://cert.360.cn/warning/detail?id=65796f09ea0822e9156060b4</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-43803</font><br/>[<b>披露时间</b>] 2023-12-13 09:32:11<br/>[<b>漏洞描述</b>] Arduino Create Agent路径遍历漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87845'>http://www.nsfocus.net/vulndb/87845</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-43802</font><br/>[<b>披露时间</b>] 2023-12-13 09:32:11<br/>[<b>漏洞描述</b>] Arduino Create Agent路径遍历漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87844'>http://www.nsfocus.net/vulndb/87844</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-43801</font><br/>[<b>披露时间</b>] 2023-12-13 09:32:11<br/>[<b>漏洞描述</b>] Arduino Create Agent路径遍历漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87843'>http://www.nsfocus.net/vulndb/87843</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5204</font><br/>[<b>披露时间</b>] 2023-12-13 09:32:11<br/>[<b>漏洞描述</b>] WordPress ChatBot Plugin SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87842'>http://www.nsfocus.net/vulndb/87842</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-37503</font><br/>[<b>披露时间</b>] 2023-12-13 09:32:11<br/>[<b>漏洞描述</b>] HCL Technologies Compass弱密码请求漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87841'>http://www.nsfocus.net/vulndb/87841</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5254</font><br/>[<b>披露时间</b>] 2023-12-13 09:32:11<br/>[<b>漏洞描述</b>] WordPress ChatBot Plugin信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87840'>http://www.nsfocus.net/vulndb/87840</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-35663</font><br/>[<b>披露时间</b>] 2023-12-13 09:32:11<br/>[<b>漏洞描述</b>] Google Android越界读取漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87839'>http://www.nsfocus.net/vulndb/87839</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-45146</font><br/>[<b>披露时间</b>] 2023-12-13 09:32:11<br/>[<b>漏洞描述</b>] XXL-RPC不受信数据反序列化漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87838'>http://www.nsfocus.net/vulndb/87838</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-25753</font><br/>[<b>披露时间</b>] 2023-12-13 09:32:11<br/>[<b>漏洞描述</b>] Apache ShenYu服务器端请求伪造漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87837'>http://www.nsfocus.net/vulndb/87837</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-3254</font><br/>[<b>披露时间</b>] 2023-12-13 09:32:11<br/>[<b>漏洞描述</b>] WordPress Widgets for Google Reviews Plugin跨站请求伪造漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87836'>http://www.nsfocus.net/vulndb/87836</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5212</font><br/>[<b>披露时间</b>] 2023-12-13 09:32:11<br/>[<b>漏洞描述</b>] WordPress AI ChatBot Plugin任意文件删除漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87835'>http://www.nsfocus.net/vulndb/87835</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-26300</font><br/>[<b>披露时间</b>] 2023-12-13 09:32:11<br/>[<b>漏洞描述</b>] HP PC权限提升漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87834'>http://www.nsfocus.net/vulndb/87834</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2022-24404</font><br/>[<b>披露时间</b>] 2023-12-13 09:32:11<br/>[<b>漏洞描述</b>] TETRA BURST完整性检查值验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87833'>http://www.nsfocus.net/vulndb/87833</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-37502</font><br/>[<b>披露时间</b>] 2023-12-13 09:32:11<br/>[<b>漏洞描述</b>] HCL Technologies Compass任意文件上传漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87832'>http://www.nsfocus.net/vulndb/87832</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-36857</font><br/>[<b>披露时间</b>] 2023-12-13 09:32:11<br/>[<b>漏洞描述</b>] Baker Hughes Bently Nevada 3500身份认证绕过漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87831'>http://www.nsfocus.net/vulndb/87831</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
