@@ -1,11 +1,20 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">10</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://ti.qianxin.com/advisory/">奇安信</a>] 提供</li>
+    <li><font color="red">10</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 奇安信<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] wt<br/>[<b>漏洞描述</b>] QianxinTI-SV-2019-0015 Microsoft Windows RDP远程桌面服务多个远程代码执行漏洞通告<br/>[<b>相关链接</b>] <a href='Wt'>Wt</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-35621</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft Dynamics_365存在安全漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=71dc1d76-ceb2-4d4a-89ad-176c3f1aa5f2'>https://redqueen.tj-un.com/IntelDetails.html?id=71dc1d76-ceb2-4d4a-89ad-176c3f1aa5f2</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-41678</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Fortinet多款产品存在双重释放漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=9ec18e23-730f-4cac-a5fc-5646bb955094'>https://redqueen.tj-un.com/IntelDetails.html?id=9ec18e23-730f-4cac-a5fc-5646bb955094</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47573</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Relyum多款产品存在授权机制缺失漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=11702166-e38e-4151-87ed-2236db1ed0f3'>https://redqueen.tj-un.com/IntelDetails.html?id=11702166-e38e-4151-87ed-2236db1ed0f3</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-21740</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft多款产品存在漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=65926f46-9f76-4ece-bc80-074fa66b49f3'>https://redqueen.tj-un.com/IntelDetails.html?id=65926f46-9f76-4ece-bc80-074fa66b49f3</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2007-5090</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Ibm等厂商的多款产品存在漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=04a41909-9374-4004-acec-303ae0933b9d'>https://redqueen.tj-un.com/IntelDetails.html?id=04a41909-9374-4004-acec-303ae0933b9d</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-40716</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Fortinet Fortitester存在OS命令注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=6d487617-3eed-4fec-8ca5-8ad1c078217c'>https://redqueen.tj-un.com/IntelDetails.html?id=6d487617-3eed-4fec-8ca5-8ad1c078217c</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2016-9953</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Haxx等厂商的多款产品存在越界读取漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=51ba411d-de0c-4390-8736-06036505f582'>https://redqueen.tj-un.com/IntelDetails.html?id=51ba411d-de0c-4390-8736-06036505f582</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2016-9952</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Haxx等厂商的多款产品存在证书验证不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=4a6c0833-e51f-4f91-963e-a3946fa9f156'>https://redqueen.tj-un.com/IntelDetails.html?id=4a6c0833-e51f-4f91-963e-a3946fa9f156</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2008-2160</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft Windows_embedded_compact存在代码注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=bcbc9ff5-c8ec-49f6-b531-c850dac06fe7'>https://redqueen.tj-un.com/IntelDetails.html?id=bcbc9ff5-c8ec-49f6-b531-c850dac06fe7</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2006-6908</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Broadcom等厂商的多款产品存在漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=91c945c4-7f24-4fb7-9e23-52603ed0d14b'>https://redqueen.tj-un.com/IntelDetails.html?id=91c945c4-7f24-4fb7-9e23-52603ed0d14b</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
