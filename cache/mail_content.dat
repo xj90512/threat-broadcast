@@ -1,25 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://ti.qianxin.com/advisory/">奇安信</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-39731</font><br/>[<b>披露时间</b>] 2023-12-15 09:32:15<br/>[<b>漏洞描述</b>] Kaibutsunosato信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87989'>http://www.nsfocus.net/vulndb/87989</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-44385</font><br/>[<b>披露时间</b>] 2023-12-15 09:32:15<br/>[<b>漏洞描述</b>] Home Assistant客户端请求伪造漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87988'>http://www.nsfocus.net/vulndb/87988</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-43345</font><br/>[<b>披露时间</b>] 2023-12-15 09:32:15<br/>[<b>漏洞描述</b>] Quick CMS跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87987'>http://www.nsfocus.net/vulndb/87987</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-43340</font><br/>[<b>披露时间</b>] 2023-12-15 09:32:15<br/>[<b>漏洞描述</b>] Evolution CMS跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87986'>http://www.nsfocus.net/vulndb/87986</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-41899</font><br/>[<b>披露时间</b>] 2023-12-15 09:32:15<br/>[<b>漏洞描述</b>] Home Assistant服务器端请求伪造漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87985'>http://www.nsfocus.net/vulndb/87985</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-41898</font><br/>[<b>披露时间</b>] 2023-12-15 09:32:15<br/>[<b>漏洞描述</b>] Home Assistant代码注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87984'>http://www.nsfocus.net/vulndb/87984</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-41897</font><br/>[<b>披露时间</b>] 2023-12-15 09:32:15<br/>[<b>漏洞描述</b>] Home Assistant跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87983'>http://www.nsfocus.net/vulndb/87983</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5614</font><br/>[<b>披露时间</b>] 2023-12-15 09:32:15<br/>[<b>漏洞描述</b>] WordPress Theme Switcha Plugin跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87982'>http://www.nsfocus.net/vulndb/87982</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5613</font><br/>[<b>披露时间</b>] 2023-12-15 09:32:15<br/>[<b>漏洞描述</b>] WordPress Super Testimonials Plugin跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87981'>http://www.nsfocus.net/vulndb/87981</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46277</font><br/>[<b>披露时间</b>] 2023-12-15 09:32:15<br/>[<b>漏洞描述</b>] please权限提升漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87980'>http://www.nsfocus.net/vulndb/87980</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-34052</font><br/>[<b>披露时间</b>] 2023-12-15 09:32:15<br/>[<b>漏洞描述</b>] VMware Aria Operations for Logs不受信数据反序列化漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87979'>http://www.nsfocus.net/vulndb/87979</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-34051</font><br/>[<b>披露时间</b>] 2023-12-15 09:32:15<br/>[<b>漏洞描述</b>] VMware Aria Operations for Logs身份认证绕过漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87978'>http://www.nsfocus.net/vulndb/87978</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-45471</font><br/>[<b>披露时间</b>] 2023-12-15 09:32:15<br/>[<b>漏洞描述</b>] QAD Search Server跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87977'>http://www.nsfocus.net/vulndb/87977</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5668</font><br/>[<b>披露时间</b>] 2023-12-15 09:32:15<br/>[<b>漏洞描述</b>] WordPress WhatsApp Share Button Plugin跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87976'>http://www.nsfocus.net/vulndb/87976</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-40361</font><br/>[<b>披露时间</b>] 2023-12-15 09:32:15<br/>[<b>漏洞描述</b>] SECUDOS Qiata权限分配错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/87975'>http://www.nsfocus.net/vulndb/87975</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 奇安信<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] wt<br/>[<b>漏洞描述</b>] QianxinTI-SV-2019-0015 Microsoft Windows RDP远程桌面服务多个远程代码执行漏洞通告<br/>[<b>相关链接</b>] <a href='Wt'>Wt</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
