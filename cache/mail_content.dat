@@ -5,8 +5,8 @@
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-32725</font><br/>[<b>披露时间</b>] 2023-12-18 09:32:26<br/>[<b>漏洞描述</b>] Zabbix Server session 泄漏漏洞（CVE-2023-32725）
-                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2023-32725'>https://avd.aliyun.com/detail?id=AVD-2023-32725</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46279</font><br/>[<b>披露时间</b>] 2023-12-15 10:34:45<br/>[<b>漏洞描述</b>] Apache Dubbo 反序列化漏洞（CVE-2023-46279）
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2023-46279'>https://avd.aliyun.com/detail?id=AVD-2023-46279</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
