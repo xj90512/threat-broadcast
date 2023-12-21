@@ -1,25 +1,12 @@
 
-<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-34085</font><br/>[<b>披露时间</b>] 2023-12-21 07:32:18<br/>[<b>漏洞描述</b>] Ping Identity PingFederate信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/88265'>http://www.nsfocus.net/vulndb/88265</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-27262</font><br/>[<b>披露时间</b>] 2023-12-21 07:32:18<br/>[<b>漏洞描述</b>] IDAttend IDWeb SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/88264'>http://www.nsfocus.net/vulndb/88264</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-27257</font><br/>[<b>披露时间</b>] 2023-12-21 07:32:18<br/>[<b>漏洞描述</b>] IDAttend IDWeb身份认证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/88263'>http://www.nsfocus.net/vulndb/88263</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-27259</font><br/>[<b>披露时间</b>] 2023-12-21 07:32:18<br/>[<b>漏洞描述</b>] IDAttend IDWeb身份认证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/88262'>http://www.nsfocus.net/vulndb/88262</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-27375</font><br/>[<b>披露时间</b>] 2023-12-21 07:32:18<br/>[<b>漏洞描述</b>] IDAttend IDWeb身份认证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/88261'>http://www.nsfocus.net/vulndb/88261</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-27258</font><br/>[<b>披露时间</b>] 2023-12-21 07:32:18<br/>[<b>漏洞描述</b>] IDAttend IDWeb身份认证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/88260'>http://www.nsfocus.net/vulndb/88260</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-27261</font><br/>[<b>披露时间</b>] 2023-12-21 07:32:18<br/>[<b>漏洞描述</b>] IDAttend IDWeb身份认证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/88259'>http://www.nsfocus.net/vulndb/88259</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-27260</font><br/>[<b>披露时间</b>] 2023-12-21 07:32:18<br/>[<b>漏洞描述</b>] IDAttend IDWeb SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/88258'>http://www.nsfocus.net/vulndb/88258</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-27254</font><br/>[<b>披露时间</b>] 2023-12-21 07:32:18<br/>[<b>漏洞描述</b>] IDAttend IDWeb SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/88257'>http://www.nsfocus.net/vulndb/88257</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-26582</font><br/>[<b>披露时间</b>] 2023-12-21 07:32:18<br/>[<b>漏洞描述</b>] IDAttend IDWeb SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/88256'>http://www.nsfocus.net/vulndb/88256</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-27256</font><br/>[<b>披露时间</b>] 2023-12-21 07:32:18<br/>[<b>漏洞描述</b>] IDAttend IDWeb身份认证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/88255'>http://www.nsfocus.net/vulndb/88255</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-26584</font><br/>[<b>披露时间</b>] 2023-12-21 07:32:18<br/>[<b>漏洞描述</b>] IDAttend IDWeb SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/88254'>http://www.nsfocus.net/vulndb/88254</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-26583</font><br/>[<b>披露时间</b>] 2023-12-21 07:32:18<br/>[<b>漏洞描述</b>] IDAttend IDWeb SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/88253'>http://www.nsfocus.net/vulndb/88253</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-27376</font><br/>[<b>披露时间</b>] 2023-12-21 07:32:18<br/>[<b>漏洞描述</b>] IDAttend IDWeb身份认证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/88252'>http://www.nsfocus.net/vulndb/88252</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-27255</font><br/>[<b>披露时间</b>] 2023-12-21 07:32:18<br/>[<b>漏洞描述</b>] IDAttend IDWeb SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/88251'>http://www.nsfocus.net/vulndb/88251</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-32725</font><br/>[<b>披露时间</b>] 2023-12-18 09:32:26<br/>[<b>漏洞描述</b>] Zabbix Server session 泄漏漏洞（CVE-2023-32725）
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2023-32725'>https://avd.aliyun.com/detail?id=AVD-2023-32725</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
