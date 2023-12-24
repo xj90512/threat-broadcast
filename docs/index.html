@@ -1,4 +1,4 @@
-<!-- RELEASE TIME : 2023-12-24 02:41:12 -->
+<!-- RELEASE TIME : 2023-12-24 23:34:02 -->
 <html lang="zh-cn">
 
  <head>
@@ -280,6 +280,70 @@
        <th scope="col">URL</th>
       </tr>
       <tr>
+       <td scope="row">71c15fe8d5b022c27e091a6a7e18ab6e</td>
+       <td>CVE-2023-51767</td>
+       <td>2023-12-24 07:15:07 <img src="imgs/new.gif" /></td>
+       <td>OpenSSH through 9.6, when common types of DRAM are used, might allow row hammer attacks (for authentication bypass) because the integer value of authenticated in mm_answer_authpassword does not resist flips of a single bit. NOTE: this is applicable to a certain threat model of attacker-victim co-location in which the attacker has user privileges.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-51767">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">caa23cedd1970b000c413e22706214d3</td>
+       <td>CVE-2023-51766</td>
+       <td>2023-12-24 06:15:07 <img src="imgs/new.gif" /></td>
+       <td>Exim through 4.97 allows SMTP smuggling in certain configurations. Remote attackers can use a published exploitation technique to inject e-mail messages that appear to originate from the Exim server, allowing bypass of an SPF protection mechanism. This occurs because Exim supports <LF>.<CR><LF> but some other popular e-mail servers do not.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-51766">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">6d96384af68e256e52ce72b367e56e2a</td>
+       <td>CVE-2023-51765</td>
+       <td>2023-12-24 06:15:07 <img src="imgs/new.gif" /></td>
+       <td>sendmail through at least 8.14.7 allows SMTP smuggling in certain configurations. Remote attackers can use a published exploitation technique to inject e-mail messages that appear to originate from the sendmail server, allowing bypass of an SPF protection mechanism. This occurs because sendmail supports <LF>.<CR><LF> but some other popular e-mail servers do not.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-51765">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">f0f362b4750c32f53d07b6bfcaec71d1</td>
+       <td>CVE-2023-51764</td>
+       <td>2023-12-24 05:15:08 <img src="imgs/new.gif" /></td>
+       <td>Postfix through 3.8.4 allows SMTP smuggling unless configured with smtpd_data_restrictions=reject_unauth_pipelining (or certain other options that exist in recent versions). Remote attackers can use a published exploitation technique to inject e-mail messages that appear to originate from the Postfix server, allowing bypass of an SPF protection mechanism. This occurs because Postfix supports <LF>.<CR><LF> but some other popular e-mail servers do not. To prevent attack variants (by always disallowing <LF> without <CR>), a different solution is required: the smtpd_forbid_bare_newline=yes option with a Postfix minimum version of 3.5.23, 3.6.13, 3.7.9, 3.8.4, or 3.9.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-51764">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">2cb6cf148fbcb1ecd38158d48eea9a34</td>
+       <td>CVE-2023-51763</td>
+       <td>2023-12-24 04:15:07 <img src="imgs/new.gif" /></td>
+       <td>csv_builder.rb in ActiveAdmin (aka Active Admin) before 3.2.0 allows CSV injection.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-51763">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">fc8b77142f0dc7e758ed5cdffb16e001</td>
+       <td>CVE-2023-7090</td>
+       <td>2023-12-23 23:15:07 <img src="imgs/new.gif" /></td>
+       <td>A flaw was found in sudo in the handling of ipa_hostname, where ipa_hostname from /etc/sssd/sssd.conf was not propagated in sudo. Therefore, it leads to privilege mismanagement vulnerability in applications, where client hosts retain privileges even after retracting them.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-7090">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">ddc16d8025c6e6b91e538bc6bf3246e9</td>
+       <td>CVE-2023-49594</td>
+       <td>2023-12-23 20:15:38 <img src="imgs/new.gif" /></td>
+       <td>An information disclosure vulnerability exists in the challenge functionality of instipod DuoUniversalKeycloakAuthenticator 1.0.7 plugin. A specially crafted HTTP request can lead to a disclosure of sensitive information. An user login to Keycloak using DuoUniversalKeycloakAuthenticator plugin triggers this vulnerability.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-49594">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">beceb7c0d2d3b597435b1f50f1d77670</td>
+       <td>CVE-2016-15036</td>
+       <td>2023-12-23 20:15:37 <img src="imgs/new.gif" /></td>
+       <td>** UNSUPPORTED WHEN ASSIGNED ** A vulnerability was found in Deis Workflow Manager up to 2.3.2. It has been classified as problematic. This affects an unknown part. The manipulation leads to race condition. The complexity of an attack is rather high. The exploitability is told to be difficult. Upgrading to version 2.3.3 is able to address this issue. The patch is named 31fe3bccbdde134a185752e53380330d16053f7f. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-248847. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2016-15036">详情</a></td>
+      </tr>
+
+      <tr>
        <td scope="row">80d0a2bfbcab164eb3dda5e24ed93ce3</td>
        <td>CVE-2014-125108</td>
        <td>2023-12-23 17:15:07 <img src="imgs/new.gif" /></td>
@@ -453,70 +517,6 @@
        <td>2023-12-20 19:15:10</td>
        <td>Unrestricted Upload of File with Dangerous Type vulnerability in Symbiostock symbiostock.This issue affects Symbiostock: from n/a through 6.0.0.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-49814">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">5e2c182ad11761d029ccf158a09cd328</td>
-       <td>CVE-2023-47990</td>
-       <td>2023-12-20 19:15:10</td>
-       <td>SQL Injection vulnerability in components/table_manager/html/edit_admin_table.php in CuppaCMS V1.0 allows attackers to run arbitrary SQL commands via the table parameter.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-47990">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">43106159afc4a6898263f3863ed09e4c</td>
-       <td>CVE-2023-47784</td>
-       <td>2023-12-20 19:15:10</td>
-       <td>Unrestricted Upload of File with Dangerous Type vulnerability in ThemePunch OHG Slider Revolution.This issue affects Slider Revolution: from n/a through 6.6.15.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-47784">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">728649121ca7a28a47aa1a39997683dc</td>
-       <td>CVE-2023-46149</td>
-       <td>2023-12-20 19:15:10</td>
-       <td>Unrestricted Upload of File with Dangerous Type vulnerability in Themify Themify Ultra.This issue affects Themify Ultra: from n/a through 7.3.5.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-46149">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">8c28e2129d512577c2c9c4fbc5a34dab</td>
-       <td>CVE-2023-45603</td>
-       <td>2023-12-20 19:15:10</td>
-       <td>Unrestricted Upload of File with Dangerous Type vulnerability in Jeff Starr User Submitted Posts – Enable Users to Submit Posts from the Front End.This issue affects User Submitted Posts – Enable Users to Submit Posts from the Front End: from n/a through 20230902.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-45603">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">52a7848d8ca280360a402dbe39f7951d</td>
-       <td>CVE-2023-40204</td>
-       <td>2023-12-20 19:15:09</td>
-       <td>Unrestricted Upload of File with Dangerous Type vulnerability in Premio Folders – Unlimited Folders to Organize Media Library Folder, Pages, Posts, File Manager.This issue affects Folders – Unlimited Folders to Organize Media Library Folder, Pages, Posts, File Manager: from n/a through 2.9.2.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-40204">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">8f49e7b3e19fcee6c4fa0a1bd02ceef1</td>
-       <td>CVE-2023-34385</td>
-       <td>2023-12-20 19:15:09</td>
-       <td>Unrestricted Upload of File with Dangerous Type vulnerability in Akshay Menariya Export Import Menus.This issue affects Export Import Menus: from n/a through 1.8.0.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-34385">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">7546004e7a0910c11efc898425aef3d4</td>
-       <td>CVE-2023-34007</td>
-       <td>2023-12-20 19:15:09</td>
-       <td>Unrestricted Upload of File with Dangerous Type vulnerability in WPChill Download Monitor.This issue affects Download Monitor: from n/a through 4.8.3.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-34007">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">d4e508eb4267dc72e112015ed7d08a0e</td>
-       <td>CVE-2023-33318</td>
-       <td>2023-12-20 19:15:09</td>
-       <td>Unrestricted Upload of File with Dangerous Type vulnerability in WooCommerce AutomateWoo.This issue affects AutomateWoo: from n/a through 4.9.40.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-33318">详情</a></td>
       </tr>
 
      </tbody>
