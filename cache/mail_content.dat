@@ -1,11 +1,19 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">9</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
+    <li><font color="red">9</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-51385</font><br/>[<b>披露时间</b>] 2023-12-26 00:08:28<br/>[<b>漏洞描述</b>] OpenSSH ProxyCommand命令注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=10055'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=10055</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-50992</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Tenda多款产品存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=831c1717-2997-4311-8456-9e4f91dbe49e'>https://redqueen.tj-un.com/IntelDetails.html?id=831c1717-2997-4311-8456-9e4f91dbe49e</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-50990</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Tenda多款产品存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=a3680f26-4874-4776-b4a4-d5686f1a6dfd'>https://redqueen.tj-un.com/IntelDetails.html?id=a3680f26-4874-4776-b4a4-d5686f1a6dfd</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-50989</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Tenda多款产品存在命令注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=b4aeb1d0-e789-4e28-bd7a-e305a6916895'>https://redqueen.tj-un.com/IntelDetails.html?id=b4aeb1d0-e789-4e28-bd7a-e305a6916895</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-50988</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Tenda多款产品存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=892d375c-b3f3-4a14-b3ff-7de40b212946'>https://redqueen.tj-un.com/IntelDetails.html?id=892d375c-b3f3-4a14-b3ff-7de40b212946</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-50987</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Tenda多款产品存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=05e18f53-2607-4bd0-8966-cace1628e7bb'>https://redqueen.tj-un.com/IntelDetails.html?id=05e18f53-2607-4bd0-8966-cace1628e7bb</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-50986</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Tenda多款产品存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=63de00ab-1f80-4477-b1ab-f9a555458e32'>https://redqueen.tj-un.com/IntelDetails.html?id=63de00ab-1f80-4477-b1ab-f9a555458e32</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-50985</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Tenda多款产品存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=57f26153-f5c6-4986-8e5d-fefd9dffc382'>https://redqueen.tj-un.com/IntelDetails.html?id=57f26153-f5c6-4986-8e5d-fefd9dffc382</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-50984</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Tenda多款产品存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=dc7a7228-85ae-4efb-afd9-0a1fd985beb7'>https://redqueen.tj-un.com/IntelDetails.html?id=dc7a7228-85ae-4efb-afd9-0a1fd985beb7</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-50983</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Tenda多款产品存在命令注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=8c0f652d-9ba9-4688-ab34-9b8aceae3d2e'>https://redqueen.tj-un.com/IntelDetails.html?id=8c0f652d-9ba9-4688-ab34-9b8aceae3d2e</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
