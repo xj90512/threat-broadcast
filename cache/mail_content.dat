@@ -1,25 +1,12 @@
 
-<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6615</font><br/>[<b>披露时间</b>] 2024-01-15 03:32:19<br/>[<b>漏洞描述</b>] Typecho信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89372'>http://www.nsfocus.net/vulndb/89372</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6616</font><br/>[<b>披露时间</b>] 2024-01-15 03:32:19<br/>[<b>漏洞描述</b>] SourceCodester Simple Student Attendance System跨站脚本执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89371'>http://www.nsfocus.net/vulndb/89371</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6617</font><br/>[<b>披露时间</b>] 2024-01-15 03:32:19<br/>[<b>漏洞描述</b>] SourceCodester Simple Student Attendance System SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89370'>http://www.nsfocus.net/vulndb/89370</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6619</font><br/>[<b>披露时间</b>] 2024-01-15 03:32:19<br/>[<b>漏洞描述</b>] SourceCodester Simple Student Attendance System SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89369'>http://www.nsfocus.net/vulndb/89369</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6622</font><br/>[<b>披露时间</b>] 2024-01-15 03:32:19<br/>[<b>漏洞描述</b>] Linux kernel空指针解引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89368'>http://www.nsfocus.net/vulndb/89368</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47565</font><br/>[<b>披露时间</b>] 2024-01-15 03:32:19<br/>[<b>漏洞描述</b>] QNAP Systems QVR操作系统命令注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89367'>http://www.nsfocus.net/vulndb/89367</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-48397</font><br/>[<b>披露时间</b>] 2024-01-15 03:32:19<br/>[<b>漏洞描述</b>] Google Pixel越界读取漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89366'>http://www.nsfocus.net/vulndb/89366</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-48398</font><br/>[<b>披露时间</b>] 2024-01-15 03:32:19<br/>[<b>漏洞描述</b>] Google Pixel越界读取漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89365'>http://www.nsfocus.net/vulndb/89365</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6610</font><br/>[<b>披露时间</b>] 2024-01-15 03:32:19<br/>[<b>漏洞描述</b>] Linux kernel越界读取漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89364'>http://www.nsfocus.net/vulndb/89364</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6606</font><br/>[<b>披露时间</b>] 2024-01-15 03:32:19<br/>[<b>漏洞描述</b>] Linux kernel越界读取漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89363'>http://www.nsfocus.net/vulndb/89363</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6613</font><br/>[<b>披露时间</b>] 2024-01-15 03:32:19<br/>[<b>漏洞描述</b>] Typecho跨站脚本执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89362'>http://www.nsfocus.net/vulndb/89362</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6612</font><br/>[<b>披露时间</b>] 2024-01-15 03:32:19<br/>[<b>漏洞描述</b>] TOTOLINK X5000R操作系统命令注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89361'>http://www.nsfocus.net/vulndb/89361</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-48422</font><br/>[<b>披露时间</b>] 2024-01-15 03:32:19<br/>[<b>漏洞描述</b>] Google Pixel越界读取漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89360'>http://www.nsfocus.net/vulndb/89360</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-48423</font><br/>[<b>披露时间</b>] 2024-01-15 03:32:19<br/>[<b>漏洞描述</b>] Google Pixel越界写入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89359'>http://www.nsfocus.net/vulndb/89359</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-48421</font><br/>[<b>披露时间</b>] 2024-01-15 03:32:19<br/>[<b>漏洞描述</b>] Google Pixel越界写入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89358'>http://www.nsfocus.net/vulndb/89358</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-50290</font><br/>[<b>披露时间</b>] 2024-01-13 04:35:18<br/>[<b>漏洞描述</b>] Apache Solr 环境变量信息泄漏漏洞（CVE-2023-50290）
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2023-50290'>https://avd.aliyun.com/detail?id=AVD-2023-50290</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
