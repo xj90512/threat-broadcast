@@ -1,11 +1,19 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">9</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
+    <li><font color="red">9</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-50290</font><br/>[<b>披露时间</b>] 2024-01-17 00:05:29<br/>[<b>漏洞描述</b>] Apache Solr 信息泄漏漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=10260'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=10260</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5178</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Netapp等厂商的多款产品存在释放后使用漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=21843f42-757c-48d7-8147-3cc1fe12a6ca'>https://redqueen.tj-un.com/IntelDetails.html?id=21843f42-757c-48d7-8147-3cc1fe12a6ca</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2022-28734</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Gnu等厂商的多款产品存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=10092f46-64e9-4b77-9b89-30e9ca7fc2f5'>https://redqueen.tj-un.com/IntelDetails.html?id=10092f46-64e9-4b77-9b89-30e9ca7fc2f5</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-7032</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Schneider-electric Easergy_studio存在可信数据的反序列化漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=fe66f899-7051-4363-bbf6-9ba4eca6a868'>https://redqueen.tj-un.com/IntelDetails.html?id=fe66f899-7051-4363-bbf6-9ba4eca6a868</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0342</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Inis_project Inis存在SQL注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=cbd4f319-6c82-4e36-bd60-9c14597e97f4'>https://redqueen.tj-un.com/IntelDetails.html?id=cbd4f319-6c82-4e36-bd60-9c14597e97f4</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-21664</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Lestrrat-go Jwx存在空指针解引用漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=d89611f4-63fb-4e26-9d91-5fe09d4f03ec'>https://redqueen.tj-un.com/IntelDetails.html?id=d89611f4-63fb-4e26-9d91-5fe09d4f03ec</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0344</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Soxft Timemail存在SQL注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=c0bac633-2943-4f84-b0aa-58de0893da44'>https://redqueen.tj-un.com/IntelDetails.html?id=c0bac633-2943-4f84-b0aa-58de0893da44</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2020-8219</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Ivanti等厂商的多款产品存在缺省权限不正确漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=1e138dd2-d2b1-42fb-bc58-b535779e699a'>https://redqueen.tj-un.com/IntelDetails.html?id=1e138dd2-d2b1-42fb-bc58-b535779e699a</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2020-8218</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Ivanti等厂商的多款产品存在代码注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=3eb80702-eb35-4398-8fef-8519a0f75625'>https://redqueen.tj-un.com/IntelDetails.html?id=3eb80702-eb35-4398-8fef-8519a0f75625</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2020-8206</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Ivanti等厂商的多款产品存在认证机制不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=255f6b40-1084-4b73-8d52-bde08baa58b3'>https://redqueen.tj-un.com/IntelDetails.html?id=255f6b40-1084-4b73-8d52-bde08baa58b3</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
