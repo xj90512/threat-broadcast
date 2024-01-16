@@ -1,12 +1,25 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
+    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-22527</font><br/>[<b>披露时间</b>] 2024-01-16 07:32:27<br/>[<b>漏洞描述</b>] Atlassian Confluence 模板注入代码执行漏洞（CVE-2023-22527）
-                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2023-22527'>https://avd.aliyun.com/detail?id=AVD-2023-22527</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-45672</font><br/>[<b>披露时间</b>] 2024-01-16 09:32:17<br/>[<b>漏洞描述</b>] Frigate不安全反序列化漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89489'>http://www.nsfocus.net/vulndb/89489</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46129</font><br/>[<b>披露时间</b>] 2024-01-16 09:32:17<br/>[<b>漏洞描述</b>] NATS Server硬编码加密密钥使用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89488'>http://www.nsfocus.net/vulndb/89488</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5349</font><br/>[<b>披露时间</b>] 2024-01-16 09:32:17<br/>[<b>漏洞描述</b>] RMagick内存泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89487'>http://www.nsfocus.net/vulndb/89487</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46139</font><br/>[<b>披露时间</b>] 2024-01-16 09:32:17<br/>[<b>漏洞描述</b>] KernelSU授权错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89486'>http://www.nsfocus.net/vulndb/89486</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47174</font><br/>[<b>披露时间</b>] 2024-01-16 09:32:17<br/>[<b>漏洞描述</b>] Thorn SFTP Gateway不受信数据反序列化漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89485'>http://www.nsfocus.net/vulndb/89485</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-27846</font><br/>[<b>披露时间</b>] 2024-01-16 09:32:17<br/>[<b>漏洞描述</b>] PrestaShop SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89484'>http://www.nsfocus.net/vulndb/89484</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46356</font><br/>[<b>披露时间</b>] 2024-01-16 09:32:17<br/>[<b>漏洞描述</b>] PrestaShop SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89483'>http://www.nsfocus.net/vulndb/89483</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-45378</font><br/>[<b>披露时间</b>] 2024-01-16 09:32:17<br/>[<b>漏洞描述</b>] PrestaShop SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89482'>http://www.nsfocus.net/vulndb/89482</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-45996</font><br/>[<b>披露时间</b>] 2024-01-16 09:32:17<br/>[<b>漏洞描述</b>] SLiMS Slims和Bulian SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89481'>http://www.nsfocus.net/vulndb/89481</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-43139</font><br/>[<b>披露时间</b>] 2024-01-16 09:32:17<br/>[<b>漏洞描述</b>] PrestaShop操作系统命令注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89480'>http://www.nsfocus.net/vulndb/89480</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46478</font><br/>[<b>披露时间</b>] 2024-01-16 09:32:17<br/>[<b>漏洞描述</b>] minCal授权绕过漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89479'>http://www.nsfocus.net/vulndb/89479</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-45899</font><br/>[<b>披露时间</b>] 2024-01-16 09:32:17<br/>[<b>漏洞描述</b>] PrestaShop授权错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89478'>http://www.nsfocus.net/vulndb/89478</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-31794</font><br/>[<b>披露时间</b>] 2024-01-16 09:32:17<br/>[<b>漏洞描述</b>] Artifex Software MuPDF无限递归漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89477'>http://www.nsfocus.net/vulndb/89477</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-36263</font><br/>[<b>披露时间</b>] 2024-01-16 09:32:17<br/>[<b>漏洞描述</b>] Prestashop SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89476'>http://www.nsfocus.net/vulndb/89476</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-44397</font><br/>[<b>披露时间</b>] 2024-01-16 09:32:17<br/>[<b>漏洞描述</b>] CloudExplorer Lite身份认证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89475'>http://www.nsfocus.net/vulndb/89475</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
