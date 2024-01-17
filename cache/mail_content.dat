@@ -1,11 +1,30 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">17</font>条：</h3>
 <ul>
     <li><font color="red">1</font>条由 [<a href="https://cert.360.cn/warning">360 网络安全响应中心</a>] 提供</li>
+    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 360 网络安全响应中心<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0519</font><br/>[<b>披露时间</b>] 2024-01-17 08:09:14<br/>[<b>漏洞描述</b>] CVE-2024-0519：Google Chrome V8类型混淆漏洞通告<br/>[<b>相关链接</b>] <a href='https://cert.360.cn/warning/detail?id=65a78b1bc09f255b91b17c96'>https://cert.360.cn/warning/detail?id=65a78b1bc09f255b91b17c96</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 360 网络安全响应中心<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0519</font><br/>[<b>披露时间</b>] 2024-01-17 09:08:07<br/>[<b>漏洞描述</b>] CVE-2024-0519：Google Chrome V8越界访问漏洞通告<br/>[<b>相关链接</b>] <a href='https://cert.360.cn/warning/detail?id=65a78b1bc09f255b91b17c96'>https://cert.360.cn/warning/detail?id=65a78b1bc09f255b91b17c96</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46245</font><br/>[<b>披露时间</b>] 2024-01-17 09:32:06<br/>[<b>漏洞描述</b>] Kimai服务器端模板注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89584'>http://www.nsfocus.net/vulndb/89584</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46249</font><br/>[<b>披露时间</b>] 2024-01-17 09:32:06<br/>[<b>漏洞描述</b>] authentik身份认证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89583'>http://www.nsfocus.net/vulndb/89583</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46240</font><br/>[<b>披露时间</b>] 2024-01-17 09:32:06<br/>[<b>漏洞描述</b>] CodeIgniter信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89582'>http://www.nsfocus.net/vulndb/89582</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-37832</font><br/>[<b>披露时间</b>] 2024-01-17 09:32:06<br/>[<b>漏洞描述</b>] Elenos ETG150身份认证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89581'>http://www.nsfocus.net/vulndb/89581</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-20886</font><br/>[<b>披露时间</b>] 2024-01-17 09:32:06<br/>[<b>漏洞描述</b>] VMware Workspace ONE UEM开放重定向漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89580'>http://www.nsfocus.net/vulndb/89580</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-45955</font><br/>[<b>披露时间</b>] 2024-01-17 09:32:06<br/>[<b>漏洞描述</b>] Nanoleaf Light strip拒绝服务漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89579'>http://www.nsfocus.net/vulndb/89579</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46239</font><br/>[<b>披露时间</b>] 2024-01-17 09:32:06<br/>[<b>漏洞描述</b>] quic-go空指针解引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89578'>http://www.nsfocus.net/vulndb/89578</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46248</font><br/>[<b>披露时间</b>] 2024-01-17 09:32:06<br/>[<b>漏洞描述</b>] Cody远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89577'>http://www.nsfocus.net/vulndb/89577</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-43796</font><br/>[<b>披露时间</b>] 2024-01-17 09:32:06<br/>[<b>漏洞描述</b>] Matrix Synapse信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89576'>http://www.nsfocus.net/vulndb/89576</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46722</font><br/>[<b>披露时间</b>] 2024-01-17 09:32:06<br/>[<b>漏洞描述</b>] Pimcore Admin Classic Bundle跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89575'>http://www.nsfocus.net/vulndb/89575</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5739</font><br/>[<b>披露时间</b>] 2024-01-17 09:32:06<br/>[<b>漏洞描述</b>] HP PC Hardware Diagnostics Windows权限提升漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89574'>http://www.nsfocus.net/vulndb/89574</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-37243</font><br/>[<b>披露时间</b>] 2024-01-17 09:32:06<br/>[<b>漏洞描述</b>] Atera Agent Package Availability for Windows权限提升漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89573'>http://www.nsfocus.net/vulndb/89573</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-42425</font><br/>[<b>披露时间</b>] 2024-01-17 09:32:06<br/>[<b>漏洞描述</b>] Turing Video Turing Edge+ EVC5FD证书验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89572'>http://www.nsfocus.net/vulndb/89572</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-42658</font><br/>[<b>披露时间</b>] 2024-01-17 09:32:06<br/>[<b>漏洞描述</b>] Chef Software Chef InSpec代码注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89571'>http://www.nsfocus.net/vulndb/89571</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-3676</font><br/>[<b>披露时间</b>] 2024-01-17 09:32:06<br/>[<b>漏洞描述</b>] Kubernetes输入验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89570'>http://www.nsfocus.net/vulndb/89570</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46226</font><br/>[<b>披露时间</b>] 2024-01-15 09:32:13<br/>[<b>漏洞描述</b>] Apache IotDB UDF代码执行漏洞（CVE-2023-46226）
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2023-46226'>https://avd.aliyun.com/detail?id=AVD-2023-46226</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
