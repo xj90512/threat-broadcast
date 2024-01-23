@@ -1,25 +1,12 @@
 
-<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-37927</font><br/>[<b>披露时间</b>] 2024-01-23 05:32:33<br/>[<b>漏洞描述</b>] Zyxel NAS326操作系统命令注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89941'>http://www.nsfocus.net/vulndb/89941</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5247</font><br/>[<b>披露时间</b>] 2024-01-23 05:32:33<br/>[<b>漏洞描述</b>] Mitsubishi Electric FA Engineering Software任意代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89940'>http://www.nsfocus.net/vulndb/89940</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-35138</font><br/>[<b>披露时间</b>] 2024-01-23 05:32:33<br/>[<b>漏洞描述</b>] Zyxel NAS326操作系统命令注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89939'>http://www.nsfocus.net/vulndb/89939</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5965</font><br/>[<b>披露时间</b>] 2024-01-23 05:32:33<br/>[<b>漏洞描述</b>] EspoCRM任意文件上传漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89938'>http://www.nsfocus.net/vulndb/89938</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-4770</font><br/>[<b>披露时间</b>] 2024-01-23 05:32:33<br/>[<b>漏洞描述</b>] 4D Windows Server不受控制的搜索路径元素漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89937'>http://www.nsfocus.net/vulndb/89937</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-49694</font><br/>[<b>披露时间</b>] 2024-01-23 05:32:33<br/>[<b>漏洞描述</b>] NETGEAR ProSAFE Network Management System访问控制错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89936'>http://www.nsfocus.net/vulndb/89936</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-49693</font><br/>[<b>披露时间</b>] 2024-01-23 05:32:33<br/>[<b>漏洞描述</b>] NETGEAR ProSAFE Network Management System身份认证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89935'>http://www.nsfocus.net/vulndb/89935</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-3741</font><br/>[<b>披露时间</b>] 2024-01-23 05:32:33<br/>[<b>漏洞描述</b>] NEC Platforms DT900 Series和DT900S Series操作系统命令注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89934'>http://www.nsfocus.net/vulndb/89934</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-35137</font><br/>[<b>披露时间</b>] 2024-01-23 05:32:33<br/>[<b>漏洞描述</b>] Zyxel NAS326身份认证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89933'>http://www.nsfocus.net/vulndb/89933</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-49620</font><br/>[<b>披露时间</b>] 2024-01-23 05:32:33<br/>[<b>漏洞描述</b>] Apache DolphinScheduler授权错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89932'>http://www.nsfocus.net/vulndb/89932</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-49081</font><br/>[<b>披露时间</b>] 2024-01-23 05:32:33<br/>[<b>漏洞描述</b>] aiohttp输入验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89931'>http://www.nsfocus.net/vulndb/89931</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47418</font><br/>[<b>披露时间</b>] 2024-01-23 05:32:33<br/>[<b>漏洞描述</b>] o2oa远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89930'>http://www.nsfocus.net/vulndb/89930</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-49094</font><br/>[<b>披露时间</b>] 2024-01-23 05:32:33<br/>[<b>漏洞描述</b>] Symbolicator服务器端请求伪造漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89929'>http://www.nsfocus.net/vulndb/89929</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47464</font><br/>[<b>披露时间</b>] 2024-01-23 05:32:33<br/>[<b>漏洞描述</b>] GL.iNet AX1800不安全权限漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89928'>http://www.nsfocus.net/vulndb/89928</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47463</font><br/>[<b>披露时间</b>] 2024-01-23 05:32:33<br/>[<b>漏洞描述</b>] GL.iNet AX1800不安全权限漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89927'>http://www.nsfocus.net/vulndb/89927</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>AVD-2024-1706412</font><br/>[<b>披露时间</b>] 2024-01-23 08:35:19<br/>[<b>漏洞描述</b>] 亿赛通电子文档安全管理系统 文件上传漏洞
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-1706412'>https://avd.aliyun.com/detail?id=AVD-2024-1706412</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
