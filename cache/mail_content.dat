@@ -1,20 +1,12 @@
 
-<h3>发现最新漏洞情报<font color="red">10</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">10</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-20952</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Oracle多款产品存在漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=cc669b59-9a2b-4765-bfe2-65dd25ede913'>https://redqueen.tj-un.com/IntelDetails.html?id=cc669b59-9a2b-4765-bfe2-65dd25ede913</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-20932</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Oracle多款产品存在漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=de8fe2d3-a10f-44a5-83ee-13f042b68a99'>https://redqueen.tj-un.com/IntelDetails.html?id=de8fe2d3-a10f-44a5-83ee-13f042b68a99</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-20918</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Oracle多款产品存在漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=d877cf7c-b990-4746-a55a-f67e2f54949a'>https://redqueen.tj-un.com/IntelDetails.html?id=d877cf7c-b990-4746-a55a-f67e2f54949a</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-20924</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Oracle Audit_vault_and_database_firewall存在安全漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=7e40693b-0adf-43b7-8d07-f181f40df8f9'>https://redqueen.tj-un.com/IntelDetails.html?id=7e40693b-0adf-43b7-8d07-f181f40df8f9</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-45233</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Tianocore Edk2存在无限循环漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=9b228d2d-a499-4a35-bc3c-4ca7e3d3e93c'>https://redqueen.tj-un.com/IntelDetails.html?id=9b228d2d-a499-4a35-bc3c-4ca7e3d3e93c</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-37522</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Hcltechsw Bigfix_bare_osd_metal_server_webui存在安全漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=f68982f7-04db-448d-b8d3-ed951fe135de'>https://redqueen.tj-un.com/IntelDetails.html?id=f68982f7-04db-448d-b8d3-ed951fe135de</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-45230</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Tianocore Edk2存在内存缓冲区边界内操作的限制不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=2bdb3171-5c79-4ea7-a9d4-af99d3ad61d9'>https://redqueen.tj-un.com/IntelDetails.html?id=2bdb3171-5c79-4ea7-a9d4-af99d3ad61d9</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-45232</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Tianocore Edk2存在无限循环漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=b77f69f4-16e4-4124-a1ae-965c02196f79'>https://redqueen.tj-un.com/IntelDetails.html?id=b77f69f4-16e4-4124-a1ae-965c02196f79</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-4536</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Koalaapps My_account_page_editor存在危险类型文件的不加限制上传漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=25592069-cfab-47f8-ab16-b87c93cfb26d'>https://redqueen.tj-un.com/IntelDetails.html?id=25592069-cfab-47f8-ab16-b87c93cfb26d</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-4703</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] All_in_one_b2b_for_woocommerce_project All_in_one_b2b_for_woocommerce存在安全漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=cdd4bbaf-89ed-4fc4-8510-f1b732b4ffc4'>https://redqueen.tj-un.com/IntelDetails.html?id=cdd4bbaf-89ed-4fc4-8510-f1b732b4ffc4</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0204</font><br/>[<b>披露时间</b>] 2024-01-23 02:41:53<br/>[<b>漏洞描述</b>] Goanywhere MFT 未授权创建管理员漏洞（CVE-2024-0204）
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-0204'>https://avd.aliyun.com/detail?id=AVD-2024-0204</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
