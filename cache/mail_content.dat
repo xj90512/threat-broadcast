@@ -1,12 +1,25 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
+    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0204</font><br/>[<b>披露时间</b>] 2024-01-23 02:41:53<br/>[<b>漏洞描述</b>] Goanywhere MFT 未授权创建管理员漏洞（CVE-2024-0204）
-                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-0204'>https://avd.aliyun.com/detail?id=AVD-2024-0204</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2022-41678</font><br/>[<b>披露时间</b>] 2024-01-24 08:34:58<br/>[<b>漏洞描述</b>] Apache ActiveMQ任意代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89991'>http://www.nsfocus.net/vulndb/89991</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-49062</font><br/>[<b>披露时间</b>] 2024-01-24 08:34:58<br/>[<b>漏洞描述</b>] Meta Katran初始化错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89990'>http://www.nsfocus.net/vulndb/89990</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-41264</font><br/>[<b>披露时间</b>] 2024-01-24 08:34:58<br/>[<b>漏洞描述</b>] Netwrix UserCube身份认证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89989'>http://www.nsfocus.net/vulndb/89989</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-42502</font><br/>[<b>披露时间</b>] 2024-01-24 08:34:58<br/>[<b>漏洞描述</b>] Apache Superset开放重定向漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89988'>http://www.nsfocus.net/vulndb/89988</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-42505</font><br/>[<b>披露时间</b>] 2024-01-24 08:34:58<br/>[<b>漏洞描述</b>] Apache Superset信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89987'>http://www.nsfocus.net/vulndb/89987</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-45286</font><br/>[<b>披露时间</b>] 2024-01-24 08:34:58<br/>[<b>漏洞描述</b>] Resty竞争条件漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89986'>http://www.nsfocus.net/vulndb/89986</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-48848</font><br/>[<b>披露时间</b>] 2024-01-24 08:34:58<br/>[<b>漏洞描述</b>] UReport任意文件读取漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89985'>http://www.nsfocus.net/vulndb/89985</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-48121</font><br/>[<b>披露时间</b>] 2024-01-24 08:34:58<br/>[<b>漏洞描述</b>] Ezviz CS Series多款产品身份认证绕过漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89984'>http://www.nsfocus.net/vulndb/89984</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-42504</font><br/>[<b>披露时间</b>] 2024-01-24 08:34:58<br/>[<b>漏洞描述</b>] Apache Superset拒绝服务漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89983'>http://www.nsfocus.net/vulndb/89983</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-29061</font><br/>[<b>披露时间</b>] 2024-01-24 08:34:58<br/>[<b>漏洞描述</b>] BD FACSChorus身份认证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89982'>http://www.nsfocus.net/vulndb/89982</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-45539</font><br/>[<b>披露时间</b>] 2024-01-24 08:34:58<br/>[<b>漏洞描述</b>] HAProxy信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89981'>http://www.nsfocus.net/vulndb/89981</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-30588</font><br/>[<b>披露时间</b>] 2024-01-24 08:34:58<br/>[<b>漏洞描述</b>] Node.js拒绝服务漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89980'>http://www.nsfocus.net/vulndb/89980</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-29060</font><br/>[<b>披露时间</b>] 2024-01-24 08:34:58<br/>[<b>漏洞描述</b>] BD FACSChorus身份认证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89979'>http://www.nsfocus.net/vulndb/89979</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-49652</font><br/>[<b>披露时间</b>] 2024-01-24 08:34:58<br/>[<b>漏洞描述</b>] Jenkins Google Compute Engine Plugin授权错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89978'>http://www.nsfocus.net/vulndb/89978</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-40626</font><br/>[<b>披露时间</b>] 2024-01-24 08:34:58<br/>[<b>漏洞描述</b>] Joomla CMS信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/89977'>http://www.nsfocus.net/vulndb/89977</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
