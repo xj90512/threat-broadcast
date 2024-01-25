@@ -1,4 +1,4 @@
-<!-- RELEASE TIME : 2024-01-25 04:37:46 -->
+<!-- RELEASE TIME : 2024-01-25 07:34:34 -->
 <html lang="zh-cn">
 
  <head>
@@ -280,6 +280,86 @@
        <th scope="col">URL</th>
       </tr>
       <tr>
+       <td scope="row">c237cd8d8254c30399c87a5013166700</td>
+       <td>CVE-2024-23985</td>
+       <td>2024-01-25 05:15:08 <img src="imgs/new.gif" /></td>
+       <td>EzServer 6.4.017 allows a denial of service (daemon crash) via a long string, such as one for the RNTO command.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-23985">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">ff03c0365390f51f0ebc9504ce230728</td>
+       <td>CVE-2024-0625</td>
+       <td>2024-01-25 03:15:07 <img src="imgs/new.gif" /></td>
+       <td>The WPFront Notification Bar plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the ‘wpfront-notification-bar-options[custom_class]’ parameter in all versions up to, and including, 3.3.2 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with administrator-level access, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. This only affects multi-site installations and installations where unfiltered_html has been disabled.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-0625">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">22ab04022d7cf32be13bb6848fb803a9</td>
+       <td>CVE-2024-0688</td>
+       <td>2024-01-25 02:15:53 <img src="imgs/new.gif" /></td>
+       <td>The "WebSub (FKA. PubSubHubbub)" plugin for WordPress is vulnerable to Stored Cross-Site Scripting via plugin settings in all versions up to, and including, 3.1.4 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with administrator-level permissions and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-0688">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">0289599d763843623dde80ba923c977e</td>
+       <td>CVE-2024-0624</td>
+       <td>2024-01-25 02:15:53 <img src="imgs/new.gif" /></td>
+       <td>The Paid Memberships Pro – Content Restriction, User Registration, & Paid Subscriptions plugin for WordPress is vulnerable to Cross-Site Request Forgery in all versions up to, and including, 2.12.7. This is due to missing or incorrect nonce validation on the pmpro_update_level_order() function. This makes it possible for unauthenticated attackers to update the order of levels via a forged request granted they can trick a site administrator into performing an action such as clicking on a link.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-0624">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">b0ac2d96a5481c6a6f7c38d4564e82b1</td>
+       <td>CVE-2024-0617</td>
+       <td>2024-01-25 02:15:53 <img src="imgs/new.gif" /></td>
+       <td>The Category Discount Woocommerce plugin for WordPress is vulnerable to unauthorized modification of data due to a missing capability check on the wpcd_save_discount() function in all versions up to, and including, 4.12. This makes it possible for unauthenticated attackers to modify product category discounts that could lead to loss of revenue.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-0617">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">54ce4d49206683566cecf16fccceeabe</td>
+       <td>CVE-2024-22751</td>
+       <td>2024-01-24 21:15:08 <img src="imgs/new.gif" /></td>
+       <td>D-Link DIR-882 DIR882A1_FW130B06 was discovered to contain a stack overflow via the sub_477AA0 function.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-22751">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">35fe7ab84a4556fd9ea138cdf540f2d7</td>
+       <td>CVE-2023-24676</td>
+       <td>2024-01-24 21:15:08 <img src="imgs/new.gif" /></td>
+       <td>An issue found in Processwire 3.0.210 allows attackers to execute arbitrary code and install a reverse shell via the download_zip_url parameter when installing a new module.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-24676">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">e2ea9934463c4dd4a080439f00e09816</td>
+       <td>CVE-2024-23646</td>
+       <td>2024-01-24 20:15:53 <img src="imgs/new.gif" /></td>
+       <td>Pimcore's Admin Classic Bundle provides a backend user interface for Pimcore. The application allows users to create zip files from available files on the site. In the 1.x branch prior to version 1.3.2, parameter `selectedIds` is susceptible to SQL Injection. Any backend user with very basic permissions can execute arbitrary SQL statements and thus alter any data or escalate their privileges to at least admin level. Version 1.3.2 contains a fix for this issue.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-23646">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">8f0838c894d16bdab7ab5186c61ed1b7</td>
+       <td>CVE-2024-23644</td>
+       <td>2024-01-24 20:15:53 <img src="imgs/new.gif" /></td>
+       <td>Trillium is a composable toolkit for building internet applications with async rust. In `trillium-http` prior to 0.3.12 and `trillium-client` prior to 0.5.4, insufficient validation of outbound header values may lead to request splitting or response splitting attacks in scenarios where attackers have sufficient control over headers. This only affects use cases where attackers have control of request headers, and can insert "\r\n" sequences. Specifically, if untrusted and unvalidated input is inserted into header names or values. Outbound `trillium_http::HeaderValue` and `trillium_http::HeaderName` can be constructed infallibly and were not checked for illegal bytes when sending requests from the client or responses from the server. Thus, if an attacker has sufficient control over header values (or names) in a request or response that they could inject `\r\n` sequences, they could get the client and server out of sync, and then pivot to gain control over other parts of requests or responses. (i.e. exfiltrating data from other requests, SSRF, etc.) In `trillium-http` versions 0.3.12 and later, if a header name is invalid in server response headers, the specific header and any associated values are omitted from network transmission. Additionally, if a header value is invalid in server response headers, the individual header value is omitted from network transmission. Other headers values with the same header name will still be sent. In `trillium-client` versions 0.5.4 and later, if any header name or header value is invalid in the client request headers, awaiting the client Conn returns an `Error::MalformedHeader` prior to any network access. As a workaround, Trillium services and client applications should sanitize or validate untrusted input that is included in header values and header names. Carriage return, newline, and null characters are not allowed.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-23644">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">09f3e24f4a47f04d3815bfed54cce339</td>
+       <td>CVE-2021-43584</td>
+       <td>2024-01-24 20:15:53 <img src="imgs/new.gif" /></td>
+       <td>DOM-based Cross Site Scripting (XSS vulnerability in 'Tail Event Logs' functionality in Nagios Nagios Cross-Platform Agent (NCPA) before 2.4.0 allows attackers to run arbitrary code via the name element when filtering for a log.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2021-43584">详情</a></td>
+      </tr>
+
+      <tr>
        <td scope="row">2be8113ee1672ade534c59feba340760</td>
        <td>CVE-2024-23641</td>
        <td>2024-01-24 17:15:08 <img src="imgs/new.gif" /></td>
@@ -437,86 +517,6 @@
        <td>2024-01-24 00:15:08 <img src="imgs/new.gif" /></td>
        <td>Inappropriate implementation in Autofill in Google Chrome prior to 121.0.6167.85 allowed a remote attacker to bypass Autofill restrictions via a crafted HTML page. (Chromium security severity: Low)</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-0809">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">3e0b7c1d0d237da80a26fd87f17bf6b7</td>
-       <td>CVE-2024-23340</td>
-       <td>2024-01-22 23:15:08</td>
-       <td>@hono/node-server is an adapter that allows users to run Hono applications on Node.js. Since v1.3.0, @hono/node-server has used its own Request object with `url` behavior that is unexpected. In the standard API, if the URL contains `..`, here called "double dots", the URL string returned by Request will be in the resolved path. However, the `url` in @hono/node-server's Request as does not resolve double dots, so `http://localhost/static/.. /foo.txt` is returned. This causes vulnerabilities when using `serveStatic`. Modern web browsers and a latest `curl` command resolve double dots on the client side, so this issue doesn't affect those using either of those tools. However, problems may occur if accessed by a client that does not resolve them. Version 1.4.1 includes the change to fix this issue. As a workaround, don't use `serveStatic`.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-23340">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">c956ec6f8d082fdc0f07cc295ae7e870</td>
-       <td>CVE-2024-23339</td>
-       <td>2024-01-22 23:15:08</td>
-       <td>hoolock is a suite of lightweight utilities designed to maintain a small footprint when bundled. Starting in version 2.0.0 and prior to version 2.2.1, utility functions related to object paths (`get`, `set`, and `update`) did not block attempts to access or alter object prototypes. Starting in version 2.2.1, the `get`, `set` and `update` functions throw a `TypeError` when a user attempts to access or alter inherited properties.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-23339">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">62d6073bf55dd61aea754f1f55f6b9b2</td>
-       <td>CVE-2021-42141</td>
-       <td>2024-01-22 23:15:08</td>
-       <td>An issue was discovered in Contiki-NG tinyDTLS through 2018-08-30. One incorrect handshake could complete with different epoch numbers in the packets Client_Hello, Client_key_exchange, and Change_cipher_spec, which may cause denial of service.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2021-42141">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">663295d7c88f1c5e433c4d4d9bbf95ae</td>
-       <td>CVE-2024-23678</td>
-       <td>2024-01-22 21:15:10</td>
-       <td>In Splunk Enterprise for Windows versions below 9.0.8 and 9.1.3, Splunk Enterprise does not correctly sanitize path input data. This results in the unsafe deserialization of untrusted data from a separate disk partition on the machine. This vulnerability only affects Splunk Enterprise for Windows.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-23678">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">fc7e2ea10a613eb6d3fe3ce7c0e9bf9b</td>
-       <td>CVE-2024-23677</td>
-       <td>2024-01-22 21:15:10</td>
-       <td>In Splunk Enterprise versions below 9.0.8, the Splunk RapidDiag utility discloses server responses from external applications in a log file.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-23677">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">db78d623296d72f4899c27766a7f2423</td>
-       <td>CVE-2024-23676</td>
-       <td>2024-01-22 21:15:10</td>
-       <td>In Splunk versions below 9.0.8 and 9.1.3, the “mrollup” SPL command lets a low-privileged user view metrics on an index that they do not have permission to view. This vulnerability requires user interaction from a high-privileged user to exploit.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-23676">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">ce1a7c739655a11c001ac56a417fb561</td>
-       <td>CVE-2024-23675</td>
-       <td>2024-01-22 21:15:10</td>
-       <td>In Splunk Enterprise versions below 9.0.8 and 9.1.3, Splunk app key value store (KV Store) improperly handles permissions for users that use the REST application programming interface (API). This can potentially result in the deletion of KV Store collections.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-23675">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">82d251ad982a4afbdd43ef097a569de1</td>
-       <td>CVE-2023-47141</td>
-       <td>2024-01-22 21:15:09</td>
-       <td>IIBM Db2 for Linux, UNIX and Windows (includes Db2 Connect Server) 11.5 could allow an authenticated user with CONNECT privileges to cause a denial of service using a specially crafted query. IBM X-Force ID: 270264.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-47141">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">448b7f707fc189f0ed3d277aca6b029b</td>
-       <td>CVE-2023-24135</td>
-       <td>2024-01-22 21:15:08</td>
-       <td>Jensen of Scandinavia Eagle 1200AC V15.03.06.33_en was discovered to contain a command injection vulnerability in the function formWriteFacMac. This vulnerability allows attackers to execute arbitrary commands via manipulation of the mac parameter.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-24135">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">0c4a33e007a8ec59b081b0b69c486b75</td>
-       <td>CVE-2023-7194</td>
-       <td>2024-01-22 20:15:47</td>
-       <td>The Meris WordPress theme through 1.1.2 does not sanitise and escape some parameters before outputting them back in the page, leading to Reflected Cross-Site Scripting which could be used against high privilege users such as admin</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-7194">详情</a></td>
       </tr>
 
      </tbody>
