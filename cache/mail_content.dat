@@ -1,11 +1,25 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://cert.360.cn/warning">360 网络安全响应中心</a>] 提供</li>
+    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 360 网络安全响应中心<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0204</font><br/>[<b>披露时间</b>] 2024-01-25 08:26:39<br/>[<b>漏洞描述</b>] CVE-2024-0204：GoAnywhere MFT 身份认证绕过漏洞通告<br/>[<b>相关链接</b>] <a href='https://cert.360.cn/warning/detail?id=65b21b3bc09f255b91b17cea'>https://cert.360.cn/warning/detail?id=65b21b3bc09f255b91b17cea</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5325</font><br/>[<b>披露时间</b>] 2024-01-25 11:32:31<br/>[<b>漏洞描述</b>] WordPress Woocommerce Vietnam Checkout Plugin跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90052'>http://www.nsfocus.net/vulndb/90052</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5239</font><br/>[<b>披露时间</b>] 2024-01-25 11:32:31<br/>[<b>漏洞描述</b>] WordPress Security &amp; Malware scan by CleanTalk Plugin信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90051'>http://www.nsfocus.net/vulndb/90051</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-4931</font><br/>[<b>披露时间</b>] 2024-01-25 11:32:31<br/>[<b>漏洞描述</b>] Plesk Installer不受控制的搜索路径元素漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90050'>http://www.nsfocus.net/vulndb/90050</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6287</font><br/>[<b>披露时间</b>] 2024-01-25 11:32:31<br/>[<b>漏洞描述</b>] Tribe29 Checkmk Appliance信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90049'>http://www.nsfocus.net/vulndb/90049</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-31275</font><br/>[<b>披露时间</b>] 2024-01-25 11:32:31<br/>[<b>漏洞描述</b>] Kingsoft WPS Office未初始化指针使用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90048'>http://www.nsfocus.net/vulndb/90048</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-32616</font><br/>[<b>披露时间</b>] 2024-01-25 11:32:31<br/>[<b>漏洞描述</b>] Foxit Reader内存错误引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90047'>http://www.nsfocus.net/vulndb/90047</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-35985</font><br/>[<b>披露时间</b>] 2024-01-25 11:32:31<br/>[<b>漏洞描述</b>] Foxit Reader任意文件创建漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90046'>http://www.nsfocus.net/vulndb/90046</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-38573</font><br/>[<b>披露时间</b>] 2024-01-25 11:32:31<br/>[<b>漏洞描述</b>] Foxit Reader内存错误引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90045'>http://www.nsfocus.net/vulndb/90045</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-39542</font><br/>[<b>披露时间</b>] 2024-01-25 11:32:31<br/>[<b>漏洞描述</b>] Foxit Reader远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90044'>http://www.nsfocus.net/vulndb/90044</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-40194</font><br/>[<b>披露时间</b>] 2024-01-25 11:32:31<br/>[<b>漏洞描述</b>] Foxit Reader任意文件创建漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90043'>http://www.nsfocus.net/vulndb/90043</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-41257</font><br/>[<b>披露时间</b>] 2024-01-25 11:32:31<br/>[<b>漏洞描述</b>] Foxit Reader类型混淆漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90042'>http://www.nsfocus.net/vulndb/90042</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-41998</font><br/>[<b>披露时间</b>] 2024-01-25 11:32:31<br/>[<b>漏洞描述</b>] Arcserve Unified Data Protection任意代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90041'>http://www.nsfocus.net/vulndb/90041</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-41999</font><br/>[<b>披露时间</b>] 2024-01-25 11:32:31<br/>[<b>漏洞描述</b>] Arcserve Unified Data Protection身份认证绕过漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90040'>http://www.nsfocus.net/vulndb/90040</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-42000</font><br/>[<b>披露时间</b>] 2024-01-25 11:32:31<br/>[<b>漏洞描述</b>] Arcserve Unified Data Protection路径遍历漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90039'>http://www.nsfocus.net/vulndb/90039</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-49040</font><br/>[<b>披露时间</b>] 2024-01-25 11:32:31<br/>[<b>漏洞描述</b>] Tenda AX1803任意代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90038'>http://www.nsfocus.net/vulndb/90038</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
