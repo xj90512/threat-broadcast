@@ -1,4 +1,4 @@
-<!-- RELEASE TIME : 2024-01-25 23:34:30 -->
+<!-- RELEASE TIME : 2024-01-26 02:36:00 -->
 <html lang="zh-cn">
 
  <head>
@@ -378,7 +378,7 @@
       <tr>
        <td scope="row">54ce4d49206683566cecf16fccceeabe</td>
        <td>CVE-2024-22751</td>
-       <td>2024-01-24 21:15:08 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 21:15:08</td>
        <td>D-Link DIR-882 DIR882A1_FW130B06 was discovered to contain a stack overflow via the sub_477AA0 function.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-22751">详情</a></td>
       </tr>
@@ -386,7 +386,7 @@
       <tr>
        <td scope="row">35fe7ab84a4556fd9ea138cdf540f2d7</td>
        <td>CVE-2023-24676</td>
-       <td>2024-01-24 21:15:08 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 21:15:08</td>
        <td>An issue found in Processwire 3.0.210 allows attackers to execute arbitrary code and install a reverse shell via the download_zip_url parameter when installing a new module.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-24676">详情</a></td>
       </tr>
@@ -394,7 +394,7 @@
       <tr>
        <td scope="row">e2ea9934463c4dd4a080439f00e09816</td>
        <td>CVE-2024-23646</td>
-       <td>2024-01-24 20:15:53 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 20:15:53</td>
        <td>Pimcore's Admin Classic Bundle provides a backend user interface for Pimcore. The application allows users to create zip files from available files on the site. In the 1.x branch prior to version 1.3.2, parameter `selectedIds` is susceptible to SQL Injection. Any backend user with very basic permissions can execute arbitrary SQL statements and thus alter any data or escalate their privileges to at least admin level. Version 1.3.2 contains a fix for this issue.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-23646">详情</a></td>
       </tr>
@@ -402,7 +402,7 @@
       <tr>
        <td scope="row">8f0838c894d16bdab7ab5186c61ed1b7</td>
        <td>CVE-2024-23644</td>
-       <td>2024-01-24 20:15:53 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 20:15:53</td>
        <td>Trillium is a composable toolkit for building internet applications with async rust. In `trillium-http` prior to 0.3.12 and `trillium-client` prior to 0.5.4, insufficient validation of outbound header values may lead to request splitting or response splitting attacks in scenarios where attackers have sufficient control over headers. This only affects use cases where attackers have control of request headers, and can insert "\r\n" sequences. Specifically, if untrusted and unvalidated input is inserted into header names or values. Outbound `trillium_http::HeaderValue` and `trillium_http::HeaderName` can be constructed infallibly and were not checked for illegal bytes when sending requests from the client or responses from the server. Thus, if an attacker has sufficient control over header values (or names) in a request or response that they could inject `\r\n` sequences, they could get the client and server out of sync, and then pivot to gain control over other parts of requests or responses. (i.e. exfiltrating data from other requests, SSRF, etc.) In `trillium-http` versions 0.3.12 and later, if a header name is invalid in server response headers, the specific header and any associated values are omitted from network transmission. Additionally, if a header value is invalid in server response headers, the individual header value is omitted from network transmission. Other headers values with the same header name will still be sent. In `trillium-client` versions 0.5.4 and later, if any header name or header value is invalid in the client request headers, awaiting the client Conn returns an `Error::MalformedHeader` prior to any network access. As a workaround, Trillium services and client applications should sanitize or validate untrusted input that is included in header values and header names. Carriage return, newline, and null characters are not allowed.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-23644">详情</a></td>
       </tr>
@@ -410,7 +410,7 @@
       <tr>
        <td scope="row">09f3e24f4a47f04d3815bfed54cce339</td>
        <td>CVE-2021-43584</td>
-       <td>2024-01-24 20:15:53 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 20:15:53</td>
        <td>DOM-based Cross Site Scripting (XSS vulnerability in 'Tail Event Logs' functionality in Nagios Nagios Cross-Platform Agent (NCPA) before 2.4.0 allows attackers to run arbitrary code via the name element when filtering for a log.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2021-43584">详情</a></td>
       </tr>
@@ -418,7 +418,7 @@
       <tr>
        <td scope="row">2be8113ee1672ade534c59feba340760</td>
        <td>CVE-2024-23641</td>
-       <td>2024-01-24 17:15:08 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 17:15:08</td>
        <td>SvelteKit is a web development kit. In SvelteKit 2, sending a GET request with a body eg `{}` to a built and previewed/hosted sveltekit app throws `Request with GET/HEAD method cannot have body.` and crashes the preview/hosting. After this happens, one must manually restart the app. `TRACE` requests will also cause the app to crash. Prerendered pages and SvelteKit 1 apps are not affected. `@sveltejs/adapter-node` versions 2.1.2, 3.0.3, and 4.0.1 and `@sveltejs/kit` version 2.4.3 contain a patch for this issue.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-23641">详情</a></td>
       </tr>
@@ -426,7 +426,7 @@
       <tr>
        <td scope="row">dae41577d091e9c01c7fe4cabe1e5c4b</td>
        <td>CVE-2024-22229</td>
-       <td>2024-01-24 17:15:08 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 17:15:08</td>
        <td>Dell Unity, versions prior to 5.4, contain a vulnerability whereby log messages can be spoofed by an authenticated attacker. An attacker could exploit this vulnerability to forge log entries, create false alarms, and inject malicious content into logs that compromise logs integrity. A malicious attacker could also prevent the product from logging information while malicious actions are performed or implicate an arbitrary user for malicious activities.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-22229">详情</a></td>
       </tr>
@@ -434,7 +434,7 @@
       <tr>
        <td scope="row">b3fc7c4f78ad4ae70c09647463c0fd45</td>
        <td>CVE-2023-51887</td>
-       <td>2024-01-24 17:15:08 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 17:15:08</td>
        <td>Command Injection vulnerability in Mathtex v.1.05 and before allows a remote attacker to execute arbitrary code via crafted string in application URL.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-51887">详情</a></td>
       </tr>
@@ -442,7 +442,7 @@
       <tr>
        <td scope="row">f59b6f6b0b75ae679d05e51090cf337b</td>
        <td>CVE-2023-51886</td>
-       <td>2024-01-24 17:15:08 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 17:15:08</td>
        <td>Buffer Overflow vulnerability in the main() function in Mathtex 1.05 and before allows a remote attacker to cause a denial of service when using \convertpath.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-51886">详情</a></td>
       </tr>
@@ -450,7 +450,7 @@
       <tr>
        <td scope="row">77febc2ed7c0012ceef9c6bc4b68fa90</td>
        <td>CVE-2023-51885</td>
-       <td>2024-01-24 17:15:08 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 17:15:08</td>
        <td>Buffer Overflow vulnerability in Mathtex v.1.05 and before allows a remote attacker to execute arbitrary code via the length of the LaTeX string component.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-51885">详情</a></td>
       </tr>
@@ -458,7 +458,7 @@
       <tr>
        <td scope="row">9f21d3a89b1c141a14f42961d29dbdec</td>
        <td>CVE-2024-22725</td>
-       <td>2024-01-24 16:15:08 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 16:15:08</td>
        <td>Orthanc versions before 1.12.2 are affected by a reflected cross-site scripting (XSS) vulnerability. The vulnerability was present in the server's error reporting.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-22725">详情</a></td>
       </tr>
@@ -466,7 +466,7 @@
       <tr>
        <td scope="row">d375f9598bcfe78caf8a2126fc11dc4c</td>
        <td>CVE-2024-22651</td>
-       <td>2024-01-24 16:15:08 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 16:15:08</td>
        <td>There is a command injection vulnerability in the ssdpcgi_main function of cgibin binary in D-Link DIR-815 router firmware v1.04.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-22651">详情</a></td>
       </tr>
@@ -474,7 +474,7 @@
       <tr>
        <td scope="row">54b4695615e84a912f868a33ca73f8b6</td>
        <td>CVE-2023-44281</td>
-       <td>2024-01-24 16:15:08 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 16:15:08</td>
        <td>Dell Pair Installer version prior to 1.2.1 contains an elevation of privilege vulnerability. A low privilege user with local access to the system could potentially exploit this vulnerability to delete arbitrary files and result in Denial of Service.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-44281">详情</a></td>
       </tr>
@@ -482,7 +482,7 @@
       <tr>
        <td scope="row">f734e1af17669dbd58eeceeec5364ef1</td>
        <td>CVE-2024-22141</td>
-       <td>2024-01-24 15:15:08 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 15:15:08</td>
        <td>Exposure of Sensitive Information to an Unauthorized Actor vulnerability in Cozmoslabs Profile Builder Pro.This issue affects Profile Builder Pro: from n/a through 3.10.0.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-22141">详情</a></td>
       </tr>
@@ -490,7 +490,7 @@
       <tr>
        <td scope="row">558266f91ed8e4fee6d5fd8c5d73ecae</td>
        <td>CVE-2023-6697</td>
-       <td>2024-01-24 14:15:08 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 14:15:08</td>
        <td>The WP Go Maps (formerly WP Google Maps) plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via the map id parameter in all versions up to, and including, 9.0.28 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that execute if they can successfully trick a user into performing an action such as clicking on a link.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-6697">详情</a></td>
       </tr>
@@ -498,7 +498,7 @@
       <tr>
        <td scope="row">c496ed1cc4bb1cae3665fd123b01848d</td>
        <td>CVE-2022-4964</td>
-       <td>2024-01-24 01:15:07 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 01:15:07</td>
        <td>Ubuntu's pipewire-pulse in snap grants microphone access even when the snap interface for audio-record is not set.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2022-4964">详情</a></td>
       </tr>
@@ -506,7 +506,7 @@
       <tr>
        <td scope="row">b5295fdc49a1caf40f021bd92d53f336</td>
        <td>CVE-2024-23638</td>
-       <td>2024-01-24 00:15:08 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 00:15:08</td>
        <td>Squid is a caching proxy for the Web. Due to an expired pointer reference bug, Squid prior to version 6.6 is vulnerable to a Denial of Service attack against Cache Manager error responses. This problem allows a trusted client to perform Denial of Service when generating error pages for Client Manager reports. Squid older than 5.0.5 have not been tested and should be assumed to be vulnerable. All Squid-5.x up to and including 5.9 are vulnerable. All Squid-6.x up to and including 6.5 are vulnerable. This bug is fixed by Squid version 6.6. In addition, patches addressing this problem for the stable releases can be found in Squid's patch archives. As a workaround, prevent access to Cache Manager using Squid's main access control: `http_access deny manager`.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-23638">详情</a></td>
       </tr>
@@ -514,7 +514,7 @@
       <tr>
        <td scope="row">22c26d9ac7a729edc05e6c41ad7b21ab</td>
        <td>CVE-2024-23633</td>
-       <td>2024-01-24 00:15:08 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 00:15:08</td>
        <td>Label Studio, an open source data labeling tool had a remote import feature allowed users to import data from a remote web source, that was downloaded and could be viewed on the website. Prior to version 1.10.1, this feature could had been abused to download a HTML file that executed malicious JavaScript code in the context of the Label Studio website. Executing arbitrary JavaScript could result in an attacker performing malicious actions on Label Studio users if they visit the crafted avatar image. For an example, an attacker can craft a JavaScript payload that adds a new Django Super Administrator user if a Django administrator visits the image. `data_import/uploader.py` lines 125C5 through 146 showed that if a URL passed the server side request forgery verification checks, the contents of the file would be downloaded using the filename in the URL. The downloaded file path could then be retrieved by sending a request to `/api/projects/{project_id}/file-uploads?ids=[{download_id}]` where `{project_id}` was the ID of the project and `{download_id}` was the ID of the downloaded file. Once the downloaded file path was retrieved by the previous API endpoint, `data_import/api.py`lines 595C1 through 616C62 demonstrated that the `Content-Type` of the response was determined by the file extension, since `mimetypes.guess_type` guesses the `Content-Type` based on the file extension. Since the `Content-Type` was determined by the file extension of the downloaded file, an attacker could import in a `.html` file that would execute JavaScript when visited. Version 1.10.1 contains a patch for this issue. Other remediation strategies are also available. For all user provided files that are downloaded by Label Studio, set the `Content-Security-Policy: sandbox;` response header when viewed on the site. The `sandbox` directive restricts a page's actions to prevent popups, execution of plugins and scripts and enforces a `same-origin` policy. Alternatively, restrict the allowed file extensions that may be downloaded.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-23633">详情</a></td>
       </tr>
@@ -2328,7 +2328,7 @@
       <tr>
        <td scope="row">de4de870b7b82fe499e7dcbd9fc1b976</td>
        <td>CVE-2022-41678</td>
-       <td>2024-01-24 08:34:58 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 08:34:58</td>
        <td>Apache ActiveMQ任意代码执行漏洞</td>
        <td><a target="_blank" href="http://www.nsfocus.net/vulndb/89991">详情</a></td>
       </tr>
@@ -2336,7 +2336,7 @@
       <tr>
        <td scope="row">35eddd06295579759784c8badd5e59f2</td>
        <td>CVE-2023-49062</td>
-       <td>2024-01-24 08:34:58 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 08:34:58</td>
        <td>Meta Katran初始化错误漏洞</td>
        <td><a target="_blank" href="http://www.nsfocus.net/vulndb/89990">详情</a></td>
       </tr>
@@ -2344,7 +2344,7 @@
       <tr>
        <td scope="row">9e3df88c509bf9aedaac096ed6428110</td>
        <td>CVE-2023-41264</td>
-       <td>2024-01-24 08:34:58 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 08:34:58</td>
        <td>Netwrix UserCube身份认证错误漏洞</td>
        <td><a target="_blank" href="http://www.nsfocus.net/vulndb/89989">详情</a></td>
       </tr>
@@ -2352,7 +2352,7 @@
       <tr>
        <td scope="row">1926d32b40d069c4ffcf334af9d99e1b</td>
        <td>CVE-2023-42502</td>
-       <td>2024-01-24 08:34:58 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 08:34:58</td>
        <td>Apache Superset开放重定向漏洞</td>
        <td><a target="_blank" href="http://www.nsfocus.net/vulndb/89988">详情</a></td>
       </tr>
@@ -2360,7 +2360,7 @@
       <tr>
        <td scope="row">322b33671b833529be379431cea496cd</td>
        <td>CVE-2023-42505</td>
-       <td>2024-01-24 08:34:58 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 08:34:58</td>
        <td>Apache Superset信息泄露漏洞</td>
        <td><a target="_blank" href="http://www.nsfocus.net/vulndb/89987">详情</a></td>
       </tr>
@@ -2368,7 +2368,7 @@
       <tr>
        <td scope="row">afcfc826ab2961d93579e6a15b7897d6</td>
        <td>CVE-2023-45286</td>
-       <td>2024-01-24 08:34:58 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 08:34:58</td>
        <td>Resty竞争条件漏洞</td>
        <td><a target="_blank" href="http://www.nsfocus.net/vulndb/89986">详情</a></td>
       </tr>
@@ -2376,7 +2376,7 @@
       <tr>
        <td scope="row">33fbca2d4ec579378a10465db6449eae</td>
        <td>CVE-2023-48848</td>
-       <td>2024-01-24 08:34:58 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 08:34:58</td>
        <td>UReport任意文件读取漏洞</td>
        <td><a target="_blank" href="http://www.nsfocus.net/vulndb/89985">详情</a></td>
       </tr>
@@ -2384,7 +2384,7 @@
       <tr>
        <td scope="row">a225239aa9d753d9d2eeec05ce1ac326</td>
        <td>CVE-2023-48121</td>
-       <td>2024-01-24 08:34:58 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 08:34:58</td>
        <td>Ezviz CS Series多款产品身份认证绕过漏洞</td>
        <td><a target="_blank" href="http://www.nsfocus.net/vulndb/89984">详情</a></td>
       </tr>
@@ -2392,7 +2392,7 @@
       <tr>
        <td scope="row">4bded4d5d07efb084f212d4ddb16ccc4</td>
        <td>CVE-2023-42504</td>
-       <td>2024-01-24 08:34:58 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 08:34:58</td>
        <td>Apache Superset拒绝服务漏洞</td>
        <td><a target="_blank" href="http://www.nsfocus.net/vulndb/89983">详情</a></td>
       </tr>
@@ -2400,7 +2400,7 @@
       <tr>
        <td scope="row">65a308236d4629ec7685bc50cc6b168d</td>
        <td>CVE-2023-29061</td>
-       <td>2024-01-24 08:34:58 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 08:34:58</td>
        <td>BD FACSChorus身份认证错误漏洞</td>
        <td><a target="_blank" href="http://www.nsfocus.net/vulndb/89982">详情</a></td>
       </tr>
@@ -2408,7 +2408,7 @@
       <tr>
        <td scope="row">3de9d246d26618fa7e8fa192355e43ab</td>
        <td>CVE-2023-45539</td>
-       <td>2024-01-24 08:34:58 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 08:34:58</td>
        <td>HAProxy信息泄露漏洞</td>
        <td><a target="_blank" href="http://www.nsfocus.net/vulndb/89981">详情</a></td>
       </tr>
@@ -2416,7 +2416,7 @@
       <tr>
        <td scope="row">54b6359c792232e1d847afccb32960d4</td>
        <td>CVE-2023-30588</td>
-       <td>2024-01-24 08:34:58 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 08:34:58</td>
        <td>Node.js拒绝服务漏洞</td>
        <td><a target="_blank" href="http://www.nsfocus.net/vulndb/89980">详情</a></td>
       </tr>
@@ -2424,7 +2424,7 @@
       <tr>
        <td scope="row">12936ad6880cdc838c72b28c288a2e08</td>
        <td>CVE-2023-29060</td>
-       <td>2024-01-24 08:34:58 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 08:34:58</td>
        <td>BD FACSChorus身份认证错误漏洞</td>
        <td><a target="_blank" href="http://www.nsfocus.net/vulndb/89979">详情</a></td>
       </tr>
@@ -2432,7 +2432,7 @@
       <tr>
        <td scope="row">c1bfb2683743ab62c4c72d9de8604f68</td>
        <td>CVE-2023-49652</td>
-       <td>2024-01-24 08:34:58 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 08:34:58</td>
        <td>Jenkins Google Compute Engine Plugin授权错误漏洞</td>
        <td><a target="_blank" href="http://www.nsfocus.net/vulndb/89978">详情</a></td>
       </tr>
@@ -2440,7 +2440,7 @@
       <tr>
        <td scope="row">927c52393dacb55c62f72c4a935bea17</td>
        <td>CVE-2023-40626</td>
-       <td>2024-01-24 08:34:58 <img src="imgs/new.gif" /></td>
+       <td>2024-01-24 08:34:58</td>
        <td>Joomla CMS信息泄露漏洞</td>
        <td><a target="_blank" href="http://www.nsfocus.net/vulndb/89977">详情</a></td>
       </tr>
@@ -2732,6 +2732,15 @@
       </tr>
 
       <tr>
+       <td scope="row">720d773be3f8f0b69a479a0e13038a29</td>
+       <td>CVE-2024-23897</td>
+       <td>2024-01-25 02:33:56 <img src="imgs/new.gif" /></td>
+       <td>Jenkins CLI 任意文件读取漏洞（CVE-2024-23897）
+                        </td>
+       <td><a target="_blank" href="https://avd.aliyun.com/detail?id=AVD-2024-23897">详情</a></td>
+      </tr>
+
+      <tr>
        <td scope="row">49b1787a3ae5b6089a1c50d042bf81c4</td>
        <td>AVD-2024-1706412</td>
        <td>2024-01-23 08:35:19</td>
@@ -2972,15 +2981,6 @@
        <td>OwnCloud webdav 权限绕过致代码执行漏洞（CVE-2023-49105）
                         </td>
        <td><a target="_blank" href="https://avd.aliyun.com/detail?id=AVD-2023-49105">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">f9771cf331d6a90d583c4040a7335677</td>
-       <td>AVD-2023-1697088</td>
-       <td>2023-11-21 03:32:27</td>
-       <td>I Doc View 任意文件上传漏洞
-                        </td>
-       <td><a target="_blank" href="https://avd.aliyun.com/detail?id=AVD-2023-1697088">详情</a></td>
       </tr>
 
      </tbody>

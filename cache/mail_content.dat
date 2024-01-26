@@ -1,19 +1,12 @@
 
-<h3>发现最新漏洞情报<font color="red">9</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">9</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-51947</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Actidata多款产品存在关键功能的认证机制缺失漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=0e093236-14c2-4d22-a426-e20b3b060c0f'>https://redqueen.tj-un.com/IntelDetails.html?id=0e093236-14c2-4d22-a426-e20b3b060c0f</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-51948</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Actidata多款产品存在漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=4ed24874-5e31-457d-8acd-2036488e0e34'>https://redqueen.tj-un.com/IntelDetails.html?id=4ed24874-5e31-457d-8acd-2036488e0e34</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-25529</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Nvidia多款产品存在通过差异性导致的信息暴露漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=e1cec825-ded8-4523-9d28-542193170308'>https://redqueen.tj-un.com/IntelDetails.html?id=e1cec825-ded8-4523-9d28-542193170308</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0712</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Byzoro多款产品存在访问控制不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=c5eb2d22-a531-4fa7-91fd-e0f7aec77261'>https://redqueen.tj-un.com/IntelDetails.html?id=c5eb2d22-a531-4fa7-91fd-e0f7aec77261</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0553</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Gnu等厂商的多款产品存在通过差异性导致的信息暴露漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=4473ed44-858f-4097-a91f-dd08e2d441c7'>https://redqueen.tj-un.com/IntelDetails.html?id=4473ed44-858f-4097-a91f-dd08e2d441c7</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5824</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Squid-cache等厂商的多款产品存在对异常条件的处理不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=2c438fd6-16c3-4f4a-82a1-18b6bfdba196'>https://redqueen.tj-un.com/IntelDetails.html?id=2c438fd6-16c3-4f4a-82a1-18b6bfdba196</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-27168</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Xpand-it Write-back_manager存在危险类型文件的不加限制上传漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=1f0c5769-bc33-4969-9a97-5154cdd977c7'>https://redqueen.tj-un.com/IntelDetails.html?id=1f0c5769-bc33-4969-9a97-5154cdd977c7</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-20274</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Cisco Appdynamics存在特权管理不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=32afebd5-ad19-4d14-9cf6-4c70a9217e08'>https://redqueen.tj-un.com/IntelDetails.html?id=32afebd5-ad19-4d14-9cf6-4c70a9217e08</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-20272</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Cisco Identity_services_engine存在对候选路径的不恰当保护漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=932aa87c-bebf-4aba-9c6b-f8449cb0eaf8'>https://redqueen.tj-un.com/IntelDetails.html?id=932aa87c-bebf-4aba-9c6b-f8449cb0eaf8</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23897</font><br/>[<b>披露时间</b>] 2024-01-25 02:33:56<br/>[<b>漏洞描述</b>] Jenkins CLI 任意文件读取漏洞（CVE-2024-23897）
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-23897'>https://avd.aliyun.com/detail?id=AVD-2024-23897</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
