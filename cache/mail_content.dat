@@ -1,12 +1,18 @@
 
-<h3>发现最新漏洞情报<font color="red">2</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">8</font>条：</h3>
 <ul>
-    <li><font color="red">2</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
+    <li><font color="red">8</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-45779</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Google Android存在安全漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=0360a5a6-fbb5-4ba8-881b-b1121c967e94'>https://redqueen.tj-un.com/IntelDetails.html?id=0360a5a6-fbb5-4ba8-881b-b1121c967e94</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-21591</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Juniper Junos存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=b9b19430-ec13-4f51-84af-135acf8c6bb6'>https://redqueen.tj-un.com/IntelDetails.html?id=b9b19430-ec13-4f51-84af-135acf8c6bb6</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-51698</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Mate-desktop Atril存在OS命令注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=bb964a81-479a-46d6-8d89-9294d6277bd1'>https://redqueen.tj-un.com/IntelDetails.html?id=bb964a81-479a-46d6-8d89-9294d6277bd1</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-43361</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Xiph Vorbis-tools存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=01f862f1-c226-4195-8a95-80fdbb283fd0'>https://redqueen.tj-un.com/IntelDetails.html?id=01f862f1-c226-4195-8a95-80fdbb283fd0</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23204</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Apple多款产品存在漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=2ec90efa-3395-4039-ac00-d455fb43ebba'>https://redqueen.tj-un.com/IntelDetails.html?id=2ec90efa-3395-4039-ac00-d455fb43ebba</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23203</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Apple多款产品存在漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=1740bb7a-caf6-4833-9757-860d836ec28b'>https://redqueen.tj-un.com/IntelDetails.html?id=1740bb7a-caf6-4833-9757-860d836ec28b</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23209</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Apple Macos存在安全漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=eba3b996-cdc7-42d1-8594-799f57749f4d'>https://redqueen.tj-un.com/IntelDetails.html?id=eba3b996-cdc7-42d1-8594-799f57749f4d</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23732</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Embedchain存在低效的正则表达式复杂性漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=7362e1a5-aa2f-483e-94d0-a88633cd99ac'>https://redqueen.tj-un.com/IntelDetails.html?id=7362e1a5-aa2f-483e-94d0-a88633cd99ac</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23731</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Embedchain存在参数注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=e9cfb82e-05d6-481a-a2ba-1f23b75733da'>https://redqueen.tj-un.com/IntelDetails.html?id=e9cfb82e-05d6-481a-a2ba-1f23b75733da</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-42881</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Apple Macos存在安全漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=b06c9cc9-cfa3-43b8-9ebf-8aa92db1df1c'>https://redqueen.tj-un.com/IntelDetails.html?id=b06c9cc9-cfa3-43b8-9ebf-8aa92db1df1c</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
