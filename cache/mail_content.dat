@@ -1,20 +1,14 @@
 
-<h3>发现最新漏洞情报<font color="red">10</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">2</font>条：</h3>
 <ul>
-    <li><font color="red">10</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
+    <li><font color="red">2</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23613</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Broadcom Symantec_deployment_solutions存在经典缓冲区溢出漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=d50fb082-bcbb-4be0-9c33-21a60c02853e'>https://redqueen.tj-un.com/IntelDetails.html?id=d50fb082-bcbb-4be0-9c33-21a60c02853e</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2020-25691</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Unix4lyfe Darkhttpd存在对异常条件的处理不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=c41e05a9-776c-4b30-b8ee-589f2572998f'>https://redqueen.tj-un.com/IntelDetails.html?id=c41e05a9-776c-4b30-b8ee-589f2572998f</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0822</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Ovirt Ovirt-engine存在认证机制不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=a21f7f82-652a-48e7-833a-30808e7b34c4'>https://redqueen.tj-un.com/IntelDetails.html?id=a21f7f82-652a-48e7-833a-30808e7b34c4</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2021-42145</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Contiki-ng Tinydtls存在对异常条件的处理不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=ae9772a5-6c13-4258-94f8-56730dbbd5b2'>https://redqueen.tj-un.com/IntelDetails.html?id=ae9772a5-6c13-4258-94f8-56730dbbd5b2</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0883</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Mayurik Online_tours_&_travels_management_system存在SQL注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=49f01191-6975-4829-9ca5-6c32be4a2608'>https://redqueen.tj-un.com/IntelDetails.html?id=49f01191-6975-4829-9ca5-6c32be4a2608</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-7227</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Systemk-corp多款产品存在命令注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=c1081533-1ec5-45d6-9eb9-d46bbe6734d6'>https://redqueen.tj-un.com/IntelDetails.html?id=c1081533-1ec5-45d6-9eb9-d46bbe6734d6</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-22529</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Totolink多款产品存在命令注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=9fbda484-3ef0-4973-a78f-e17665da7c7a'>https://redqueen.tj-un.com/IntelDetails.html?id=9fbda484-3ef0-4973-a78f-e17665da7c7a</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0402</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Gitlab存在路径遍历漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=a15c107c-d3e8-4029-a033-ee735d077ec7'>https://redqueen.tj-un.com/IntelDetails.html?id=a15c107c-d3e8-4029-a033-ee735d077ec7</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-35837</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Solax多款产品存在漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=ecec7f39-8c05-4286-bed2-fd2065e4d02d'>https://redqueen.tj-un.com/IntelDetails.html?id=ecec7f39-8c05-4286-bed2-fd2065e4d02d</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6246</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Gnu等厂商的多款产品存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=8f993fa8-e3cd-48c8-bfaa-901ba393642a'>https://redqueen.tj-un.com/IntelDetails.html?id=8f993fa8-e3cd-48c8-bfaa-901ba393642a</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-21626</font><br/>[<b>披露时间</b>] 2024-02-01 06:33:33<br/>[<b>漏洞描述</b>] runc 文件描述符泄漏漏洞（CVE-2024-21626）
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-21626'>https://avd.aliyun.com/detail?id=AVD-2024-21626</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-44313</font><br/>[<b>披露时间</b>] 2024-01-31 06:33:33<br/>[<b>漏洞描述</b>] Apache ServiceComb Service-Center SSRF漏洞(CVE-2023-44313)
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2023-44313'>https://avd.aliyun.com/detail?id=AVD-2023-44313</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
