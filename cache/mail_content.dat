@@ -1,12 +1,25 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
+    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-24747</font><br/>[<b>披露时间</b>] 2024-02-01 09:32:04<br/>[<b>漏洞描述</b>] MinIO 权限提升漏洞（CVE-2024-24747）
-                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-24747'>https://avd.aliyun.com/detail?id=AVD-2024-24747</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-38314</font><br/>[<b>披露时间</b>] 2024-02-02 11:31:39<br/>[<b>漏洞描述</b>] openNDS空指针解引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90346'>http://www.nsfocus.net/vulndb/90346</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-38315</font><br/>[<b>披露时间</b>] 2024-02-02 11:31:39<br/>[<b>漏洞描述</b>] openNDS空指针解引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90345'>http://www.nsfocus.net/vulndb/90345</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-38316</font><br/>[<b>披露时间</b>] 2024-02-02 11:31:39<br/>[<b>漏洞描述</b>] openNDS空指针解引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90344'>http://www.nsfocus.net/vulndb/90344</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-38320</font><br/>[<b>披露时间</b>] 2024-02-02 11:31:39<br/>[<b>漏洞描述</b>] openNDS空指针解引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90343'>http://www.nsfocus.net/vulndb/90343</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-38322</font><br/>[<b>披露时间</b>] 2024-02-02 11:31:39<br/>[<b>漏洞描述</b>] openNDS空指针解引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90342'>http://www.nsfocus.net/vulndb/90342</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-39544</font><br/>[<b>披露时间</b>] 2024-02-02 11:31:39<br/>[<b>漏洞描述</b>] NEC多款产品身份认证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90341'>http://www.nsfocus.net/vulndb/90341</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-39545</font><br/>[<b>披露时间</b>] 2024-02-02 11:31:39<br/>[<b>漏洞描述</b>] NEC多款产品身份认证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90340'>http://www.nsfocus.net/vulndb/90340</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-39546</font><br/>[<b>披露时间</b>] 2024-02-02 11:31:39<br/>[<b>漏洞描述</b>] NEC多款产品身份认证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90339'>http://www.nsfocus.net/vulndb/90339</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-39547</font><br/>[<b>披露时间</b>] 2024-02-02 11:31:39<br/>[<b>漏洞描述</b>] NEC多款产品身份认证绕过漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90338'>http://www.nsfocus.net/vulndb/90338</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-39548</font><br/>[<b>披露时间</b>] 2024-02-02 11:31:39<br/>[<b>漏洞描述</b>] NEC多款产品任意文件上传漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90337'>http://www.nsfocus.net/vulndb/90337</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47797</font><br/>[<b>披露时间</b>] 2024-02-02 11:31:39<br/>[<b>漏洞描述</b>] Liferay Portal跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90336'>http://www.nsfocus.net/vulndb/90336</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-41102</font><br/>[<b>披露时间</b>] 2024-02-02 11:31:39<br/>[<b>漏洞描述</b>] OpenNDS内存泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90335'>http://www.nsfocus.net/vulndb/90335</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-41101</font><br/>[<b>披露时间</b>] 2024-02-02 11:31:39<br/>[<b>漏洞描述</b>] OpenNDS越界写入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90334'>http://www.nsfocus.net/vulndb/90334</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-44325</font><br/>[<b>披露时间</b>] 2024-02-02 11:31:39<br/>[<b>漏洞描述</b>] Adobe Animate越界读取漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90333'>http://www.nsfocus.net/vulndb/90333</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47675</font><br/>[<b>披露时间</b>] 2024-02-02 11:31:39<br/>[<b>漏洞描述</b>] CubeCart操作系统命令注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90332'>http://www.nsfocus.net/vulndb/90332</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
