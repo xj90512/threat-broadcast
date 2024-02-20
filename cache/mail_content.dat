@@ -1,16 +1,18 @@
 
-<h3>发现最新漏洞情报<font color="red">6</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">4</font>条：</h3>
 <ul>
-    <li><font color="red">6</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
+    <li><font color="red">4</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2021-3860</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Jfrog Artifactory存在SQL注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=dd6d16b2-22db-44ee-a942-ebec830b8bb6'>https://redqueen.tj-un.com/IntelDetails.html?id=dd6d16b2-22db-44ee-a942-ebec830b8bb6</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-7216</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Gnu等厂商的多款产品存在路径遍历漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=fb2769dd-3af1-4433-9870-3fd81af827a6'>https://redqueen.tj-un.com/IntelDetails.html?id=fb2769dd-3af1-4433-9870-3fd81af827a6</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-40548</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Redhat等厂商的多款产品存在整数溢出或超界折返漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=e5d34b06-e42f-45fe-a145-e3bca1cf73ba'>https://redqueen.tj-un.com/IntelDetails.html?id=e5d34b06-e42f-45fe-a145-e3bca1cf73ba</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-45142</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Opentelemetry存在资源分配缺少限制或调节漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=6ed02da4-7f85-4d2d-a119-55ef951d7bd8'>https://redqueen.tj-un.com/IntelDetails.html?id=6ed02da4-7f85-4d2d-a119-55ef951d7bd8</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-22520</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Dronetag Drone_scanner存在使用欺骗进行的认证绕过漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=fecfe4ab-586f-4979-9920-0ab561d7c05f'>https://redqueen.tj-un.com/IntelDetails.html?id=fecfe4ab-586f-4979-9920-0ab561d7c05f</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-22519</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Sorenfriis Opendroneid_osm存在使用欺骗进行的认证绕过漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=90f75ddb-57c7-4348-a0b3-cbe8c947adcf'>https://redqueen.tj-un.com/IntelDetails.html?id=90f75ddb-57c7-4348-a0b3-cbe8c947adcf</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-22024</font><br/>[<b>披露时间</b>] 2024-02-13 02:00:02<br/>[<b>漏洞描述</b>] Ivanti Pulse Connect Secure VPN XXE 漏洞（CVE-2024-22024）
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-22024'>https://avd.aliyun.com/detail?id=AVD-2024-22024</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-50386</font><br/>[<b>披露时间</b>] 2024-02-10 02:00:02<br/>[<b>漏洞描述</b>] Apache Solr Backup/Restore APIs 代码执行漏洞（CVE-2023-50386）
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2023-50386'>https://avd.aliyun.com/detail?id=AVD-2023-50386</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-50292</font><br/>[<b>披露时间</b>] 2024-02-10 02:00:02<br/>[<b>漏洞描述</b>] Apache Solr Schema Designer 代码执行漏洞 (CVE-2023-50292)
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2023-50292'>https://avd.aliyun.com/detail?id=AVD-2023-50292</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23917</font><br/>[<b>披露时间</b>] 2024-02-06 02:00:02<br/>[<b>漏洞描述</b>] TeamCity 权限绕过漏洞（CVE-2024-23917）
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-23917'>https://avd.aliyun.com/detail?id=AVD-2024-23917</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
