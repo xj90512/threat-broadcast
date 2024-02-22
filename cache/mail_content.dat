@@ -1,11 +1,13 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">3</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
+    <li><font color="red">3</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23222</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Apple多款产品存在类型混淆漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=4f43ed3e-d325-4ea8-b0e3-279bf779cb23'>https://redqueen.tj-un.com/IntelDetails.html?id=4f43ed3e-d325-4ea8-b0e3-279bf779cb23</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5841</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Openexr存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=e79cb4ca-2522-46a9-95ff-2dcb430b1884'>https://redqueen.tj-un.com/IntelDetails.html?id=e79cb4ca-2522-46a9-95ff-2dcb430b1884</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0822</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Ovirt Ovirt-engine存在认证机制不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=a21f7f82-652a-48e7-833a-30808e7b34c4'>https://redqueen.tj-un.com/IntelDetails.html?id=a21f7f82-652a-48e7-833a-30808e7b34c4</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5379</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Redhat多款产品存在资源分配缺少限制或调节漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=165023ed-219c-4b0c-9516-491cd604d551'>https://redqueen.tj-un.com/IntelDetails.html?id=165023ed-219c-4b0c-9516-491cd604d551</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
