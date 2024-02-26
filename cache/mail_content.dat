@@ -1,13 +1,13 @@
 
-<h3>发现最新漏洞情报<font color="red">3</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">2</font>条：</h3>
 <ul>
-    <li><font color="red">3</font>条由 [<a href="https://www.tenable.com/">Tenable (Nessus)</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://cert.360.cn/warning">360 网络安全响应中心</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-21502</font><br/>[<b>披露时间</b>] 2024-02-24 05:15:44<br/>[<b>漏洞描述</b>] Versions of the package fastecdsa before 2.3.2 are vulnerable to Use of Uninitialized Variable on the stack, via the curvemath_mul function in src/curveMath.c, due to being used and interpreted as user-defined type. Depending on the variable's actual value it could be arbitrary free(), arbitrary realloc(), null pointer dereference and other. Since the stack can be controlled by the attacker, the vulnerability could be used to corrupt allocator structure, leading to possible heap exploitation. The attacker could cause denial of service by exploiting this vulnerability.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2024-21502'>https://www.tenable.com/cve/CVE-2024-21502</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-21501</font><br/>[<b>披露时间</b>] 2024-02-24 05:15:44<br/>[<b>漏洞描述</b>] Versions of the package sanitize-html before 2.12.1 are vulnerable to Information Exposure when used on the backend and with the style attribute allowed, allowing enumeration of files in the system (including project dependencies). An attacker could exploit this vulnerability to gather details about the file system structure and dependencies of the targeted server.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2024-21501'>https://www.tenable.com/cve/CVE-2024-21501</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-1810</font><br/>[<b>披露时间</b>] 2024-02-24 05:15:43<br/>[<b>漏洞描述</b>] The Archivist – Custom Archive Templates plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via the ‘shortcode_attributes' parameter in all versions up to, and including, 1.7.5 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that execute if they can successfully trick a user into performing an action such as clicking on a link.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2024-1810'>https://www.tenable.com/cve/CVE-2024-1810</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 360 网络安全响应中心<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-02-26 03:00:09<br/>[<b>漏洞描述</b>] 安全事件周报 2024-02-19 第8周<br/>[<b>相关链接</b>] <a href='https://cert.360.cn/warning/detail?id=65dbfe67c09f255b91b17dec'>https://cert.360.cn/warning/detail?id=65dbfe67c09f255b91b17dec</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-25189</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Bencollins Jwt_c_library存在通过差异性导致的信息暴露漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=59751929-251e-4fd0-b470-ae9684eca264'>https://redqueen.tj-un.com/IntelDetails.html?id=59751929-251e-4fd0-b470-ae9684eca264</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
