@@ -1,11 +1,16 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">6</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
+    <li><font color="red">6</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-22243</font><br/>[<b>披露时间</b>] 2024-02-27 00:05:31<br/>[<b>漏洞描述</b>] Spring Framework URL Host解析错误漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=10533'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=10533</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23213</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Apple多款产品存在漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=a97c768e-e008-4e22-bf3d-0aad85e158d0'>https://redqueen.tj-un.com/IntelDetails.html?id=a97c768e-e008-4e22-bf3d-0aad85e158d0</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23738</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Postman等厂商的多款产品存在漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=bcaeed35-0d0c-4d85-9d43-57a2e35b9a7f'>https://redqueen.tj-un.com/IntelDetails.html?id=bcaeed35-0d0c-4d85-9d43-57a2e35b9a7f</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0553</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Gnu等厂商的多款产品存在通过差异性导致的信息暴露漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=4473ed44-858f-4097-a91f-dd08e2d441c7'>https://redqueen.tj-un.com/IntelDetails.html?id=4473ed44-858f-4097-a91f-dd08e2d441c7</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-50782</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Python-cryptography_project等厂商的多款产品存在通过差异性导致的信息暴露漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=cc1e0358-672d-4044-9d46-2d8af9429900'>https://redqueen.tj-un.com/IntelDetails.html?id=cc1e0358-672d-4044-9d46-2d8af9429900</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-52425</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Libexpat_project Libexpat存在资源穷尽漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=6c6e8571-e6ab-43b4-b5c5-724858d97e69'>https://redqueen.tj-un.com/IntelDetails.html?id=6c6e8571-e6ab-43b4-b5c5-724858d97e69</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-50781</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] M2crypto_project等厂商的多款产品存在通过差异性导致的信息暴露漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=ed607dfb-4fe4-42fc-9499-7772048def81'>https://redqueen.tj-un.com/IntelDetails.html?id=ed607dfb-4fe4-42fc-9499-7772048def81</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
