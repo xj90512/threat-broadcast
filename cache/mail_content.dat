@@ -1,13 +1,25 @@
 
-<h3>发现最新漏洞情报<font color="red">2</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://cert.360.cn/warning">360 网络安全响应中心</a>] 提供</li>
-    <li><font color="red">1</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
+    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 360 网络安全响应中心<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-02-26 03:00:09<br/>[<b>漏洞描述</b>] 安全事件周报 2024-02-19 第8周<br/>[<b>相关链接</b>] <a href='https://cert.360.cn/warning/detail?id=65dbfe67c09f255b91b17dec'>https://cert.360.cn/warning/detail?id=65dbfe67c09f255b91b17dec</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-25189</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Bencollins Jwt_c_library存在通过差异性导致的信息暴露漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=59751929-251e-4fd0-b470-ae9684eca264'>https://redqueen.tj-un.com/IntelDetails.html?id=59751929-251e-4fd0-b470-ae9684eca264</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-42325</font><br/>[<b>披露时间</b>] 2024-02-26 09:32:08<br/>[<b>漏洞描述</b>] pfSense跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90812'>http://www.nsfocus.net/vulndb/90812</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6101</font><br/>[<b>披露时间</b>] 2024-02-26 09:32:08<br/>[<b>漏洞描述</b>] Maiwei Safety Production Control Platform信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90811'>http://www.nsfocus.net/vulndb/90811</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47621</font><br/>[<b>披露时间</b>] 2024-02-26 09:32:08<br/>[<b>漏洞描述</b>] Guest Entries任意文件上传漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90810'>http://www.nsfocus.net/vulndb/90810</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-42813</font><br/>[<b>披露时间</b>] 2024-02-26 09:32:08<br/>[<b>漏洞描述</b>] Kyverno无限循环漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90809'>http://www.nsfocus.net/vulndb/90809</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6100</font><br/>[<b>披露时间</b>] 2024-02-26 09:32:08<br/>[<b>漏洞描述</b>] Maiwei Safety Production Control Platform信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90808'>http://www.nsfocus.net/vulndb/90808</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6097</font><br/>[<b>披露时间</b>] 2024-02-26 09:32:08<br/>[<b>漏洞描述</b>] ICS Business Manager SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90807'>http://www.nsfocus.net/vulndb/90807</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6098</font><br/>[<b>披露时间</b>] 2024-02-26 09:32:08<br/>[<b>漏洞描述</b>] ICS Business Manager跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90806'>http://www.nsfocus.net/vulndb/90806</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5747</font><br/>[<b>披露时间</b>] 2024-02-26 09:32:08<br/>[<b>漏洞描述</b>] Hanwha SolidEDGE命令注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90805'>http://www.nsfocus.net/vulndb/90805</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47801</font><br/>[<b>披露时间</b>] 2024-02-26 09:32:08<br/>[<b>漏洞描述</b>] Click Studios Passwordstate权限分配错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90804'>http://www.nsfocus.net/vulndb/90804</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5741</font><br/>[<b>披露时间</b>] 2024-02-26 09:32:08<br/>[<b>漏洞描述</b>] WordPress POWR Plugin跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90803'>http://www.nsfocus.net/vulndb/90803</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-4775</font><br/>[<b>披露时间</b>] 2024-02-26 09:32:08<br/>[<b>漏洞描述</b>] WordPress POWR Plugin跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90802'>http://www.nsfocus.net/vulndb/90802</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-28134</font><br/>[<b>披露时间</b>] 2024-02-26 09:32:08<br/>[<b>漏洞描述</b>] Check Point Harmony Endpoint权限分配错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90801'>http://www.nsfocus.net/vulndb/90801</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-38363</font><br/>[<b>披露时间</b>] 2024-02-26 09:32:08<br/>[<b>漏洞描述</b>] IBM CICS TX Advanced信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90800'>http://www.nsfocus.net/vulndb/90800</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-38364</font><br/>[<b>披露时间</b>] 2024-02-26 09:32:08<br/>[<b>漏洞描述</b>] IBM CICS TX Advanced跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90799'>http://www.nsfocus.net/vulndb/90799</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47163</font><br/>[<b>披露时间</b>] 2024-02-26 09:32:08<br/>[<b>漏洞描述</b>] Remarshal不受控制递归漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90798'>http://www.nsfocus.net/vulndb/90798</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
