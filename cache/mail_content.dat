@@ -1,25 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://cert.360.cn/warning">360 网络安全响应中心</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47610</font><br/>[<b>披露时间</b>] 2024-02-27 07:32:01<br/>[<b>漏洞描述</b>] Telit Cinterion多款产品缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90862'>http://www.nsfocus.net/vulndb/90862</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-39198</font><br/>[<b>披露时间</b>] 2024-02-27 07:32:01<br/>[<b>漏洞描述</b>] Linux Kernel内存错误引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90861'>http://www.nsfocus.net/vulndb/90861</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47248</font><br/>[<b>披露时间</b>] 2024-02-27 07:32:01<br/>[<b>漏洞描述</b>] Apache PyArrow不受信数据反序列化漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90860'>http://www.nsfocus.net/vulndb/90860</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47612</font><br/>[<b>披露时间</b>] 2024-02-27 07:32:01<br/>[<b>漏洞描述</b>] Telit Cinterion多款产品信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90859'>http://www.nsfocus.net/vulndb/90859</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47615</font><br/>[<b>披露时间</b>] 2024-02-27 07:32:01<br/>[<b>漏洞描述</b>] Telit Cinterion多款产品信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90858'>http://www.nsfocus.net/vulndb/90858</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47616</font><br/>[<b>披露时间</b>] 2024-02-27 07:32:01<br/>[<b>漏洞描述</b>] Telit Cinterion多款产品信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90857'>http://www.nsfocus.net/vulndb/90857</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47489</font><br/>[<b>披露时间</b>] 2024-02-27 07:32:01<br/>[<b>漏洞描述</b>] Combodo iTop CSV注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90856'>http://www.nsfocus.net/vulndb/90856</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47613</font><br/>[<b>披露时间</b>] 2024-02-27 07:32:01<br/>[<b>漏洞描述</b>] Telit Cinterion多款产品信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90855'>http://www.nsfocus.net/vulndb/90855</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47488</font><br/>[<b>披露时间</b>] 2024-02-27 07:32:01<br/>[<b>漏洞描述</b>] Combodo iTop跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90854'>http://www.nsfocus.net/vulndb/90854</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46492</font><br/>[<b>披露时间</b>] 2024-02-27 07:32:01<br/>[<b>漏洞描述</b>] MLDB.ai跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90853'>http://www.nsfocus.net/vulndb/90853</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-26156</font><br/>[<b>披露时间</b>] 2024-02-27 07:32:01<br/>[<b>漏洞描述</b>] ChromeDriver命令注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90852'>http://www.nsfocus.net/vulndb/90852</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-20902</font><br/>[<b>披露时间</b>] 2024-02-27 07:32:01<br/>[<b>漏洞描述</b>] Harbor竞争条件漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90851'>http://www.nsfocus.net/vulndb/90851</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-45225</font><br/>[<b>披露时间</b>] 2024-02-27 07:32:01<br/>[<b>漏洞描述</b>] Zavio CF Series和CD321 IP Cameras堆栈缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90850'>http://www.nsfocus.net/vulndb/90850</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-4249</font><br/>[<b>披露时间</b>] 2024-02-27 07:32:01<br/>[<b>漏洞描述</b>] Zavio CF Series和CD321 IP Cameras命令注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90849'>http://www.nsfocus.net/vulndb/90849</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2021-43609</font><br/>[<b>披露时间</b>] 2024-02-27 07:32:01<br/>[<b>漏洞描述</b>] Spiceworks Help Desk Server SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90848'>http://www.nsfocus.net/vulndb/90848</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 360 网络安全响应中心<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-25600</font><br/>[<b>披露时间</b>] 2024-02-27 10:32:04<br/>[<b>漏洞描述</b>] CVE-2024-25600：WordPress Bricks Builder远程命令执行漏洞通告<br/>[<b>相关链接</b>] <a href='https://cert.360.cn/warning/detail?id=65ddb1a3c09f255b91b17dfe'>https://cert.360.cn/warning/detail?id=65ddb1a3c09f255b91b17dfe</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
