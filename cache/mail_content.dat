@@ -1,25 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://cert.360.cn/warning">360 网络安全响应中心</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-4632</font><br/>[<b>披露时间</b>] 2024-02-28 07:32:10<br/>[<b>漏洞描述</b>] Lenovo System Update不受控制的搜索路径元素漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90912'>http://www.nsfocus.net/vulndb/90912</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5913</font><br/>[<b>披露时间</b>] 2024-02-28 07:32:10<br/>[<b>漏洞描述</b>] Micro Focus Fortify ScanCentral DAST权限分配错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90911'>http://www.nsfocus.net/vulndb/90911</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5759</font><br/>[<b>披露时间</b>] 2024-02-28 07:32:10<br/>[<b>漏洞描述</b>] Perforce Software Perforce Helix Core不受控制的资源消耗漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90910'>http://www.nsfocus.net/vulndb/90910</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5760</font><br/>[<b>披露时间</b>] 2024-02-28 07:32:10<br/>[<b>漏洞描述</b>] Avast Antivirus越界写入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90909'>http://www.nsfocus.net/vulndb/90909</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46758</font><br/>[<b>披露时间</b>] 2024-02-28 07:32:10<br/>[<b>漏洞描述</b>] Huawei HarmonyOS和EMUI权限管理漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90908'>http://www.nsfocus.net/vulndb/90908</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46767</font><br/>[<b>披露时间</b>] 2024-02-28 07:32:10<br/>[<b>漏洞描述</b>] Huawei HarmonyOS和EMUI越界写入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90907'>http://www.nsfocus.net/vulndb/90907</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46756</font><br/>[<b>披露时间</b>] 2024-02-28 07:32:10<br/>[<b>漏洞描述</b>] Huawei HarmonyOS和EMUI权限控制漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90906'>http://www.nsfocus.net/vulndb/90906</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46765</font><br/>[<b>披露时间</b>] 2024-02-28 07:32:10<br/>[<b>漏洞描述</b>] Huawei HarmonyOS和EMUI未捕获异常漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90905'>http://www.nsfocus.net/vulndb/90905</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46763</font><br/>[<b>披露时间</b>] 2024-02-28 07:32:10<br/>[<b>漏洞描述</b>] Huawei HarmonyOS和EMUI权限管理漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90904'>http://www.nsfocus.net/vulndb/90904</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46755</font><br/>[<b>披露时间</b>] 2024-02-28 07:32:10<br/>[<b>漏洞描述</b>] Huawei HarmonyOS和EMUI输入验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90903'>http://www.nsfocus.net/vulndb/90903</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46760</font><br/>[<b>披露时间</b>] 2024-02-28 07:32:10<br/>[<b>漏洞描述</b>] Huawei HarmonyOS和EMUI越界写入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90902'>http://www.nsfocus.net/vulndb/90902</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5978</font><br/>[<b>披露时间</b>] 2024-02-28 07:32:10<br/>[<b>漏洞描述</b>] FreeBSD权限管理错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90901'>http://www.nsfocus.net/vulndb/90901</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2022-48613</font><br/>[<b>披露时间</b>] 2024-02-28 07:32:10<br/>[<b>漏洞描述</b>] Huawei HarmonyOS和EMUI竞争条件漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90900'>http://www.nsfocus.net/vulndb/90900</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46771</font><br/>[<b>披露时间</b>] 2024-02-28 07:32:10<br/>[<b>漏洞描述</b>] Huawei HarmonyOS和EMUI权限管理错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90899'>http://www.nsfocus.net/vulndb/90899</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5941</font><br/>[<b>披露时间</b>] 2024-02-28 07:32:10<br/>[<b>漏洞描述</b>] FreeBSD越界写入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90898'>http://www.nsfocus.net/vulndb/90898</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 360 网络安全响应中心<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-02-28 08:31:42<br/>[<b>漏洞描述</b>] SupermanMiner挖矿木马新变种持续活跃<br/>[<b>相关链接</b>] <a href='https://cert.360.cn/warning/detail?id=65deee7fc09f255b91b17e0f'>https://cert.360.cn/warning/detail?id=65deee7fc09f255b91b17e0f</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
