@@ -5,10 +5,10 @@
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-25065</font><br/>[<b>披露时间</b>] 2024-02-04 06:32:25<br/>[<b>漏洞描述</b>] Apache OFBiz 路径遍历致权限绕过漏洞（CVE-2024-25065）
-                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-25065'>https://avd.aliyun.com/detail?id=AVD-2024-25065</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23946</font><br/>[<b>披露时间</b>] 2024-01-24 06:32:25<br/>[<b>漏洞描述</b>] Apache OFBiz 目录遍历与文件包含漏洞 (CVE-2024-23946)
-                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-23946'>https://avd.aliyun.com/detail?id=AVD-2024-23946</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-50380</font><br/>[<b>披露时间</b>] 2024-02-28 07:32:19<br/>[<b>漏洞描述</b>] Apache Ambari < 2.7.8 XXE（CVE-2023-50380）
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2023-50380'>https://avd.aliyun.com/detail?id=AVD-2023-50380</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-50379</font><br/>[<b>披露时间</b>] 2024-02-27 07:32:19<br/>[<b>漏洞描述</b>] Apache Ambari 命令注入漏洞（CVE-2023-50379）
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2023-50379'>https://avd.aliyun.com/detail?id=AVD-2023-50379</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
