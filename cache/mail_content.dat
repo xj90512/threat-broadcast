@@ -1,14 +1,25 @@
 
-<h3>发现最新漏洞情报<font color="red">2</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
 <ul>
-    <li><font color="red">2</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
+    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-50380</font><br/>[<b>披露时间</b>] 2024-02-28 07:32:19<br/>[<b>漏洞描述</b>] Apache Ambari < 2.7.8 XXE（CVE-2023-50380）
-                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2023-50380'>https://avd.aliyun.com/detail?id=AVD-2023-50380</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-50379</font><br/>[<b>披露时间</b>] 2024-02-27 07:32:19<br/>[<b>漏洞描述</b>] Apache Ambari 命令注入漏洞（CVE-2023-50379）
-                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2023-50379'>https://avd.aliyun.com/detail?id=AVD-2023-50379</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-45380</font><br/>[<b>披露时间</b>] 2024-02-29 09:31:54<br/>[<b>漏洞描述</b>] PrestaShop Order Duplicator授权绕过漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90963'>http://www.nsfocus.net/vulndb/90963</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6001</font><br/>[<b>披露时间</b>] 2024-02-29 09:31:54<br/>[<b>漏洞描述</b>] YugabyteDB授权错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90962'>http://www.nsfocus.net/vulndb/90962</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5819</font><br/>[<b>披露时间</b>] 2024-02-29 09:31:54<br/>[<b>漏洞描述</b>] WordPress Amazonify Plugin跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90961'>http://www.nsfocus.net/vulndb/90961</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2021-43419</font><br/>[<b>披露时间</b>] 2024-02-29 09:31:54<br/>[<b>漏洞描述</b>] Opay Mobile Application信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90960'>http://www.nsfocus.net/vulndb/90960</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46677</font><br/>[<b>披露时间</b>] 2024-02-29 09:31:54<br/>[<b>漏洞描述</b>] Online Matrimonial Project SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90959'>http://www.nsfocus.net/vulndb/90959</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46679</font><br/>[<b>披露时间</b>] 2024-02-29 09:31:54<br/>[<b>漏洞描述</b>] Online Matrimonial Project SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90958'>http://www.nsfocus.net/vulndb/90958</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46785</font><br/>[<b>披露时间</b>] 2024-02-29 09:31:54<br/>[<b>漏洞描述</b>] Online Matrimonial Project SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90957'>http://www.nsfocus.net/vulndb/90957</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46737</font><br/>[<b>披露时间</b>] 2024-02-29 09:31:54<br/>[<b>漏洞描述</b>] Cosign不受控制的资源消耗漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90956'>http://www.nsfocus.net/vulndb/90956</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46744</font><br/>[<b>披露时间</b>] 2024-02-29 09:31:54<br/>[<b>漏洞描述</b>] squidex跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90955'>http://www.nsfocus.net/vulndb/90955</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46242</font><br/>[<b>披露时间</b>] 2024-02-29 09:31:54<br/>[<b>漏洞描述</b>] XWiki Platform跨站请求伪造漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90954'>http://www.nsfocus.net/vulndb/90954</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46244</font><br/>[<b>披露时间</b>] 2024-02-29 09:31:54<br/>[<b>漏洞描述</b>] XWiki Platform授权错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90953'>http://www.nsfocus.net/vulndb/90953</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46252</font><br/>[<b>披露时间</b>] 2024-02-29 09:31:54<br/>[<b>漏洞描述</b>] squidex跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90952'>http://www.nsfocus.net/vulndb/90952</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46253</font><br/>[<b>披露时间</b>] 2024-02-29 09:31:54<br/>[<b>漏洞描述</b>] squidex任意文件写入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90951'>http://www.nsfocus.net/vulndb/90951</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5309</font><br/>[<b>披露时间</b>] 2024-02-29 09:31:54<br/>[<b>漏洞描述</b>] Puppet Enterprise会话固定漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90950'>http://www.nsfocus.net/vulndb/90950</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46243</font><br/>[<b>披露时间</b>] 2024-02-29 09:31:54<br/>[<b>漏洞描述</b>] XWiki Platform代码注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/90949'>http://www.nsfocus.net/vulndb/90949</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
