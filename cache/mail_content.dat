@@ -1,12 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">2</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">2</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2021-31152</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Multilaser多款产品存在跨站请求伪造漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=5e584331-bd7f-4e56-9be0-c2d74cf3a7ea'>https://redqueen.tj-un.com/IntelDetails.html?id=5e584331-bd7f-4e56-9be0-c2d74cf3a7ea</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-35967</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Yifanwireless多款产品存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=8ce09997-8972-4465-8b4d-640fbcf7386c'>https://redqueen.tj-un.com/IntelDetails.html?id=8ce09997-8972-4465-8b4d-640fbcf7386c</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0565</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Linux Linux_kernel存在整数下溢或超界折返漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=916628a5-bedb-439a-ab3f-46761a593dbf'>https://redqueen.tj-un.com/IntelDetails.html?id=916628a5-bedb-439a-ab3f-46761a593dbf</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
