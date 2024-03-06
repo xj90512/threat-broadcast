@@ -1,25 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://cert.360.cn/warning">360 网络安全响应中心</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-29045</font><br/>[<b>披露时间</b>] 2024-03-06 07:32:01<br/>[<b>漏洞描述</b>] Open-Xchange AppSuite跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/91186'>http://www.nsfocus.net/vulndb/91186</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-29043</font><br/>[<b>披露时间</b>] 2024-03-06 07:32:01<br/>[<b>漏洞描述</b>] Open-Xchange AppSuite跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/91185'>http://www.nsfocus.net/vulndb/91185</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-29044</font><br/>[<b>披露时间</b>] 2024-03-06 07:32:01<br/>[<b>漏洞描述</b>] Open-Xchange AppSuite跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/91184'>http://www.nsfocus.net/vulndb/91184</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-26456</font><br/>[<b>披露时间</b>] 2024-03-06 07:32:01<br/>[<b>漏洞描述</b>] Open-Xchange OX Guard跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/91183'>http://www.nsfocus.net/vulndb/91183</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-29047</font><br/>[<b>披露时间</b>] 2024-03-06 07:32:01<br/>[<b>漏洞描述</b>] Open-Xchange AppSuite SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/91182'>http://www.nsfocus.net/vulndb/91182</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-26453</font><br/>[<b>披露时间</b>] 2024-03-06 07:32:01<br/>[<b>漏洞描述</b>] Open-Xchange AppSuite SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/91181'>http://www.nsfocus.net/vulndb/91181</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-26455</font><br/>[<b>披露时间</b>] 2024-03-06 07:32:01<br/>[<b>漏洞描述</b>] Open-Xchange AppSuite身份认证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/91180'>http://www.nsfocus.net/vulndb/91180</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-26454</font><br/>[<b>披露时间</b>] 2024-03-06 07:32:01<br/>[<b>漏洞描述</b>] Open-Xchange AppSuite SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/91179'>http://www.nsfocus.net/vulndb/91179</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46958</font><br/>[<b>披露时间</b>] 2024-03-06 07:32:01<br/>[<b>漏洞描述</b>] lmxcms任意代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/91178'>http://www.nsfocus.net/vulndb/91178</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-45345</font><br/>[<b>披露时间</b>] 2024-03-06 07:32:01<br/>[<b>漏洞描述</b>] Online Food Ordering System SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/91177'>http://www.nsfocus.net/vulndb/91177</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-29046</font><br/>[<b>披露时间</b>] 2024-03-06 07:32:01<br/>[<b>漏洞描述</b>] Open-Xchange AppSuite不受控制的资源消耗漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/91176'>http://www.nsfocus.net/vulndb/91176</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-45341</font><br/>[<b>披露时间</b>] 2024-03-06 07:32:01<br/>[<b>漏洞描述</b>] Online Food Ordering System SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/91175'>http://www.nsfocus.net/vulndb/91175</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-45323</font><br/>[<b>披露时间</b>] 2024-03-06 07:32:01<br/>[<b>漏洞描述</b>] Online Food Ordering System SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/91174'>http://www.nsfocus.net/vulndb/91174</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-42802</font><br/>[<b>披露时间</b>] 2024-03-06 07:32:01<br/>[<b>漏洞描述</b>] GLPI输入验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/91173'>http://www.nsfocus.net/vulndb/91173</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-45343</font><br/>[<b>披露时间</b>] 2024-03-06 07:32:01<br/>[<b>漏洞描述</b>] Online Food Ordering System SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/91172'>http://www.nsfocus.net/vulndb/91172</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 360 网络安全响应中心<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-27198</font><br/>[<b>披露时间</b>] 2024-03-06 08:44:35<br/>[<b>漏洞描述</b>] CVE-2024-27198：JetBrains TeamCity 身份验证绕过漏洞通告<br/>[<b>相关链接</b>] <a href='https://cert.360.cn/warning/detail?id=65e82cf0c09f255b91b17e65'>https://cert.360.cn/warning/detail?id=65e82cf0c09f255b91b17e65</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
