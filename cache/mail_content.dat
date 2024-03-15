@@ -1,11 +1,19 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">9</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
+    <li><font color="red">9</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-22259</font><br/>[<b>披露时间</b>] 2024-03-16 00:05:31<br/>[<b>漏洞描述</b>] Spring Framework URL Host解析错误漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=10677'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=10677</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2016-1244</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Unadf_project等厂商的多款产品存在输入验证不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=c054231d-7b1c-43e7-a3a3-6355814bd477'>https://redqueen.tj-un.com/IntelDetails.html?id=c054231d-7b1c-43e7-a3a3-6355814bd477</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2016-1243</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Unadf_project等厂商的多款产品存在内存缓冲区边界内操作的限制不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=5ea1785d-ec99-45d7-b4c4-41c7947b2a6b'>https://redqueen.tj-un.com/IntelDetails.html?id=5ea1785d-ec99-45d7-b4c4-41c7947b2a6b</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2022-48541</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Imagemagick等厂商的多款产品存在内存泄露漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=44982e74-630b-4d52-847f-10810a6fb960'>https://redqueen.tj-un.com/IntelDetails.html?id=44982e74-630b-4d52-847f-10810a6fb960</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-20738</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Adobe等厂商的多款产品存在认证机制不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=2da7654c-a598-4475-a215-fdcc1a6b744e'>https://redqueen.tj-un.com/IntelDetails.html?id=2da7654c-a598-4475-a215-fdcc1a6b744e</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-36554</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Fortinet Fortimanager存在访问控制不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=3a174863-1f86-44b0-a7e9-021a1c8bffd3'>https://redqueen.tj-un.com/IntelDetails.html?id=3a174863-1f86-44b0-a7e9-021a1c8bffd3</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-42789</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Fortinet多款产品存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=944516cf-afa4-4d23-bb98-c9e9483bf881'>https://redqueen.tj-un.com/IntelDetails.html?id=944516cf-afa4-4d23-bb98-c9e9483bf881</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-42790</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Fortinet多款产品存在栈缓冲区溢出漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=e28a5c3e-c2c3-4178-b0a8-24afa21f2da2'>https://redqueen.tj-un.com/IntelDetails.html?id=e28a5c3e-c2c3-4178-b0a8-24afa21f2da2</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47534</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Fortinet Forticlient_endpoint_management_server存在CSV文件中公式元素转义处理不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=b55fb2e6-c532-45d1-855a-4058c5984437'>https://redqueen.tj-un.com/IntelDetails.html?id=b55fb2e6-c532-45d1-855a-4058c5984437</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-48788</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Fortinet Forticlient_enterprise_management_server存在SQL注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=ba9f58ea-acd6-4d11-b291-0747cecef63a'>https://redqueen.tj-un.com/IntelDetails.html?id=ba9f58ea-acd6-4d11-b291-0747cecef63a</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
