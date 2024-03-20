@@ -1,25 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5413</font><br/>[<b>披露时间</b>] 2024-03-20 07:32:59<br/>[<b>漏洞描述</b>] WordPress Image Horizontal Reel Scroll Slideshow Plugin跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/91933'>http://www.nsfocus.net/vulndb/91933</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6865</font><br/>[<b>披露时间</b>] 2024-03-20 07:32:59<br/>[<b>漏洞描述</b>] Mozilla Firefox未初始化数据泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/91932'>http://www.nsfocus.net/vulndb/91932</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6873</font><br/>[<b>披露时间</b>] 2024-03-20 07:32:59<br/>[<b>漏洞描述</b>] Mozilla Firefox内存破坏漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/91931'>http://www.nsfocus.net/vulndb/91931</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-49006</font><br/>[<b>披露时间</b>] 2024-03-20 07:32:59<br/>[<b>漏洞描述</b>] phpSysInfo跨站请求伪造漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/91930'>http://www.nsfocus.net/vulndb/91930</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46104</font><br/>[<b>披露时间</b>] 2024-03-20 07:32:59<br/>[<b>漏洞描述</b>] Apache Superset不受控制的资源消耗漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/91929'>http://www.nsfocus.net/vulndb/91929</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-49489</font><br/>[<b>披露时间</b>] 2024-03-20 07:32:59<br/>[<b>漏洞描述</b>] KodExplorer跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/91928'>http://www.nsfocus.net/vulndb/91928</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6931</font><br/>[<b>披露时间</b>] 2024-03-20 07:32:59<br/>[<b>漏洞描述</b>] Linux Kernel内存错误引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/91927'>http://www.nsfocus.net/vulndb/91927</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6864</font><br/>[<b>披露时间</b>] 2024-03-20 07:32:59<br/>[<b>漏洞描述</b>] Mozilla多款产品内存破坏漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/91926'>http://www.nsfocus.net/vulndb/91926</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6928</font><br/>[<b>披露时间</b>] 2024-03-20 07:32:59<br/>[<b>漏洞描述</b>] EuroTel ETL3100身份认证次数限制漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/91925'>http://www.nsfocus.net/vulndb/91925</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5432</font><br/>[<b>披露时间</b>] 2024-03-20 07:32:59<br/>[<b>漏洞描述</b>] WordPress Jquery News Ticker Plugin跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/91924'>http://www.nsfocus.net/vulndb/91924</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6932</font><br/>[<b>披露时间</b>] 2024-03-20 07:32:59<br/>[<b>漏洞描述</b>] Linux Kernel内存错误引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/91923'>http://www.nsfocus.net/vulndb/91923</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6929</font><br/>[<b>披露时间</b>] 2024-03-20 07:32:59<br/>[<b>漏洞描述</b>] EuroTel ETL3100不安全直接对象引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/91922'>http://www.nsfocus.net/vulndb/91922</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6856</font><br/>[<b>披露时间</b>] 2024-03-20 07:32:59<br/>[<b>漏洞描述</b>] Mozilla多款产品堆缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/91921'>http://www.nsfocus.net/vulndb/91921</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6280</font><br/>[<b>披露时间</b>] 2024-03-20 07:32:59<br/>[<b>漏洞描述</b>] 52North Web Processing Service XML外部实体引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/91920'>http://www.nsfocus.net/vulndb/91920</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-42012</font><br/>[<b>披露时间</b>] 2024-03-20 07:32:59<br/>[<b>漏洞描述</b>] IBM UrbanCode Deploy输入验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/91919'>http://www.nsfocus.net/vulndb/91919</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-21677</font><br/>[<b>披露时间</b>] 2024-03-21 00:05:32<br/>[<b>漏洞描述</b>] Confluence Data Center 与 Confluence Server 路径遍历漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=10705'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=10705</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
