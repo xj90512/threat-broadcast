@@ -1,25 +1,12 @@
 
-<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6203</font><br/>[<b>披露时间</b>] 2024-03-21 07:31:54<br/>[<b>漏洞描述</b>] WordPress Events Calendar Plugin信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92025'>http://www.nsfocus.net/vulndb/92025</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5005</font><br/>[<b>披露时间</b>] 2024-03-21 07:31:54<br/>[<b>漏洞描述</b>] WordPress Autocomplete Location field Contact Form Plugin跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92024'>http://www.nsfocus.net/vulndb/92024</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46177</font><br/>[<b>披露时间</b>] 2024-03-21 07:31:54<br/>[<b>漏洞描述</b>] IBM MQ Appliance路径遍历漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92023'>http://www.nsfocus.net/vulndb/92023</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6691</font><br/>[<b>披露时间</b>] 2024-03-21 07:31:54<br/>[<b>漏洞描述</b>] Cambium Networks ePMP Force 300-25代码注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92022'>http://www.nsfocus.net/vulndb/92022</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-3430</font><br/>[<b>披露时间</b>] 2024-03-21 07:31:54<br/>[<b>漏洞描述</b>] OpenImageIO堆缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92021'>http://www.nsfocus.net/vulndb/92021</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-39509</font><br/>[<b>披露时间</b>] 2024-03-21 07:31:54<br/>[<b>漏洞描述</b>] Bosch IP Cameras命令注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92020'>http://www.nsfocus.net/vulndb/92020</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-28053</font><br/>[<b>披露时间</b>] 2024-03-21 07:31:54<br/>[<b>漏洞描述</b>] Dell NetWorker Virtual Edition风险加密算法使用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92019'>http://www.nsfocus.net/vulndb/92019</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6315</font><br/>[<b>披露时间</b>] 2024-03-21 07:31:54<br/>[<b>漏洞描述</b>] Panasonic Control FPWIN Pro越界读取漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92018'>http://www.nsfocus.net/vulndb/92018</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6314</font><br/>[<b>披露时间</b>] 2024-03-21 07:31:54<br/>[<b>漏洞描述</b>] Panasonic Control FPWIN Pro堆栈缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92017'>http://www.nsfocus.net/vulndb/92017</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5384</font><br/>[<b>披露时间</b>] 2024-03-21 07:31:54<br/>[<b>漏洞描述</b>] Red Hat Infinispan信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92016'>http://www.nsfocus.net/vulndb/92016</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5236</font><br/>[<b>披露时间</b>] 2024-03-21 07:31:54<br/>[<b>漏洞描述</b>] Red Hat Infinispan拒绝服务漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92015'>http://www.nsfocus.net/vulndb/92015</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6228</font><br/>[<b>披露时间</b>] 2024-03-21 07:31:54<br/>[<b>漏洞描述</b>] LibTIFF堆缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92014'>http://www.nsfocus.net/vulndb/92014</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-35867</font><br/>[<b>披露时间</b>] 2024-03-21 07:31:54<br/>[<b>漏洞描述</b>] Bosch多款产品异常情况处理错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92013'>http://www.nsfocus.net/vulndb/92013</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-50271</font><br/>[<b>披露时间</b>] 2024-03-21 07:31:54<br/>[<b>漏洞描述</b>] Hewlett Packard Enterprise Management Homepage信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92012'>http://www.nsfocus.net/vulndb/92012</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5056</font><br/>[<b>披露时间</b>] 2024-03-21 07:31:54<br/>[<b>漏洞描述</b>] skupper-operator授权错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92011'>http://www.nsfocus.net/vulndb/92011</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-51444</font><br/>[<b>披露时间</b>] 2024-03-20 10:32:10<br/>[<b>漏洞描述</b>] GeoServer REST Coverage Store API 文件上传漏洞（CVE-2023-51444）
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2023-51444'>https://avd.aliyun.com/detail?id=AVD-2023-51444</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
