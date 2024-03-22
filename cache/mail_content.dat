@@ -1,16 +1,25 @@
 
-<h3>发现最新漏洞情报<font color="red">3</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
 <ul>
-    <li><font color="red">3</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
+    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-21677</font><br/>[<b>披露时间</b>] 2024-03-20 02:31:54<br/>[<b>漏洞描述</b>] Atlassian Confluence 路径遍历漏洞（CVE-2024-21677）
-                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-21677'>https://avd.aliyun.com/detail?id=AVD-2024-21677</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>AVD-2024-1711503</font><br/>[<b>披露时间</b>] 2024-02-27 02:31:54<br/>[<b>漏洞描述</b>] ComfyUI follow_symlinks 文件读取漏洞
-                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-1711503'>https://avd.aliyun.com/detail?id=AVD-2024-1711503</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>AVD-2024-1705554</font><br/>[<b>披露时间</b>] 2024-01-16 02:31:54<br/>[<b>漏洞描述</b>] Jeecg commonController 文件上传漏洞
-                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-1705554'>https://avd.aliyun.com/detail?id=AVD-2024-1705554</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0516</font><br/>[<b>披露时间</b>] 2024-03-21 03:32:12<br/>[<b>漏洞描述</b>] WordPress Plugin Royal Elementor Addons and Templates未授权访问漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92077'>http://www.nsfocus.net/vulndb/92077</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0270</font><br/>[<b>披露时间</b>] 2024-03-21 03:32:12<br/>[<b>漏洞描述</b>] Kashipara Hospital Management System SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92076'>http://www.nsfocus.net/vulndb/92076</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0268</font><br/>[<b>披露时间</b>] 2024-03-21 03:32:12<br/>[<b>漏洞描述</b>] Kashipara Hospital Management System SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92075'>http://www.nsfocus.net/vulndb/92075</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0590</font><br/>[<b>披露时间</b>] 2024-03-21 03:32:12<br/>[<b>漏洞描述</b>] WordPress Plugin Microsoft Clarity跨站请求伪造漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92074'>http://www.nsfocus.net/vulndb/92074</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-44344</font><br/>[<b>披露时间</b>] 2024-03-21 03:32:12<br/>[<b>漏洞描述</b>] Adobe InDesign越界读取漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92073'>http://www.nsfocus.net/vulndb/92073</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-44347</font><br/>[<b>披露时间</b>] 2024-03-21 03:32:12<br/>[<b>漏洞描述</b>] Adobe InDesign空指针解引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92072'>http://www.nsfocus.net/vulndb/92072</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0602</font><br/>[<b>披露时间</b>] 2024-03-21 03:32:12<br/>[<b>漏洞描述</b>] WordPress Plugin YARPP存储型跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92071'>http://www.nsfocus.net/vulndb/92071</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0267</font><br/>[<b>披露时间</b>] 2024-03-21 03:32:12<br/>[<b>漏洞描述</b>] Kashipara Hospital Management System SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92070'>http://www.nsfocus.net/vulndb/92070</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0604</font><br/>[<b>披露时间</b>] 2024-03-21 03:32:12<br/>[<b>漏洞描述</b>] WordPress Plugin FooGallery存储型跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92069'>http://www.nsfocus.net/vulndb/92069</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0616</font><br/>[<b>披露时间</b>] 2024-03-21 03:32:12<br/>[<b>漏洞描述</b>] WordPress Plugin Passster信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92068'>http://www.nsfocus.net/vulndb/92068</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0266</font><br/>[<b>披露时间</b>] 2024-03-21 03:32:12<br/>[<b>漏洞描述</b>] Online Lawyer Management System跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92067'>http://www.nsfocus.net/vulndb/92067</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0620</font><br/>[<b>披露时间</b>] 2024-03-21 03:32:12<br/>[<b>漏洞描述</b>] WordPress Plugin Password Protect Pages信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92066'>http://www.nsfocus.net/vulndb/92066</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0265</font><br/>[<b>披露时间</b>] 2024-03-21 03:32:12<br/>[<b>漏洞描述</b>] Clinic Queuing System文件包含漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92065'>http://www.nsfocus.net/vulndb/92065</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0621</font><br/>[<b>披露时间</b>] 2024-03-21 03:32:12<br/>[<b>漏洞描述</b>] WordPress Plugin Simple Share Buttons Adder存储型跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92064'>http://www.nsfocus.net/vulndb/92064</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0656</font><br/>[<b>披露时间</b>] 2024-03-21 03:32:12<br/>[<b>漏洞描述</b>] WordPress Plugin Password Protected存储型跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92063'>http://www.nsfocus.net/vulndb/92063</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
