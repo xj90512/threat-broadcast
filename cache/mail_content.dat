@@ -1,14 +1,25 @@
 
-<h3>发现最新漏洞情报<font color="red">2</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
 <ul>
-    <li><font color="red">2</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
+    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-29202</font><br/>[<b>披露时间</b>] 2024-03-29 02:36:30<br/>[<b>漏洞描述</b>] Jumpserver 3.0.0～3.10.6 后台Jinja2注入远程代码执行漏洞（CVE-2024-29202）
-                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-29202'>https://avd.aliyun.com/detail?id=AVD-2024-29202</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-29201</font><br/>[<b>披露时间</b>] 2024-03-29 02:36:30<br/>[<b>漏洞描述</b>] Jumpserver 3.0.0～3.10.6 后台Ansible Playbook 远程代码执行漏洞（CVE-2024-29201）
-                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-29201'>https://avd.aliyun.com/detail?id=AVD-2024-29201</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-25297</font><br/>[<b>披露时间</b>] 2024-04-01 03:32:13<br/>[<b>漏洞描述</b>] Bludit CMS跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92853'>http://www.nsfocus.net/vulndb/92853</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-25298</font><br/>[<b>披露时间</b>] 2024-04-01 03:32:13<br/>[<b>漏洞描述</b>] Yakamara Media Redaxo CMS任意代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92852'>http://www.nsfocus.net/vulndb/92852</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-25468</font><br/>[<b>披露时间</b>] 2024-04-01 03:32:13<br/>[<b>漏洞描述</b>] TOTOLINK X5000R拒绝服务漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92851'>http://www.nsfocus.net/vulndb/92851</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0610</font><br/>[<b>披露时间</b>] 2024-04-01 03:32:13<br/>[<b>漏洞描述</b>] WordPress Plugin Piraeus Bank WooCommerce Payment Gateway SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92850'>http://www.nsfocus.net/vulndb/92850</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-1512</font><br/>[<b>披露时间</b>] 2024-04-01 03:32:13<br/>[<b>漏洞描述</b>] WordPress Plugin MasterStudy LMS SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92849'>http://www.nsfocus.net/vulndb/92849</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2020-36774</font><br/>[<b>披露时间</b>] 2024-04-01 03:32:13<br/>[<b>漏洞描述</b>] GNOME Glade拒绝服务漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92848'>http://www.nsfocus.net/vulndb/92848</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-26318</font><br/>[<b>披露时间</b>] 2024-04-01 03:32:13<br/>[<b>漏洞描述</b>] Serenity跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92847'>http://www.nsfocus.net/vulndb/92847</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-1597</font><br/>[<b>披露时间</b>] 2024-04-01 03:32:13<br/>[<b>漏洞描述</b>] PostgreSQL JDBC Driver SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92846'>http://www.nsfocus.net/vulndb/92846</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-25640</font><br/>[<b>披露时间</b>] 2024-04-01 03:32:13<br/>[<b>漏洞描述</b>] Iris存储型跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92845'>http://www.nsfocus.net/vulndb/92845</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6397</font><br/>[<b>披露时间</b>] 2024-04-01 03:32:13<br/>[<b>漏洞描述</b>] Zyxel ATP空指针解引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92844'>http://www.nsfocus.net/vulndb/92844</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-1510</font><br/>[<b>披露时间</b>] 2024-04-01 03:32:13<br/>[<b>漏洞描述</b>] WordPress Plugin WP Shortcodes存储型跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92843'>http://www.nsfocus.net/vulndb/92843</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-1559</font><br/>[<b>披露时间</b>] 2024-04-01 03:32:13<br/>[<b>漏洞描述</b>] WordPress Plugin Link Library存储型跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92842'>http://www.nsfocus.net/vulndb/92842</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-25150</font><br/>[<b>披露时间</b>] 2024-04-01 03:32:13<br/>[<b>漏洞描述</b>] Liferay Portal信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92841'>http://www.nsfocus.net/vulndb/92841</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-25974</font><br/>[<b>披露时间</b>] 2024-04-01 03:32:13<br/>[<b>漏洞描述</b>] OpenOLAT跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92840'>http://www.nsfocus.net/vulndb/92840</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-49109</font><br/>[<b>披露时间</b>] 2024-04-01 03:32:13<br/>[<b>漏洞描述</b>] Apache Dolphinscheduler任意代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/92839'>http://www.nsfocus.net/vulndb/92839</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
