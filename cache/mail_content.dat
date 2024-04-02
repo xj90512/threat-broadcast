@@ -1,19 +1,14 @@
 
-<h3>发现最新漏洞情报<font color="red">9</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">2</font>条：</h3>
 <ul>
-    <li><font color="red">9</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
+    <li><font color="red">2</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-3094</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Tukaani Xz存在嵌入式恶意代码漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=216dd57d-3b30-4030-af28-00753b88f4ca'>https://redqueen.tj-un.com/IntelDetails.html?id=216dd57d-3b30-4030-af28-00753b88f4ca</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-33009</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Zyxel多款产品存在经典缓冲区溢出漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=8bcf219c-e544-4420-b750-ca5acb857707'>https://redqueen.tj-un.com/IntelDetails.html?id=8bcf219c-e544-4420-b750-ca5acb857707</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2013-5788</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Oracle多款产品存在漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=f7f24a1c-071d-41d5-8460-3a25ee31b9bb'>https://redqueen.tj-un.com/IntelDetails.html?id=f7f24a1c-071d-41d5-8460-3a25ee31b9bb</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-1017</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Trustedcomputinggroup等厂商的多款产品存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=d5e1941c-d633-45f3-afaf-4e36184373fb'>https://redqueen.tj-un.com/IntelDetails.html?id=d5e1941c-d633-45f3-afaf-4e36184373fb</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-38545</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Haxx等厂商的多款产品存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=5bc6e347-20ec-42ba-9fe6-ad2a781d121f'>https://redqueen.tj-un.com/IntelDetails.html?id=5bc6e347-20ec-42ba-9fe6-ad2a781d121f</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-38039</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Haxx等厂商的多款产品存在资源分配缺少限制或调节漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=aee37dad-b446-4728-a559-ab6c693f0000'>https://redqueen.tj-un.com/IntelDetails.html?id=aee37dad-b446-4728-a559-ab6c693f0000</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-1370</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Json-smart_project Json-smart存在未经控制的递归漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=3bdd7cda-ef3f-4e86-8ae6-4f5d849065d0'>https://redqueen.tj-un.com/IntelDetails.html?id=3bdd7cda-ef3f-4e86-8ae6-4f5d849065d0</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-33959</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Notaryproject Notation-go存在密码学签名的验证不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=c3cf433e-b796-49fa-b1a8-c7b00530e216'>https://redqueen.tj-un.com/IntelDetails.html?id=c3cf433e-b796-49fa-b1a8-c7b00530e216</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2018-8493</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft多款产品存在漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=0175d346-b155-40ec-84f6-a06569f2443e'>https://redqueen.tj-un.com/IntelDetails.html?id=0175d346-b155-40ec-84f6-a06569f2443e</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-29202</font><br/>[<b>披露时间</b>] 2024-03-29 02:36:30<br/>[<b>漏洞描述</b>] Jumpserver 3.0.0～3.10.6 后台Jinja2注入远程代码执行漏洞（CVE-2024-29202）
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-29202'>https://avd.aliyun.com/detail?id=AVD-2024-29202</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-29201</font><br/>[<b>披露时间</b>] 2024-03-29 02:36:30<br/>[<b>漏洞描述</b>] Jumpserver 3.0.0～3.10.6 后台Ansible Playbook 远程代码执行漏洞（CVE-2024-29201）
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-29201'>https://avd.aliyun.com/detail?id=AVD-2024-29201</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
