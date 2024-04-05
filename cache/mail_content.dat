@@ -1,13 +1,12 @@
 
-<h3>发现最新漏洞情报<font color="red">3</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">2</font>条：</h3>
 <ul>
-    <li><font color="red">3</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
+    <li><font color="red">2</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-29945</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Splunk存在通过日志文件导致的敏感信息暴露漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=c031cf7c-983d-4ebc-8589-f070503ea5b1'>https://redqueen.tj-un.com/IntelDetails.html?id=c031cf7c-983d-4ebc-8589-f070503ea5b1</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-29946</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Splunk存在命令注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=ba45e1f0-8a25-43c2-a466-b499a2eacde9'>https://redqueen.tj-un.com/IntelDetails.html?id=ba45e1f0-8a25-43c2-a466-b499a2eacde9</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46214</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Splunk多款产品存在Xpath盲注漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=bf5b554e-268e-4f3a-9171-4cb462d0a042'>https://redqueen.tj-un.com/IntelDetails.html?id=bf5b554e-268e-4f3a-9171-4cb462d0a042</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46231</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Splunk Add-on_builder存在通过日志文件导致的敏感信息暴露漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=d510983a-521e-49a7-90fc-5f1470f9624b'>https://redqueen.tj-un.com/IntelDetails.html?id=d510983a-521e-49a7-90fc-5f1470f9624b</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-40593</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Splunk多款产品存在漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=b3a65912-c2fd-46bd-b4c9-63fa25f587b6'>https://redqueen.tj-un.com/IntelDetails.html?id=b3a65912-c2fd-46bd-b4c9-63fa25f587b6</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
