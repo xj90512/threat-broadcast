@@ -5,8 +5,8 @@
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-31861</font><br/>[<b>披露时间</b>] 2024-04-11 06:34:13<br/>[<b>漏洞描述</b>] Apache Zeppelin shell 代码注入漏洞（CVE-2024-31861）
-                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-31861'>https://avd.aliyun.com/detail?id=AVD-2024-31861</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-2389</font><br/>[<b>披露时间</b>] 2024-04-02 08:37:04<br/>[<b>漏洞描述</b>] Progress Flowmon 命令注入漏洞（CVE-2024-2389）
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-2389'>https://avd.aliyun.com/detail?id=AVD-2024-2389</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
