@@ -1,13 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">3</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">3</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2022-40514</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Qualcomm多款产品存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=aea5fc52-ce55-4170-b43c-790a670bb920'>https://redqueen.tj-un.com/IntelDetails.html?id=aea5fc52-ce55-4170-b43c-790a670bb920</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2022-40513</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Qualcomm多款产品存在资源分配缺少限制或调节漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=e43db053-0a16-4789-b62e-184fc8ac9d73'>https://redqueen.tj-un.com/IntelDetails.html?id=e43db053-0a16-4789-b62e-184fc8ac9d73</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2022-40512</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Qualcomm多款产品存在越界读取漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=fe155d65-7c80-4fa9-84b5-655213cecae6'>https://redqueen.tj-un.com/IntelDetails.html?id=fe155d65-7c80-4fa9-84b5-655213cecae6</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-3400</font><br/>[<b>披露时间</b>] 2024-04-14 00:05:33<br/>[<b>漏洞描述</b>] Palo Alto Networks PAN-OS 命令注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=10993'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=10993</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
