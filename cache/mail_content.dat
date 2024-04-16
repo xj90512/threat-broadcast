@@ -1,28 +1,12 @@
 
-<h3>发现最新漏洞情报<font color="red">17</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
-    <li><font color="red">2</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-20712</font><br/>[<b>披露时间</b>] 2024-04-15 03:31:58<br/>[<b>漏洞描述</b>] Adobe Substance 3D Stager越界读取漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/93450'>http://www.nsfocus.net/vulndb/93450</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-20713</font><br/>[<b>披露时间</b>] 2024-04-15 03:31:58<br/>[<b>漏洞描述</b>] Adobe Substance 3D Stager越界读取漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/93449'>http://www.nsfocus.net/vulndb/93449</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-20711</font><br/>[<b>披露时间</b>] 2024-04-15 03:31:58<br/>[<b>漏洞描述</b>] Adobe Substance 3D Stager越界读取漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/93448'>http://www.nsfocus.net/vulndb/93448</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-20710</font><br/>[<b>披露时间</b>] 2024-04-15 03:31:58<br/>[<b>漏洞描述</b>] Adobe Substance 3D Stager越界读取漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/93447'>http://www.nsfocus.net/vulndb/93447</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0310</font><br/>[<b>披露时间</b>] 2024-04-15 03:31:58<br/>[<b>漏洞描述</b>] Trellix Endpoint Security跨站脚本执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/93446'>http://www.nsfocus.net/vulndb/93446</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-48248</font><br/>[<b>披露时间</b>] 2024-04-15 03:31:58<br/>[<b>漏洞描述</b>] Bosch Nexo cordless nutrunner跨站脚本执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/93445'>http://www.nsfocus.net/vulndb/93445</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-48252</font><br/>[<b>披露时间</b>] 2024-04-15 03:31:58<br/>[<b>漏洞描述</b>] Bosch Nexo cordless nutrunner不合理授权漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/93444'>http://www.nsfocus.net/vulndb/93444</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-48253</font><br/>[<b>披露时间</b>] 2024-04-15 03:31:58<br/>[<b>漏洞描述</b>] Bosch Nexo cordless nutrunner SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/93443'>http://www.nsfocus.net/vulndb/93443</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-48251</font><br/>[<b>披露时间</b>] 2024-04-15 03:31:58<br/>[<b>漏洞描述</b>] Bosch Nexo cordless nutrunner硬编码凭据使用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/93442'>http://www.nsfocus.net/vulndb/93442</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-48250</font><br/>[<b>披露时间</b>] 2024-04-15 03:31:58<br/>[<b>漏洞描述</b>] Bosch Nexo cordless nutrunner硬编码凭据使用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/93441'>http://www.nsfocus.net/vulndb/93441</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-48255</font><br/>[<b>披露时间</b>] 2024-04-15 03:31:58<br/>[<b>漏洞描述</b>] Bosch Nexo cordless nutrunner跨站脚本执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/93440'>http://www.nsfocus.net/vulndb/93440</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-48249</font><br/>[<b>披露时间</b>] 2024-04-15 03:31:58<br/>[<b>漏洞描述</b>] Bosch Nexo Cordless nutrunner路径遍历漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/93439'>http://www.nsfocus.net/vulndb/93439</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-48254</font><br/>[<b>披露时间</b>] 2024-04-15 03:31:58<br/>[<b>漏洞描述</b>] Bosch Nexo cordless nutrunner跨站脚本执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/93438'>http://www.nsfocus.net/vulndb/93438</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5455</font><br/>[<b>披露时间</b>] 2024-04-15 03:31:58<br/>[<b>漏洞描述</b>] Red Hat FreeIPA跨站请求伪造漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/93437'>http://www.nsfocus.net/vulndb/93437</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-48257</font><br/>[<b>披露时间</b>] 2024-04-15 03:31:58<br/>[<b>漏洞描述</b>] Bosch Nexo cordless nutrunner身份认证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/93436'>http://www.nsfocus.net/vulndb/93436</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23898</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Jenkins存在源验证错误漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=79377a1a-61e3-44ad-9d61-34308b5dbe5e'>https://redqueen.tj-un.com/IntelDetails.html?id=79377a1a-61e3-44ad-9d61-34308b5dbe5e</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23897</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Jenkins存在安全漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=0871cb8c-cddb-401d-8799-125a544cc42d'>https://redqueen.tj-un.com/IntelDetails.html?id=0871cb8c-cddb-401d-8799-125a544cc42d</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>AVD-2024-1718774</font><br/>[<b>披露时间</b>] 2024-04-16 07:33:19<br/>[<b>漏洞描述</b>] IP-guard WebServer 权限绕过漏洞
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-1718774'>https://avd.aliyun.com/detail?id=AVD-2024-1718774</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
