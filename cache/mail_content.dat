@@ -1,11 +1,15 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">5</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
+    <li><font color="red">5</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-04-17 00:05:31<br/>[<b>漏洞描述</b>] IP-guard WebServer 权限绕过漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11018'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11018</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2021-26419</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft多款产品存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=1a71067a-a62b-44d3-a285-4cfbad3fb021'>https://redqueen.tj-un.com/IntelDetails.html?id=1a71067a-a62b-44d3-a285-4cfbad3fb021</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2020-1570</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft多款产品存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=c7848aaa-6d0d-404d-8f23-db6dd685216a'>https://redqueen.tj-un.com/IntelDetails.html?id=c7848aaa-6d0d-404d-8f23-db6dd685216a</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6038</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] H2o存在授权机制缺失漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=fd4c40de-c442-40de-a743-690bad1d385b'>https://redqueen.tj-un.com/IntelDetails.html?id=fd4c40de-c442-40de-a743-690bad1d385b</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-3272</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Dlink多款产品存在使用硬编码的凭证漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=b905f660-7c08-4106-8d11-b048d6fcd6ca'>https://redqueen.tj-un.com/IntelDetails.html?id=b905f660-7c08-4106-8d11-b048d6fcd6ca</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-3273</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Dlink多款产品存在命令注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=b343b519-ff1a-47b8-80b9-a60aa3c806ad'>https://redqueen.tj-un.com/IntelDetails.html?id=b343b519-ff1a-47b8-80b9-a60aa3c806ad</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
