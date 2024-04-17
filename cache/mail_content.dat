@@ -1,25 +1,12 @@
 
-<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-24021</font><br/>[<b>披露时间</b>] 2024-04-17 09:32:15<br/>[<b>漏洞描述</b>] Novel-Plus SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/93576'>http://www.nsfocus.net/vulndb/93576</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-24871</font><br/>[<b>披露时间</b>] 2024-04-17 09:32:15<br/>[<b>漏洞描述</b>] WordPress Plugin Blocksy跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/93575'>http://www.nsfocus.net/vulndb/93575</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-42282</font><br/>[<b>披露时间</b>] 2024-04-17 09:32:15<br/>[<b>漏洞描述</b>] npm IP Package跨站请求伪造漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/93574'>http://www.nsfocus.net/vulndb/93574</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-24113</font><br/>[<b>披露时间</b>] 2024-04-17 09:32:15<br/>[<b>漏洞描述</b>] XXL-JOB跨站请求伪造漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/93573'>http://www.nsfocus.net/vulndb/93573</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-24881</font><br/>[<b>披露时间</b>] 2024-04-17 09:32:15<br/>[<b>漏洞描述</b>] WordPress Plugin WP SMS跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/93572'>http://www.nsfocus.net/vulndb/93572</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-24877</font><br/>[<b>披露时间</b>] 2024-04-17 09:32:15<br/>[<b>漏洞描述</b>] WordPress Plugin Wonder Slider Lite跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/93571'>http://www.nsfocus.net/vulndb/93571</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-24880</font><br/>[<b>披露时间</b>] 2024-04-17 09:32:15<br/>[<b>漏洞描述</b>] WordPress Plugin Apollo13 Framework Extensions存储型跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/93570'>http://www.nsfocus.net/vulndb/93570</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-24213</font><br/>[<b>披露时间</b>] 2024-04-17 09:32:15<br/>[<b>漏洞描述</b>] PostgreSQL SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/93569'>http://www.nsfocus.net/vulndb/93569</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-21624</font><br/>[<b>披露时间</b>] 2024-04-17 09:32:15<br/>[<b>漏洞描述</b>] NoneBot信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/93568'>http://www.nsfocus.net/vulndb/93568</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46914</font><br/>[<b>披露时间</b>] 2024-04-17 09:32:15<br/>[<b>漏洞描述</b>] PrestaShop bookingcalendar SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/93567'>http://www.nsfocus.net/vulndb/93567</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-1404</font><br/>[<b>披露时间</b>] 2024-04-17 09:32:15<br/>[<b>漏洞描述</b>] Linksys WRT54GL信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/93566'>http://www.nsfocus.net/vulndb/93566</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0977</font><br/>[<b>披露时间</b>] 2024-04-17 09:32:15<br/>[<b>漏洞描述</b>] WordPress Plugin Timeline Widget For Elementor跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/93565'>http://www.nsfocus.net/vulndb/93565</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-50386</font><br/>[<b>披露时间</b>] 2024-04-17 09:32:15<br/>[<b>漏洞描述</b>] Apache Solr任意文件上传漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/93564'>http://www.nsfocus.net/vulndb/93564</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-24311</font><br/>[<b>披露时间</b>] 2024-04-17 09:32:15<br/>[<b>漏洞描述</b>] PrestaShop lgsitemaps路径遍历漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/93563'>http://www.nsfocus.net/vulndb/93563</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-51630</font><br/>[<b>披露时间</b>] 2024-04-17 09:32:15<br/>[<b>漏洞描述</b>] Paessler PRTG Network Monitor跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/93562'>http://www.nsfocus.net/vulndb/93562</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>AVD-2024-1719112</font><br/>[<b>披露时间</b>] 2024-04-17 10:33:15<br/>[<b>漏洞描述</b>] kkFileView 任意文件上传致远程代码执行漏洞
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-1719112'>https://avd.aliyun.com/detail?id=AVD-2024-1719112</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
