@@ -1,11 +1,13 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">3</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
+    <li><font color="red">3</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-29323</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Opensmtpd等厂商的多款产品存在漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=4af156ef-4830-421b-9e96-f0d6801dea39'>https://redqueen.tj-un.com/IntelDetails.html?id=4af156ef-4830-421b-9e96-f0d6801dea39</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-43665</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Djangoproject等厂商的多款产品存在输入中指定数量的验证不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=0159655d-ce6a-43c3-a59e-a8b64825948a'>https://redqueen.tj-un.com/IntelDetails.html?id=0159655d-ce6a-43c3-a59e-a8b64825948a</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-41164</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Djangoproject等厂商的多款产品存在输入中指定数量的验证不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=9a8697eb-fe33-495b-9944-ad16de1072ab'>https://redqueen.tj-un.com/IntelDetails.html?id=9a8697eb-fe33-495b-9944-ad16de1072ab</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-36053</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Djangoproject等厂商的多款产品存在低效的正则表达式复杂性漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=0593b820-de29-4f34-bbdb-7c415a337002'>https://redqueen.tj-un.com/IntelDetails.html?id=0593b820-de29-4f34-bbdb-7c415a337002</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
