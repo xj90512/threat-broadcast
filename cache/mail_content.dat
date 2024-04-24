@@ -5,8 +5,8 @@
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-28255</font><br/>[<b>披露时间</b>] 2024-03-16 08:33:59<br/>[<b>漏洞描述</b>] OpenMetadata 身份验证绕过漏洞（CVE-2024-28255）
-                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-28255'>https://avd.aliyun.com/detail?id=AVD-2024-28255</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>AVD-2024-1720287</font><br/>[<b>披露时间</b>] 2024-04-24 10:38:33<br/>[<b>漏洞描述</b>] Primeton EOS Platform jmx 远程代码执行漏洞
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-1720287'>https://avd.aliyun.com/detail?id=AVD-2024-1720287</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
