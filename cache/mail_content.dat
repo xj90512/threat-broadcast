@@ -1,12 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">2</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">2</font>条由 [<a href="https://www.tenable.com/">Tenable (Nessus)</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-3051</font><br/>[<b>披露时间</b>] 2024-04-26 22:15:08<br/>[<b>漏洞描述</b>] Malformed Device Reset Locally command classes can be sent to temporarily deny service to an end device. Any frames sent by the end device will not be acknowledged by the gateway during this time.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2024-3051'>https://www.tenable.com/cve/CVE-2024-3051</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-28322</font><br/>[<b>披露时间</b>] 2024-04-26 22:15:07<br/>[<b>漏洞描述</b>] SQL Injection vulnerability in /event-management-master/backend/register.php in PuneethReddyHC Event Management 1.0 allows attackers to run arbitrary SQL commands via the event_id parameter in a crafted POST request.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2024-28322'>https://www.tenable.com/cve/CVE-2024-28322</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2013-2465</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Oracle等厂商的多款产品存在漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=4c9443a2-9ec0-42db-837e-4e84414a93ac'>https://redqueen.tj-un.com/IntelDetails.html?id=4c9443a2-9ec0-42db-837e-4e84414a93ac</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
