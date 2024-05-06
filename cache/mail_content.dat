@@ -5,7 +5,7 @@
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-4040</font><br/>[<b>披露时间</b>] 2024-04-25 17:35:29<br/>[<b>漏洞描述</b>] CrushFTP 存在服务端模板注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11102'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11102</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-04-26 15:17:21<br/>[<b>漏洞描述</b>] 禅道项目管理软件 /api.php 存在身份认证绕过漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11124'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11124</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
