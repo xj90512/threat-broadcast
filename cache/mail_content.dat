@@ -1,11 +1,13 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">3</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
+    <li><font color="red">3</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-34144</font><br/>[<b>披露时间</b>] 2024-05-09 00:18:19<br/>[<b>漏洞描述</b>] Jenkins Script Security 插件沙箱绕过漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11183'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11183</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2022-21819</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Nvidia多款产品存在关键资源的权限授予不正确漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=17359ed2-1199-4724-8145-33f19984b393'>https://redqueen.tj-un.com/IntelDetails.html?id=17359ed2-1199-4724-8145-33f19984b393</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2022-42969</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Pytest Py存在低效的正则表达式复杂性漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=870c7813-ef02-4571-b694-5c8c32cf481e'>https://redqueen.tj-un.com/IntelDetails.html?id=870c7813-ef02-4571-b694-5c8c32cf481e</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-24573</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Facilemanager存在授权机制不正确漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=4bda2d22-4fe9-4442-8457-f3f6f6ca5afe'>https://redqueen.tj-un.com/IntelDetails.html?id=4bda2d22-4fe9-4442-8457-f3f6f6ca5afe</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
