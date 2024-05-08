@@ -1,14 +1,25 @@
 
-<h3>发现最新漏洞情报<font color="red">2</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
-    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
+    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-32114</font><br/>[<b>披露时间</b>] 2024-05-02 02:32:05<br/>[<b>漏洞描述</b>] Apache ActiveMQ Jolokia REST API 未授权访问漏洞（CVE-2024-32114）
-                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-32114'>https://avd.aliyun.com/detail?id=AVD-2024-32114</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-49606</font><br/>[<b>披露时间</b>] 2024-05-08 10:31:35<br/>[<b>漏洞描述</b>] Tinyproxy 团队 Tinyproxy UAF<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11180'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11180</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-48383</font><br/>[<b>披露时间</b>] 2024-05-07 03:32:04<br/>[<b>漏洞描述</b>] NETVISION INFORMATION airPASS路径遍历漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94537'>http://www.nsfocus.net/vulndb/94537</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0533</font><br/>[<b>披露时间</b>] 2024-05-07 03:32:04<br/>[<b>漏洞描述</b>] Tenda A15堆栈缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94536'>http://www.nsfocus.net/vulndb/94536</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0532</font><br/>[<b>披露时间</b>] 2024-05-07 03:32:04<br/>[<b>漏洞描述</b>] Tenda A15堆栈缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94535'>http://www.nsfocus.net/vulndb/94535</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0531</font><br/>[<b>披露时间</b>] 2024-05-07 03:32:04<br/>[<b>漏洞描述</b>] Tenda A15堆栈缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94534'>http://www.nsfocus.net/vulndb/94534</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0530</font><br/>[<b>披露时间</b>] 2024-05-07 03:32:04<br/>[<b>漏洞描述</b>] CXBSoft Post-Office SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94533'>http://www.nsfocus.net/vulndb/94533</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0529</font><br/>[<b>披露时间</b>] 2024-05-07 03:32:04<br/>[<b>漏洞描述</b>] CXBSoft Post-Office SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94532'>http://www.nsfocus.net/vulndb/94532</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0528</font><br/>[<b>披露时间</b>] 2024-05-07 03:32:04<br/>[<b>漏洞描述</b>] CXBSoft Post-Office SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94531'>http://www.nsfocus.net/vulndb/94531</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5253</font><br/>[<b>披露时间</b>] 2024-05-07 03:32:04<br/>[<b>漏洞描述</b>] Nozomi Networks Guardian访问控制错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94530'>http://www.nsfocus.net/vulndb/94530</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6915</font><br/>[<b>披露时间</b>] 2024-05-07 03:32:04<br/>[<b>漏洞描述</b>] Linux Kernel空指针解引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94529'>http://www.nsfocus.net/vulndb/94529</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46749</font><br/>[<b>披露时间</b>] 2024-05-07 03:32:04<br/>[<b>漏洞描述</b>] Apache Shiro路径遍历漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94528'>http://www.nsfocus.net/vulndb/94528</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0548</font><br/>[<b>披露时间</b>] 2024-05-07 03:32:04<br/>[<b>漏洞描述</b>] FreeFloat FTP Server命令拒绝服务漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94527'>http://www.nsfocus.net/vulndb/94527</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0547</font><br/>[<b>披露时间</b>] 2024-05-07 03:32:04<br/>[<b>漏洞描述</b>] Ability FTP Server命令拒绝服务漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94526'>http://www.nsfocus.net/vulndb/94526</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0546</font><br/>[<b>披露时间</b>] 2024-05-07 03:32:04<br/>[<b>漏洞描述</b>] EasyFTP命令拒绝服务漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94525'>http://www.nsfocus.net/vulndb/94525</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0545</font><br/>[<b>披露时间</b>] 2024-05-07 03:32:04<br/>[<b>漏洞描述</b>] CodeCanyon RISE Rise Ultimate Project Manager输入验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94524'>http://www.nsfocus.net/vulndb/94524</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0543</font><br/>[<b>披露时间</b>] 2024-05-07 03:32:04<br/>[<b>漏洞描述</b>] CodeAstro Real Estate Management System SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94523'>http://www.nsfocus.net/vulndb/94523</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
