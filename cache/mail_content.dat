@@ -1,15 +1,14 @@
 
-<h3>发现最新漏洞情报<font color="red">5</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">2</font>条：</h3>
 <ul>
-    <li><font color="red">5</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2022-24975</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Git-scm Git存在将资源暴露给错误范围漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=afe7f366-7564-4407-a62c-73dc65667cb6'>https://redqueen.tj-un.com/IntelDetails.html?id=afe7f366-7564-4407-a62c-73dc65667cb6</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-38907</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Tp-link多款产品存在漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=e579a036-60e9-4751-a4a4-f93b0653a359'>https://redqueen.tj-un.com/IntelDetails.html?id=e579a036-60e9-4751-a4a4-f93b0653a359</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2022-31474</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Ithemes Backupbuddy存在路径遍历漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=9fad310c-720f-4301-8bef-25a0a2dad8a3'>https://redqueen.tj-un.com/IntelDetails.html?id=9fad310c-720f-4301-8bef-25a0a2dad8a3</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-42950</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Apple多款产品存在漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=4791be9e-bc34-4dad-89c3-57f8f0acbf34'>https://redqueen.tj-un.com/IntelDetails.html?id=4791be9e-bc34-4dad-89c3-57f8f0acbf34</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2022-40929</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Xuxueli Xxl-job存在OS命令注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=db4e9e34-b154-4e71-a0ca-f865673ac31f'>https://redqueen.tj-un.com/IntelDetails.html?id=db4e9e34-b154-4e71-a0ca-f865673ac31f</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-32114</font><br/>[<b>披露时间</b>] 2024-05-02 02:32:05<br/>[<b>漏洞描述</b>] Apache ActiveMQ Jolokia REST API 未授权访问漏洞（CVE-2024-32114）
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-32114'>https://avd.aliyun.com/detail?id=AVD-2024-32114</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-49606</font><br/>[<b>披露时间</b>] 2024-05-08 10:31:35<br/>[<b>漏洞描述</b>] Tinyproxy 团队 Tinyproxy UAF<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11180'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11180</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
