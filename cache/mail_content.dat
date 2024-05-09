@@ -1,12 +1,25 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
+    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-32640</font><br/>[<b>披露时间</b>] 2024-05-09 08:35:27<br/>[<b>漏洞描述</b>] Mura CMS processAsyncObject SQL注入漏洞（CVE-2024-32640）	
-                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-32640'>https://avd.aliyun.com/detail?id=AVD-2024-32640</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-28425</font><br/>[<b>披露时间</b>] 2024-05-09 11:33:48<br/>[<b>漏洞描述</b>] greykite任意文件上传漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94631'>http://www.nsfocus.net/vulndb/94631</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-28354</font><br/>[<b>披露时间</b>] 2024-05-09 11:33:48<br/>[<b>漏洞描述</b>] TRENDnet TEW-827DRU命令注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94630'>http://www.nsfocus.net/vulndb/94630</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-28353</font><br/>[<b>披露时间</b>] 2024-05-09 11:33:48<br/>[<b>漏洞描述</b>] TRENDnet TEW-827DRU命令注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94629'>http://www.nsfocus.net/vulndb/94629</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-26503</font><br/>[<b>披露时间</b>] 2024-05-09 11:33:48<br/>[<b>漏洞描述</b>] Open eClass Platform不受限文件上传漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94628'>http://www.nsfocus.net/vulndb/94628</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-26475</font><br/>[<b>披露时间</b>] 2024-05-09 11:33:48<br/>[<b>漏洞描述</b>] radare2拒绝服务漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94627'>http://www.nsfocus.net/vulndb/94627</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-50677</font><br/>[<b>披露时间</b>] 2024-05-09 11:33:48<br/>[<b>漏洞描述</b>] NETGEAR DGND4000权限提升漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94626'>http://www.nsfocus.net/vulndb/94626</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-42286</font><br/>[<b>披露时间</b>] 2024-05-09 11:33:48<br/>[<b>漏洞描述</b>] EyouCms PHP文件包含漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94625'>http://www.nsfocus.net/vulndb/94625</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-2249</font><br/>[<b>披露时间</b>] 2024-05-09 11:33:48<br/>[<b>漏洞描述</b>] WordPress LA-Studio Element Kit for Elementor Plugin跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94624'>http://www.nsfocus.net/vulndb/94624</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-24975</font><br/>[<b>披露时间</b>] 2024-05-09 11:33:48<br/>[<b>漏洞描述</b>] Mattermost Mobile不受控制的资源消耗漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94623'>http://www.nsfocus.net/vulndb/94623</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0802</font><br/>[<b>披露时间</b>] 2024-05-09 11:33:48<br/>[<b>漏洞描述</b>] Mitsubishi Electric MELSEC-Q Series和MELSEC-L Series指针缩放错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94622'>http://www.nsfocus.net/vulndb/94622</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-28053</font><br/>[<b>披露时间</b>] 2024-05-09 11:33:48<br/>[<b>漏洞描述</b>] Mattermost Server不受控制的资源消耗漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94621'>http://www.nsfocus.net/vulndb/94621</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0803</font><br/>[<b>披露时间</b>] 2024-05-09 11:33:48<br/>[<b>漏洞描述</b>] Mitsubishi Electric MELSEC-Q Series和MELSEC-L Series整数溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94620'>http://www.nsfocus.net/vulndb/94620</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-2445</font><br/>[<b>披露时间</b>] 2024-05-09 11:33:48<br/>[<b>漏洞描述</b>] Mattermost跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94619'>http://www.nsfocus.net/vulndb/94619</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-1915</font><br/>[<b>披露时间</b>] 2024-05-09 11:33:48<br/>[<b>漏洞描述</b>] Mitsubishi Electric MELSEC-Q Series和MELSEC-L Series指针缩放错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94618'>http://www.nsfocus.net/vulndb/94618</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-2446</font><br/>[<b>披露时间</b>] 2024-05-09 11:33:48<br/>[<b>漏洞描述</b>] Mattermost不受控制的资源消耗漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94617'>http://www.nsfocus.net/vulndb/94617</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
