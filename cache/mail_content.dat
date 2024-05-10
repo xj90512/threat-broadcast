@@ -1,11 +1,14 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">2</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
+    <li><font color="red">2</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2022-29351</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Tiddlywiki Tiddlywiki5存在危险类型文件的不加限制上传漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=58d7a455-8d4a-4db7-aa78-3a1b4940490e'>https://redqueen.tj-un.com/IntelDetails.html?id=58d7a455-8d4a-4db7-aa78-3a1b4940490e</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>AVD-2024-1723189</font><br/>[<b>披露时间</b>] 2024-05-07 06:34:43<br/>[<b>漏洞描述</b>] 瑞友天翼应用虚拟化系统 appsave SQL注入漏洞
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-1723189'>https://avd.aliyun.com/detail?id=AVD-2024-1723189</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>AVD-2024-1723009</font><br/>[<b>披露时间</b>] 2024-05-06 06:34:43<br/>[<b>漏洞描述</b>] 瑞友天翼应用虚拟化系统 hmrao.php SQL注入致代码执行漏洞
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-1723009'>https://avd.aliyun.com/detail?id=AVD-2024-1723009</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
