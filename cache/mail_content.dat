@@ -5,7 +5,7 @@
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6549</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Citrix多款产品存在内存缓冲区边界内操作的限制不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=0691e52b-e72c-4298-a3e9-6204086a5c29'>https://redqueen.tj-un.com/IntelDetails.html?id=0691e52b-e72c-4298-a3e9-6204086a5c29</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2022-37601</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Webpack.js等厂商的多款产品存在原型污染漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=960160ee-c828-408c-a2ef-4fea331a0bb9'>https://redqueen.tj-un.com/IntelDetails.html?id=960160ee-c828-408c-a2ef-4fea331a0bb9</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
