@@ -1,15 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">5</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">5</font>条由 [<a href="https://www.tenable.com/">Tenable (Nessus)</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-34360</font><br/>[<b>披露时间</b>] 2024-05-10 00:00:00<br/>[<b>漏洞描述</b>] Nodes can publish ATXs which reference the incorrect previous ATX of the Smesher that created the ATX. ATXs are expected to form a single chain from the newest to the first ATX ever published by an identity. Allowing Smeshers to reference an earlier (but not the latest) ATX as previous breaks this protocol rule and can serve as an attack vector where Nodes are rewarded for holding their PoST data for less than one epoch but still being eligible for rewards.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2024-34360'>https://www.tenable.com/cve/CVE-2024-34360</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-34349</font><br/>[<b>披露时间</b>] 2024-05-10 00:00:00<br/>[<b>漏洞描述</b>] There is a possibility to execute javascript code in the Admin panel. In order to perform an XSS attack input a script into Name field in which of the resources: Taxons, Products, Product Options or Product Variants. The code will be executed while using an autocomplete field with one of the listed entities in the Admin Panel. Also for the taxons in the category tree on the product form.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2024-34349'>https://www.tenable.com/cve/CVE-2024-34349</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-32964</font><br/>[<b>披露时间</b>] 2024-05-10 00:00:00<br/>[<b>漏洞描述</b>] SSRF ,All users will be impacted.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2024-32964'>https://www.tenable.com/cve/CVE-2024-32964</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-2454</font><br/>[<b>披露时间</b>] 2024-05-09 01:38:36<br/>[<b>漏洞描述</b>] Uncontrolled Resource Consumption in GitLab<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2024-2454'>https://www.tenable.com/cve/CVE-2024-2454</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-2651</font><br/>[<b>披露时间</b>] 2024-05-09 01:38:31<br/>[<b>漏洞描述</b>] Uncontrolled Resource Consumption in GitLab<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2024-2651'>https://www.tenable.com/cve/CVE-2024-2651</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-26026</font><br/>[<b>披露时间</b>] 2024-05-11 17:14:09<br/>[<b>漏洞描述</b>] F5 BIG-IP Next Central Manager API 存在SQL注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11187'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11187</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
