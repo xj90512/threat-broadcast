@@ -1,11 +1,11 @@
 
 <h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-26026</font><br/>[<b>披露时间</b>] 2024-05-11 17:14:09<br/>[<b>漏洞描述</b>] F5 BIG-IP Next Central Manager API 存在SQL注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11187'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11187</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2008-0166</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Openssl等厂商的多款产品存在使用具有密码学弱点缺陷的PRNG漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=0f929500-e80e-4fa6-ab26-3626bc110db2'>https://redqueen.tj-un.com/IntelDetails.html?id=0f929500-e80e-4fa6-ab26-3626bc110db2</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
