@@ -1,25 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-52616</font><br/>[<b>披露时间</b>] 2024-05-13 07:31:52<br/>[<b>漏洞描述</b>] Linux Kernel拒绝服务漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94734'>http://www.nsfocus.net/vulndb/94734</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-2052</font><br/>[<b>披露时间</b>] 2024-05-13 07:31:52<br/>[<b>漏洞描述</b>] Schneider Electric Easergy T200信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94733'>http://www.nsfocus.net/vulndb/94733</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-2050</font><br/>[<b>披露时间</b>] 2024-05-13 07:31:52<br/>[<b>漏洞描述</b>] Schneider Electric Easergy T200跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94732'>http://www.nsfocus.net/vulndb/94732</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-27096</font><br/>[<b>披露时间</b>] 2024-05-13 07:31:52<br/>[<b>漏洞描述</b>] GLPI SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94731'>http://www.nsfocus.net/vulndb/94731</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-28128</font><br/>[<b>披露时间</b>] 2024-05-13 07:31:52<br/>[<b>漏洞描述</b>] FitNesse跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94730'>http://www.nsfocus.net/vulndb/94730</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-27104</font><br/>[<b>披露时间</b>] 2024-05-13 07:31:52<br/>[<b>漏洞描述</b>] GLPI跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94729'>http://www.nsfocus.net/vulndb/94729</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-2390</font><br/>[<b>披露时间</b>] 2024-05-13 07:31:52<br/>[<b>漏洞描述</b>] Tenable Nessus权限管理错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94728'>http://www.nsfocus.net/vulndb/94728</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-2229</font><br/>[<b>披露时间</b>] 2024-05-13 07:31:52<br/>[<b>漏洞描述</b>] Schneider Electric EcoStruxure Power Design不受信数据反序列化漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94727'>http://www.nsfocus.net/vulndb/94727</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-20762</font><br/>[<b>披露时间</b>] 2024-05-13 07:31:52<br/>[<b>漏洞描述</b>] Adobe Animate越界读取漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94726'>http://www.nsfocus.net/vulndb/94726</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-20763</font><br/>[<b>披露时间</b>] 2024-05-13 07:31:52<br/>[<b>漏洞描述</b>] Adobe Animate越界读取漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94725'>http://www.nsfocus.net/vulndb/94725</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-1333</font><br/>[<b>披露时间</b>] 2024-05-13 07:31:52<br/>[<b>漏洞描述</b>] WordPress Responsive Pricing Table Plugin跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94724'>http://www.nsfocus.net/vulndb/94724</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-20764</font><br/>[<b>披露时间</b>] 2024-05-13 07:31:52<br/>[<b>漏洞描述</b>] Adobe Animate越界读取漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94723'>http://www.nsfocus.net/vulndb/94723</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-20756</font><br/>[<b>披露时间</b>] 2024-05-13 07:31:52<br/>[<b>漏洞描述</b>] Adobe Bridge越界写入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94722'>http://www.nsfocus.net/vulndb/94722</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-20761</font><br/>[<b>披露时间</b>] 2024-05-13 07:31:52<br/>[<b>漏洞描述</b>] Adobe Animate越界写入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94721'>http://www.nsfocus.net/vulndb/94721</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-20757</font><br/>[<b>披露时间</b>] 2024-05-13 07:31:52<br/>[<b>漏洞描述</b>] Adobe Bridge越界读取漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94720'>http://www.nsfocus.net/vulndb/94720</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-29055</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Apache Kylin存在不充分的凭证保护机制漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=ba54a858-9148-43d7-a7b7-e9980b5da1f5'>https://redqueen.tj-un.com/IntelDetails.html?id=ba54a858-9148-43d7-a7b7-e9980b5da1f5</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
