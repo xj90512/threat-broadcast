@@ -1,20 +1,12 @@
 
-<h3>发现最新漏洞情报<font color="red">10</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">2</font>条：</h3>
 <ul>
-    <li><font color="red">10</font>条由 [<a href="https://www.tenable.com/">Tenable (Nessus)</a>] 提供</li>
+    <li><font color="red">2</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-27834</font><br/>[<b>披露时间</b>] 2024-05-13 10:37:32<br/>[<b>漏洞描述</b>] The issue was addressed with improved checks.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2024-27834'>https://www.tenable.com/cve/CVE-2024-27834</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-27821</font><br/>[<b>披露时间</b>] 2024-05-13 05:29:52<br/>[<b>漏洞描述</b>] A path handling issue was addressed with improved validation.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2024-27821'>https://www.tenable.com/cve/CVE-2024-27821</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-27816</font><br/>[<b>披露时间</b>] 2024-05-13 05:29:52<br/>[<b>漏洞描述</b>] A logic issue was addressed with improved checks.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2024-27816'>https://www.tenable.com/cve/CVE-2024-27816</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-27810</font><br/>[<b>披露时间</b>] 2024-05-13 05:29:52<br/>[<b>漏洞描述</b>] A path handling issue was addressed with improved validation.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2024-27810'>https://www.tenable.com/cve/CVE-2024-27810</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-27804</font><br/>[<b>披露时间</b>] 2024-05-13 05:29:52<br/>[<b>漏洞描述</b>] The issue was addressed with improved memory handling.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2024-27804'>https://www.tenable.com/cve/CVE-2024-27804</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-27789</font><br/>[<b>披露时间</b>] 2024-05-13 05:28:00<br/>[<b>漏洞描述</b>] A logic issue was addressed with improved checks.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2024-27789'>https://www.tenable.com/cve/CVE-2024-27789</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23229</font><br/>[<b>披露时间</b>] 2024-05-13 05:28:00<br/>[<b>漏洞描述</b>] This issue was addressed with improved redaction of sensitive information.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2024-23229'>https://www.tenable.com/cve/CVE-2024-23229</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-27847</font><br/>[<b>披露时间</b>] 2024-05-13 05:25:21<br/>[<b>漏洞描述</b>] This issue was addressed with improved checks<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2024-27847'>https://www.tenable.com/cve/CVE-2024-27847</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-27843</font><br/>[<b>披露时间</b>] 2024-05-13 05:25:21<br/>[<b>漏洞描述</b>] A logic issue was addressed with improved checks.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2024-27843'>https://www.tenable.com/cve/CVE-2024-27843</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-27842</font><br/>[<b>披露时间</b>] 2024-05-13 05:25:21<br/>[<b>漏洞描述</b>] The issue was addressed with improved checks.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2024-27842'>https://www.tenable.com/cve/CVE-2024-27842</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-34351</font><br/>[<b>披露时间</b>] 2024-05-15 00:01:32<br/>[<b>漏洞描述</b>] Next.js 需授权 服务器端请求伪造SSRF<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11236'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11236</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-28253</font><br/>[<b>披露时间</b>] 2024-05-15 00:01:32<br/>[<b>漏洞描述</b>] OpenMetadata SEPL注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11235'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11235</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
