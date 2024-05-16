@@ -1,12 +1,17 @@
 
-<h3>发现最新漏洞情报<font color="red">2</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">7</font>条：</h3>
 <ul>
-    <li><font color="red">2</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
+    <li><font color="red">7</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-22353</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Ibm Websphere_application_server存在资源穷尽漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=110c3adf-ad6c-48ab-9aa7-e5d65b147d56'>https://redqueen.tj-un.com/IntelDetails.html?id=110c3adf-ad6c-48ab-9aa7-e5d65b147d56</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2020-29312</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Zend Zend_framework存在可信数据的反序列化漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=e1f273ce-f3c3-43a1-8c69-d83449e229b5'>https://redqueen.tj-un.com/IntelDetails.html?id=e1f273ce-f3c3-43a1-8c69-d83449e229b5</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-2197</font><br/>[<b>披露时间</b>] 2024-05-16 05:31:49<br/>[<b>漏洞描述</b>] Chirp Access硬编码凭据使用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94943'>http://www.nsfocus.net/vulndb/94943</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-1785</font><br/>[<b>披露时间</b>] 2024-05-16 05:31:49<br/>[<b>漏洞描述</b>] WordPress Contests by Rewards Fuel Plugin跨站请求伪造漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94942'>http://www.nsfocus.net/vulndb/94942</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-1787</font><br/>[<b>披露时间</b>] 2024-05-16 05:31:49<br/>[<b>漏洞描述</b>] WordPress Contests by Rewards Fuel Plugin跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94941'>http://www.nsfocus.net/vulndb/94941</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-1995</font><br/>[<b>披露时间</b>] 2024-05-16 05:31:49<br/>[<b>漏洞描述</b>] WordPress Smart Custom Fields Plugin未授权数据访问漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94940'>http://www.nsfocus.net/vulndb/94940</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-2387</font><br/>[<b>披露时间</b>] 2024-05-16 05:31:49<br/>[<b>漏洞描述</b>] WordPress Advanced Form Integration Plugin SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94939'>http://www.nsfocus.net/vulndb/94939</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-1799</font><br/>[<b>披露时间</b>] 2024-05-16 05:31:49<br/>[<b>漏洞描述</b>] WordPress GamiPress – The #1 gamification Plugin SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94938'>http://www.nsfocus.net/vulndb/94938</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-2384</font><br/>[<b>披露时间</b>] 2024-05-16 05:31:49<br/>[<b>漏洞描述</b>] WordPress WooCommerce POS Plugin信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/94937'>http://www.nsfocus.net/vulndb/94937</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
