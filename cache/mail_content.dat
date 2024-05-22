@@ -1,13 +1,16 @@
 
-<h3>发现最新漏洞情报<font color="red">3</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">6</font>条：</h3>
 <ul>
-    <li><font color="red">3</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
+    <li><font color="red">6</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-22120</font><br/>[<b>披露时间</b>] 2024-05-23 00:01:43<br/>[<b>漏洞描述</b>] Zabbix 需授权 SQL注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11272'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11272</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-4985</font><br/>[<b>披露时间</b>] 2024-05-23 00:01:43<br/>[<b>漏洞描述</b>] GitHub Enterprise Server 未授权 身份验证缺陷漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11271'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11271</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-21683</font><br/>[<b>披露时间</b>] 2024-05-23 00:01:42<br/>[<b>漏洞描述</b>] Atlassian Confluence 需授权 安全缺陷漏洞 可导致远程代码执行<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11270'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11270</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6478</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Tigervnc等厂商的多款产品存在整数溢出或超界折返漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=e1b3d4a9-e54c-47e6-83c5-62d6beec0a7a'>https://redqueen.tj-un.com/IntelDetails.html?id=e1b3d4a9-e54c-47e6-83c5-62d6beec0a7a</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6377</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Tigervnc等厂商的多款产品存在越界读取漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=1cab1a55-042d-4283-b6a4-1475cab93d86'>https://redqueen.tj-un.com/IntelDetails.html?id=1cab1a55-042d-4283-b6a4-1475cab93d86</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5367</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] X.org等厂商的多款产品存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=e36de9a4-5e42-48bd-9d05-f26d3c8c3842'>https://redqueen.tj-un.com/IntelDetails.html?id=e36de9a4-5e42-48bd-9d05-f26d3c8c3842</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5088</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Qemu等厂商的多款产品存在不恰当的同步机制漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=eb87b212-2068-4f12-b199-fa1b33d3bdea'>https://redqueen.tj-un.com/IntelDetails.html?id=eb87b212-2068-4f12-b199-fa1b33d3bdea</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47038</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Perl等厂商的多款产品存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=486be1b8-a570-4de9-9ba5-1f4d41cbdd2f'>https://redqueen.tj-un.com/IntelDetails.html?id=486be1b8-a570-4de9-9ba5-1f4d41cbdd2f</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-43787</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] X.org等厂商的多款产品存在整数溢出或超界折返漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=82b6d5ab-b112-4448-96f3-a7b9c0abb950'>https://redqueen.tj-un.com/IntelDetails.html?id=82b6d5ab-b112-4448-96f3-a7b9c0abb950</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
