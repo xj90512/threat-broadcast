@@ -1,12 +1,15 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">5</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
+    <li><font color="red">5</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-24919</font><br/>[<b>披露时间</b>] 2024-05-29 03:32:26<br/>[<b>漏洞描述</b>] CheckPoint Gateway 文件读取漏洞（CVE-2024-24919）
-                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-24919'>https://avd.aliyun.com/detail?id=AVD-2024-24919</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0409</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Tigervnc等厂商的多款产品存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=f80431ca-9f16-436e-bdfc-ba432d58da77'>https://redqueen.tj-un.com/IntelDetails.html?id=f80431ca-9f16-436e-bdfc-ba432d58da77</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6816</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] X.org等厂商的多款产品存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=692a51cd-2b6f-4eef-b4d6-07423344fe37'>https://redqueen.tj-un.com/IntelDetails.html?id=692a51cd-2b6f-4eef-b4d6-07423344fe37</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6531</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Linux等厂商的多款产品存在竞争条件漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=c5e2abd7-5541-43ec-813c-89dec66459a3'>https://redqueen.tj-un.com/IntelDetails.html?id=c5e2abd7-5541-43ec-813c-89dec66459a3</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-3899</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Redhat等厂商的多款产品存在授权机制不正确漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=3e7b9528-3d37-4640-8cab-31cbf0d340fe'>https://redqueen.tj-un.com/IntelDetails.html?id=3e7b9528-3d37-4640-8cab-31cbf0d340fe</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-3567</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Canonical等厂商的多款产品存在释放后使用漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=e38feeaf-1d27-4571-b3b7-4fac65624758'>https://redqueen.tj-un.com/IntelDetails.html?id=e38feeaf-1d27-4571-b3b7-4fac65624758</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
