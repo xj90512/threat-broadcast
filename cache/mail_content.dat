@@ -1,14 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">4</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">4</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-24919</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Checkpoint多款产品存在信息暴露漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=9237fcb8-8fb0-418e-a5de-bf9170c5288b'>https://redqueen.tj-un.com/IntelDetails.html?id=9237fcb8-8fb0-418e-a5de-bf9170c5288b</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-4978</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Javs Javs_viewer存在嵌入式恶意代码漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=c7522da8-a159-409d-be61-28fd26950b42'>https://redqueen.tj-un.com/IntelDetails.html?id=c7522da8-a159-409d-be61-28fd26950b42</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2022-41678</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Apache Activemq存在认证机制不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=7e181ffb-baa4-474c-9eaa-43dcc109103d'>https://redqueen.tj-un.com/IntelDetails.html?id=7e181ffb-baa4-474c-9eaa-43dcc109103d</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-1086</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Linux Linux_kernel存在释放后使用漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=0ad5037a-2ede-4902-b2ff-b59da8371551'>https://redqueen.tj-un.com/IntelDetails.html?id=0ad5037a-2ede-4902-b2ff-b59da8371551</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2019-1188</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft多款产品存在链接跟随漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=2ff8d20e-ad9a-4a46-9991-bd765f3ecf8f'>https://redqueen.tj-un.com/IntelDetails.html?id=2ff8d20e-ad9a-4a46-9991-bd765f3ecf8f</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
