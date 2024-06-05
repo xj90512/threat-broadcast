@@ -1,25 +1,12 @@
 
-<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-51536</font><br/>[<b>披露时间</b>] 2024-06-04 03:35:16<br/>[<b>漏洞描述</b>] WordPress plugin CRM Perks Forms跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/95935'>http://www.nsfocus.net/vulndb/95935</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-52194</font><br/>[<b>披露时间</b>] 2024-06-04 03:35:16<br/>[<b>漏洞描述</b>] WordPress plugin oEmbed Gist跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/95934'>http://www.nsfocus.net/vulndb/95934</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-51666</font><br/>[<b>披露时间</b>] 2024-06-04 03:35:16<br/>[<b>漏洞描述</b>] WordPress plugin Related Post跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/95933'>http://www.nsfocus.net/vulndb/95933</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-51534</font><br/>[<b>披露时间</b>] 2024-06-04 03:35:16<br/>[<b>漏洞描述</b>] WordPress plugin Brave跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/95932'>http://www.nsfocus.net/vulndb/95932</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-51674</font><br/>[<b>披露时间</b>] 2024-06-04 03:35:16<br/>[<b>漏洞描述</b>] WordPress plugin Advanced Access Manager跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/95931'>http://www.nsfocus.net/vulndb/95931</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-51532</font><br/>[<b>披露时间</b>] 2024-06-04 03:35:16<br/>[<b>漏洞描述</b>] WordPress plugin Icegram Engage跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/95930'>http://www.nsfocus.net/vulndb/95930</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-52195</font><br/>[<b>披露时间</b>] 2024-06-04 03:35:16<br/>[<b>漏洞描述</b>] WordPress plugin Posts to Page跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/95929'>http://www.nsfocus.net/vulndb/95929</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-51</font><br/>[<b>披露时间</b>] 2024-06-04 03:35:16<br/>[<b>漏洞描述</b>] WordPress plugin Schema &amp; Structured Data for WP &amp; AMP跨站脚本漏洞（CVE-2023-51<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/95928'>http://www.nsfocus.net/vulndb/95928</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-51689</font><br/>[<b>披露时间</b>] 2024-06-04 03:35:16<br/>[<b>漏洞描述</b>] WordPress plugin Easy Video Player跨站脚本漏洞（CVE-2023-51689 ）<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/95927'>http://www.nsfocus.net/vulndb/95927</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-51695</font><br/>[<b>披露时间</b>] 2024-06-04 03:35:16<br/>[<b>漏洞描述</b>] WordPress plugin Everest Forms跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/95926'>http://www.nsfocus.net/vulndb/95926</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-51693</font><br/>[<b>披露时间</b>] 2024-06-04 03:35:16<br/>[<b>漏洞描述</b>] WordPress plugin Themify Icons跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/95925'>http://www.nsfocus.net/vulndb/95925</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-52118</font><br/>[<b>披露时间</b>] 2024-06-04 03:35:16<br/>[<b>漏洞描述</b>] WordPress plugin WP User Profile Avatar跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/95924'>http://www.nsfocus.net/vulndb/95924</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-22148</font><br/>[<b>披露时间</b>] 2024-06-04 03:35:16<br/>[<b>漏洞描述</b>] WordPress plugin WP Smart Editor跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/95923'>http://www.nsfocus.net/vulndb/95923</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-51548</font><br/>[<b>披露时间</b>] 2024-06-04 03:35:16<br/>[<b>漏洞描述</b>] WordPress plugin SlickNav Mobile Menu跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/95922'>http://www.nsfocus.net/vulndb/95922</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-51694</font><br/>[<b>披露时间</b>] 2024-06-04 03:35:16<br/>[<b>漏洞描述</b>] WordPress plugin Embed Privacy跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/95921'>http://www.nsfocus.net/vulndb/95921</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-36522</font><br/>[<b>披露时间</b>] 2024-06-05 06:37:31<br/>[<b>漏洞描述</b>] Apache Wicket XSLT 代码执行漏洞（CVE-2024-36522）
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-36522'>https://avd.aliyun.com/detail?id=AVD-2024-36522</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
