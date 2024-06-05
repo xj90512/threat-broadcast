@@ -1,12 +1,25 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
+    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-36522</font><br/>[<b>披露时间</b>] 2024-06-05 06:37:31<br/>[<b>漏洞描述</b>] Apache Wicket XSLT 代码执行漏洞（CVE-2024-36522）
-                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-36522'>https://avd.aliyun.com/detail?id=AVD-2024-36522</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-1327</font><br/>[<b>披露时间</b>] 2024-06-05 09:33:27<br/>[<b>漏洞描述</b>] WordPress Jeg Elementor Kit Plugin跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/95975'>http://www.nsfocus.net/vulndb/95975</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-24724</font><br/>[<b>披露时间</b>] 2024-06-05 09:33:27<br/>[<b>漏洞描述</b>] Gibbon服务器端模板注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/95974'>http://www.nsfocus.net/vulndb/95974</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-25864</font><br/>[<b>披露时间</b>] 2024-06-05 09:33:27<br/>[<b>漏洞描述</b>] Friendica服务器请求伪造漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/95973'>http://www.nsfocus.net/vulndb/95973</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-28589</font><br/>[<b>披露时间</b>] 2024-06-05 09:33:27<br/>[<b>漏洞描述</b>] Axigen Mail Server任意代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/95972'>http://www.nsfocus.net/vulndb/95972</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-26495</font><br/>[<b>披露时间</b>] 2024-06-05 09:33:27<br/>[<b>漏洞描述</b>] Friendica跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/95971'>http://www.nsfocus.net/vulndb/95971</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-28755</font><br/>[<b>披露时间</b>] 2024-06-05 09:33:27<br/>[<b>漏洞描述</b>] Mbed TLS拒绝服务漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/95970'>http://www.nsfocus.net/vulndb/95970</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-28836</font><br/>[<b>披露时间</b>] 2024-06-05 09:33:27<br/>[<b>漏洞描述</b>] Mbed TLS拒绝服务漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/95969'>http://www.nsfocus.net/vulndb/95969</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-29734</font><br/>[<b>披露时间</b>] 2024-06-05 09:33:27<br/>[<b>漏洞描述</b>] SonicDICOM Media Viewer不受控制的搜索路径元素漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/95968'>http://www.nsfocus.net/vulndb/95968</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-35764</font><br/>[<b>披露时间</b>] 2024-06-05 09:33:27<br/>[<b>漏洞描述</b>] WordPress Survey Maker Plugin数据真实性验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/95967'>http://www.nsfocus.net/vulndb/95967</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-34423</font><br/>[<b>披露时间</b>] 2024-06-05 09:33:27<br/>[<b>漏洞描述</b>] WordPress Survey Maker Plugin跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/95966'>http://www.nsfocus.net/vulndb/95966</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-28515</font><br/>[<b>披露时间</b>] 2024-06-05 09:33:27<br/>[<b>漏洞描述</b>] CSAPP Lab3缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/95965'>http://www.nsfocus.net/vulndb/95965</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-31010</font><br/>[<b>披露时间</b>] 2024-06-05 09:33:27<br/>[<b>漏洞描述</b>] SEMCMS SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/95964'>http://www.nsfocus.net/vulndb/95964</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-30166</font><br/>[<b>披露时间</b>] 2024-06-05 09:33:27<br/>[<b>漏洞描述</b>] Mbed TLS拒绝服务漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/95963'>http://www.nsfocus.net/vulndb/95963</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-3162</font><br/>[<b>披露时间</b>] 2024-06-05 09:33:27<br/>[<b>漏洞描述</b>] WordPress Jeg Elementor Kit Plugin跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/95962'>http://www.nsfocus.net/vulndb/95962</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-2879</font><br/>[<b>披露时间</b>] 2024-06-05 09:33:27<br/>[<b>漏洞描述</b>] WordPress LayerSlider Plugin SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/95961'>http://www.nsfocus.net/vulndb/95961</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
