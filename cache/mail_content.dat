@@ -1,25 +1,12 @@
 
-<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-48505</font><br/>[<b>披露时间</b>] 2024-06-11 03:33:07<br/>[<b>漏洞描述</b>] Adobe Experience Manager跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96179'>http://www.nsfocus.net/vulndb/96179</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-50938</font><br/>[<b>披露时间</b>] 2024-06-11 03:33:07<br/>[<b>漏洞描述</b>] IBM PowerSC不合理授权漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96178'>http://www.nsfocus.net/vulndb/96178</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-38019</font><br/>[<b>披露时间</b>] 2024-06-11 03:33:07<br/>[<b>漏洞描述</b>] IBM QRadar SOAR Plug-in目录遍历漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96177'>http://www.nsfocus.net/vulndb/96177</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2022-40744</font><br/>[<b>披露时间</b>] 2024-06-11 03:33:07<br/>[<b>漏洞描述</b>] IBM Aspera Faspex跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96176'>http://www.nsfocus.net/vulndb/96176</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-22533</font><br/>[<b>披露时间</b>] 2024-06-11 03:33:07<br/>[<b>漏洞描述</b>] Beetl服务器端模板注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96175'>http://www.nsfocus.net/vulndb/96175</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-22320</font><br/>[<b>披露时间</b>] 2024-06-11 03:33:07<br/>[<b>漏洞描述</b>] IBM Operational Decision Manager任意代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96174'>http://www.nsfocus.net/vulndb/96174</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-1073</font><br/>[<b>披露时间</b>] 2024-06-11 03:33:07<br/>[<b>漏洞描述</b>] WordPress plugin SlimStat Analytics跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96172'>http://www.nsfocus.net/vulndb/96172</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0685</font><br/>[<b>披露时间</b>] 2024-06-11 03:33:07<br/>[<b>漏洞描述</b>] WordPress plugin Ninja Forms Contact Form SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96171'>http://www.nsfocus.net/vulndb/96171</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-38263</font><br/>[<b>披露时间</b>] 2024-06-11 03:33:07<br/>[<b>漏洞描述</b>] IBM QRadar SOAR Plug-in访问控制错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96170'>http://www.nsfocus.net/vulndb/96170</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-38020</font><br/>[<b>披露时间</b>] 2024-06-11 03:33:07<br/>[<b>漏洞描述</b>] IBM QRadar SOAR Plug-in日志注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96169'>http://www.nsfocus.net/vulndb/96169</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-50962</font><br/>[<b>披露时间</b>] 2024-06-11 03:33:07<br/>[<b>漏洞描述</b>] IBM PowerSC信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96168'>http://www.nsfocus.net/vulndb/96168</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2021-22282</font><br/>[<b>披露时间</b>] 2024-06-11 03:33:07<br/>[<b>漏洞描述</b>] B&amp;R Industrial Automation Studio代码注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96167'>http://www.nsfocus.net/vulndb/96167</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2020-24681</font><br/>[<b>披露时间</b>] 2024-06-11 03:33:07<br/>[<b>漏洞描述</b>] B&amp;R Industrial Automation Studio权限提升漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96166'>http://www.nsfocus.net/vulndb/96166</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-50941</font><br/>[<b>披露时间</b>] 2024-06-11 03:33:07<br/>[<b>漏洞描述</b>] IBM PowerSC不合理授权漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96165'>http://www.nsfocus.net/vulndb/96165</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46159</font><br/>[<b>披露时间</b>] 2024-06-11 03:33:07<br/>[<b>漏洞描述</b>] IBM Storage Ceph拒绝服务漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96164'>http://www.nsfocus.net/vulndb/96164</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23692</font><br/>[<b>披露时间</b>] 2024-05-31 07:32:07<br/>[<b>漏洞描述</b>] Rejetto HFS 2.x 远程代码执行漏洞（CVE-2024-23692）
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-23692'>https://avd.aliyun.com/detail?id=AVD-2024-23692</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
