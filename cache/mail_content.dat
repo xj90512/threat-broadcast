@@ -1,25 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6456</font><br/>[<b>披露时间</b>] 2024-06-12 09:32:03<br/>[<b>漏洞描述</b>] WordPress WP Review Slider Plugin跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96340'>http://www.nsfocus.net/vulndb/96340</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-50308</font><br/>[<b>披露时间</b>] 2024-06-12 09:32:03<br/>[<b>漏洞描述</b>] IBM Db2输入验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96339'>http://www.nsfocus.net/vulndb/96339</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6626</font><br/>[<b>披露时间</b>] 2024-06-12 09:32:03<br/>[<b>漏洞描述</b>] WordPress Product Enquiry for WooCommerce Plugin跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96338'>http://www.nsfocus.net/vulndb/96338</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47152</font><br/>[<b>披露时间</b>] 2024-06-12 09:32:03<br/>[<b>漏洞描述</b>] IBM Db2不安全加密算法漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96337'>http://www.nsfocus.net/vulndb/96337</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0204</font><br/>[<b>披露时间</b>] 2024-06-12 09:32:03<br/>[<b>漏洞描述</b>] Fortra GoAnywhere MFT身份认证绕过漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96336'>http://www.nsfocus.net/vulndb/96336</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0430</font><br/>[<b>披露时间</b>] 2024-06-12 09:32:03<br/>[<b>漏洞描述</b>] IObit Malware Fighter拒绝服务漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96335'>http://www.nsfocus.net/vulndb/96335</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-48118</font><br/>[<b>披露时间</b>] 2024-06-12 09:32:03<br/>[<b>漏洞描述</b>] Quest Analytics LLC IQCRM SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96334'>http://www.nsfocus.net/vulndb/96334</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47746</font><br/>[<b>披露时间</b>] 2024-06-12 09:32:03<br/>[<b>漏洞描述</b>] IBM Db2输入验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96333'>http://www.nsfocus.net/vulndb/96333</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-27859</font><br/>[<b>披露时间</b>] 2024-06-12 09:32:03<br/>[<b>漏洞描述</b>] IBM Db2任意代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96332'>http://www.nsfocus.net/vulndb/96332</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23685</font><br/>[<b>披露时间</b>] 2024-06-12 09:32:03<br/>[<b>漏洞描述</b>] mod-remote-storage硬编码凭据使用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96331'>http://www.nsfocus.net/vulndb/96331</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47158</font><br/>[<b>披露时间</b>] 2024-06-12 09:32:03<br/>[<b>漏洞描述</b>] IBM Db2输入验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96330'>http://www.nsfocus.net/vulndb/96330</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-45193</font><br/>[<b>披露时间</b>] 2024-06-12 09:32:03<br/>[<b>漏洞描述</b>] IBM Db2输入验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96329'>http://www.nsfocus.net/vulndb/96329</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23686</font><br/>[<b>披露时间</b>] 2024-06-12 09:32:03<br/>[<b>漏洞描述</b>] DependencyCheck信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96328'>http://www.nsfocus.net/vulndb/96328</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0623</font><br/>[<b>披露时间</b>] 2024-06-12 09:32:03<br/>[<b>漏洞描述</b>] WordPress VK Block Patterns Plugin跨站请求伪造漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96327'>http://www.nsfocus.net/vulndb/96327</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0605</font><br/>[<b>披露时间</b>] 2024-06-12 09:32:03<br/>[<b>漏洞描述</b>] Mozilla Focus竞争条件漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96326'>http://www.nsfocus.net/vulndb/96326</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-30080</font><br/>[<b>披露时间</b>] 2024-06-13 00:01:33<br/>[<b>漏洞描述</b>] Microsoft Message Queuing (MSMQ) UAF漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11465'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11465</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
