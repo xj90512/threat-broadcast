@@ -1,25 +1,12 @@
 
-<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">2</font>条：</h3>
 <ul>
-    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">2</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-22372</font><br/>[<b>披露时间</b>] 2024-06-14 09:32:17<br/>[<b>漏洞描述</b>] ELECOM Wireless LAN Routers操作系统命令注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96516'>http://www.nsfocus.net/vulndb/96516</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-31037</font><br/>[<b>披露时间</b>] 2024-06-14 09:32:17<br/>[<b>漏洞描述</b>] NVIDIA BMC代码注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96515'>http://www.nsfocus.net/vulndb/96515</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23638</font><br/>[<b>披露时间</b>] 2024-06-14 09:32:17<br/>[<b>漏洞描述</b>] Squid过期指针解引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96514'>http://www.nsfocus.net/vulndb/96514</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47194</font><br/>[<b>披露时间</b>] 2024-06-14 09:32:17<br/>[<b>漏洞描述</b>] Trend Micro Apex One来源验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96513'>http://www.nsfocus.net/vulndb/96513</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47193</font><br/>[<b>披露时间</b>] 2024-06-14 09:32:17<br/>[<b>漏洞描述</b>] Trend Micro Apex One来源验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96512'>http://www.nsfocus.net/vulndb/96512</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47198</font><br/>[<b>披露时间</b>] 2024-06-14 09:32:17<br/>[<b>漏洞描述</b>] Trend Micro Apex One来源验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96511'>http://www.nsfocus.net/vulndb/96511</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47192</font><br/>[<b>披露时间</b>] 2024-06-14 09:32:17<br/>[<b>漏洞描述</b>] Trend Micro Apex One代理链接漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96510'>http://www.nsfocus.net/vulndb/96510</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-46892</font><br/>[<b>披露时间</b>] 2024-06-14 09:32:17<br/>[<b>漏洞描述</b>] Meross MSH30Q重放攻击漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96509'>http://www.nsfocus.net/vulndb/96509</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-38624</font><br/>[<b>披露时间</b>] 2024-06-14 09:32:17<br/>[<b>漏洞描述</b>] Trend Micro Apex Central服务器端请求伪造漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96508'>http://www.nsfocus.net/vulndb/96508</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47195</font><br/>[<b>披露时间</b>] 2024-06-14 09:32:17<br/>[<b>漏洞描述</b>] Trend Micro Apex One来源验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96507'>http://www.nsfocus.net/vulndb/96507</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2021-42142</font><br/>[<b>披露时间</b>] 2024-06-14 09:32:17<br/>[<b>漏洞描述</b>] Contiki-NG tinyDTLS异常情况处理错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96506'>http://www.nsfocus.net/vulndb/96506</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-21765</font><br/>[<b>披露时间</b>] 2024-06-14 09:32:17<br/>[<b>漏洞描述</b>] Electronic Delivery Check System XML外部实体引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96505'>http://www.nsfocus.net/vulndb/96505</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23633</font><br/>[<b>披露时间</b>] 2024-06-14 09:32:17<br/>[<b>漏洞描述</b>] Label Studio跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96504'>http://www.nsfocus.net/vulndb/96504</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47201</font><br/>[<b>披露时间</b>] 2024-06-14 09:32:17<br/>[<b>漏洞描述</b>] Trend Micro Apex One来源验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96503'>http://www.nsfocus.net/vulndb/96503</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47202</font><br/>[<b>披露时间</b>] 2024-06-14 09:32:17<br/>[<b>漏洞描述</b>] Trend Micro Apex One本地文件包含漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96502'>http://www.nsfocus.net/vulndb/96502</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-28995</font><br/>[<b>披露时间</b>] 2024-06-15 00:11:33<br/>[<b>漏洞描述</b>] SolarWinds ServU 路径遍历漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11485'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11485</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-35242</font><br/>[<b>披露时间</b>] 2024-06-15 00:11:32<br/>[<b>漏洞描述</b>] PHP Composer 命令注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11484'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11484</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
