@@ -1,25 +1,12 @@
 
-<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">2</font>条：</h3>
 <ul>
-    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">2</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-24676</font><br/>[<b>披露时间</b>] 2024-06-17 07:32:24<br/>[<b>漏洞描述</b>] ProcessWire任意代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96591'>http://www.nsfocus.net/vulndb/96591</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23855</font><br/>[<b>披露时间</b>] 2024-06-17 07:32:24<br/>[<b>漏洞描述</b>] Cups Easy跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96590'>http://www.nsfocus.net/vulndb/96590</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6282</font><br/>[<b>披露时间</b>] 2024-06-17 07:32:24<br/>[<b>漏洞描述</b>] IceHrm跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96589'>http://www.nsfocus.net/vulndb/96589</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-22432</font><br/>[<b>披露时间</b>] 2024-06-17 07:32:24<br/>[<b>漏洞描述</b>] Dell NetWorker明文密码存储漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96588'>http://www.nsfocus.net/vulndb/96588</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2021-43584</font><br/>[<b>披露时间</b>] 2024-06-17 07:32:24<br/>[<b>漏洞描述</b>] Nagios Cross-Platform Agent (NCPA)跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96587'>http://www.nsfocus.net/vulndb/96587</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-50785</font><br/>[<b>披露时间</b>] 2024-06-17 07:32:24<br/>[<b>漏洞描述</b>] ZOHO ManageEngine ADAudit Plus路径遍历漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96586'>http://www.nsfocus.net/vulndb/96586</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2021-42147</font><br/>[<b>披露时间</b>] 2024-06-17 07:32:24<br/>[<b>漏洞描述</b>] Contiki-NG tinyDTLS缓冲区越界读取漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96585'>http://www.nsfocus.net/vulndb/96585</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23646</font><br/>[<b>披露时间</b>] 2024-06-17 07:32:24<br/>[<b>漏洞描述</b>] Pimcore SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96584'>http://www.nsfocus.net/vulndb/96584</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-22636</font><br/>[<b>披露时间</b>] 2024-06-17 07:32:24<br/>[<b>漏洞描述</b>] PluXml Blog远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96583'>http://www.nsfocus.net/vulndb/96583</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-33759</font><br/>[<b>披露时间</b>] 2024-06-17 07:32:24<br/>[<b>漏洞描述</b>] Splicecom Maximiser Soft PBX身份认证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96582'>http://www.nsfocus.net/vulndb/96582</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0625</font><br/>[<b>披露时间</b>] 2024-06-17 07:32:24<br/>[<b>漏洞描述</b>] WordPress WPFront Notification Bar Plugin跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96581'>http://www.nsfocus.net/vulndb/96581</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2021-42145</font><br/>[<b>披露时间</b>] 2024-06-17 07:32:24<br/>[<b>漏洞描述</b>] Contiki-NG tinyDTLS断言失败漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96580'>http://www.nsfocus.net/vulndb/96580</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0688</font><br/>[<b>披露时间</b>] 2024-06-17 07:32:24<br/>[<b>漏洞描述</b>] WordPress WebSub Plugin跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96579'>http://www.nsfocus.net/vulndb/96579</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-33757</font><br/>[<b>披露时间</b>] 2024-06-17 07:32:24<br/>[<b>漏洞描述</b>] Splicecom iPCS证书验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96578'>http://www.nsfocus.net/vulndb/96578</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2021-42146</font><br/>[<b>披露时间</b>] 2024-06-17 07:32:24<br/>[<b>漏洞描述</b>] Contiki-NG tinyDTLS异常情况处理错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96577'>http://www.nsfocus.net/vulndb/96577</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-20004</font><br/>[<b>披露时间</b>] 2024-06-17 09:32:10<br/>[<b>漏洞描述</b>] MediaTek多款芯片拒绝服务漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96593'>http://www.nsfocus.net/vulndb/96593</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-20003</font><br/>[<b>披露时间</b>] 2024-06-17 09:32:10<br/>[<b>漏洞描述</b>] MediaTek Chipsets拒绝服务漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96592'>http://www.nsfocus.net/vulndb/96592</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
