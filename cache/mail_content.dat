@@ -1,25 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23618</font><br/>[<b>披露时间</b>] 2024-06-18 07:32:24<br/>[<b>漏洞描述</b>] Arris SURFboard SGB6950AC2任意代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96710'>http://www.nsfocus.net/vulndb/96710</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23617</font><br/>[<b>披露时间</b>] 2024-06-18 07:32:24<br/>[<b>漏洞描述</b>] Symantec Data Loss Prevention缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96709'>http://www.nsfocus.net/vulndb/96709</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23616</font><br/>[<b>披露时间</b>] 2024-06-18 07:32:24<br/>[<b>漏洞描述</b>] Symantec Server Management Suite缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96708'>http://www.nsfocus.net/vulndb/96708</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-21985</font><br/>[<b>披露时间</b>] 2024-06-18 07:32:24<br/>[<b>漏洞描述</b>] NetApp ONTAP拒绝服务漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96707'>http://www.nsfocus.net/vulndb/96707</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23619</font><br/>[<b>披露时间</b>] 2024-06-18 07:32:24<br/>[<b>漏洞描述</b>] IBM Merge Healthcare eFilm Workstation硬编码凭据使用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96706'>http://www.nsfocus.net/vulndb/96706</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-22638</font><br/>[<b>披露时间</b>] 2024-06-18 07:32:24<br/>[<b>漏洞描述</b>] liveSite远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96705'>http://www.nsfocus.net/vulndb/96705</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23388</font><br/>[<b>披露时间</b>] 2024-06-18 07:32:24<br/>[<b>漏洞描述</b>] Mercari授权错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96704'>http://www.nsfocus.net/vulndb/96704</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-20253</font><br/>[<b>披露时间</b>] 2024-06-18 07:32:24<br/>[<b>漏洞描述</b>] Cisco Unified Communications和Contact Center Solutions不受信数据反序列化漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96703'>http://www.nsfocus.net/vulndb/96703</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-24399</font><br/>[<b>披露时间</b>] 2024-06-18 07:32:24<br/>[<b>漏洞描述</b>] LeptonCMS任意文件上传漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96702'>http://www.nsfocus.net/vulndb/96702</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23620</font><br/>[<b>披露时间</b>] 2024-06-18 07:32:24<br/>[<b>漏洞描述</b>] IBM Merge Healthcare eFilm Workstation权限管理错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96701'>http://www.nsfocus.net/vulndb/96701</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23621</font><br/>[<b>披露时间</b>] 2024-06-18 07:32:24<br/>[<b>漏洞描述</b>] IBM Merge Healthcare eFilm Workstation缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96700'>http://www.nsfocus.net/vulndb/96700</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23622</font><br/>[<b>披露时间</b>] 2024-06-18 07:32:24<br/>[<b>漏洞描述</b>] IBM Merge Healthcare eFilm Workstation堆栈缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96699'>http://www.nsfocus.net/vulndb/96699</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5933</font><br/>[<b>披露时间</b>] 2024-06-18 07:32:24<br/>[<b>漏洞描述</b>] GitLab CE/EE跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96698'>http://www.nsfocus.net/vulndb/96698</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6159</font><br/>[<b>披露时间</b>] 2024-06-18 07:32:24<br/>[<b>漏洞描述</b>] GitLab CE/EE拒绝服务漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96697'>http://www.nsfocus.net/vulndb/96697</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-38317</font><br/>[<b>披露时间</b>] 2024-06-18 07:32:24<br/>[<b>漏洞描述</b>] openNDS操作系统命令注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/96696'>http://www.nsfocus.net/vulndb/96696</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-28995</font><br/>[<b>披露时间</b>] 2024-06-18 19:39:26<br/>[<b>漏洞描述</b>] SolarWinds Serv-U FTP 存在任意文件读取漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11478'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11478</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
