@@ -1,13 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">3</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">3</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-30082</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft多款产品存在释放后使用漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=817f0d08-4127-4952-a65d-71ac70dcf718'>https://redqueen.tj-un.com/IntelDetails.html?id=817f0d08-4127-4952-a65d-71ac70dcf718</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-30078</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft多款产品存在输入验证不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=be9e7543-0a79-47bf-8631-d393e1e4acf1'>https://redqueen.tj-un.com/IntelDetails.html?id=be9e7543-0a79-47bf-8631-d393e1e4acf1</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-30077</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft多款产品存在堆缓冲区溢出漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=14e736f8-be6e-4d0d-8792-3cdc4ccc74bd'>https://redqueen.tj-un.com/IntelDetails.html?id=14e736f8-be6e-4d0d-8792-3cdc4ccc74bd</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-4012</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Ntpsec存在不完整的内部状态区分漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=8a17c7eb-c994-41e7-bcc0-2a16b8254655'>https://redqueen.tj-un.com/IntelDetails.html?id=8a17c7eb-c994-41e7-bcc0-2a16b8254655</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
