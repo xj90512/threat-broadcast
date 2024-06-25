@@ -1,28 +1,12 @@
 
-<h3>发现最新漏洞情报<font color="red">17</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
-    <li><font color="red">2</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-4060</font><br/>[<b>披露时间</b>] 2024-06-24 03:33:38<br/>[<b>漏洞描述</b>] Google Chrome内存错误引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/97232'>http://www.nsfocus.net/vulndb/97232</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-1209</font><br/>[<b>披露时间</b>] 2024-06-24 03:33:38<br/>[<b>漏洞描述</b>] WordPress Plugin LearnDash LMS信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/97231'>http://www.nsfocus.net/vulndb/97231</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-1208</font><br/>[<b>披露时间</b>] 2024-06-24 03:33:38<br/>[<b>漏洞描述</b>] WordPress Plugin LearnDash LMS信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/97230'>http://www.nsfocus.net/vulndb/97230</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-1177</font><br/>[<b>披露时间</b>] 2024-06-24 03:33:38<br/>[<b>漏洞描述</b>] WordPress plugin WP Club Manager权限提升漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/97229'>http://www.nsfocus.net/vulndb/97229</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-24398</font><br/>[<b>披露时间</b>] 2024-06-24 03:33:38<br/>[<b>漏洞描述</b>] Stimulsoft GmbH Stimulsoft Dashboard.JS任意代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/97228'>http://www.nsfocus.net/vulndb/97228</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-27390</font><br/>[<b>披露时间</b>] 2024-06-24 03:33:38<br/>[<b>漏洞描述</b>] Linux kernel固件更新漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/97227'>http://www.nsfocus.net/vulndb/97227</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47354</font><br/>[<b>披露时间</b>] 2024-06-24 03:33:38<br/>[<b>漏洞描述</b>] Super Reboot (Root) Recovery不合理授权漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/97226'>http://www.nsfocus.net/vulndb/97226</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-27080</font><br/>[<b>披露时间</b>] 2024-06-24 03:33:38<br/>[<b>漏洞描述</b>] Linux kernel竞争条件漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/97225'>http://www.nsfocus.net/vulndb/97225</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-1121</font><br/>[<b>披露时间</b>] 2024-06-24 03:33:38<br/>[<b>漏洞描述</b>] WordPress plugin Advanced Forms for ACF权限绕过漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/97224'>http://www.nsfocus.net/vulndb/97224</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47353</font><br/>[<b>披露时间</b>] 2024-06-24 03:33:38<br/>[<b>漏洞描述</b>] IMOU GO任意文件下载漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/97223'>http://www.nsfocus.net/vulndb/97223</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-47022</font><br/>[<b>披露时间</b>] 2024-06-24 03:33:38<br/>[<b>漏洞描述</b>] NCR Atleos Terminal Handler不安全直接对象引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/97222'>http://www.nsfocus.net/vulndb/97222</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-27389</font><br/>[<b>披露时间</b>] 2024-06-24 03:33:38<br/>[<b>漏洞描述</b>] Linux kernel逻辑错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/97221'>http://www.nsfocus.net/vulndb/97221</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-27076</font><br/>[<b>披露时间</b>] 2024-06-24 03:33:38<br/>[<b>漏洞描述</b>] Linux kernel内存泄漏漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/97220'>http://www.nsfocus.net/vulndb/97220</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-27077</font><br/>[<b>披露时间</b>] 2024-06-24 03:33:38<br/>[<b>漏洞描述</b>] Linux kernel内存泄漏漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/97219'>http://www.nsfocus.net/vulndb/97219</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-27392</font><br/>[<b>披露时间</b>] 2024-06-24 03:33:38<br/>[<b>漏洞描述</b>] Linux kernel双重释放漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/97218'>http://www.nsfocus.net/vulndb/97218</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-45197</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Adminerevo存在危险类型文件的不加限制上传漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=9f582feb-d15f-41e1-9c12-da67596385c4'>https://redqueen.tj-un.com/IntelDetails.html?id=9f582feb-d15f-41e1-9c12-da67596385c4</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-6239</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Freedesktop等厂商的多款产品存在输入验证不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=e87a0a97-3e0e-47d8-960a-280b5a0718c3'>https://redqueen.tj-un.com/IntelDetails.html?id=e87a0a97-3e0e-47d8-960a-280b5a0718c3</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0087</font><br/>[<b>披露时间</b>] 2024-06-06 06:38:23<br/>[<b>漏洞描述</b>] Triton Inference Server 远程代码执行漏洞（CVE-2024-0087）
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-0087'>https://avd.aliyun.com/detail?id=AVD-2024-0087</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
