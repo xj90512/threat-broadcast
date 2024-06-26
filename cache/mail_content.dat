@@ -1,19 +1,12 @@
 
-<h3>发现最新漏洞情报<font color="red">9</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">9</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-34966</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Samba等厂商的多款产品存在无限循环漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=5d955375-4457-4ec4-8fa8-4427263afb5d'>https://redqueen.tj-un.com/IntelDetails.html?id=5d955375-4457-4ec4-8fa8-4427263afb5d</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-49115</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Machinesense多款产品存在关键功能的认证机制缺失漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=baddd6d4-0b60-45f2-bb07-85d315d62293'>https://redqueen.tj-un.com/IntelDetails.html?id=baddd6d4-0b60-45f2-bb07-85d315d62293</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-30072</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft多款产品存在整数溢出或超界折返漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=1ad3ef99-68b4-4114-82df-c1cc99b99f92'>https://redqueen.tj-un.com/IntelDetails.html?id=1ad3ef99-68b4-4114-82df-c1cc99b99f92</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-30070</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft多款产品存在整数下溢或超界折返漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=59e25b65-1c98-49c2-b768-56f2e49a8fb2'>https://redqueen.tj-un.com/IntelDetails.html?id=59e25b65-1c98-49c2-b768-56f2e49a8fb2</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-30075</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft Windows_server_2008存在堆缓冲区溢出漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=dfe13b9b-7fad-4045-9e69-4d65ebf75796'>https://redqueen.tj-un.com/IntelDetails.html?id=dfe13b9b-7fad-4045-9e69-4d65ebf75796</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-30074</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft Windows_server_2008存在堆缓冲区溢出漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=1819a9ce-43f7-4067-ac8e-b6d218c7f94b'>https://redqueen.tj-un.com/IntelDetails.html?id=1819a9ce-43f7-4067-ac8e-b6d218c7f94b</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-30068</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft多款产品存在越界读取漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=ffffcd77-2363-4e86-95a8-97d409e70dd1'>https://redqueen.tj-un.com/IntelDetails.html?id=ffffcd77-2363-4e86-95a8-97d409e70dd1</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-21514</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Opencart存在SQL注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=22a83510-16d4-42a7-81e2-6b14a6186349'>https://redqueen.tj-un.com/IntelDetails.html?id=22a83510-16d4-42a7-81e2-6b14a6186349</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-21518</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Opencart存在路径遍历漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=7519d0e3-5734-4e5d-a2d1-970e2d2e509b'>https://redqueen.tj-un.com/IntelDetails.html?id=7519d0e3-5734-4e5d-a2d1-970e2d2e509b</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-34102</font><br/>[<b>披露时间</b>] 2024-06-13 02:43:12<br/>[<b>漏洞描述</b>] Magento estimate-shipping-methods XXE漏洞（CVE-2024-34102）
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-34102'>https://avd.aliyun.com/detail?id=AVD-2024-34102</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
