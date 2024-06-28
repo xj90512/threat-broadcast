@@ -1,20 +1,12 @@
 
-<h3>发现最新漏洞情报<font color="red">10</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">2</font>条：</h3>
 <ul>
-    <li><font color="red">10</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">2</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-31860</font><br/>[<b>披露时间</b>] 2024-06-28 09:31:59<br/>[<b>漏洞描述</b>] Apache Zeppelin输入验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/97660'>http://www.nsfocus.net/vulndb/97660</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-31544</font><br/>[<b>披露时间</b>] 2024-06-28 09:31:59<br/>[<b>漏洞描述</b>] Computer Laboratory Management System跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/97659'>http://www.nsfocus.net/vulndb/97659</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-3046</font><br/>[<b>披露时间</b>] 2024-06-28 09:31:59<br/>[<b>漏洞描述</b>] Eclipse Kura LogServlet身份认证算法实施错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/97658'>http://www.nsfocus.net/vulndb/97658</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-2224</font><br/>[<b>披露时间</b>] 2024-06-28 09:31:59<br/>[<b>漏洞描述</b>] Bitdefender多款产品路径遍历漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/97657'>http://www.nsfocus.net/vulndb/97657</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-31978</font><br/>[<b>披露时间</b>] 2024-06-28 09:31:59<br/>[<b>漏洞描述</b>] Siemens SINEC NMS路径遍历漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/97656'>http://www.nsfocus.net/vulndb/97656</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6320</font><br/>[<b>披露时间</b>] 2024-06-28 09:31:59<br/>[<b>漏洞描述</b>] LG webOS命令注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/97655'>http://www.nsfocus.net/vulndb/97655</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6319</font><br/>[<b>披露时间</b>] 2024-06-28 09:31:59<br/>[<b>漏洞描述</b>] LG webOS命令注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/97654'>http://www.nsfocus.net/vulndb/97654</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-28190</font><br/>[<b>披露时间</b>] 2024-06-28 09:31:59<br/>[<b>漏洞描述</b>] Contao跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/97653'>http://www.nsfocus.net/vulndb/97653</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-30190</font><br/>[<b>披露时间</b>] 2024-06-28 09:31:59<br/>[<b>漏洞描述</b>] Siemens SCALANCE多款产品身份认证绕过漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/97652'>http://www.nsfocus.net/vulndb/97652</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6318</font><br/>[<b>披露时间</b>] 2024-06-28 09:31:59<br/>[<b>漏洞描述</b>] LG webOS命令注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/97651'>http://www.nsfocus.net/vulndb/97651</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-22232</font><br/>[<b>披露时间</b>] 2024-06-29 00:02:35<br/>[<b>漏洞描述</b>] Saltstack 需授权 路径遍历漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11612'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11612</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-5655</font><br/>[<b>披露时间</b>] 2024-06-29 00:02:34<br/>[<b>漏洞描述</b>] GitLab 身份验证缺陷<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11611'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11611</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
