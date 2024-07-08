@@ -1,11 +1,25 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
+    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-36991</font><br/>[<b>披露时间</b>] 2024-07-06 00:21:35<br/>[<b>漏洞描述</b>] Splunk 存在路径遍历漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11646'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11646</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-27656</font><br/>[<b>披露时间</b>] 2024-07-08 09:31:59<br/>[<b>漏洞描述</b>] D-Link DIR-823G缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98144'>http://www.nsfocus.net/vulndb/98144</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-27657</font><br/>[<b>披露时间</b>] 2024-07-08 09:31:59<br/>[<b>漏洞描述</b>] D-Link DIR-823G缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98143'>http://www.nsfocus.net/vulndb/98143</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-27658</font><br/>[<b>披露时间</b>] 2024-07-08 09:31:59<br/>[<b>漏洞描述</b>] D-Link DIR-823G空指针解引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98142'>http://www.nsfocus.net/vulndb/98142</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-27659</font><br/>[<b>披露时间</b>] 2024-07-08 09:31:59<br/>[<b>漏洞描述</b>] D-Link DIR-823G空指针解引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98141'>http://www.nsfocus.net/vulndb/98141</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-27660</font><br/>[<b>披露时间</b>] 2024-07-08 09:31:59<br/>[<b>漏洞描述</b>] D-Link DIR-823G空指针解引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98140'>http://www.nsfocus.net/vulndb/98140</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-27661</font><br/>[<b>披露时间</b>] 2024-07-08 09:31:59<br/>[<b>漏洞描述</b>] D-Link DIR-823G空指针解引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98139'>http://www.nsfocus.net/vulndb/98139</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-27655</font><br/>[<b>披露时间</b>] 2024-07-08 09:31:59<br/>[<b>漏洞描述</b>] D-Link DIR-823G缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98138'>http://www.nsfocus.net/vulndb/98138</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-22100</font><br/>[<b>披露时间</b>] 2024-07-08 09:31:59<br/>[<b>漏洞描述</b>] MicroDicom DICOM Viewer堆缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98137'>http://www.nsfocus.net/vulndb/98137</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6132</font><br/>[<b>披露时间</b>] 2024-07-08 09:31:59<br/>[<b>漏洞描述</b>] AVEVA Edge不受控制的搜索路径元素漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98136'>http://www.nsfocus.net/vulndb/98136</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-26548</font><br/>[<b>披露时间</b>] 2024-07-08 09:31:59<br/>[<b>漏洞描述</b>] VIVOTEK Network Camera任意代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98135'>http://www.nsfocus.net/vulndb/98135</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-25180</font><br/>[<b>披露时间</b>] 2024-07-08 09:31:59<br/>[<b>漏洞描述</b>] pdfmake任意代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98134'>http://www.nsfocus.net/vulndb/98134</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-28525</font><br/>[<b>披露时间</b>] 2024-07-08 09:31:59<br/>[<b>漏洞描述</b>] IBM Engineering Requirements Management DOORS跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98133'>http://www.nsfocus.net/vulndb/98133</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0864</font><br/>[<b>披露时间</b>] 2024-07-08 09:31:59<br/>[<b>漏洞描述</b>] Laragon输入验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98132'>http://www.nsfocus.net/vulndb/98132</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-26607</font><br/>[<b>披露时间</b>] 2024-07-08 09:31:59<br/>[<b>漏洞描述</b>] Linux Kernel空指针解引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98131'>http://www.nsfocus.net/vulndb/98131</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0403</font><br/>[<b>披露时间</b>] 2024-07-08 09:31:59<br/>[<b>漏洞描述</b>] Recipes服务器端请求伪造漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98130'>http://www.nsfocus.net/vulndb/98130</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
