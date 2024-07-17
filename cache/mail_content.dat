@@ -1,11 +1,25 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
+    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-21687</font><br/>[<b>披露时间</b>] 2024-07-17 16:08:11<br/>[<b>漏洞描述</b>] Atlassian Bamboo Data Center And Server 需授权 文件包含漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11802'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11802</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-26269</font><br/>[<b>披露时间</b>] 2024-07-17 11:32:04<br/>[<b>漏洞描述</b>] Liferay Portal和Liferay DXP跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98904'>http://www.nsfocus.net/vulndb/98904</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-26266</font><br/>[<b>披露时间</b>] 2024-07-17 11:32:04<br/>[<b>漏洞描述</b>] Liferay Portal和Liferay DXP跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98903'>http://www.nsfocus.net/vulndb/98903</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-42498</font><br/>[<b>披露时间</b>] 2024-07-17 11:32:04<br/>[<b>漏洞描述</b>] Liferay Portal和Liferay DXP跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98902'>http://www.nsfocus.net/vulndb/98902</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-1676</font><br/>[<b>披露时间</b>] 2024-07-17 11:32:04<br/>[<b>漏洞描述</b>] Google Chrome实现不当漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98901'>http://www.nsfocus.net/vulndb/98901</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-22235</font><br/>[<b>披露时间</b>] 2024-07-17 11:32:04<br/>[<b>漏洞描述</b>] VMware Aria Operations权限提升漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98900'>http://www.nsfocus.net/vulndb/98900</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-1675</font><br/>[<b>披露时间</b>] 2024-07-17 11:32:04<br/>[<b>漏洞描述</b>] Google Chrome策略实施错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98899'>http://www.nsfocus.net/vulndb/98899</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-25151</font><br/>[<b>披露时间</b>] 2024-07-17 11:32:04<br/>[<b>漏洞描述</b>] Liferay Portal和Liferay DXP跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98898'>http://www.nsfocus.net/vulndb/98898</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-1108</font><br/>[<b>披露时间</b>] 2024-07-17 11:32:04<br/>[<b>漏洞描述</b>] WordPress Groups Plugin未授权数据修改漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98897'>http://www.nsfocus.net/vulndb/98897</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-42836</font><br/>[<b>披露时间</b>] 2024-07-17 11:32:04<br/>[<b>漏洞描述</b>] Apple多款产品信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98896'>http://www.nsfocus.net/vulndb/98896</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-42823</font><br/>[<b>披露时间</b>] 2024-07-17 11:32:04<br/>[<b>漏洞描述</b>] Apple多款产品信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98895'>http://www.nsfocus.net/vulndb/98895</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-42834</font><br/>[<b>披露时间</b>] 2024-07-17 11:32:04<br/>[<b>漏洞描述</b>] Apple多款产品信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98894'>http://www.nsfocus.net/vulndb/98894</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-1672</font><br/>[<b>披露时间</b>] 2024-07-17 11:32:04<br/>[<b>漏洞描述</b>] Google Chrome实现不当漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98893'>http://www.nsfocus.net/vulndb/98893</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-25603</font><br/>[<b>披露时间</b>] 2024-07-17 11:32:04<br/>[<b>漏洞描述</b>] Liferay Portal和Liferay DXP跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98892'>http://www.nsfocus.net/vulndb/98892</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-42840</font><br/>[<b>披露时间</b>] 2024-07-17 11:32:04<br/>[<b>漏洞描述</b>] Apple多款产品信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98891'>http://www.nsfocus.net/vulndb/98891</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-42838</font><br/>[<b>披露时间</b>] 2024-07-17 11:32:04<br/>[<b>漏洞描述</b>] Apple多款产品任意代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98890'>http://www.nsfocus.net/vulndb/98890</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
