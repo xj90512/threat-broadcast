@@ -1,25 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-40468</font><br/>[<b>披露时间</b>] 2024-07-16 03:34:10<br/>[<b>漏洞描述</b>] PDF-XChange Editor越界读取信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98854'>http://www.nsfocus.net/vulndb/98854</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-40469</font><br/>[<b>披露时间</b>] 2024-07-16 03:34:10<br/>[<b>漏洞描述</b>] PDF-XChange Editor越界读取信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98853'>http://www.nsfocus.net/vulndb/98853</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-40470</font><br/>[<b>披露时间</b>] 2024-07-16 03:34:10<br/>[<b>漏洞描述</b>] PDF-XChange Editor越界读取信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98852'>http://www.nsfocus.net/vulndb/98852</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-40471</font><br/>[<b>披露时间</b>] 2024-07-16 03:34:10<br/>[<b>漏洞描述</b>] PDF-XChange Editor不信任指针解引用远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98851'>http://www.nsfocus.net/vulndb/98851</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-40473</font><br/>[<b>披露时间</b>] 2024-07-16 03:34:10<br/>[<b>漏洞描述</b>] PDF-XChange Editor越界读取信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98850'>http://www.nsfocus.net/vulndb/98850</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-40475</font><br/>[<b>披露时间</b>] 2024-07-16 03:34:10<br/>[<b>漏洞描述</b>] GStreamer gst-plugins-bad整数溢出远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98849'>http://www.nsfocus.net/vulndb/98849</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-40476</font><br/>[<b>披露时间</b>] 2024-07-16 03:34:10<br/>[<b>漏洞描述</b>] GStreamer gst-plugins-bad整数溢出远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98848'>http://www.nsfocus.net/vulndb/98848</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-40472</font><br/>[<b>披露时间</b>] 2024-07-16 03:34:10<br/>[<b>漏洞描述</b>] PDF-XChange Editor不信任指针解引用远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98847'>http://www.nsfocus.net/vulndb/98847</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-39506</font><br/>[<b>披露时间</b>] 2024-07-16 03:34:10<br/>[<b>漏洞描述</b>] PDF-XChange Editor目录遍历远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98846'>http://www.nsfocus.net/vulndb/98846</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-39505</font><br/>[<b>披露时间</b>] 2024-07-16 03:34:10<br/>[<b>漏洞描述</b>] PDF-XChange Editor信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98845'>http://www.nsfocus.net/vulndb/98845</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-39493</font><br/>[<b>披露时间</b>] 2024-07-16 03:34:10<br/>[<b>漏洞描述</b>] PDF-XChange Editor远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98844'>http://www.nsfocus.net/vulndb/98844</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-39492</font><br/>[<b>披露时间</b>] 2024-07-16 03:34:10<br/>[<b>漏洞描述</b>] PDF-XChange Editor堆缓冲区溢出远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98843'>http://www.nsfocus.net/vulndb/98843</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-39491</font><br/>[<b>披露时间</b>] 2024-07-16 03:34:10<br/>[<b>漏洞描述</b>] PDF-XChange Editor内存错误引用远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98842'>http://www.nsfocus.net/vulndb/98842</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-39490</font><br/>[<b>披露时间</b>] 2024-07-16 03:34:10<br/>[<b>漏洞描述</b>] PDF-XChange Editor越界写入远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98841'>http://www.nsfocus.net/vulndb/98841</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-39489</font><br/>[<b>披露时间</b>] 2024-07-16 03:34:10<br/>[<b>漏洞描述</b>] PDF-XChange Editor越界写入远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98840'>http://www.nsfocus.net/vulndb/98840</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-21687</font><br/>[<b>披露时间</b>] 2024-07-17 16:08:11<br/>[<b>漏洞描述</b>] Atlassian Bamboo Data Center And Server 需授权 文件包含漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11802'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11802</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
