@@ -1,25 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-1648</font><br/>[<b>披露时间</b>] 2024-07-18 07:32:06<br/>[<b>漏洞描述</b>] Electron-PDF跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/99000'>http://www.nsfocus.net/vulndb/99000</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-1608</font><br/>[<b>披露时间</b>] 2024-07-18 07:32:06<br/>[<b>漏洞描述</b>] OPPO Usercenter Credit SDK权限提升漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98999'>http://www.nsfocus.net/vulndb/98999</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-25604</font><br/>[<b>披露时间</b>] 2024-07-18 07:32:06<br/>[<b>漏洞描述</b>] Liferay Portal和Liferay DXP授权错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98998'>http://www.nsfocus.net/vulndb/98998</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-25605</font><br/>[<b>披露时间</b>] 2024-07-18 07:32:06<br/>[<b>漏洞描述</b>] Liferay Portal和Liferay DXP默认权限错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98997'>http://www.nsfocus.net/vulndb/98997</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-25606</font><br/>[<b>披露时间</b>] 2024-07-18 07:32:06<br/>[<b>漏洞描述</b>] Liferay Portal和Liferay DXP XML外部实体引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98996'>http://www.nsfocus.net/vulndb/98996</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-49250</font><br/>[<b>披露时间</b>] 2024-07-18 07:32:06<br/>[<b>漏洞描述</b>] Apache DolphinScheduler证书验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98995'>http://www.nsfocus.net/vulndb/98995</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6398</font><br/>[<b>披露时间</b>] 2024-07-18 07:32:06<br/>[<b>漏洞描述</b>] Zyxel多款产品命令注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98994'>http://www.nsfocus.net/vulndb/98994</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6399</font><br/>[<b>披露时间</b>] 2024-07-18 07:32:06<br/>[<b>漏洞描述</b>] Zyxel多款产品格式化字符串错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98993'>http://www.nsfocus.net/vulndb/98993</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-25149</font><br/>[<b>披露时间</b>] 2024-07-18 07:32:06<br/>[<b>漏洞描述</b>] Liferay Portal和Liferay DXP授权错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98992'>http://www.nsfocus.net/vulndb/98992</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-21892</font><br/>[<b>披露时间</b>] 2024-07-18 07:32:06<br/>[<b>漏洞描述</b>] Node.js权限提升漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98991'>http://www.nsfocus.net/vulndb/98991</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-5190</font><br/>[<b>披露时间</b>] 2024-07-18 07:32:06<br/>[<b>漏洞描述</b>] Liferay Portal和Liferay DXP开放重定向漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98990'>http://www.nsfocus.net/vulndb/98990</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-6764</font><br/>[<b>披露时间</b>] 2024-07-18 07:32:06<br/>[<b>漏洞描述</b>] Zyxel多款产品格式化字符串错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98989'>http://www.nsfocus.net/vulndb/98989</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-22019</font><br/>[<b>披露时间</b>] 2024-07-18 07:32:06<br/>[<b>漏洞描述</b>] Node.js拒绝服务漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98988'>http://www.nsfocus.net/vulndb/98988</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-25973</font><br/>[<b>披露时间</b>] 2024-07-18 07:32:06<br/>[<b>漏洞描述</b>] OpenOlat LMS跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98987'>http://www.nsfocus.net/vulndb/98987</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-44308</font><br/>[<b>披露时间</b>] 2024-07-18 07:32:06<br/>[<b>漏洞描述</b>] Liferay DXP开放重定向漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/98986'>http://www.nsfocus.net/vulndb/98986</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-20419</font><br/>[<b>披露时间</b>] 2024-07-18 16:40:42<br/>[<b>漏洞描述</b>] Cisco Smart Software Manager On-Prem 身份验证缺陷漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11809'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11809</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
