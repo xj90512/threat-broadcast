@@ -5,7 +5,7 @@
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-20419</font><br/>[<b>披露时间</b>] 2024-07-18 16:40:42<br/>[<b>漏洞描述</b>] Cisco Smart Software Manager On-Prem 身份验证缺陷漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11809'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11809</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-40629</font><br/>[<b>披露时间</b>] 2024-07-18 20:10:39<br/>[<b>漏洞描述</b>] JumpServer 需授权 文件写入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11814'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11814</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
