@@ -1,16 +1,14 @@
 
-<h3>发现最新漏洞情报<font color="red">6</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">4</font>条：</h3>
 <ul>
-    <li><font color="red">6</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
+    <li><font color="red">4</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-35265</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft多款产品存在检查时间与使用时间的竞争条件漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=26cc56f0-e925-437c-ac73-b310b035bb3e'>https://redqueen.tj-un.com/IntelDetails.html?id=26cc56f0-e925-437c-ac73-b310b035bb3e</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-35254</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft Azure_monitor_agent存在链接跟随漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=466729b0-1ee2-45c7-a5ec-c4942adb1464'>https://redqueen.tj-un.com/IntelDetails.html?id=466729b0-1ee2-45c7-a5ec-c4942adb1464</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-35252</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft Azure_storage_data_movement_library存在使用未维护的第三方组件漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=e5ab035e-5a0b-4c3c-8272-286dfabd2114'>https://redqueen.tj-un.com/IntelDetails.html?id=e5ab035e-5a0b-4c3c-8272-286dfabd2114</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-35249</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft Dynamics_365_business_central存在可信数据的反序列化漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=8ac2c295-c50d-422d-b0ce-c672fe157c3b'>https://redqueen.tj-un.com/IntelDetails.html?id=8ac2c295-c50d-422d-b0ce-c672fe157c3b</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-35248</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft Dynamics_365_business_central存在认证机制不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=bc0cda3f-8732-4a07-a75d-25f9313b1ee9'>https://redqueen.tj-un.com/IntelDetails.html?id=bc0cda3f-8732-4a07-a75d-25f9313b1ee9</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-30104</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft多款产品存在链接跟随漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=d6701b77-0ac4-4e55-884a-1d725af61365'>https://redqueen.tj-un.com/IntelDetails.html?id=d6701b77-0ac4-4e55-884a-1d725af61365</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-30103</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft多款产品存在不完整的黑名单漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=0015adcf-374d-4f5b-a708-627154ae6045'>https://redqueen.tj-un.com/IntelDetails.html?id=0015adcf-374d-4f5b-a708-627154ae6045</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-30102</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft 365_apps存在释放后使用漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=bbdda070-57b3-4173-b79d-12fb5985ec45'>https://redqueen.tj-un.com/IntelDetails.html?id=bbdda070-57b3-4173-b79d-12fb5985ec45</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-30101</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft多款产品存在释放后使用漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=68404166-cdac-4131-a2ca-e2755a654f32'>https://redqueen.tj-un.com/IntelDetails.html?id=68404166-cdac-4131-a2ca-e2755a654f32</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-30100</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft Sharepoint_server存在不可信的搜索路径漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=d851f9bf-ab94-4d06-a32d-7a4a1bb47d7a'>https://redqueen.tj-un.com/IntelDetails.html?id=d851f9bf-ab94-4d06-a32d-7a4a1bb47d7a</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
