@@ -5,8 +5,8 @@
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-07-22 16:01:33<br/>[<b>漏洞描述</b>] 泛微 E-Cology 任意文件写入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11845'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11845</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-07-22 16:01:33<br/>[<b>漏洞描述</b>] 用友U8 CRM import.php 未授权 任意文件上传漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11844'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11844</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-07-22 19:31:33<br/>[<b>漏洞描述</b>] 用友 U8Cloud ActionServlet 未授权 SQL注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11854'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11854</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-07-22 19:01:33<br/>[<b>漏洞描述</b>] 朗新天霁人力资源管理系统e-HR GetMessage 未授权 SQL注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11852'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11852</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
