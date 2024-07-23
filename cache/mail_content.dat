@@ -1,11 +1,14 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">2</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-1782</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Hashicorp Nomad存在授权机制缺失漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=f933942e-0566-4490-b0b0-afda1bfd99f2'>https://redqueen.tj-un.com/IntelDetails.html?id=f933942e-0566-4490-b0b0-afda1bfd99f2</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23321</font><br/>[<b>披露时间</b>] 2024-07-22 04:35:56<br/>[<b>漏洞描述</b>] Apache RocketMQ 敏感信息泄露漏洞（CVE-2024-23321）
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-23321'>https://avd.aliyun.com/detail?id=AVD-2024-23321</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-07-23 11:42:55<br/>[<b>漏洞描述</b>] 全息AI网络运维平台 ajax_cloud_router_config.php 未授权 命令执行漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11868'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11868</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
