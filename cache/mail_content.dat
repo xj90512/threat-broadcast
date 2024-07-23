@@ -1,19 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">9</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">9</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-07-23 10:43:13<br/>[<b>漏洞描述</b>] 创客 13星零售商城系统 未授权 SSRF漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11867'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11867</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-07-23 10:31:33<br/>[<b>漏洞描述</b>] 电信网关 del_file.php 未授权 命令执行漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11866'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11866</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-07-23 10:31:33<br/>[<b>漏洞描述</b>] 讯饶sunfull UpdateUser 任意用户添加漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11865'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11865</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-07-23 10:31:33<br/>[<b>漏洞描述</b>] 科荣 AIO moffice 未授权 SQL注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11864'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11864</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-07-23 10:31:33<br/>[<b>漏洞描述</b>] 锐明技术 Crocus-Download 未授权 任意文件读取漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11863'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11863</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-07-23 10:01:35<br/>[<b>漏洞描述</b>] FE企业运营管理平台 efficientCodewidget39 未授权 SQL注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11862'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11862</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-07-23 10:01:35<br/>[<b>漏洞描述</b>] 方正畅享全媒体新闻采编系统 binary.do 未授权 SQL注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11861'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11861</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-07-23 10:01:35<br/>[<b>漏洞描述</b>] 亿赛通电子文档安全管理系统 SaveCDGPermissionFromGFOA  未授权 SQL注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11860'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11860</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-07-23 10:01:34<br/>[<b>漏洞描述</b>] 科拓智能停车管理系统 WebService.asmx 文件上传漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11859'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11859</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-1782</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Hashicorp Nomad存在授权机制缺失漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=f933942e-0566-4490-b0b0-afda1bfd99f2'>https://redqueen.tj-un.com/IntelDetails.html?id=f933942e-0566-4490-b0b0-afda1bfd99f2</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
