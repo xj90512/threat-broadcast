@@ -5,7 +5,7 @@
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-07-24 17:01:35<br/>[<b>漏洞描述</b>] 智邦国际 ERP GetPersonalSealData.ashx 未授权 SQL注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11901'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11901</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-07-24 19:01:35<br/>[<b>漏洞描述</b>] 用友NC Cloud /service/sprmonitorservlet 未授权 反序列化漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11902'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11902</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
