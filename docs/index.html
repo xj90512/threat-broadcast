@@ -1,4 +1,4 @@
-<!-- RELEASE TIME : 2024-07-24 23:35:06 -->
+<!-- RELEASE TIME : 2024-07-25 03:36:39 -->
 <html lang="zh-cn">
 
  <head>
@@ -362,7 +362,7 @@
       <tr>
        <td scope="row">569811e5c89f522cd47c2df08e367208</td>
        <td>CVE-2024-7014</td>
-       <td>2024-07-23 10:15:02 <img src="imgs/new.gif" /></td>
+       <td>2024-07-23 10:15:02</td>
        <td>EvilVideo vulnerability allows sending malicious apps disguised as videos in Telegram for Android application affecting versions 10.14.4 and older.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-7014">详情</a></td>
       </tr>
@@ -370,7 +370,7 @@
       <tr>
        <td scope="row">e09cf23ea515e3734ae72129b4874f56</td>
        <td>CVE-2024-29070</td>
-       <td>2024-07-23 09:15:02 <img src="imgs/new.gif" /></td>
+       <td>2024-07-23 09:15:02</td>
        <td>On versions before 2.1.4, session is not invalidated after logout. When the user logged in successfully, the Backend service returns "Authorization" as the front-end authentication credential. "Authorization" can still initiate requests and access data even after logout. Mitigation: all users should upgrade to 2.1.4</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-29070">详情</a></td>
       </tr>
@@ -378,7 +378,7 @@
       <tr>
        <td scope="row">75acfb75217e95b7b085f5e21dcf560e</td>
        <td>CVE-2024-41012</td>
-       <td>2024-07-23 08:15:01 <img src="imgs/new.gif" /></td>
+       <td>2024-07-23 08:15:01</td>
        <td>In the Linux kernel, the following vulnerability has been resolved: filelock: Remove locks reliably when fcntl/close race is detected When fcntl_setlk() races with close(), it removes the created lock with do_lock_file_wait(). However, LSMs can allow the first do_lock_file_wait() that created the lock while denying the second do_lock_file_wait() that tries to remove the lock. Separately, posix_lock_file() could also fail to remove a lock due to GFP_KERNEL allocation failure (when splitting a range in the middle). After the bug has been triggered, use-after-free reads will occur in lock_get_status() when userspace reads /proc/locks. This can likely be used to read arbitrary kernel memory, but can't corrupt kernel memory. Fix it by calling locks_remove_posix() instead, which is designed to reliably get rid of POSIX locks associated with the given file and files_struct and is also used by filp_flush().</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-41012">详情</a></td>
       </tr>
@@ -386,7 +386,7 @@
       <tr>
        <td scope="row">203909ad892353c224e0547f0f1377fd</td>
        <td>CVE-2024-6420</td>
-       <td>2024-07-23 06:15:11 <img src="imgs/new.gif" /></td>
+       <td>2024-07-23 06:15:11</td>
        <td>The Hide My WP Ghost WordPress plugin before 5.2.02 does not prevent redirects to the login page via the auth_redirect WordPress function, allowing an unauthenticated visitor to access the hidden login page.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-6420">详情</a></td>
       </tr>
@@ -394,7 +394,7 @@
       <tr>
        <td scope="row">1ac03f4bf25586168ac4517c315b23ce</td>
        <td>CVE-2024-6231</td>
-       <td>2024-07-23 06:15:11 <img src="imgs/new.gif" /></td>
+       <td>2024-07-23 06:15:11</td>
        <td>The Request a Quote WordPress plugin before 2.4.1 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup)</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-6231">详情</a></td>
       </tr>
@@ -402,7 +402,7 @@
       <tr>
        <td scope="row">c9a654c3d61589a22c9afe45de4be8c6</td>
        <td>CVE-2024-4260</td>
-       <td>2024-07-23 06:15:09 <img src="imgs/new.gif" /></td>
+       <td>2024-07-23 06:15:09</td>
        <td>The Page Builder Gutenberg Blocks WordPress plugin before 3.1.12 does not prevent users from pinging arbitrary hosts via some of its shortcodes, which could allow high privilege users such as contributors to perform SSRF attacks.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-4260">详情</a></td>
       </tr>
@@ -410,7 +410,7 @@
       <tr>
        <td scope="row">dbec8e3dd3e6e8e58f591e546ba33c3f</td>
        <td>CVE-2024-6885</td>
-       <td>2024-07-23 02:15:02 <img src="imgs/new.gif" /></td>
+       <td>2024-07-23 02:15:02</td>
        <td>The MaxiBlocks: 2200+ Patterns, 190 Pages, 14.2K Icons & 100 Styles plugin for WordPress is vulnerable to arbitrary file deletion due to insufficient file path validation in the maxi_remove_custom_image_size and maxi_add_custom_image_size functions in all versions up to, and including, 1.9.2. This makes it possible for authenticated attackers, with Subscriber-level access and above, to delete arbitrary files on the server, which can easily lead to remote code execution when the right file is deleted (such as wp-config.php).</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-6885">详情</a></td>
       </tr>
@@ -418,7 +418,7 @@
       <tr>
        <td scope="row">a1b5e55ea1b885e0ecf2a1a87cf36f10</td>
        <td>CVE-2024-6828</td>
-       <td>2024-07-23 02:15:02 <img src="imgs/new.gif" /></td>
+       <td>2024-07-23 02:15:02</td>
        <td>The Redux Framework plugin for WordPress is vulnerable to unauthenticated JSON file uploads due to missing authorization and capability checks on the Redux_Color_Scheme_Import function in versions 4.4.12 to 4.4.17. This makes it possible for unauthenticated attackers to upload JSON files, which can be used to conduct stored cross-site scripting attacks and, in some rare cases, when the wp_filesystem fails to initialize - to Remote Code Execution.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-6828">详情</a></td>
       </tr>
@@ -426,7 +426,7 @@
       <tr>
        <td scope="row">89307633af29482b346be4fe89e63a93</td>
        <td>CVE-2024-1575</td>
-       <td>2024-07-23 02:15:02 <img src="imgs/new.gif" /></td>
+       <td>2024-07-23 02:15:02</td>
        <td>The improper privilege management vulnerability in the Zyxel WBE660S firmware version 6.70(ACGG.3) and earlier versions could allow an authenticated user to escalate privileges and download the configuration files on a vulnerable device.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-1575">详情</a></td>
       </tr>
@@ -434,7 +434,7 @@
       <tr>
        <td scope="row">32547bc3668de451e0ceff4f451c9041</td>
        <td>CVE-2024-6717</td>
-       <td>2024-07-23 01:15:09 <img src="imgs/new.gif" /></td>
+       <td>2024-07-23 01:15:09</td>
        <td>HashiCorp Nomad and Nomad Enterprise 1.6.12 up to 1.7.9, and 1.8.1 archive unpacking during migration is vulnerable to path escaping of the allocation directory. This vulnerability, CVE-2024-6717, is fixed in Nomad 1.6.13, 1.7.10, and 1.8.2.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-6717">详情</a></td>
       </tr>
@@ -1526,7 +1526,7 @@
       <tr>
        <td scope="row">b87023bd3eee38431d609bac7d4a18ef</td>
        <td></td>
-       <td>2024-07-23 18:31:47 <img src="imgs/new.gif" /></td>
+       <td>2024-07-23 18:31:47</td>
        <td>泛微 E-office10 leave_record.php 未授权 SQL注入漏洞</td>
        <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11885">详情</a></td>
       </tr>
@@ -1534,7 +1534,7 @@
       <tr>
        <td scope="row">4ae02d40ca9d084872256a31d8dfeaa3</td>
        <td></td>
-       <td>2024-07-23 18:12:55 <img src="imgs/new.gif" /></td>
+       <td>2024-07-23 18:12:55</td>
        <td>广联达OA  ArchiveWebService 未授权 XML外部实体注入漏洞</td>
        <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11884">详情</a></td>
       </tr>
@@ -1542,7 +1542,7 @@
       <tr>
        <td scope="row">23e746da8008fd17379382b2560baac9</td>
        <td></td>
-       <td>2024-07-23 18:12:55 <img src="imgs/new.gif" /></td>
+       <td>2024-07-23 18:12:55</td>
        <td>致远互联 AnalyticsCloud分析云 未授权 任意文件读取漏洞</td>
        <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11883">详情</a></td>
       </tr>
@@ -1550,7 +1550,7 @@
       <tr>
        <td scope="row">40c4f5a2545525ef10a93a9f1e7893e5</td>
        <td></td>
-       <td>2024-07-23 17:12:55 <img src="imgs/new.gif" /></td>
+       <td>2024-07-23 17:12:55</td>
        <td>通天星 CMSV6车载定位监控平台 disable SQL注入漏洞</td>
        <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11876">详情</a></td>
       </tr>
@@ -1558,7 +1558,7 @@
       <tr>
        <td scope="row">c30e47b693b8fe72e0ca5b4de23d66b8</td>
        <td></td>
-       <td>2024-07-23 16:42:55 <img src="imgs/new.gif" /></td>
+       <td>2024-07-23 16:42:55</td>
        <td>泛微 E-Cology WorkPlanService 未授权 SQL注入漏洞</td>
        <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11875">详情</a></td>
       </tr>
@@ -1566,7 +1566,7 @@
       <tr>
        <td scope="row">baa4bb46fa384c2afe08297e1414780d</td>
        <td></td>
-       <td>2024-07-23 14:42:55 <img src="imgs/new.gif" /></td>
+       <td>2024-07-23 14:42:55</td>
        <td>大华 DSS 数字监控系统 user_edit.action 信息泄露漏洞</td>
        <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11874">详情</a></td>
       </tr>
@@ -1574,7 +1574,7 @@
       <tr>
        <td scope="row">73e556b9d3c46b5c9a28a0c6e10d760c</td>
        <td></td>
-       <td>2024-07-23 14:12:55 <img src="imgs/new.gif" /></td>
+       <td>2024-07-23 14:12:55</td>
        <td>用友 用友智石开PLM 信息泄露漏洞</td>
        <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11871">详情</a></td>
       </tr>
@@ -1582,7 +1582,7 @@
       <tr>
        <td scope="row">2ba7a6693c55246af35d627f2875cdc4</td>
        <td></td>
-       <td>2024-07-23 11:42:55 <img src="imgs/new.gif" /></td>
+       <td>2024-07-23 11:42:55</td>
        <td>全息AI网络运维平台 ajax_cloud_router_config.php 未授权 命令执行漏洞</td>
        <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11868">详情</a></td>
       </tr>
@@ -1590,7 +1590,7 @@
       <tr>
        <td scope="row">f72825e21e2c0eade9c993d5aca221e0</td>
        <td></td>
-       <td>2024-07-23 10:43:13 <img src="imgs/new.gif" /></td>
+       <td>2024-07-23 10:43:13</td>
        <td>创客 13星零售商城系统 未授权 SSRF漏洞</td>
        <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11867">详情</a></td>
       </tr>
@@ -1598,7 +1598,7 @@
       <tr>
        <td scope="row">50798af1249958c0e937ecd4d875b2c7</td>
        <td></td>
-       <td>2024-07-23 10:31:33 <img src="imgs/new.gif" /></td>
+       <td>2024-07-23 10:31:33</td>
        <td>电信网关 del_file.php 未授权 命令执行漏洞</td>
        <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11866">详情</a></td>
       </tr>
@@ -1606,7 +1606,7 @@
       <tr>
        <td scope="row">3e4f7931d0210781ada9052344ddbc49</td>
        <td></td>
-       <td>2024-07-23 10:31:33 <img src="imgs/new.gif" /></td>
+       <td>2024-07-23 10:31:33</td>
        <td>讯饶sunfull UpdateUser 任意用户添加漏洞</td>
        <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11865">详情</a></td>
       </tr>
@@ -1614,7 +1614,7 @@
       <tr>
        <td scope="row">bc65b057f594a31442129b48cb2b9e89</td>
        <td></td>
-       <td>2024-07-23 10:31:33 <img src="imgs/new.gif" /></td>
+       <td>2024-07-23 10:31:33</td>
        <td>科荣 AIO moffice 未授权 SQL注入漏洞</td>
        <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11864">详情</a></td>
       </tr>
@@ -1622,7 +1622,7 @@
       <tr>
        <td scope="row">0e55b07295b2c241aaf08146fcc639c1</td>
        <td></td>
-       <td>2024-07-23 10:31:33 <img src="imgs/new.gif" /></td>
+       <td>2024-07-23 10:31:33</td>
        <td>锐明技术 Crocus-Download 未授权 任意文件读取漏洞</td>
        <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11863">详情</a></td>
       </tr>
@@ -1630,7 +1630,7 @@
       <tr>
        <td scope="row">8428f7538c5356ecb3a43341ad170bd1</td>
        <td></td>
-       <td>2024-07-23 10:01:35 <img src="imgs/new.gif" /></td>
+       <td>2024-07-23 10:01:35</td>
        <td>FE企业运营管理平台 efficientCodewidget39 未授权 SQL注入漏洞</td>
        <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11862">详情</a></td>
       </tr>
@@ -1638,7 +1638,7 @@
       <tr>
        <td scope="row">9bd83c17ff776a6b5097518d81c1d32f</td>
        <td></td>
-       <td>2024-07-23 10:01:35 <img src="imgs/new.gif" /></td>
+       <td>2024-07-23 10:01:35</td>
        <td>方正畅享全媒体新闻采编系统 binary.do 未授权 SQL注入漏洞</td>
        <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11861">详情</a></td>
       </tr>
@@ -1646,7 +1646,7 @@
       <tr>
        <td scope="row">023601f34a4ff3450543a5cb9b463a14</td>
        <td></td>
-       <td>2024-07-23 10:01:35 <img src="imgs/new.gif" /></td>
+       <td>2024-07-23 10:01:35</td>
        <td>亿赛通电子文档安全管理系统 SaveCDGPermissionFromGFOA  未授权 SQL注入漏洞</td>
        <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11860">详情</a></td>
       </tr>
@@ -1654,7 +1654,7 @@
       <tr>
        <td scope="row">dd6099c91fac13802b6e9ad3c233ecfe</td>
        <td></td>
-       <td>2024-07-23 10:01:34 <img src="imgs/new.gif" /></td>
+       <td>2024-07-23 10:01:34</td>
        <td>科拓智能停车管理系统 WebService.asmx 文件上传漏洞</td>
        <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11859">详情</a></td>
       </tr>
@@ -2785,6 +2785,15 @@
       </tr>
 
       <tr>
+       <td scope="row">04f2c374b4287db4e83abc21ba4a4367</td>
+       <td>CVE-2024-36412</td>
+       <td>2024-06-11 03:34:33</td>
+       <td>SuiteCRM delegate SQL注入漏洞（CVE-2024-36412）
+                        </td>
+       <td><a target="_blank" href="https://avd.aliyun.com/detail?id=AVD-2024-36412">详情</a></td>
+      </tr>
+
+      <tr>
        <td scope="row">d09f40626812bb1b92b6b52d012881a8</td>
        <td>CVE-2024-4577</td>
        <td>2024-06-07 07:32:08</td>
@@ -2980,15 +2989,6 @@
        <td>Apache HugeGraph-Server <1.3.0 Gremlin命令执行漏洞（CVE-2024-27348）
                         </td>
        <td><a target="_blank" href="https://avd.aliyun.com/detail?id=AVD-2024-27348">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">e250eb369baeee310f5fef820f042ff3</td>
-       <td>AVD-2024-1719112</td>
-       <td>2024-04-17 10:33:15</td>
-       <td>kkFileView 任意文件上传致远程代码执行漏洞
-                        </td>
-       <td><a target="_blank" href="https://avd.aliyun.com/detail?id=AVD-2024-1719112">详情</a></td>
       </tr>
 
      </tbody>
