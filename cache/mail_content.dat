@@ -5,7 +5,7 @@
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-5585</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Php等厂商的多款产品存在输出编码或转义不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=1c13bd24-3f9c-4585-a43a-0ac643c308ca'>https://redqueen.tj-un.com/IntelDetails.html?id=1c13bd24-3f9c-4585-a43a-0ac643c308ca</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2006-5051</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Openbsd等厂商的多款产品存在双重释放漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=c2137843-72c1-43d7-9d63-c2a1b1d5c55d'>https://redqueen.tj-un.com/IntelDetails.html?id=c2137843-72c1-43d7-9d63-c2a1b1d5c55d</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
