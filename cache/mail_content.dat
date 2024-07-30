@@ -1,12 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">2</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">2</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-38823</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Tenda多款产品存在经典缓冲区溢出漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=93fd3a59-ebea-4b4d-962b-6a2f0df1f221'>https://redqueen.tj-un.com/IntelDetails.html?id=93fd3a59-ebea-4b4d-962b-6a2f0df1f221</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-42931</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Apple Macos存在不充分权限或特权的处理不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=459688a6-1cc6-4078-9ced-711dad158158'>https://redqueen.tj-un.com/IntelDetails.html?id=459688a6-1cc6-4078-9ced-711dad158158</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-07-30 14:01:33<br/>[<b>漏洞描述</b>] 北京数字认证 BJCA电子印章签属系统 需授权 模板注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12014'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12014</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
