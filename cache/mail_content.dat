@@ -5,7 +5,7 @@
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-07-24 19:01:35<br/>[<b>漏洞描述</b>] 用友 NCCloud /service/sprmonitorservlet 存在反序列化代码执行漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11902'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=11902</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-07-31 16:01:36<br/>[<b>漏洞描述</b>] 海康威视 综合安防管理平台 licenseExpire 未授权 命令注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12051'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12051</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
