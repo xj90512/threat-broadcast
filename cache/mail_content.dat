@@ -1,12 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">2</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">2</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-05 18:31:34<br/>[<b>漏洞描述</b>] 泛微 E-Bridge addResume 未授权 文件上传限制不当漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12112'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12112</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-05 18:01:34<br/>[<b>漏洞描述</b>] 海康威视 安防综合管理平台 IVMS8700 IWsBaseServiceHttpSoap11Endpoint 访问控制不当漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12111'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12111</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-05 19:01:34<br/>[<b>漏洞描述</b>] 启明星辰 天清汉马VPN download 未授权 路径遍历漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12113'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12113</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
