@@ -5,7 +5,7 @@
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-06 16:31:32<br/>[<b>漏洞描述</b>] 普华 PowerPMS APPGetUser 未授权 SQL注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12131'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12131</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-06 17:31:33<br/>[<b>漏洞描述</b>] 苏州梓川信息科技 PEPM平台 Auth 未授权 反序列化漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12132'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12132</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
