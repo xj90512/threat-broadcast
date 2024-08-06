@@ -5,7 +5,7 @@
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-38856</font><br/>[<b>披露时间</b>] 2024-08-05 17:01:35<br/>[<b>漏洞描述</b>] Apache OFBiz /webtools/control/main/ProgramExport 存在代码注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12108'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12108</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-05 18:01:34<br/>[<b>漏洞描述</b>] Hikvision 综合安防管理平台 /services/IWsBaseService.IWsBaseServiceHttpSoap11Endpoint 存在访问控制不当漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12111'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12111</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
