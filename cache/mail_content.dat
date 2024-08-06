@@ -1,12 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">2</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">2</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-06 15:31:33<br/>[<b>漏洞描述</b>] 同享软件 人力管理管理平台 EmployeeInfoService.asmx 未授权 SQL注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12130'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12130</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-06 15:01:33<br/>[<b>漏洞描述</b>] 上海建业信息科技 章管家 saveUser.htm 未授权 任意用户创建漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12129'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12129</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-06 16:31:32<br/>[<b>漏洞描述</b>] 普华 PowerPMS APPGetUser 未授权 SQL注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12131'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12131</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
