@@ -5,7 +5,7 @@
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-07 10:31:33<br/>[<b>漏洞描述</b>] 易捷 OA协同办公软件 ShowPic 未授权 任意文件读取漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12135'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12135</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-07 15:01:32<br/>[<b>漏洞描述</b>] 亿赛通 电子文档安全管理系统 CDGAuthoriseTempletSemice1 未授权 SQL注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12136'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12136</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
