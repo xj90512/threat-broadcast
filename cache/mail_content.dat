@@ -1,20 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">10</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">10</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-4936</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Canto存在安全漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=aa43750d-8eac-4283-bbb9-19a78885b9a5'>https://redqueen.tj-un.com/IntelDetails.html?id=aa43750d-8eac-4283-bbb9-19a78885b9a5</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2013-6276</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Qnap多款产品存在使用硬编码的凭证漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=4f9d95f8-26ac-4e0d-96aa-c0ca19a22e57'>https://redqueen.tj-un.com/IntelDetails.html?id=4f9d95f8-26ac-4e0d-96aa-c0ca19a22e57</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7443</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Vivotek多款产品存在命令注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=5df78122-bdc3-4c76-982a-2753bf38b606'>https://redqueen.tj-un.com/IntelDetails.html?id=5df78122-bdc3-4c76-982a-2753bf38b606</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7439</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Vivotek多款产品存在内存缓冲区边界内操作的限制不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=cb3981a8-5a8f-4c7b-b99d-1500b12bc3f0'>https://redqueen.tj-un.com/IntelDetails.html?id=cb3981a8-5a8f-4c7b-b99d-1500b12bc3f0</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7440</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Vivotek多款产品存在命令注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=6e7a9e0b-d75c-4ce3-89d5-e55331fe84f1'>https://redqueen.tj-un.com/IntelDetails.html?id=6e7a9e0b-d75c-4ce3-89d5-e55331fe84f1</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7442</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Vivotek多款产品存在命令注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=5a82c016-54e9-4550-a818-277ab591abb8'>https://redqueen.tj-un.com/IntelDetails.html?id=5a82c016-54e9-4550-a818-277ab591abb8</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7441</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Vivotek多款产品存在内存缓冲区边界内操作的限制不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=3a9eeca5-ac62-4d5b-879c-956620dd9f89'>https://redqueen.tj-un.com/IntelDetails.html?id=3a9eeca5-ac62-4d5b-879c-956620dd9f89</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7470</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Raisecom多款产品存在OS命令注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=4311b48a-9290-4ea6-9330-aba6bf231b49'>https://redqueen.tj-un.com/IntelDetails.html?id=4311b48a-9290-4ea6-9330-aba6bf231b49</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7469</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Raisecom多款产品存在OS命令注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=74b8e1c3-f7ce-4e4a-8b46-fc3b2fc2f925'>https://redqueen.tj-un.com/IntelDetails.html?id=74b8e1c3-f7ce-4e4a-8b46-fc3b2fc2f925</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7468</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Raisecom多款产品存在OS命令注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=a05be191-e14f-47fc-8eed-c7140d838165'>https://redqueen.tj-un.com/IntelDetails.html?id=a05be191-e14f-47fc-8eed-c7140d838165</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-07 10:31:33<br/>[<b>漏洞描述</b>] 易捷 OA协同办公软件 ShowPic 未授权 任意文件读取漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12135'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12135</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
