@@ -5,7 +5,7 @@
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-43044</font><br/>[<b>披露时间</b>] 2024-08-08 15:31:34<br/>[<b>漏洞描述</b>] Jenkins Remote 任意文件读取漏洞 可导致远程代码执行<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12205'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12205</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-07 15:01:32<br/>[<b>漏洞描述</b>] 亿赛通 电子文档安全管理系统 CDGAuthoriseTempletSemice1 存在SQL注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12136'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12136</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
