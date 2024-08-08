@@ -5,7 +5,7 @@
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-05 18:31:34<br/>[<b>漏洞描述</b>] 泛微 云桥e-Bridge /wxclient/app/recruit/resume/addResume 存在文件上传漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12112'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12112</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-37287</font><br/>[<b>披露时间</b>] 2024-08-08 11:01:34<br/>[<b>漏洞描述</b>] Elastic Kibana 需授权 原型污染漏洞 可导致任意代码执行<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12190'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12190</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
