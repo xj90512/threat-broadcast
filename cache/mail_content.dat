@@ -1,20 +1,12 @@
 
-<h3>发现最新漏洞情报<font color="red">10</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">10</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7117</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Mdmafujulhasan Online-payroll-management-system存在SQL注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=3529d803-6ea4-4f9e-842d-265466480f05'>https://redqueen.tj-un.com/IntelDetails.html?id=3529d803-6ea4-4f9e-842d-265466480f05</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7116</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Mdmafujulhasan Online-payroll-management-system存在SQL注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=0099fbf3-18e5-4886-8b54-4fd89a98d4f7'>https://redqueen.tj-un.com/IntelDetails.html?id=0099fbf3-18e5-4886-8b54-4fd89a98d4f7</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7115</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Mdmafujulhasan Online-payroll-management-system存在SQL注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=c71f17ad-5c65-4ac3-89b4-2a1931f68d18'>https://redqueen.tj-un.com/IntelDetails.html?id=c71f17ad-5c65-4ac3-89b4-2a1931f68d18</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7118</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Mdmafujulhasan Online-payroll-management-system存在SQL注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=c48ef3b5-29d4-4e15-b939-a9881a34d8c1'>https://redqueen.tj-un.com/IntelDetails.html?id=c48ef3b5-29d4-4e15-b939-a9881a34d8c1</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7119</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Mdmafujulhasan Online-payroll-management-system存在SQL注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=83f5f3c7-0547-4251-962b-99955a25398d'>https://redqueen.tj-un.com/IntelDetails.html?id=83f5f3c7-0547-4251-962b-99955a25398d</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-37334</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft多款产品存在堆缓冲区溢出漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=8e7ab9c1-eba6-4d0c-b945-58628f4af813'>https://redqueen.tj-un.com/IntelDetails.html?id=8e7ab9c1-eba6-4d0c-b945-58628f4af813</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-35271</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft多款产品存在堆缓冲区溢出漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=bebb5aca-6344-4520-b054-25495e51729e'>https://redqueen.tj-un.com/IntelDetails.html?id=bebb5aca-6344-4520-b054-25495e51729e</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-35256</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft多款产品存在堆缓冲区溢出漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=cc44e987-db15-4021-8f55-3c5af9283f10'>https://redqueen.tj-un.com/IntelDetails.html?id=cc44e987-db15-4021-8f55-3c5af9283f10</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-21449</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft多款产品存在堆缓冲区溢出漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=67aca430-08e6-47fc-8949-816977930539'>https://redqueen.tj-un.com/IntelDetails.html?id=67aca430-08e6-47fc-8949-816977930539</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-20701</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft多款产品存在堆缓冲区溢出漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=47a60f1a-a206-4188-82fa-9074de67cbf7'>https://redqueen.tj-un.com/IntelDetails.html?id=47a60f1a-a206-4188-82fa-9074de67cbf7</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-38077</font><br/>[<b>披露时间</b>] 2024-07-09 05:35:50<br/>[<b>漏洞描述</b>] Windows 远程桌面授权服务 远程代码执行漏洞
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-38077'>https://avd.aliyun.com/detail?id=AVD-2024-38077</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
