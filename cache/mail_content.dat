@@ -1,11 +1,14 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">4</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
+    <li><font color="red">4</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-12 17:01:37<br/>[<b>漏洞描述</b>] 用友 U8+CRM 未授权 命令注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12241'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12241</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-38077</font><br/>[<b>披露时间</b>] 2024-08-12 17:43:04<br/>[<b>漏洞描述</b>] Microsoft Windows 远程桌面许可管理服务 缓冲区溢出漏洞 可致远程代码执行<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12245'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12245</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-12 17:43:03<br/>[<b>漏洞描述</b>] 科讯 校园一卡通管理系统 dormitoryHealthRanking 未授权 SQL注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12244'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12244</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-12 17:43:02<br/>[<b>漏洞描述</b>] 亘岩网络 契约锁子签章系统 edits 代码注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12243'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12243</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-12 17:43:02<br/>[<b>漏洞描述</b>] 科讯 一卡通管理系统 get_kq_tj_today 未授权 SQL注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12242'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12242</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
