@@ -5,7 +5,7 @@
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-13 15:31:34<br/>[<b>漏洞描述</b>] 亿赛通 电子文档安全管理系统 SecureUsbConnection 未授权 反序列化漏洞 可导致远程代码执行<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12271'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12271</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-38077</font><br/>[<b>披露时间</b>] 2024-08-12 17:43:04<br/>[<b>漏洞描述</b>] Microsoft Windows远程桌面许可管理服务 存在缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12245'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12245</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
