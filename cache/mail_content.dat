@@ -1,14 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">4</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">4</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-14 15:31:36<br/>[<b>漏洞描述</b>] 亿赛通 电子文档安全管理系统 DecryptionApp 未授权 反序列化漏洞 可导致远程代码执行<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12293'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12293</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-14 15:31:36<br/>[<b>漏洞描述</b>] 亿赛通 电子文档安全管理系统 docRenewApp 未授权 反序列化漏洞 可导致远程代码执行<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12292'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12292</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-22116</font><br/>[<b>披露时间</b>] 2024-08-14 15:31:35<br/>[<b>漏洞描述</b>] Zabbix 需授权 代码注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12291'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12291</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-14 15:31:33<br/>[<b>漏洞描述</b>] 亿赛通 电子文档安全管理系统 SecretKeyService 未授权 SQL注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12290'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12290</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-14 16:01:33<br/>[<b>漏洞描述</b>] 泛微 E-Cology 身份验证缺陷漏洞 可致越权登录<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12294'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12294</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
