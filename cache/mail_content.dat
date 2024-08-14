@@ -1,11 +1,12 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">2</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
+    <li><font color="red">2</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-14 16:01:33<br/>[<b>漏洞描述</b>] 泛微 E-Cology 身份验证缺陷漏洞 可致越权登录<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12294'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12294</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-38178</font><br/>[<b>披露时间</b>] 2024-08-14 18:31:36<br/>[<b>漏洞描述</b>] Microsoft Edge 脚本引擎 缓冲区操作限制不当漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12296'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12296</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-38063</font><br/>[<b>披露时间</b>] 2024-08-14 18:31:36<br/>[<b>漏洞描述</b>] Windows TCP/IP 整数溢出漏洞 可致远程代码执行<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12295'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12295</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
