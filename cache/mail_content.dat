@@ -1,11 +1,20 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">10</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
+    <li><font color="red">10</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-15 18:42:21<br/>[<b>漏洞描述</b>] 宝兰德软件 BES管理控制台 ejb 未授权 反序列化漏洞 可致远程代码执行<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12310'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12310</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-42944</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Tenda多款产品存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=5b472397-eeaa-4fa6-8579-98124f96b279'>https://redqueen.tj-un.com/IntelDetails.html?id=5b472397-eeaa-4fa6-8579-98124f96b279</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-36604</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Tendacn多款产品存在命令注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=7955684a-bffc-4d25-b3e2-c8c5e2a3bac2'>https://redqueen.tj-un.com/IntelDetails.html?id=7955684a-bffc-4d25-b3e2-c8c5e2a3bac2</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-29052</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft多款产品存在特权管理不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=f8706653-e9e9-44cd-9755-724f37022301'>https://redqueen.tj-un.com/IntelDetails.html?id=f8706653-e9e9-44cd-9755-724f37022301</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-42940</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Tenda多款产品存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=38a7b34a-c839-412f-9ff3-6269901d656d'>https://redqueen.tj-un.com/IntelDetails.html?id=38a7b34a-c839-412f-9ff3-6269901d656d</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-42941</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Tenda多款产品存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=074e63a6-ce9c-462f-a2e5-492326f3e472'>https://redqueen.tj-un.com/IntelDetails.html?id=074e63a6-ce9c-462f-a2e5-492326f3e472</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-42943</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Tenda多款产品存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=9b0f7aa7-f56f-4fb2-9d32-397ecc93adc8'>https://redqueen.tj-un.com/IntelDetails.html?id=9b0f7aa7-f56f-4fb2-9d32-397ecc93adc8</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-42946</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Tenda多款产品存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=0f76c0c9-6048-44e8-a5d1-1a79d890fbdd'>https://redqueen.tj-un.com/IntelDetails.html?id=0f76c0c9-6048-44e8-a5d1-1a79d890fbdd</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-42948</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Tenda多款产品存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=b441b6df-7082-46a4-94f8-18b3cd0f0a83'>https://redqueen.tj-un.com/IntelDetails.html?id=b441b6df-7082-46a4-94f8-18b3cd0f0a83</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-42950</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Tenda多款产品存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=fef804a0-11fb-4658-9695-183950870936'>https://redqueen.tj-un.com/IntelDetails.html?id=fef804a0-11fb-4658-9695-183950870936</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-42951</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Tenda多款产品存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=8d7eb37e-f174-47ae-8ff0-9a154b39becf'>https://redqueen.tj-un.com/IntelDetails.html?id=8d7eb37e-f174-47ae-8ff0-9a154b39becf</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
