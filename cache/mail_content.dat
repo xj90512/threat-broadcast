@@ -1,11 +1,13 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">3</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
+    <li><font color="red">3</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-19 16:31:44<br/>[<b>漏洞描述</b>] 红海云 eHR /RedseaPlatform/goApp/pc.mob 存在SQL注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12354'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12354</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-20 15:31:44<br/>[<b>漏洞描述</b>] 东华医疗 协同办公系统 templateFile 未授权 任意文件读取漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12371'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12371</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-20 15:31:44<br/>[<b>漏洞描述</b>] 方天科技 方天云智慧平台系统 setImg.ashx 未授权 任意文件上传漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12370'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12370</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-20 15:31:44<br/>[<b>漏洞描述</b>] 方正信息 畅享全媒体新闻采编系统 syn.do 未授权 敏感信息泄露漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12369'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12369</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
