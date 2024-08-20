@@ -1,11 +1,11 @@
 
 <h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2020-27792</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Artifex等厂商的多款产品存在内存缓冲区边界内操作的限制不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=7b6d90a9-f53e-466e-a6b0-c16ccad20225'>https://redqueen.tj-un.com/IntelDetails.html?id=7b6d90a9-f53e-466e-a6b0-c16ccad20225</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-19 16:31:44<br/>[<b>漏洞描述</b>] 红海云 eHR /RedseaPlatform/goApp/pc.mob 存在SQL注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12354'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12354</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
