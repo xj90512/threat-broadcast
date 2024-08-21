@@ -5,7 +5,7 @@
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-21 12:01:44<br/>[<b>漏洞描述</b>] Alibaba Nacos Jraft 未授权 任意文件写入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12408'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12408</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-08-21 16:31:36<br/>[<b>漏洞描述</b>] 乐享 智能运维管理平台 getToken 未授权 SQL注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12423'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12423</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
