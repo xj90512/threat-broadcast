@@ -1,12 +1,16 @@
 
-<h3>发现最新漏洞情报<font color="red">2</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">6</font>条：</h3>
 <ul>
-    <li><font color="red">2</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
+    <li><font color="red">6</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-41831</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Adobe多款产品存在释放后使用漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=bee36497-114f-46ba-9941-ffae3a576863'>https://redqueen.tj-un.com/IntelDetails.html?id=bee36497-114f-46ba-9941-ffae3a576863</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-42633</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Linksys E1500_firmware存在OS命令注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=cd4e6872-98e8-45cb-ad67-13a4c2e38093'>https://redqueen.tj-un.com/IntelDetails.html?id=cd4e6872-98e8-45cb-ad67-13a4c2e38093</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-38120</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft多款产品存在堆缓冲区溢出漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=a0eee616-7b0a-439d-8744-f665ad52798c'>https://redqueen.tj-un.com/IntelDetails.html?id=a0eee616-7b0a-439d-8744-f665ad52798c</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-38211</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft Dynamics_365存在跨站脚本漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=38f11eb9-1fbb-4a41-b978-86ff540b851f'>https://redqueen.tj-un.com/IntelDetails.html?id=38f11eb9-1fbb-4a41-b978-86ff540b851f</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-38195</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft Azure_cyclecloud存在访问控制不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=e8b382d3-b9bb-408f-9e78-21dd363bac95'>https://redqueen.tj-un.com/IntelDetails.html?id=e8b382d3-b9bb-408f-9e78-21dd363bac95</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-38189</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft多款产品存在输入验证不恰当漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=8cec4a29-de3e-4fef-9830-2df4f3ebb7e1'>https://redqueen.tj-un.com/IntelDetails.html?id=8cec4a29-de3e-4fef-9830-2df4f3ebb7e1</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-38187</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft多款产品存在非可信指针解引用漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=e5087f0d-f8f9-4aa6-b6d4-e67831775b28'>https://redqueen.tj-un.com/IntelDetails.html?id=e5087f0d-f8f9-4aa6-b6d4-e67831775b28</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-38186</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Microsoft多款产品存在检查时间与使用时间的竞争条件漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=bddf3158-943e-4797-94ab-330512414806'>https://redqueen.tj-un.com/IntelDetails.html?id=bddf3158-943e-4797-94ab-330512414806</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
