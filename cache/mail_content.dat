@@ -1,20 +1,12 @@
 
-<h3>发现最新漏洞情报<font color="red">10</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">10</font>条由 [<a href="https://redqueen.tj-un.com/IntelHome.html">红后</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-41700</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Barix Sip_client_firmware存在信息暴露漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=95c8998b-8735-48d9-8bca-5e954ad32029'>https://redqueen.tj-un.com/IntelDetails.html?id=95c8998b-8735-48d9-8bca-5e954ad32029</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-42941</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Tenda Fh1201_firmware存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=074e63a6-ce9c-462f-a2e5-492326f3e472'>https://redqueen.tj-un.com/IntelDetails.html?id=074e63a6-ce9c-462f-a2e5-492326f3e472</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-42940</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Tenda Fh1201_firmware存在跨界内存写漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=38a7b34a-c839-412f-9ff3-6269901d656d'>https://redqueen.tj-un.com/IntelDetails.html?id=38a7b34a-c839-412f-9ff3-6269901d656d</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-48060</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Dreamer_cms_project Dreamer_cms存在跨站请求伪造漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=f7b3333c-60c4-4169-b127-b1d46c740a34'>https://redqueen.tj-un.com/IntelDetails.html?id=f7b3333c-60c4-4169-b127-b1d46c740a34</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-48058</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Dreamer_cms_project Dreamer_cms存在跨站请求伪造漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=b4292b71-511d-40d8-abe7-889adbfd1e56'>https://redqueen.tj-un.com/IntelDetails.html?id=b4292b71-511d-40d8-abe7-889adbfd1e56</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-37117</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Live555存在释放后使用漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=65ba1415-cc38-4ab4-82f9-ebcdfeb789c7'>https://redqueen.tj-un.com/IntelDetails.html?id=65ba1415-cc38-4ab4-82f9-ebcdfeb789c7</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-28134</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Checkpoint Endpoint_security存在关键资源的权限授予不正确漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=e05f3feb-272c-4346-9ed9-78bc9a267bd6'>https://redqueen.tj-un.com/IntelDetails.html?id=e05f3feb-272c-4346-9ed9-78bc9a267bd6</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-33892</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Hms-networks Ewon_cosy+_firmware存在敏感数据的明文存储漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=a35efd9b-02d4-4615-9798-631486f917c8'>https://redqueen.tj-un.com/IntelDetails.html?id=a35efd9b-02d4-4615-9798-631486f917c8</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-33896</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Hms-networks Ewon_cosy+_firmware存在OS命令注入漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=c496edc9-c0f3-4f45-bc57-b305da92fbd8'>https://redqueen.tj-un.com/IntelDetails.html?id=c496edc9-c0f3-4f45-bc57-b305da92fbd8</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 红后<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7592</font><br/>[<b>披露时间</b>] None<br/>[<b>漏洞描述</b>] Python存在低效的正则表达式复杂性漏洞()<br/>[<b>相关链接</b>] <a href='https://redqueen.tj-un.com/IntelDetails.html?id=647a8ef1-7876-44a3-9240-f58fde759ecf'>https://redqueen.tj-un.com/IntelDetails.html?id=647a8ef1-7876-44a3-9240-f58fde759ecf</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-45507</font><br/>[<b>披露时间</b>] 2024-09-04 03:35:35<br/>[<b>漏洞描述</b>] Apache OFBiz SSRF致代码执行漏洞（CVE-2024-45507）
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-45507'>https://avd.aliyun.com/detail?id=AVD-2024-45507</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
