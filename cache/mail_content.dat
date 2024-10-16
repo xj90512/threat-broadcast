@@ -1,12 +1,25 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
+    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-45216</font><br/>[<b>披露时间</b>] 2024-10-16 03:42:10<br/>[<b>漏洞描述</b>] Apache Solr 认证绕过漏洞（CVE-2024-45216）
-                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-45216'>https://avd.aliyun.com/detail?id=AVD-2024-45216</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-41254</font><br/>[<b>披露时间</b>] 2024-10-16 09:36:52<br/>[<b>漏洞描述</b>] Litestream加密签名验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103097'>http://www.nsfocus.net/vulndb/103097</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7328</font><br/>[<b>披露时间</b>] 2024-10-16 09:36:52<br/>[<b>漏洞描述</b>] YouDianCMS信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103096'>http://www.nsfocus.net/vulndb/103096</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-39694</font><br/>[<b>披露时间</b>] 2024-10-16 09:36:52<br/>[<b>漏洞描述</b>] Duende IdentityServer开放重定向漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103095'>http://www.nsfocus.net/vulndb/103095</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-31201</font><br/>[<b>披露时间</b>] 2024-10-16 09:36:52<br/>[<b>漏洞描述</b>] Plug and Track Sensor Net Connect未引用搜索路径或元素漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103094'>http://www.nsfocus.net/vulndb/103094</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-31200</font><br/>[<b>披露时间</b>] 2024-10-16 09:36:52<br/>[<b>漏洞描述</b>] Plug and Track Sensor Net Connect信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103093'>http://www.nsfocus.net/vulndb/103093</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-31203</font><br/>[<b>披露时间</b>] 2024-10-16 09:36:52<br/>[<b>漏洞描述</b>] Plug and Track Thermoscan IP堆栈缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103092'>http://www.nsfocus.net/vulndb/103092</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-41258</font><br/>[<b>披露时间</b>] 2024-10-16 09:36:52<br/>[<b>漏洞描述</b>] filestash加密签名验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103091'>http://www.nsfocus.net/vulndb/103091</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-41256</font><br/>[<b>披露时间</b>] 2024-10-16 09:36:52<br/>[<b>漏洞描述</b>] filestash证书验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103090'>http://www.nsfocus.net/vulndb/103090</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-1577</font><br/>[<b>披露时间</b>] 2024-10-16 09:36:52<br/>[<b>漏洞描述</b>] Lenovo Driver Manager路径劫持漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103089'>http://www.nsfocus.net/vulndb/103089</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-41950</font><br/>[<b>披露时间</b>] 2024-10-16 09:36:52<br/>[<b>漏洞描述</b>] Haystack任意代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103088'>http://www.nsfocus.net/vulndb/103088</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-41953</font><br/>[<b>披露时间</b>] 2024-10-16 09:36:52<br/>[<b>漏洞描述</b>] ZITADEL跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103087'>http://www.nsfocus.net/vulndb/103087</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-40464</font><br/>[<b>披露时间</b>] 2024-10-16 09:36:52<br/>[<b>漏洞描述</b>] Beego证书验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103086'>http://www.nsfocus.net/vulndb/103086</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-40465</font><br/>[<b>披露时间</b>] 2024-10-16 09:36:52<br/>[<b>漏洞描述</b>] Beego风险加密算法使用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103085'>http://www.nsfocus.net/vulndb/103085</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7340</font><br/>[<b>披露时间</b>] 2024-10-16 09:36:52<br/>[<b>漏洞描述</b>] Weave输入验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103084'>http://www.nsfocus.net/vulndb/103084</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-40883</font><br/>[<b>披露时间</b>] 2024-10-16 09:36:52<br/>[<b>漏洞描述</b>] ELECOM wireless LAN routers跨站请求伪造漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103083'>http://www.nsfocus.net/vulndb/103083</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
