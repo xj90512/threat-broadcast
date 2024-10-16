@@ -1,25 +1,12 @@
 
-<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-4223</font><br/>[<b>披露时间</b>] 2024-10-15 03:03:18<br/>[<b>漏洞描述</b>] WordPress plugin Tutor LMS未授权的数据访问漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103050'>http://www.nsfocus.net/vulndb/103050</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-38581</font><br/>[<b>披露时间</b>] 2024-10-15 03:03:18<br/>[<b>漏洞描述</b>] Intel Power Gadget缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103049'>http://www.nsfocus.net/vulndb/103049</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-4838</font><br/>[<b>披露时间</b>] 2024-10-15 03:03:18<br/>[<b>漏洞描述</b>] WordPress Plugin ConvertPlus PHP对象注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103048'>http://www.nsfocus.net/vulndb/103048</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-4975</font><br/>[<b>披露时间</b>] 2024-10-15 03:03:18<br/>[<b>漏洞描述</b>] nurhodelta_17 Simple Chat System跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103047'>http://www.nsfocus.net/vulndb/103047</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-4181</font><br/>[<b>披露时间</b>] 2024-10-15 03:03:18<br/>[<b>漏洞描述</b>] Jerry Liu LlamaIndex代码注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103046'>http://www.nsfocus.net/vulndb/103046</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-35302</font><br/>[<b>披露时间</b>] 2024-10-15 03:03:18<br/>[<b>漏洞描述</b>] JetBrains TeamCity存储型跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103045'>http://www.nsfocus.net/vulndb/103045</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-4078</font><br/>[<b>披露时间</b>] 2024-10-15 03:03:18<br/>[<b>漏洞描述</b>] Saifeddine ALOUI LoLLMs命令注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103044'>http://www.nsfocus.net/vulndb/103044</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-4288</font><br/>[<b>披露时间</b>] 2024-10-15 03:03:18<br/>[<b>漏洞描述</b>] WordPress plugin Appointment Booking Calendar存储型跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103043'>http://www.nsfocus.net/vulndb/103043</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-34760</font><br/>[<b>披露时间</b>] 2024-10-15 03:03:18<br/>[<b>漏洞描述</b>] WordPress Plugin Magazine Blocks跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103042'>http://www.nsfocus.net/vulndb/103042</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-4385</font><br/>[<b>披露时间</b>] 2024-10-15 03:03:18<br/>[<b>漏洞描述</b>] WordPress plugin Envo Extra plugin存储型跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103041'>http://www.nsfocus.net/vulndb/103041</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-35176</font><br/>[<b>披露时间</b>] 2024-10-15 03:03:18<br/>[<b>漏洞描述</b>] Ruby REXML拒绝服务漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103040'>http://www.nsfocus.net/vulndb/103040</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-4400</font><br/>[<b>披露时间</b>] 2024-10-15 03:03:18<br/>[<b>漏洞描述</b>] WordPress plugin Post and Page Builder by BoldGrid存储型跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103039'>http://www.nsfocus.net/vulndb/103039</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-34805</font><br/>[<b>披露时间</b>] 2024-10-15 03:03:18<br/>[<b>漏洞描述</b>] WordPress Plugin iFrame跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103038'>http://www.nsfocus.net/vulndb/103038</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-34808</font><br/>[<b>披露时间</b>] 2024-10-15 03:03:18<br/>[<b>漏洞描述</b>] WordPress Plugin JCH Optimize路径遍历漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103037'>http://www.nsfocus.net/vulndb/103037</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-4617</font><br/>[<b>披露时间</b>] 2024-10-15 03:03:18<br/>[<b>漏洞描述</b>] WordPress plugin Rank Math SEO with AI Best SEO Tools存储型跨站脚本<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103036'>http://www.nsfocus.net/vulndb/103036</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-45216</font><br/>[<b>披露时间</b>] 2024-10-16 03:42:10<br/>[<b>漏洞描述</b>] Apache Solr 认证绕过漏洞（CVE-2024-45216）
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-45216'>https://avd.aliyun.com/detail?id=AVD-2024-45216</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
