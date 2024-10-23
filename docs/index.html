@@ -1,4 +1,4 @@
-<!-- RELEASE TIME : 2024-10-22 21:34:52 -->
+<!-- RELEASE TIME : 2024-10-23 01:59:07 -->
 <html lang="zh-cn">
 
  <head>
@@ -362,7 +362,7 @@
       <tr>
        <td scope="row">15c1d80b8627a4bbb931f777dc3cad42</td>
        <td>CVE-2024-50065</td>
-       <td>2024-10-21 19:39:53 <img src="imgs/new.gif" /></td>
+       <td>2024-10-21 19:39:53</td>
        <td>In the Linux kernel, the following vulnerability has been resolved: ntfs3: Change to non-blocking allocation in ntfs_d_hash d_hash is done while under "rcu-walk" and should not sleep. __get_name() allocates using GFP_KERNEL, having the possibility to sleep when under memory pressure. Change the allocation to GFP_NOWAIT.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-50065">详情</a></td>
       </tr>
@@ -370,7 +370,7 @@
       <tr>
        <td scope="row">bbbb53699e7a1956d5fd9c6e744b3c4b</td>
        <td>CVE-2024-50064</td>
-       <td>2024-10-21 19:39:52 <img src="imgs/new.gif" /></td>
+       <td>2024-10-21 19:39:52</td>
        <td>In the Linux kernel, the following vulnerability has been resolved: zram: free secondary algorithms names We need to kfree() secondary algorithms names when reset zram device that had multi-streams, otherwise we leak memory. [senozhatsky@chromium.org: kfree(NULL) is legal] Link: https://lkml.kernel.org/r/20240917013021.868769-1-senozhatsky@chromium.org</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-50064">详情</a></td>
       </tr>
@@ -378,7 +378,7 @@
       <tr>
        <td scope="row">170f26057e8b0a48413ff3a9e770de72</td>
        <td>CVE-2024-50063</td>
-       <td>2024-10-21 19:39:51 <img src="imgs/new.gif" /></td>
+       <td>2024-10-21 19:39:51</td>
        <td>In the Linux kernel, the following vulnerability has been resolved: bpf: Prevent tail call between progs attached to different hooks bpf progs can be attached to kernel functions, and the attached functions can take different parameters or return different return values. If prog attached to one kernel function tail calls prog attached to another kernel function, the ctx access or return value verification could be bypassed. For example, if prog1 is attached to func1 which takes only 1 parameter and prog2 is attached to func2 which takes two parameters. Since verifier assumes the bpf ctx passed to prog2 is constructed based on func2's prototype, verifier allows prog2 to access the second parameter from the bpf ctx passed to it. The problem is that verifier does not prevent prog1 from passing its bpf ctx to prog2 via tail call. In this case, the bpf ctx passed to prog2 is constructed from func1 instead of func2, that is, the assumption for ctx access verification is bypassed. Another example, if BPF LSM prog1 is attached to hook file_alloc_security, and BPF LSM prog2 is attached to hook bpf_lsm_audit_rule_known. Verifier knows the return value rules for these two hooks, e.g. it is legal for bpf_lsm_audit_rule_known to return positive number 1, and it is illegal for file_alloc_security to return positive number. So verifier allows prog2 to return positive number 1, but does not allow prog1 to return positive number. The problem is that verifier does not prevent prog1 from calling prog2 via tail call. In this case, prog2's return value 1 will be used as the return value for prog1's hook file_alloc_security. That is, the return value rule is bypassed. This patch adds restriction for tail call to prevent such bypasses.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-50063">详情</a></td>
       </tr>
@@ -386,7 +386,7 @@
       <tr>
        <td scope="row">87f38e370d5358a7207964167d3677a2</td>
        <td>CVE-2024-50062</td>
-       <td>2024-10-21 19:39:51 <img src="imgs/new.gif" /></td>
+       <td>2024-10-21 19:39:51</td>
        <td>In the Linux kernel, the following vulnerability has been resolved: RDMA/rtrs-srv: Avoid null pointer deref during path establishment For RTRS path establishment, RTRS client initiates and completes con_num of connections. After establishing all its connections, the information is exchanged between the client and server through the info_req message. During this exchange, it is essential that all connections have been established, and the state of the RTRS srv path is CONNECTED. So add these sanity checks, to make sure we detect and abort process in error scenarios to avoid null pointer deref.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-50062">详情</a></td>
       </tr>
@@ -394,7 +394,7 @@
       <tr>
        <td scope="row">30af04feb4bc93f58a1efd04945f2408</td>
        <td>CVE-2024-50061</td>
-       <td>2024-10-21 19:39:50 <img src="imgs/new.gif" /></td>
+       <td>2024-10-21 19:39:50</td>
        <td>In the Linux kernel, the following vulnerability has been resolved: i3c: master: cdns: Fix use after free vulnerability in cdns_i3c_master Driver Due to Race Condition In the cdns_i3c_master_probe function, &master->hj_work is bound with cdns_i3c_master_hj. And cdns_i3c_master_interrupt can call cnds_i3c_master_demux_ibis function to start the work. If we remove the module which will call cdns_i3c_master_remove to make cleanup, it will free master->base through i3c_master_unregister while the work mentioned above will be used. The sequence of operations that may lead to a UAF bug is as follows: CPU0 CPU1 | cdns_i3c_master_hj cdns_i3c_master_remove | i3c_master_unregister(&master->base) | device_unregister(&master->dev) | device_release | //free master->base | | i3c_master_do_daa(&master->base) | //use master->base Fix it by ensuring that the work is canceled before proceeding with the cleanup in cdns_i3c_master_remove.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-50061">详情</a></td>
       </tr>
@@ -402,7 +402,7 @@
       <tr>
        <td scope="row">5446fcba56345b34eaea750df08325f4</td>
        <td>CVE-2024-50060</td>
-       <td>2024-10-21 19:39:49 <img src="imgs/new.gif" /></td>
+       <td>2024-10-21 19:39:49</td>
        <td>In the Linux kernel, the following vulnerability has been resolved: io_uring: check if we need to reschedule during overflow flush In terms of normal application usage, this list will always be empty. And if an application does overflow a bit, it'll have a few entries. However, nothing obviously prevents syzbot from running a test case that generates a ton of overflow entries, and then flushing them can take quite a while. Check for needing to reschedule while flushing, and drop our locks and do so if necessary. There's no state to maintain here as overflows always prune from head-of-list, hence it's fine to drop and reacquire the locks at the end of the loop.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-50060">详情</a></td>
       </tr>
@@ -410,7 +410,7 @@
       <tr>
        <td scope="row">2e769a4f9718f8120eba211294c35462</td>
        <td>CVE-2024-50059</td>
-       <td>2024-10-21 19:39:49 <img src="imgs/new.gif" /></td>
+       <td>2024-10-21 19:39:49</td>
        <td>In the Linux kernel, the following vulnerability has been resolved: ntb: ntb_hw_switchtec: Fix use after free vulnerability in switchtec_ntb_remove due to race condition In the switchtec_ntb_add function, it can call switchtec_ntb_init_sndev function, then &sndev->check_link_status_work is bound with check_link_status_work. switchtec_ntb_link_notification may be called to start the work. If we remove the module which will call switchtec_ntb_remove to make cleanup, it will free sndev through kfree(sndev), while the work mentioned above will be used. The sequence of operations that may lead to a UAF bug is as follows: CPU0 CPU1 | check_link_status_work switchtec_ntb_remove | kfree(sndev); | | if (sndev->link_force_down) | // use sndev Fix it by ensuring that the work is canceled before proceeding with the cleanup in switchtec_ntb_remove.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-50059">详情</a></td>
       </tr>
@@ -418,7 +418,7 @@
       <tr>
        <td scope="row">b81d4aff4b8d6dae45d4f629ae9371c0</td>
        <td>CVE-2024-50058</td>
-       <td>2024-10-21 19:39:48 <img src="imgs/new.gif" /></td>
+       <td>2024-10-21 19:39:48</td>
        <td>In the Linux kernel, the following vulnerability has been resolved: serial: protect uart_port_dtr_rts() in uart_shutdown() too Commit af224ca2df29 (serial: core: Prevent unsafe uart port access, part 3) added few uport == NULL checks. It added one to uart_shutdown(), so the commit assumes, uport can be NULL in there. But right after that protection, there is an unprotected "uart_port_dtr_rts(uport, false);" call. That is invoked only if HUPCL is set, so I assume that is the reason why we do not see lots of these reports. Or it cannot be NULL at this point at all for some reason :P. Until the above is investigated, stay on the safe side and move this dereference to the if too. I got this inconsistency from Coverity under CID 1585130. Thanks.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-50058">详情</a></td>
       </tr>
@@ -426,7 +426,7 @@
       <tr>
        <td scope="row">9640bc7e33da554f67a41695970e1dc3</td>
        <td>CVE-2024-50057</td>
-       <td>2024-10-21 19:39:47 <img src="imgs/new.gif" /></td>
+       <td>2024-10-21 19:39:47</td>
        <td>In the Linux kernel, the following vulnerability has been resolved: usb: typec: tipd: Free IRQ only if it was requested before In polling mode, if no IRQ was requested there is no need to free it. Call devm_free_irq() only if client->irq is set. This fixes the warning caused by the tps6598x module removal: WARNING: CPU: 2 PID: 333 at kernel/irq/devres.c:144 devm_free_irq+0x80/0x8c ... ... Call trace: devm_free_irq+0x80/0x8c tps6598x_remove+0x28/0x88 [tps6598x] i2c_device_remove+0x2c/0x9c device_remove+0x4c/0x80 device_release_driver_internal+0x1cc/0x228 driver_detach+0x50/0x98 bus_remove_driver+0x6c/0xbc driver_unregister+0x30/0x60 i2c_del_driver+0x54/0x64 tps6598x_i2c_driver_exit+0x18/0xc3c [tps6598x] __arm64_sys_delete_module+0x184/0x264 invoke_syscall+0x48/0x110 el0_svc_common.constprop.0+0xc8/0xe8 do_el0_svc+0x20/0x2c el0_svc+0x28/0x98 el0t_64_sync_handler+0x13c/0x158 el0t_64_sync+0x190/0x194</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-50057">详情</a></td>
       </tr>
@@ -434,7 +434,7 @@
       <tr>
        <td scope="row">ab76efe39ff5121ea545467666dd4d10</td>
        <td>CVE-2024-50056</td>
-       <td>2024-10-21 19:39:47 <img src="imgs/new.gif" /></td>
+       <td>2024-10-21 19:39:47</td>
        <td>In the Linux kernel, the following vulnerability has been resolved: usb: gadget: uvc: Fix ERR_PTR dereference in uvc_v4l2.c Fix potential dereferencing of ERR_PTR() in find_format_by_pix() and uvc_v4l2_enum_format(). Fix the following smatch errors: drivers/usb/gadget/function/uvc_v4l2.c:124 find_format_by_pix() error: 'fmtdesc' dereferencing possible ERR_PTR() drivers/usb/gadget/function/uvc_v4l2.c:392 uvc_v4l2_enum_format() error: 'fmtdesc' dereferencing possible ERR_PTR() Also, fix similar issue in uvc_v4l2_try_format() for potential dereferencing of ERR_PTR().</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-50056">详情</a></td>
       </tr>
@@ -1476,243 +1476,243 @@
        <th scope="col">URL</th>
       </tr>
       <tr>
-       <td scope="row">121c658c4ea3c7d210cd15552e615c26</td>
-       <td>CVE-2024-20350</td>
-       <td>2024-09-27 18:31:36</td>
-       <td>Cisco Catalyst Center 存在凭证管理不当漏洞</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12966">详情</a></td>
+       <td scope="row">22db8872524694a3c6aa751a953d356d</td>
+       <td>CVE-2024-28988</td>
+       <td>2024-10-21 15:51:37</td>
+       <td>SolarWinds Web Help Desk 反序列化漏洞 可致远程代码执行</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13160">详情</a></td>
       </tr>
 
       <tr>
-       <td scope="row">1b1a1023bc363d9e09a83ab5afa3ce0a</td>
-       <td>CVE-2024-42506</td>
-       <td>2024-09-27 18:31:35</td>
-       <td>慧与公司 Aruba OS 未授权 命令注入漏洞</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12965">详情</a></td>
+       <td scope="row">efee407f4683543cef8ee8a71cd7306e</td>
+       <td>CVE-2024-45844</td>
+       <td>2024-10-21 15:21:38</td>
+       <td>F5 BIG-IP 权限管理不当漏洞 可致权限提升</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13159">详情</a></td>
       </tr>
 
       <tr>
-       <td scope="row">3d1c2cf4c68316d8c15c5b32beaab62d</td>
-       <td>CVE-2024-42506</td>
-       <td>2024-09-27 18:31:35</td>
-       <td>ArubaOS  存在代码执行漏洞</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12965">详情</a></td>
+       <td scope="row">71b4243e24bcbf3ae2c0f5fbfabf21a4</td>
+       <td>CVE-2024-38820</td>
+       <td>2024-10-18 15:31:37</td>
+       <td>Spring Framework 输入验证不当漏洞</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13144">详情</a></td>
       </tr>
 
       <tr>
-       <td scope="row">3123fdc273d0ee3f340d58ba350687c0</td>
-       <td>CVE-2024-47076</td>
-       <td>2024-09-27 11:31:35</td>
-       <td>OpenPrinting CUPS-libcupsfilters 输入验证不当漏洞 可导致远程代码执行</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12961">详情</a></td>
+       <td scope="row">3f1755c879e9b539b54d7d88982494c7</td>
+       <td>CVE-2024-38819</td>
+       <td>2024-10-18 14:51:53</td>
+       <td>Spring Framework 路径遍历漏洞</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13143">详情</a></td>
       </tr>
 
       <tr>
-       <td scope="row">d3b9cf941cefc0484d21cd76f2879354</td>
-       <td>CVE-2024-47175</td>
-       <td>2024-09-27 11:31:35</td>
-       <td>OpenPrinting CUPS-libppd 输入验证不当漏洞 可导致远程代码执行</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12960">详情</a></td>
+       <td scope="row">0656e109ba971f6cc63e11bb87c5bb40</td>
+       <td>CVE-2024-9486</td>
+       <td>2024-10-17 17:31:35</td>
+       <td>Kubernetes Image Builder 凭证管理不当漏洞</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13132">详情</a></td>
       </tr>
 
       <tr>
-       <td scope="row">87e8481c0ffcc37fe0e22e6e85288825</td>
-       <td>CVE-2024-47176</td>
-       <td>2024-09-27 11:31:35</td>
-       <td>OpenPrinting CUPS-browsed 未授权 输入验证不当漏洞 可导致远程代码执行</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12959">详情</a></td>
+       <td scope="row">db498161d5e1b7e058bbd3edf9e872f2</td>
+       <td>CVE-2024-38814</td>
+       <td>2024-10-17 17:31:34</td>
+       <td>VMware Hybrid Cloud Extension 需授权 SQL注入漏洞</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13131">详情</a></td>
       </tr>
 
       <tr>
-       <td scope="row">15835c7de9d1501aa0053c0894aa8449</td>
-       <td>CVE-2024-47177</td>
-       <td>2024-09-27 11:31:34</td>
-       <td>OpenPrinting CUPS-filters命令注入漏洞</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12958">详情</a></td>
+       <td scope="row">98dfb9016ab6cdd2f2ba51e38760e7de</td>
+       <td>CVE-2024-28987</td>
+       <td>2024-10-16 17:31:36</td>
+       <td>SolarWinds Web Help Desk (WHD) 凭证管理不当漏洞</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13127">详情</a></td>
       </tr>
 
       <tr>
-       <td scope="row">3fb18bba4e542aedb9f345e9943318bd</td>
-       <td>CVE-2024-41667</td>
-       <td>2024-09-26 18:31:34</td>
-       <td>OpenIdentityPlatform OpenAM 需授权 代码注入漏洞</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12957">详情</a></td>
+       <td scope="row">99635b67d4c3461df315027842ed10ae</td>
+       <td>CVE-2024-45217</td>
+       <td>2024-10-16 16:31:37</td>
+       <td>Apache Solr 初始化不当漏洞</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13125">详情</a></td>
       </tr>
 
       <tr>
-       <td scope="row">7a2c360867e90a707dd06d7628a03e86</td>
-       <td>CVE-2024-46985</td>
-       <td>2024-09-26 18:31:33</td>
-       <td>飞致云 DataEase 需授权 XML外部实体注入漏洞</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12956">详情</a></td>
+       <td scope="row">fc7ba2b5678089280405d4626663f09a</td>
+       <td>CVE-2024-45216</td>
+       <td>2024-10-16 15:31:39</td>
+       <td>Apache Solr 身份验证缺陷漏洞</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13122">详情</a></td>
       </tr>
 
       <tr>
-       <td scope="row">f2b9fa822bed1f8f9fa7196c89701590</td>
-       <td>CVE-2024-46997</td>
-       <td>2024-09-26 18:31:33</td>
-       <td>飞致云 DataEase 需授权 代码注入漏洞</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12955">详情</a></td>
+       <td scope="row">89f6cd59159ef224e6dd8d7225032021</td>
+       <td>CVE-2024-21215</td>
+       <td>2024-10-16 11:31:44</td>
+       <td>Oracle WebLogic Server 未授权 拒绝服务漏洞</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13118">详情</a></td>
       </tr>
 
       <tr>
-       <td scope="row">5d39bad0ba3f45ca2461df717ec70908</td>
-       <td>CVE-2024-40761</td>
-       <td>2024-09-26 11:31:43</td>
-       <td>Apache Answer 弱加密漏洞</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12930">详情</a></td>
+       <td scope="row">f4fbe09bbb3d776ee58c20031787ba41</td>
+       <td>CVE-2024-21216</td>
+       <td>2024-10-16 11:31:43</td>
+       <td>Oracle WebLogic Server 未授权 代码注入漏洞</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13117">详情</a></td>
       </tr>
 
       <tr>
-       <td scope="row">36ee357ecbc75f529e93897574152502</td>
-       <td>CVE-2024-4278</td>
-       <td>2024-09-26 11:01:43</td>
-       <td>GitLab EE 需授权 输入验证不当漏洞 可导致敏感信息泄露</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12929">详情</a></td>
+       <td scope="row">db76b5ee7954cdd97d4f3fbe8f521546</td>
+       <td>CVE-2024-21234</td>
+       <td>2024-10-16 11:31:42</td>
+       <td>Oracle WebLogic Server 未授权 输入验证不当漏洞 可导致敏感信息泄露</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13116">详情</a></td>
       </tr>
 
       <tr>
-       <td scope="row">6c7f9817a513460d27901116c34e585f</td>
-       <td>CVE-2024-42323</td>
-       <td>2024-09-25 19:31:43</td>
-       <td>Apache HertzBeat SnakeYaml 反序列化漏洞 可致远程代码执行</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12924">详情</a></td>
+       <td scope="row">fcc287432d1e4b16002626a2a3326f5b</td>
+       <td>CVE-2024-21260</td>
+       <td>2024-10-16 11:31:41</td>
+       <td>Oracle WebLogic Server 未授权 拒绝服务漏洞</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13115">详情</a></td>
       </tr>
 
       <tr>
-       <td scope="row">7635f57730a473355a7bce324ab4629f</td>
-       <td>CVE-2024-23454</td>
-       <td>2024-09-25 14:31:37</td>
-       <td>Apache Hadoop 敏感信息存储不当漏洞</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12906">详情</a></td>
+       <td scope="row">941435c092afefb0112922b9c48344a8</td>
+       <td>CVE-2024-21274</td>
+       <td>2024-10-16 11:31:40</td>
+       <td>Oracle WebLogic Server 未授权 拒绝服务漏洞</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13114">详情</a></td>
       </tr>
 
       <tr>
-       <td scope="row">9d51d9d3e2b0d48e35b571504258fdd8</td>
-       <td>CVE-2024-7593</td>
-       <td>2024-09-25 11:31:40</td>
-       <td>Ivanti Virtual Traffic Manager 身份验证缺陷漏洞</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12902">详情</a></td>
+       <td scope="row">f8fe294fab536fc898a27dc9c6f087df</td>
+       <td>CVE-2024-45733</td>
+       <td>2024-10-15 17:55:51</td>
+       <td>Splunk Enterprise 需授权 反序列化漏洞 可导致远程代码执行</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13103">详情</a></td>
       </tr>
 
       <tr>
-       <td scope="row">0aa3204960b4ac46b7052258ea91a4f7</td>
-       <td>CVE-2024-7593</td>
-       <td>2024-09-25 11:31:40</td>
-       <td>Ivanti Virtual Traffic Manager 存在身份验证缺陷漏洞</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12902">详情</a></td>
+       <td scope="row">5127866c27837e212669c275c7faad47</td>
+       <td>CVE-2024-45731</td>
+       <td>2024-10-15 17:25:52</td>
+       <td>Splunk Enterprise 需授权 路径遍历漏洞 可导致远程代码执行</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13101">详情</a></td>
       </tr>
 
       <tr>
-       <td scope="row">9bf4bd90e628dc80000e0b9f91b63490</td>
-       <td>CVE-2024-9014</td>
-       <td>2024-09-25 11:31:39</td>
-       <td>PgAdmin 身份验证缺陷漏洞</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12901">详情</a></td>
+       <td scope="row">d7a45211d6e4ae16c49d809779a4dbf5</td>
+       <td>CVE-2024-45732</td>
+       <td>2024-10-15 17:25:51</td>
+       <td>Splunk Enterprise 需授权 权限管理不当漏洞 可导致敏感信息泄露</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13100">详情</a></td>
       </tr>
 
       <tr>
-       <td scope="row">437d8d4d988853fbad07f215fff644aa</td>
-       <td>CVE-2024-9014</td>
-       <td>2024-09-25 11:31:39</td>
-       <td>pgAdmin 4 存在身份验证缺陷漏洞</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12901">详情</a></td>
+       <td scope="row">34547a2f81bfc4a7828eb512aae5cda9</td>
+       <td>CVE-2023-50780</td>
+       <td>2024-10-15 10:25:51</td>
+       <td>Apache ActiveMQ Artemis 需授权 权限管理不当漏洞 可导致远程代码执行</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13091">详情</a></td>
       </tr>
 
       <tr>
-       <td scope="row">f34318d9ee3df5b7f5c8a5a8d1b0464d</td>
-       <td>CVE-2024-9120</td>
-       <td>2024-09-25 11:01:40</td>
-       <td>Google Chrome Dawn UAF漏洞</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12900">详情</a></td>
+       <td scope="row">3bbc8caef64c15432459f95f6f3974a6</td>
+       <td>CVE-2024-9463</td>
+       <td>2024-10-14 18:31:41</td>
+       <td>Palo Alto Networks Expedition 命令注入漏洞</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13090">详情</a></td>
       </tr>
 
       <tr>
-       <td scope="row">22fca9e4b70cfef26239f09a2fc1bd31</td>
-       <td>CVE-2024-38286</td>
-       <td>2024-09-24 19:01:38</td>
-       <td>Apache Tomcat 资源分配控制不当漏洞 可致拒绝服务</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12892">详情</a></td>
+       <td scope="row">03999fe629031a395afd95f315689d9d</td>
+       <td>CVE-2024-9464</td>
+       <td>2024-10-14 18:31:41</td>
+       <td>Palo Alto Networks Expedition 需授权 命令注入漏洞</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13089">详情</a></td>
       </tr>
 
       <tr>
-       <td scope="row">c2faebc38b9375609aae91937ce2ca83</td>
-       <td>CVE-2024-30188</td>
-       <td>2024-09-24 11:31:42</td>
-       <td>Apache DolphinScheduler 需授权 路径遍历漏洞</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12881">详情</a></td>
+       <td scope="row">c79ea847415185317b05ab5eaa66cd3c</td>
+       <td>CVE-2024-23113</td>
+       <td>2024-10-14 18:01:44</td>
+       <td>Fortinet Fortiproxy等 未授权 外部资源引用不当漏洞 可致远程代码执行</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13086">详情</a></td>
       </tr>
 
       <tr>
-       <td scope="row">790cd8b4c4f688476dcfe8f3f5bfde6d</td>
-       <td></td>
-       <td>2024-09-24 11:31:36</td>
-       <td>唯徳科创 知识产权管理系统 UploadFileWordTemplate 文件上传限制不当漏洞 可致远程代码执行</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12880">详情</a></td>
+       <td scope="row">c0f19f15b4dae15abd8df1fcb80f340c</td>
+       <td>CVE-2024-9180</td>
+       <td>2024-10-14 17:31:55</td>
+       <td>HashiCorp Vault Community Edition等 权限管理不当漏洞</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13085">详情</a></td>
       </tr>
 
       <tr>
-       <td scope="row">64c1786f9890e1e7e15bb9e93b4dca94</td>
-       <td>CVE-2024-8698</td>
-       <td>2024-09-23 20:01:40</td>
-       <td>Red Hat Keycloak 签名验证不当漏洞</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12873">详情</a></td>
+       <td scope="row">1953ac3c740c9656b5d820699a437fb9</td>
+       <td>CVE-2024-9487</td>
+       <td>2024-10-14 17:01:43</td>
+       <td>GitHub GitHub Enterprise Server 签名验证不当漏洞</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13083">详情</a></td>
       </tr>
 
       <tr>
-       <td scope="row">47b4ae007833d3bc149560d0e03ae44b</td>
-       <td>CVE-2024-45229</td>
-       <td>2024-09-23 20:01:39</td>
-       <td>Versa Networks Director 权限管理不当漏洞</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12872">详情</a></td>
+       <td scope="row">9b49606fbea2b71951495fd9fff41df5</td>
+       <td>CVE-2024-47223</td>
+       <td>2024-10-12 16:01:35</td>
+       <td>Mitel  MiCollab SQL 注入漏洞</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13068">详情</a></td>
       </tr>
 
       <tr>
-       <td scope="row">6f0c3a73e457172c2636f2cec128401b</td>
-       <td>CVE-2024-41721</td>
-       <td>2024-09-23 19:01:39</td>
-       <td>FreeBSD bhyve USB代码 越界读取漏洞</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12871">详情</a></td>
+       <td scope="row">06a87031a8e1d834a501541c2fec27c6</td>
+       <td>CVE-2024-8015</td>
+       <td>2024-10-12 10:31:42</td>
+       <td>Progress Telerik Report Server 数据类型转换错误 可致远程代码执行</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13061">详情</a></td>
       </tr>
 
       <tr>
-       <td scope="row">9d5d898c4161f7a467c84c1ba434a409</td>
-       <td>CVE-2024-8963</td>
-       <td>2024-09-23 16:31:32</td>
-       <td>Ivanti Cloud Service Appliance 未授权 路径遍历漏洞</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12865">详情</a></td>
+       <td scope="row">185fac72b412a00be6f02542788f12fb</td>
+       <td>CVE-2024-9465</td>
+       <td>2024-10-11 15:31:44</td>
+       <td>Palo Alto Networks Expedition 未授权 SQL注入漏洞</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13056">详情</a></td>
       </tr>
 
       <tr>
-       <td scope="row">ba80ffbae8dd0d2ac76776994aa34b75</td>
-       <td>CVE-2024-37084</td>
-       <td>2024-09-20 16:01:34</td>
-       <td>Spring Cloud Data Flow 反序列化漏洞 可导致代码执行</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12842">详情</a></td>
+       <td scope="row">faf3866150922cdf26b9dac4ad9d39d0</td>
+       <td>CVE-2024-40711</td>
+       <td>2024-10-11 15:01:36</td>
+       <td>Veeam  Backup & Replication 未授权 反序列化漏洞 可致远程代码执行</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13055">详情</a></td>
       </tr>
 
       <tr>
-       <td scope="row">451a145aa049dc751f3254125c28b561</td>
-       <td>CVE-2024-45409</td>
-       <td>2024-09-19 16:31:35</td>
-       <td>SAML-Toolkits ruby-saml 签名验证不当漏洞</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12786">详情</a></td>
+       <td scope="row">8da4da3ef078e0958fe9deb41b5da7ec</td>
+       <td>CVE-2024-28168</td>
+       <td>2024-10-10 16:51:35</td>
+       <td>Apache XML Graphics FOP  XML外部实体注入漏洞</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13049">详情</a></td>
       </tr>
 
       <tr>
-       <td scope="row">b3f132547c0d023c5ec295f2b563fdcc</td>
-       <td></td>
-       <td>2024-09-18 18:21:32</td>
-       <td>ArrayNetworks APV应用交付系统 ping_hosts 未授权 命令注入漏洞</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12778">详情</a></td>
+       <td scope="row">d15ec00f9272e8df11e21259ac0f2043</td>
+       <td>CVE-2024-47823</td>
+       <td>2024-10-10 15:51:37</td>
+       <td>Laravel  Livewire 文件上传限制不当漏洞 可致远程代码执行</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13047">详情</a></td>
       </tr>
 
       <tr>
-       <td scope="row">a53961d0f73dde85daf8c87542ff1c19</td>
-       <td></td>
-       <td>2024-09-18 18:21:32</td>
-       <td>Array Networks APV应用交付系统 ping_hosts 存在命令注入漏洞</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=12778">详情</a></td>
+       <td scope="row">bd529d46f1d7e18394e523d385a51a82</td>
+       <td>CVE-2024-45720</td>
+       <td>2024-10-10 15:51:37</td>
+       <td>Apache Subversion 命令注入漏洞</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13046">详情</a></td>
       </tr>
 
      </tbody>
