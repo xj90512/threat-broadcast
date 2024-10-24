@@ -1,12 +1,25 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
+    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-47575</font><br/>[<b>披露时间</b>] 2024-10-23 05:37:38<br/>[<b>漏洞描述</b>] Fortinet FortiManager 身份认证绕过漏洞（CVE-2024-47575）
-                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-47575'>https://avd.aliyun.com/detail?id=AVD-2024-47575</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-38882</font><br/>[<b>披露时间</b>] 2024-10-24 09:35:46<br/>[<b>漏洞描述</b>] Horizon Business Services Caterease操作系统命令注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103553'>http://www.nsfocus.net/vulndb/103553</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-40498</font><br/>[<b>披露时间</b>] 2024-10-24 09:35:46<br/>[<b>漏洞描述</b>] PuneethReddyHc Online Shopping System Advanced SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103552'>http://www.nsfocus.net/vulndb/103552</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-6361</font><br/>[<b>披露时间</b>] 2024-10-24 09:35:46<br/>[<b>漏洞描述</b>] OpenText ALM Octane跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103551'>http://www.nsfocus.net/vulndb/103551</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-42008</font><br/>[<b>披露时间</b>] 2024-10-24 09:35:46<br/>[<b>漏洞描述</b>] Roundcube跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103550'>http://www.nsfocus.net/vulndb/103550</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-38856</font><br/>[<b>披露时间</b>] 2024-10-24 09:35:46<br/>[<b>漏洞描述</b>] Apache OFBiz授权错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103549'>http://www.nsfocus.net/vulndb/103549</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-41816</font><br/>[<b>披露时间</b>] 2024-10-24 09:35:46<br/>[<b>漏洞描述</b>] WordPress Cooked Plugin跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103548'>http://www.nsfocus.net/vulndb/103548</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-41820</font><br/>[<b>披露时间</b>] 2024-10-24 09:35:46<br/>[<b>漏洞描述</b>] Kubean权限分配错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103547'>http://www.nsfocus.net/vulndb/103547</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-42009</font><br/>[<b>披露时间</b>] 2024-10-24 09:35:46<br/>[<b>漏洞描述</b>] Roundcube跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103546'>http://www.nsfocus.net/vulndb/103546</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-38887</font><br/>[<b>披露时间</b>] 2024-10-24 09:35:46<br/>[<b>漏洞描述</b>] Horizon Business Services Caterease操作系统命令注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103545'>http://www.nsfocus.net/vulndb/103545</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7409</font><br/>[<b>披露时间</b>] 2024-10-24 09:35:46<br/>[<b>漏洞描述</b>] QEMU NBD Server同步错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103544'>http://www.nsfocus.net/vulndb/103544</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7395</font><br/>[<b>披露时间</b>] 2024-10-24 09:35:46<br/>[<b>漏洞描述</b>] Korenix JetPort 5601身份认证绕过漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103543'>http://www.nsfocus.net/vulndb/103543</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-40531</font><br/>[<b>披露时间</b>] 2024-10-24 09:35:46<br/>[<b>漏洞描述</b>] UAB Pantera CRM访问控制错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103542'>http://www.nsfocus.net/vulndb/103542</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-21978</font><br/>[<b>披露时间</b>] 2024-10-24 09:35:46<br/>[<b>漏洞描述</b>] AMD SEV-SNP输入验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103541'>http://www.nsfocus.net/vulndb/103541</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-41200</font><br/>[<b>披露时间</b>] 2024-10-24 09:35:46<br/>[<b>漏洞描述</b>] KMPlayer分段错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103540'>http://www.nsfocus.net/vulndb/103540</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-6709</font><br/>[<b>披露时间</b>] 2024-10-24 09:35:46<br/>[<b>漏洞描述</b>] WordPress Sync Post With Other Site Plugin未授权数据修改漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103539'>http://www.nsfocus.net/vulndb/103539</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
