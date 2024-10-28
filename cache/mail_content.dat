@@ -1,25 +1,12 @@
 
-<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7691</font><br/>[<b>披露时间</b>] 2024-10-28 09:36:55<br/>[<b>漏洞描述</b>] WordPress Flaming Forms Plugin跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103679'>http://www.nsfocus.net/vulndb/103679</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-5053</font><br/>[<b>披露时间</b>] 2024-10-28 09:36:55<br/>[<b>漏洞描述</b>] WordPress Contact Form Plugin未授权Malichimp API密钥更新漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103678'>http://www.nsfocus.net/vulndb/103678</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-42058</font><br/>[<b>披露时间</b>] 2024-10-28 09:36:55<br/>[<b>漏洞描述</b>] Zyxel ATP和USG多款产品空指针解引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103677'>http://www.nsfocus.net/vulndb/103677</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-5148</font><br/>[<b>披露时间</b>] 2024-10-28 09:36:55<br/>[<b>漏洞描述</b>] GNOME Remote desktop数据元素泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103676'>http://www.nsfocus.net/vulndb/103676</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-28044</font><br/>[<b>披露时间</b>] 2024-10-28 09:36:55<br/>[<b>漏洞描述</b>] OpenHarmony整数溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103675'>http://www.nsfocus.net/vulndb/103675</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-43775</font><br/>[<b>披露时间</b>] 2024-10-28 09:36:55<br/>[<b>漏洞描述</b>] Huachu Digital Easytest Online Test Platform SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103674'>http://www.nsfocus.net/vulndb/103674</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-8365</font><br/>[<b>披露时间</b>] 2024-10-28 09:36:55<br/>[<b>漏洞描述</b>] HashiCorp Vault Community Edition和Vault Enterprise信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103673'>http://www.nsfocus.net/vulndb/103673</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-42471</font><br/>[<b>披露时间</b>] 2024-10-28 09:36:55<br/>[<b>漏洞描述</b>] actions/artifact任意文件写入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103672'>http://www.nsfocus.net/vulndb/103672</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-43774</font><br/>[<b>披露时间</b>] 2024-10-28 09:36:55<br/>[<b>漏洞描述</b>] Huachu Digital Easytest Online Test Platform SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103671'>http://www.nsfocus.net/vulndb/103671</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-28100</font><br/>[<b>披露时间</b>] 2024-10-28 09:36:55<br/>[<b>漏洞描述</b>] eLabFTW跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103670'>http://www.nsfocus.net/vulndb/103670</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7939</font><br/>[<b>披露时间</b>] 2024-10-28 09:36:55<br/>[<b>漏洞描述</b>] Dassault Systèmes 3DSwymer跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103669'>http://www.nsfocus.net/vulndb/103669</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-43773</font><br/>[<b>披露时间</b>] 2024-10-28 09:36:55<br/>[<b>漏洞描述</b>] Huachu Digital Easytest Online Test Platform SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103668'>http://www.nsfocus.net/vulndb/103668</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7354</font><br/>[<b>披露时间</b>] 2024-10-28 09:36:55<br/>[<b>漏洞描述</b>] WordPress Ninja Forms Plugin跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103667'>http://www.nsfocus.net/vulndb/103667</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7871</font><br/>[<b>披露时间</b>] 2024-10-28 09:36:55<br/>[<b>漏洞描述</b>] Huachu Digital Easytest Online Test Platform SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103666'>http://www.nsfocus.net/vulndb/103666</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-43792</font><br/>[<b>披露时间</b>] 2024-10-28 09:36:55<br/>[<b>漏洞描述</b>] Halo跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103665'>http://www.nsfocus.net/vulndb/103665</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>AVD-2024-1757649</font><br/>[<b>披露时间</b>] 2024-10-28 10:41:01<br/>[<b>漏洞描述</b>] CyberPanel upgrademysqlstatus 远程命令执行漏洞
+                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-1757649'>https://avd.aliyun.com/detail?id=AVD-2024-1757649</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
