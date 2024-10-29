@@ -1,12 +1,25 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://avd.aliyun.com/">阿里云</a>] 提供</li>
+    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 阿里云<br/>[<b>漏洞编号</b>] <font color='blue'>AVD-2024-1757649</font><br/>[<b>披露时间</b>] 2024-10-28 10:41:01<br/>[<b>漏洞描述</b>] CyberPanel upgrademysqlstatus 远程命令执行漏洞
-                        <br/>[<b>相关链接</b>] <a href='https://avd.aliyun.com/detail?id=AVD-2024-1757649'>https://avd.aliyun.com/detail?id=AVD-2024-1757649</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-4411</font><br/>[<b>披露时间</b>] 2024-10-29 03:03:14<br/>[<b>漏洞描述</b>] WordPress plugin Mihdan: Yandex Turbo Feed存储型跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103743'>http://www.nsfocus.net/vulndb/103743</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-4398</font><br/>[<b>披露时间</b>] 2024-10-29 03:03:14<br/>[<b>漏洞描述</b>] WordPress plugin HTML5 Audio Player存储型跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103742'>http://www.nsfocus.net/vulndb/103742</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-8006</font><br/>[<b>披露时间</b>] 2024-10-29 03:03:14<br/>[<b>漏洞描述</b>] libpcap空指针引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103741'>http://www.nsfocus.net/vulndb/103741</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-4383</font><br/>[<b>披露时间</b>] 2024-10-29 03:03:14<br/>[<b>漏洞描述</b>] WordPress plugin Simple Membership存储型跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103740'>http://www.nsfocus.net/vulndb/103740</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-4386</font><br/>[<b>披露时间</b>] 2024-10-29 03:03:14<br/>[<b>漏洞描述</b>] WordPress plugin Gallery Block存储型跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103739'>http://www.nsfocus.net/vulndb/103739</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-4397</font><br/>[<b>披露时间</b>] 2024-10-29 03:03:14<br/>[<b>漏洞描述</b>] WordPress plugin LearnPress任意文件上传漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103738'>http://www.nsfocus.net/vulndb/103738</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-39578</font><br/>[<b>披露时间</b>] 2024-10-28 03:03:14<br/>[<b>漏洞描述</b>] Dell PowerScale OneFS符号链接跟随漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103737'>http://www.nsfocus.net/vulndb/103737</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-4430</font><br/>[<b>披露时间</b>] 2024-10-28 03:03:14<br/>[<b>漏洞描述</b>] WordPress plugin Beaver Builder存储型跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103736'>http://www.nsfocus.net/vulndb/103736</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-4699</font><br/>[<b>披露时间</b>] 2024-10-28 03:03:14<br/>[<b>漏洞描述</b>] D-Link DAR-8000代码问题漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103735'>http://www.nsfocus.net/vulndb/103735</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-4424</font><br/>[<b>披露时间</b>] 2024-10-28 03:03:14<br/>[<b>漏洞描述</b>] CemiPark跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103734'>http://www.nsfocus.net/vulndb/103734</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-39579</font><br/>[<b>披露时间</b>] 2024-10-28 03:03:14<br/>[<b>漏洞描述</b>] Dell PowerScale OneFS提权漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103733'>http://www.nsfocus.net/vulndb/103733</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7435</font><br/>[<b>披露时间</b>] 2024-10-28 03:03:14<br/>[<b>漏洞描述</b>] WordPress Attire主题PHP对象注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103732'>http://www.nsfocus.net/vulndb/103732</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-39747</font><br/>[<b>披露时间</b>] 2024-10-28 03:03:14<br/>[<b>漏洞描述</b>] IBM Sterling Connect:Direct Web Services使用默认凭证漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103731'>http://www.nsfocus.net/vulndb/103731</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0111</font><br/>[<b>披露时间</b>] 2024-10-28 03:03:14<br/>[<b>漏洞描述</b>] NVIDIA CUDA Toolkit拒绝服务漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103730'>http://www.nsfocus.net/vulndb/103730</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-0110</font><br/>[<b>披露时间</b>] 2024-10-28 03:03:14<br/>[<b>漏洞描述</b>] NVIDIA CUDA Toolkit越界写入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/103729'>http://www.nsfocus.net/vulndb/103729</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
