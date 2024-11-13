@@ -1,11 +1,25 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
+    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-11-06 11:01:35<br/>[<b>漏洞描述</b>] 用友 YonBIP /iuap-apcom-workbench/ 存在路径遍历漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13264'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13264</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-49672</font><br/>[<b>披露时间</b>] 2024-11-12 03:39:15<br/>[<b>漏洞描述</b>] WordPress plugin Google Docs RSVP跨站请求伪造漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/104827'>http://www.nsfocus.net/vulndb/104827</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7608</font><br/>[<b>披露时间</b>] 2024-11-12 03:39:15<br/>[<b>漏洞描述</b>] Trellix NX等产品路径遍历漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/104826'>http://www.nsfocus.net/vulndb/104826</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-50410</font><br/>[<b>披露时间</b>] 2024-11-12 03:39:15<br/>[<b>漏洞描述</b>] WordPress plugin Namaste! LMS跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/104825'>http://www.nsfocus.net/vulndb/104825</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-10360</font><br/>[<b>披露时间</b>] 2024-11-12 03:39:15<br/>[<b>漏洞描述</b>] WordPress plugin Move Addons for Elementor信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/104824'>http://www.nsfocus.net/vulndb/104824</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-49670</font><br/>[<b>披露时间</b>] 2024-11-12 03:39:15<br/>[<b>漏洞描述</b>] WordPress plugin Client Power Tools Portal跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/104823'>http://www.nsfocus.net/vulndb/104823</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-40395</font><br/>[<b>披露时间</b>] 2024-11-12 03:39:15<br/>[<b>漏洞描述</b>] PTC ThingWorx不安全对象直接引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/104822'>http://www.nsfocus.net/vulndb/104822</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-43337</font><br/>[<b>披露时间</b>] 2024-11-12 03:39:15<br/>[<b>漏洞描述</b>] WordPress插件Brave Popup Builder跨站请求伪造漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/104821'>http://www.nsfocus.net/vulndb/104821</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-10181</font><br/>[<b>披露时间</b>] 2024-11-12 03:39:15<br/>[<b>漏洞描述</b>] WordPress plugin Newsletters跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/104820'>http://www.nsfocus.net/vulndb/104820</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-10461</font><br/>[<b>披露时间</b>] 2024-11-12 03:39:15<br/>[<b>漏洞描述</b>] Mozilla多款产品跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/104819'>http://www.nsfocus.net/vulndb/104819</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-41175</font><br/>[<b>披露时间</b>] 2024-11-12 03:39:15<br/>[<b>漏洞描述</b>] Beckhoff TwinCAT/BSD拒绝服务漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/104818'>http://www.nsfocus.net/vulndb/104818</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-10459</font><br/>[<b>披露时间</b>] 2024-11-12 03:39:15<br/>[<b>漏洞描述</b>] Mozilla多款产品释放后重用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/104817'>http://www.nsfocus.net/vulndb/104817</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7125</font><br/>[<b>披露时间</b>] 2024-11-12 03:39:15<br/>[<b>漏洞描述</b>] Hitachi Ops Center Common Services认证绕过漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/104816'>http://www.nsfocus.net/vulndb/104816</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-43356</font><br/>[<b>披露时间</b>] 2024-11-12 03:39:15<br/>[<b>漏洞描述</b>] WordPress插件oik跨站请求伪造漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/104815'>http://www.nsfocus.net/vulndb/104815</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-50426</font><br/>[<b>披露时间</b>] 2024-11-12 03:39:15<br/>[<b>漏洞描述</b>] WordPress plugin Survey Maker跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/104814'>http://www.nsfocus.net/vulndb/104814</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-10008</font><br/>[<b>披露时间</b>] 2024-11-12 03:39:15<br/>[<b>漏洞描述</b>] WordPress plugin Masteriyo LMS缺少授权检查漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/104813'>http://www.nsfocus.net/vulndb/104813</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
