@@ -1,11 +1,11 @@
 
 <h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-52314</font><br/>[<b>披露时间</b>] 2024-12-10 03:14:57<br/>[<b>漏洞描述</b>] data.all授权错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/107760'>http://www.nsfocus.net/vulndb/107760</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-11-29 15:31:52<br/>[<b>漏洞描述</b>] 任我行 管家婆订货易在线订货商城系统 /api/Upload/UploadImgNoCheck 存在文件上传漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13503'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13503</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
