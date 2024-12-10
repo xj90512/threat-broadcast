@@ -1,11 +1,17 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">7</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
+    <li><font color="red">7</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-11-29 15:31:52<br/>[<b>漏洞描述</b>] 任我行 管家婆订货易在线订货商城系统 /api/Upload/UploadImgNoCheck 存在文件上传漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13503'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13503</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-53949</font><br/>[<b>披露时间</b>] 2024-12-10 11:11:49<br/>[<b>漏洞描述</b>] Apache Superset 权限管理不当漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13566'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13566</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-50393</font><br/>[<b>披露时间</b>] 2024-12-09 18:11:49<br/>[<b>漏洞描述</b>] QNAP QTS 未授权 命令注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13563'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13563</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-12-09 17:11:48<br/>[<b>漏洞描述</b>] 圣乔科技 ERP系统 DwrUtil.getSupplyQueryKeyword.dwr 未授权 SQL注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13560'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13560</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-46901</font><br/>[<b>披露时间</b>] 2024-12-09 11:11:50<br/>[<b>漏洞描述</b>] Apache Subversion mod_dav_svn 中和不当漏洞 可致拒绝服务<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13558'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13558</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-12-06 18:31:35<br/>[<b>漏洞描述</b>] AUTOMATIC1111 SD-WebUI /proxy 未授权服务端请求伪造漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13550'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13550</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-12-06 18:31:35<br/>[<b>漏洞描述</b>] AUTOMATIC1111  SD-WebUI /file 未授权 路径遍历漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13549'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13549</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-45318</font><br/>[<b>披露时间</b>] 2024-12-06 17:31:38<br/>[<b>漏洞描述</b>] SonicWall SMA100 SSLVPN web管理页面 缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13547'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13547</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
