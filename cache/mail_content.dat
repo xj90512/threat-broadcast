@@ -1,25 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-28986</font><br/>[<b>披露时间</b>] 2024-12-26 03:39:17<br/>[<b>漏洞描述</b>] SolarWinds Web Help Desk Java反序列化远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108831'>http://www.nsfocus.net/vulndb/108831</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7739</font><br/>[<b>披露时间</b>] 2024-12-26 03:39:17<br/>[<b>漏洞描述</b>] Markdown PDF跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108828'>http://www.nsfocus.net/vulndb/108828</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-42368</font><br/>[<b>披露时间</b>] 2024-12-26 03:39:17<br/>[<b>漏洞描述</b>] OpenTelemetry信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108827'>http://www.nsfocus.net/vulndb/108827</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7740</font><br/>[<b>披露时间</b>] 2024-12-26 03:39:17<br/>[<b>漏洞描述</b>] Wanglongcn LTcms服务端请求伪造漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108826'>http://www.nsfocus.net/vulndb/108826</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7742</font><br/>[<b>披露时间</b>] 2024-12-26 03:39:17<br/>[<b>漏洞描述</b>] Wanglongcn LTcms服务端请求伪造漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108825'>http://www.nsfocus.net/vulndb/108825</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7743</font><br/>[<b>披露时间</b>] 2024-12-26 03:39:17<br/>[<b>漏洞描述</b>] Wanglongcn LTcms服务端请求伪造漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108824'>http://www.nsfocus.net/vulndb/108824</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7741</font><br/>[<b>披露时间</b>] 2024-12-26 03:39:17<br/>[<b>漏洞描述</b>] Wanglongcn LTcms路径遍历漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108823'>http://www.nsfocus.net/vulndb/108823</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-5917</font><br/>[<b>披露时间</b>] 2024-12-26 03:39:17<br/>[<b>漏洞描述</b>] Palo Alto Networks PAN-OS software服务器请求伪造漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108821'>http://www.nsfocus.net/vulndb/108821</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-5918</font><br/>[<b>披露时间</b>] 2024-12-26 03:39:17<br/>[<b>漏洞描述</b>] Palo Alto Networks PAN-OS software证书验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108820'>http://www.nsfocus.net/vulndb/108820</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-5919</font><br/>[<b>披露时间</b>] 2024-12-26 03:39:17<br/>[<b>漏洞描述</b>] Palo Alto Networks PAN-OS software XML外部实体注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108819'>http://www.nsfocus.net/vulndb/108819</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-5920</font><br/>[<b>披露时间</b>] 2024-12-26 03:39:17<br/>[<b>漏洞描述</b>] Palo Alto Networks PAN-OS software跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108818'>http://www.nsfocus.net/vulndb/108818</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-9472</font><br/>[<b>披露时间</b>] 2024-12-26 03:39:17<br/>[<b>漏洞描述</b>] Palo Alto Networks PAN-OS software空指针解引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108817'>http://www.nsfocus.net/vulndb/108817</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-50306</font><br/>[<b>披露时间</b>] 2024-12-26 03:39:17<br/>[<b>漏洞描述</b>] Apache Traffic Server输入验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108816'>http://www.nsfocus.net/vulndb/108816</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-50305</font><br/>[<b>披露时间</b>] 2024-12-26 03:39:17<br/>[<b>漏洞描述</b>] Apache Traffic Server输入验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108815'>http://www.nsfocus.net/vulndb/108815</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-38479</font><br/>[<b>披露时间</b>] 2024-12-26 03:39:17<br/>[<b>漏洞描述</b>] Apache Traffic Server输入验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108814'>http://www.nsfocus.net/vulndb/108814</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-50379</font><br/>[<b>披露时间</b>] 2024-12-18 11:31:59<br/>[<b>漏洞描述</b>] Apache Tomcat 存在条件竞争漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13671'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13671</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
