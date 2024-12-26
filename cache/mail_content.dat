@@ -1,11 +1,25 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
+    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-56337</font><br/>[<b>披露时间</b>] 2024-12-23 11:01:46<br/>[<b>漏洞描述</b>] Apache Tomcat 存在条件竞争漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13720'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13720</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-44674</font><br/>[<b>披露时间</b>] 2024-12-26 11:32:25<br/>[<b>漏洞描述</b>] D-Link COVR-2600R缓冲区溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108883'>http://www.nsfocus.net/vulndb/108883</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-50837</font><br/>[<b>披露时间</b>] 2024-12-26 11:32:25<br/>[<b>漏洞描述</b>] KASHIPARA E-learning Management System Project跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108882'>http://www.nsfocus.net/vulndb/108882</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-3502</font><br/>[<b>披露时间</b>] 2024-12-26 11:32:25<br/>[<b>漏洞描述</b>] lunary-ai/lunary信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108881'>http://www.nsfocus.net/vulndb/108881</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-50823</font><br/>[<b>披露时间</b>] 2024-12-26 11:32:25<br/>[<b>漏洞描述</b>] E-learning Management System Project SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108880'>http://www.nsfocus.net/vulndb/108880</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-50825</font><br/>[<b>披露时间</b>] 2024-12-26 11:32:25<br/>[<b>漏洞描述</b>] E-learning Management System Project SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108879'>http://www.nsfocus.net/vulndb/108879</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-48284</font><br/>[<b>披露时间</b>] 2024-12-26 11:32:25<br/>[<b>漏洞描述</b>] User Registration &amp; Login and User Management System跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108878'>http://www.nsfocus.net/vulndb/108878</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-50826</font><br/>[<b>披露时间</b>] 2024-12-26 11:32:25<br/>[<b>漏洞描述</b>] E-learning Management System Project SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108877'>http://www.nsfocus.net/vulndb/108877</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-50840</font><br/>[<b>披露时间</b>] 2024-12-26 11:32:25<br/>[<b>漏洞描述</b>] KASHIPARA E-learning Management System Project跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108876'>http://www.nsfocus.net/vulndb/108876</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-50835</font><br/>[<b>披露时间</b>] 2024-12-26 11:32:25<br/>[<b>漏洞描述</b>] E-learning Management System Project SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108875'>http://www.nsfocus.net/vulndb/108875</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-50824</font><br/>[<b>披露时间</b>] 2024-12-26 11:32:25<br/>[<b>漏洞描述</b>] E-learning Management System Project SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108874'>http://www.nsfocus.net/vulndb/108874</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-10571</font><br/>[<b>披露时间</b>] 2024-12-26 11:32:25<br/>[<b>漏洞描述</b>] WordPress Chartify – WordPress Chart Plugin本地文件包含漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108873'>http://www.nsfocus.net/vulndb/108873</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-4311</font><br/>[<b>披露时间</b>] 2024-12-26 11:32:25<br/>[<b>漏洞描述</b>] zenml-io/zenml账户接管漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108872'>http://www.nsfocus.net/vulndb/108872</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-4343</font><br/>[<b>披露时间</b>] 2024-12-26 11:32:25<br/>[<b>漏洞描述</b>] PrivateGPT Python命令注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108871'>http://www.nsfocus.net/vulndb/108871</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-3501</font><br/>[<b>披露时间</b>] 2024-12-26 11:32:25<br/>[<b>漏洞描述</b>] lunary-ai/lunary信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108870'>http://www.nsfocus.net/vulndb/108870</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-4134</font><br/>[<b>披露时间</b>] 2024-12-26 11:32:25<br/>[<b>漏洞描述</b>] Linux kernel内存错误引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108869'>http://www.nsfocus.net/vulndb/108869</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
