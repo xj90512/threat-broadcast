@@ -1,11 +1,25 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
+    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2024-12-25 16:31:46<br/>[<b>漏洞描述</b>] 灵当 CRM getMyAmbassador 存在SQL注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13750'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13750</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-36136</font><br/>[<b>披露时间</b>] 2024-12-26 03:39:03<br/>[<b>漏洞描述</b>] Ivanti Avalanche大小差一漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108947'>http://www.nsfocus.net/vulndb/108947</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-38652</font><br/>[<b>披露时间</b>] 2024-12-26 03:39:03<br/>[<b>漏洞描述</b>] Ivanti Avalanche路径遍历漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108946'>http://www.nsfocus.net/vulndb/108946</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-37373</font><br/>[<b>披露时间</b>] 2024-12-26 03:39:03<br/>[<b>漏洞描述</b>] Ivanti Avalanche远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108945'>http://www.nsfocus.net/vulndb/108945</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-37399</font><br/>[<b>披露时间</b>] 2024-12-26 03:39:03<br/>[<b>漏洞描述</b>] Ivanti Avalanche空指针引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108944'>http://www.nsfocus.net/vulndb/108944</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-41858</font><br/>[<b>披露时间</b>] 2024-12-26 03:39:03<br/>[<b>漏洞描述</b>] Adobe InCopy整数溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108943'>http://www.nsfocus.net/vulndb/108943</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7754</font><br/>[<b>披露时间</b>] 2024-12-26 03:39:03<br/>[<b>漏洞描述</b>] Clinics Patient Management System SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108942'>http://www.nsfocus.net/vulndb/108942</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7753</font><br/>[<b>披露时间</b>] 2024-12-26 03:39:03<br/>[<b>漏洞描述</b>] Clinics Patient Management System直接请求漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108941'>http://www.nsfocus.net/vulndb/108941</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7752</font><br/>[<b>披露时间</b>] 2024-12-26 03:39:03<br/>[<b>漏洞描述</b>] Clinics Patient Management System跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108940'>http://www.nsfocus.net/vulndb/108940</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-38653</font><br/>[<b>披露时间</b>] 2024-12-26 03:39:03<br/>[<b>漏洞描述</b>] Ivanti Avalanche XML外部实体注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108939'>http://www.nsfocus.net/vulndb/108939</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7728</font><br/>[<b>披露时间</b>] 2024-12-26 03:39:03<br/>[<b>漏洞描述</b>] CAYIN CMS操作系统命令注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108938'>http://www.nsfocus.net/vulndb/108938</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7729</font><br/>[<b>披露时间</b>] 2024-12-26 03:39:03<br/>[<b>漏洞描述</b>] CAYIN CMS访问限制绕过漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108937'>http://www.nsfocus.net/vulndb/108937</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7588</font><br/>[<b>披露时间</b>] 2024-12-26 03:39:03<br/>[<b>漏洞描述</b>] WordPress ComboBlocks跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108936'>http://www.nsfocus.net/vulndb/108936</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-20083</font><br/>[<b>披露时间</b>] 2024-12-26 03:39:03<br/>[<b>漏洞描述</b>] MediaTek芯片越界写入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108935'>http://www.nsfocus.net/vulndb/108935</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7731</font><br/>[<b>披露时间</b>] 2024-12-26 03:39:03<br/>[<b>漏洞描述</b>] SECOM Dr.ID Access Control System SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108934'>http://www.nsfocus.net/vulndb/108934</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-20103</font><br/>[<b>披露时间</b>] 2024-12-26 03:39:03<br/>[<b>漏洞描述</b>] MediaTek越界写入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/108933'>http://www.nsfocus.net/vulndb/108933</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
