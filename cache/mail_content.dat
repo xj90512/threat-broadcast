@@ -1,25 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-50270</font><br/>[<b>披露时间</b>] 2025-01-08 11:32:35<br/>[<b>漏洞描述</b>] Linux kernel整数溢出漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109368'>http://www.nsfocus.net/vulndb/109368</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-33231</font><br/>[<b>披露时间</b>] 2025-01-08 11:32:35<br/>[<b>漏洞描述</b>] Ferozo Email跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109367'>http://www.nsfocus.net/vulndb/109367</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-52587</font><br/>[<b>披露时间</b>] 2025-01-08 11:32:35<br/>[<b>漏洞描述</b>] Harden-Runner操作系统命令注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109366'>http://www.nsfocus.net/vulndb/109366</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-21287</font><br/>[<b>披露时间</b>] 2025-01-08 11:32:35<br/>[<b>漏洞描述</b>] Oracle Agile PLM Framework授权错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109365'>http://www.nsfocus.net/vulndb/109365</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-52583</font><br/>[<b>披露时间</b>] 2025-01-08 11:32:35<br/>[<b>漏洞描述</b>] WesHacks下载代码完整性检查不足漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109364'>http://www.nsfocus.net/vulndb/109364</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-52506</font><br/>[<b>披露时间</b>] 2025-01-08 11:32:35<br/>[<b>漏洞描述</b>] Graylog信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109363'>http://www.nsfocus.net/vulndb/109363</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-52304</font><br/>[<b>披露时间</b>] 2025-01-08 11:32:35<br/>[<b>漏洞描述</b>] aiohttp HTTP请求/响应走私漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109362'>http://www.nsfocus.net/vulndb/109362</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-51053</font><br/>[<b>披露时间</b>] 2025-01-08 11:32:35<br/>[<b>漏洞描述</b>] AVSCMS任意文件上传漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109361'>http://www.nsfocus.net/vulndb/109361</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-50849</font><br/>[<b>披露时间</b>] 2025-01-08 11:32:35<br/>[<b>漏洞描述</b>] RWS WorldServer跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109360'>http://www.nsfocus.net/vulndb/109360</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-50848</font><br/>[<b>披露时间</b>] 2025-01-08 11:32:35<br/>[<b>漏洞描述</b>] RWS WorldServer XML外部实体漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109359'>http://www.nsfocus.net/vulndb/109359</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-50804</font><br/>[<b>披露时间</b>] 2025-01-08 11:32:35<br/>[<b>漏洞描述</b>] Micro-star International MSI Center Pro不安全权限漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109358'>http://www.nsfocus.net/vulndb/109358</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-11098</font><br/>[<b>披露时间</b>] 2025-01-08 11:32:35<br/>[<b>漏洞描述</b>] WordPress SVG Block Plugin未授权数据丢失漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109357'>http://www.nsfocus.net/vulndb/109357</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-11069</font><br/>[<b>披露时间</b>] 2025-01-08 11:32:35<br/>[<b>漏洞描述</b>] WordPress GDPR Plugin未授权数据丢失漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109356'>http://www.nsfocus.net/vulndb/109356</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-10388</font><br/>[<b>披露时间</b>] 2025-01-08 11:32:35<br/>[<b>漏洞描述</b>] WordPress GDPR Plugin跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109355'>http://www.nsfocus.net/vulndb/109355</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-10268</font><br/>[<b>披露时间</b>] 2025-01-08 11:32:35<br/>[<b>漏洞描述</b>] WordPress MP3 Audio Player Plugin跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109354'>http://www.nsfocus.net/vulndb/109354</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-50603</font><br/>[<b>披露时间</b>] 2025-01-08 17:31:35<br/>[<b>漏洞描述</b>] Aviatrix Controller /v1/api 存在命令注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13897'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13897</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
