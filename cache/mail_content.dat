@@ -1,11 +1,25 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
+    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-22777</font><br/>[<b>披露时间</b>] 2025-01-13 10:31:33<br/>[<b>漏洞描述</b>] WordPress GiveWP 插件反序列化漏洞 可导致远程代码执行<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13921'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=13921</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-28172</font><br/>[<b>披露时间</b>] 2025-01-13 11:32:32<br/>[<b>漏洞描述</b>] Intel Trace Analyzer and Collector不受控制的搜索路径元素漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109508'>http://www.nsfocus.net/vulndb/109508</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-29015</font><br/>[<b>披露时间</b>] 2025-01-13 11:32:32<br/>[<b>漏洞描述</b>] Intel VTune Profiler不受控制的搜索路径元素漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109507'>http://www.nsfocus.net/vulndb/109507</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-34163</font><br/>[<b>披露时间</b>] 2025-01-13 11:32:32<br/>[<b>漏洞描述</b>] Intel NUC输入验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109506'>http://www.nsfocus.net/vulndb/109506</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-28953</font><br/>[<b>披露时间</b>] 2025-01-13 11:32:32<br/>[<b>漏洞描述</b>] Intel EMON不受控制的搜索路径元素漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109505'>http://www.nsfocus.net/vulndb/109505</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-28947</font><br/>[<b>披露时间</b>] 2025-01-13 11:32:32<br/>[<b>漏洞描述</b>] Intel Server Board S2600ST输入验证错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109504'>http://www.nsfocus.net/vulndb/109504</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-28887</font><br/>[<b>披露时间</b>] 2025-01-13 11:32:32<br/>[<b>漏洞描述</b>] Intel IPP不受控制的搜索路径元素漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109503'>http://www.nsfocus.net/vulndb/109503</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-28876</font><br/>[<b>披露时间</b>] 2025-01-13 11:32:32<br/>[<b>漏洞描述</b>] Intel MPI Library不受控制的搜索路径元素漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109502'>http://www.nsfocus.net/vulndb/109502</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-39283</font><br/>[<b>披露时间</b>] 2025-01-13 11:32:32<br/>[<b>漏洞描述</b>] Intel TDX权限提升漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109501'>http://www.nsfocus.net/vulndb/109501</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-53743</font><br/>[<b>披露时间</b>] 2025-01-13 11:32:32<br/>[<b>漏洞描述</b>] FlickDevs Countdown Timer for Elementor跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109500'>http://www.nsfocus.net/vulndb/109500</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-27461</font><br/>[<b>披露时间</b>] 2025-01-13 11:32:32<br/>[<b>漏洞描述</b>] Intel MAS默认权限错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109499'>http://www.nsfocus.net/vulndb/109499</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-26027</font><br/>[<b>披露时间</b>] 2025-01-13 11:32:32<br/>[<b>漏洞描述</b>] Intel Simics Package Manager不受控制的搜索路径元素漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109498'>http://www.nsfocus.net/vulndb/109498</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-26025</font><br/>[<b>披露时间</b>] 2025-01-13 11:32:32<br/>[<b>漏洞描述</b>] Intel Advisor默认权限错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109497'>http://www.nsfocus.net/vulndb/109497</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-26022</font><br/>[<b>披露时间</b>] 2025-01-13 11:32:32<br/>[<b>漏洞描述</b>] Intel UEFI Integrator Tools访问控制错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109496'>http://www.nsfocus.net/vulndb/109496</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-25939</font><br/>[<b>披露时间</b>] 2025-01-13 11:32:32<br/>[<b>漏洞描述</b>] Intel Xeon Scalable Processors拒绝服务漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109495'>http://www.nsfocus.net/vulndb/109495</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-25576</font><br/>[<b>披露时间</b>] 2025-01-13 11:32:32<br/>[<b>漏洞描述</b>] Intel FPGA访问控制错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109494'>http://www.nsfocus.net/vulndb/109494</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
