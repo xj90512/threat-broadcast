@@ -1,25 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-50338</font><br/>[<b>披露时间</b>] 2025-01-15 05:36:24<br/>[<b>漏洞描述</b>] Microsoft Visual Studio信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109679'>http://www.nsfocus.net/vulndb/109679</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-21409</font><br/>[<b>披露时间</b>] 2025-01-15 05:36:24<br/>[<b>漏洞描述</b>] Microsoft Windows Telephony Service远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109678'>http://www.nsfocus.net/vulndb/109678</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-21405</font><br/>[<b>披露时间</b>] 2025-01-15 05:36:24<br/>[<b>漏洞描述</b>] Microsoft Visual Studio权限提升漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109677'>http://www.nsfocus.net/vulndb/109677</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-21413</font><br/>[<b>披露时间</b>] 2025-01-15 05:36:24<br/>[<b>漏洞描述</b>] Microsoft Windows Telephony Service远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109676'>http://www.nsfocus.net/vulndb/109676</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-21417</font><br/>[<b>披露时间</b>] 2025-01-15 05:36:24<br/>[<b>漏洞描述</b>] Microsoft Windows Telephony Service远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109675'>http://www.nsfocus.net/vulndb/109675</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-21411</font><br/>[<b>披露时间</b>] 2025-01-15 05:36:24<br/>[<b>漏洞描述</b>] Microsoft Windows Telephony Service远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109674'>http://www.nsfocus.net/vulndb/109674</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-21374</font><br/>[<b>披露时间</b>] 2025-01-15 05:36:24<br/>[<b>漏洞描述</b>] Microsoft Windows CSC Service信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109673'>http://www.nsfocus.net/vulndb/109673</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-21378</font><br/>[<b>披露时间</b>] 2025-01-15 05:36:24<br/>[<b>漏洞描述</b>] Microsoft Windows CSC Service权限提升漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109672'>http://www.nsfocus.net/vulndb/109672</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-21403</font><br/>[<b>披露时间</b>] 2025-01-15 05:36:24<br/>[<b>漏洞描述</b>] Microsoft Windows On-Premises Data Gateway信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109671'>http://www.nsfocus.net/vulndb/109671</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-21366</font><br/>[<b>披露时间</b>] 2025-01-15 05:36:24<br/>[<b>漏洞描述</b>] Microsoft Access远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109670'>http://www.nsfocus.net/vulndb/109670</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-21370</font><br/>[<b>披露时间</b>] 2025-01-15 05:36:24<br/>[<b>漏洞描述</b>] Microsoft Windows Virtualization-Based Security Enclave权限提升漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109669'>http://www.nsfocus.net/vulndb/109669</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-21395</font><br/>[<b>披露时间</b>] 2025-01-15 05:36:24<br/>[<b>漏洞描述</b>] Microsoft Access远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109668'>http://www.nsfocus.net/vulndb/109668</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-21382</font><br/>[<b>披露时间</b>] 2025-01-15 05:36:24<br/>[<b>漏洞描述</b>] Microsoft Windows Graphics Component权限提升漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109667'>http://www.nsfocus.net/vulndb/109667</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-21372</font><br/>[<b>披露时间</b>] 2025-01-15 05:36:24<br/>[<b>漏洞描述</b>] Microsoft Windows Brokering File System权限提升漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109666'>http://www.nsfocus.net/vulndb/109666</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-21393</font><br/>[<b>披露时间</b>] 2025-01-15 05:36:24<br/>[<b>漏洞描述</b>] Microsoft SharePoint Server欺骗漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109665'>http://www.nsfocus.net/vulndb/109665</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-21318</font><br/>[<b>披露时间</b>] 2025-01-15 09:33:29<br/>[<b>漏洞描述</b>] Microsoft Windows Kernel Memory信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/109741'>http://www.nsfocus.net/vulndb/109741</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
