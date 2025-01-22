@@ -1,11 +1,25 @@
 
-<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
 <ul>
-    <li><font color="red">1</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-8828</font><br/>[<b>披露时间</b>] 2025-01-22 07:32:27<br/>[<b>漏洞描述</b>] PDF-XChange Editor越界写入远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110286'>http://www.nsfocus.net/vulndb/110286</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-8811</font><br/>[<b>披露时间</b>] 2025-01-22 09:34:05<br/>[<b>漏洞描述</b>] WinZip网页标记绕过漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110335'>http://www.nsfocus.net/vulndb/110335</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-11528</font><br/>[<b>披露时间</b>] 2025-01-22 09:34:05<br/>[<b>漏洞描述</b>] IrfanView内存破坏远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110334'>http://www.nsfocus.net/vulndb/110334</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-11577</font><br/>[<b>披露时间</b>] 2025-01-22 09:34:05<br/>[<b>漏洞描述</b>] Luxion KeyShot堆缓冲区溢出远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110333'>http://www.nsfocus.net/vulndb/110333</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-11530</font><br/>[<b>披露时间</b>] 2025-01-22 09:34:05<br/>[<b>漏洞描述</b>] IrfanView内存破坏远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110332'>http://www.nsfocus.net/vulndb/110332</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-11581</font><br/>[<b>披露时间</b>] 2025-01-22 09:34:05<br/>[<b>漏洞描述</b>] Luxion KeyShot越界读取远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110331'>http://www.nsfocus.net/vulndb/110331</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-11578</font><br/>[<b>披露时间</b>] 2025-01-22 09:34:05<br/>[<b>漏洞描述</b>] Luxion KeyShot堆栈缓冲区溢出远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110330'>http://www.nsfocus.net/vulndb/110330</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-9742</font><br/>[<b>披露时间</b>] 2025-01-22 09:34:05<br/>[<b>漏洞描述</b>] Tungsten Automation Power PDF堆缓冲区溢出远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110329'>http://www.nsfocus.net/vulndb/110329</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-9740</font><br/>[<b>披露时间</b>] 2025-01-22 09:34:05<br/>[<b>漏洞描述</b>] Tungsten Automation Power PDF内存破坏远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110328'>http://www.nsfocus.net/vulndb/110328</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-8827</font><br/>[<b>披露时间</b>] 2025-01-22 09:34:05<br/>[<b>漏洞描述</b>] PDF-XChange Editor越界写入远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110327'>http://www.nsfocus.net/vulndb/110327</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-9746</font><br/>[<b>披露时间</b>] 2025-01-22 09:34:05<br/>[<b>漏洞描述</b>] Tungsten Automation Power PDF越界写入远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110326'>http://www.nsfocus.net/vulndb/110326</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-8849</font><br/>[<b>披露时间</b>] 2025-01-22 09:34:05<br/>[<b>漏洞描述</b>] PDF-XChange Editor越界读取信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110325'>http://www.nsfocus.net/vulndb/110325</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-9257</font><br/>[<b>披露时间</b>] 2025-01-22 09:34:05<br/>[<b>漏洞描述</b>] Logsign Unified SecOps Platform输入验证任意文件删除漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110324'>http://www.nsfocus.net/vulndb/110324</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-9732</font><br/>[<b>披露时间</b>] 2025-01-22 09:34:05<br/>[<b>漏洞描述</b>] Tungsten Automation Power PDF内存错误引用远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110323'>http://www.nsfocus.net/vulndb/110323</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-9758</font><br/>[<b>披露时间</b>] 2025-01-22 09:34:05<br/>[<b>漏洞描述</b>] Tungsten Automation Power PDF越界读取信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110322'>http://www.nsfocus.net/vulndb/110322</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-9747</font><br/>[<b>披露时间</b>] 2025-01-22 09:34:05<br/>[<b>漏洞描述</b>] Tungsten Automation Power PDF越界写入远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110321'>http://www.nsfocus.net/vulndb/110321</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
