@@ -1,25 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-34740</font><br/>[<b>披露时间</b>] 2025-01-21 03:37:41<br/>[<b>漏洞描述</b>] Google Android XML注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110285'>http://www.nsfocus.net/vulndb/110285</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2022-3</font><br/>[<b>披露时间</b>] 2025-01-21 03:37:41<br/>[<b>漏洞描述</b>] WordPress Cookie Notice &amp; Compliance for GDPR/CCPA Plugin存储跨站脚本漏洞（CVE-2022-3<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110284'>http://www.nsfocus.net/vulndb/110284</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-51363</font><br/>[<b>披露时间</b>] 2025-01-21 03:37:41<br/>[<b>漏洞描述</b>] HoDoKu不受信任数据反序列化漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110283'>http://www.nsfocus.net/vulndb/110283</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7852</font><br/>[<b>披露时间</b>] 2025-01-21 03:37:41<br/>[<b>漏洞描述</b>] SourceCodester Yoga Class Registration System跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110282'>http://www.nsfocus.net/vulndb/110282</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-34741</font><br/>[<b>披露时间</b>] 2025-01-21 03:37:41<br/>[<b>漏洞描述</b>] Google Android权限提升漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110281'>http://www.nsfocus.net/vulndb/110281</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7851</font><br/>[<b>披露时间</b>] 2025-01-21 03:37:41<br/>[<b>漏洞描述</b>] SourceCodester Yoga Class Registration System不合理授权漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110280'>http://www.nsfocus.net/vulndb/110280</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-45206</font><br/>[<b>披露时间</b>] 2025-01-21 03:37:41<br/>[<b>漏洞描述</b>] Veeam Service Provider Console信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110279'>http://www.nsfocus.net/vulndb/110279</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-6460</font><br/>[<b>披露时间</b>] 2025-01-21 03:37:41<br/>[<b>漏洞描述</b>] WordPress Grow by Tradedoubler Plugin本地文件包含漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110278'>http://www.nsfocus.net/vulndb/110278</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7144</font><br/>[<b>披露时间</b>] 2025-01-21 03:37:41<br/>[<b>漏洞描述</b>] WordPress JetElements Plugin存储型跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110277'>http://www.nsfocus.net/vulndb/110277</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-10952</font><br/>[<b>披露时间</b>] 2025-01-21 03:37:41<br/>[<b>漏洞描述</b>] WordPress The Authors List plugin代码注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110276'>http://www.nsfocus.net/vulndb/110276</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7630</font><br/>[<b>披露时间</b>] 2025-01-21 03:37:41<br/>[<b>漏洞描述</b>] WordPress Relevanssi Plugin信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110275'>http://www.nsfocus.net/vulndb/110275</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-34742</font><br/>[<b>披露时间</b>] 2025-01-21 03:37:41<br/>[<b>漏洞描述</b>] Google Android类型混淆漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110274'>http://www.nsfocus.net/vulndb/110274</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-34743</font><br/>[<b>披露时间</b>] 2025-01-21 03:37:41<br/>[<b>漏洞描述</b>] Google Android权限提升漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110273'>http://www.nsfocus.net/vulndb/110273</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-46624</font><br/>[<b>披露时间</b>] 2025-01-21 03:37:41<br/>[<b>漏洞描述</b>] InfoDom Performa 365默认权限错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110272'>http://www.nsfocus.net/vulndb/110272</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7841</font><br/>[<b>披露时间</b>] 2025-01-21 03:37:41<br/>[<b>漏洞描述</b>] SourceCodester Clinics Patient Management System SQL注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110271'>http://www.nsfocus.net/vulndb/110271</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-8828</font><br/>[<b>披露时间</b>] 2025-01-22 07:32:27<br/>[<b>漏洞描述</b>] PDF-XChange Editor越界写入远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110286'>http://www.nsfocus.net/vulndb/110286</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
