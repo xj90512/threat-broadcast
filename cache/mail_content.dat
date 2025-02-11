@@ -1,14 +1,15 @@
 
-<h3>发现最新漏洞情报<font color="red">4</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">5</font>条：</h3>
 <ul>
-    <li><font color="red">4</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">5</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-11034</font><br/>[<b>披露时间</b>] 2025-02-11 05:36:33<br/>[<b>漏洞描述</b>] WordPress Request a Quote Plugin任意短代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110614'>http://www.nsfocus.net/vulndb/110614</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-11228</font><br/>[<b>披露时间</b>] 2025-02-11 05:36:33<br/>[<b>漏洞描述</b>] WordPress PAFW Instant Payment Plugin跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110613'>http://www.nsfocus.net/vulndb/110613</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-11199</font><br/>[<b>披露时间</b>] 2025-02-11 05:36:33<br/>[<b>漏洞描述</b>] WordPress Rescue Shortcodes Plugin跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110612'>http://www.nsfocus.net/vulndb/110612</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-11227</font><br/>[<b>披露时间</b>] 2025-02-11 05:36:33<br/>[<b>漏洞描述</b>] WordPress Memberlite Shortcodes Plugin跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/110611'>http://www.nsfocus.net/vulndb/110611</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2011-3923</font><br/>[<b>披露时间</b>] 2025-02-11 16:01:36<br/>[<b>漏洞描述</b>] Apache Struts2 代码注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=14079'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=14079</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-0994</font><br/>[<b>披露时间</b>] 2025-02-11 16:01:35<br/>[<b>漏洞描述</b>] Trimble Cityworks 需授权 反序列化漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=14078'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=14078</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-37358</font><br/>[<b>披露时间</b>] 2025-02-11 11:01:34<br/>[<b>漏洞描述</b>] Apache James 未授权 输入验证不当漏洞 可导致拒绝服务<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=14056'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=14056</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2025-02-11 10:31:38<br/>[<b>漏洞描述</b>] 用友网络 GRP-U8Cloud 逻辑缺陷漏洞 可导致敏感信息泄露<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=14038'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=14038</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2012-0391</font><br/>[<b>披露时间</b>] 2025-02-10 19:01:38<br/>[<b>漏洞描述</b>] Apache Struts2 未授权 代码注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=14021'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=14021</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
