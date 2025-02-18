@@ -1,25 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">15</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">15</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="http://www.nsfocus.net/index.php">绿盟</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-48874</font><br/>[<b>披露时间</b>] 2025-02-17 03:37:23<br/>[<b>漏洞描述</b>] Ruijie Networks ReyeeOS服务器端请求伪造漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/111278'>http://www.nsfocus.net/vulndb/111278</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-48866</font><br/>[<b>披露时间</b>] 2025-02-17 03:37:23<br/>[<b>漏洞描述</b>] QNAP Systems多款产品URL编码处理错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/111277'>http://www.nsfocus.net/vulndb/111277</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-45323</font><br/>[<b>披露时间</b>] 2025-02-17 03:37:23<br/>[<b>漏洞描述</b>] Fortinet FortiEDR访问控制错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/111276'>http://www.nsfocus.net/vulndb/111276</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-45393</font><br/>[<b>披露时间</b>] 2025-02-17 03:37:23<br/>[<b>漏洞描述</b>] Computer Vision Annotation Tool（CVAT）授权缺失漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/111275'>http://www.nsfocus.net/vulndb/111275</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-54214</font><br/>[<b>披露时间</b>] 2025-02-17 03:37:23<br/>[<b>漏洞描述</b>] WordPress Roninwp Revy plugin无限制上传危险文件漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/111274'>http://www.nsfocus.net/vulndb/111274</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-37232</font><br/>[<b>披露时间</b>] 2025-02-17 03:37:23<br/>[<b>漏洞描述</b>] Loftware Spectrum信息泄露漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/111273'>http://www.nsfocus.net/vulndb/111273</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2023-37233</font><br/>[<b>披露时间</b>] 2025-02-17 03:37:23<br/>[<b>漏洞描述</b>] Loftware Spectrum XML外部实体注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/111272'>http://www.nsfocus.net/vulndb/111272</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-48863</font><br/>[<b>披露时间</b>] 2025-02-17 03:37:23<br/>[<b>漏洞描述</b>] QNAP Systems License Center操作系统命令注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/111271'>http://www.nsfocus.net/vulndb/111271</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-45044</font><br/>[<b>披露时间</b>] 2025-02-17 03:37:23<br/>[<b>漏洞描述</b>] Bareos不合理授权漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/111270'>http://www.nsfocus.net/vulndb/111270</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-43800</font><br/>[<b>披露时间</b>] 2025-02-17 03:37:23<br/>[<b>漏洞描述</b>] Express.js跨站脚本漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/111269'>http://www.nsfocus.net/vulndb/111269</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-7818</font><br/>[<b>披露时间</b>] 2025-02-17 03:37:23<br/>[<b>漏洞描述</b>] WordPress Misiek Photo Album Plugin跨站请求伪造漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/111268'>http://www.nsfocus.net/vulndb/111268</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-25074</font><br/>[<b>披露时间</b>] 2025-02-17 03:37:23<br/>[<b>漏洞描述</b>] SAMSUNG Mobile Processor不受信指针解引用漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/111267'>http://www.nsfocus.net/vulndb/111267</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-50393</font><br/>[<b>披露时间</b>] 2025-02-17 03:37:23<br/>[<b>漏洞描述</b>] QNAP Systems多款产品操作系统命令注入漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/111266'>http://www.nsfocus.net/vulndb/111266</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-23185</font><br/>[<b>披露时间</b>] 2025-02-17 03:37:23<br/>[<b>漏洞描述</b>] Open-Xchange Dovecot资源耗尽漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/111265'>http://www.nsfocus.net/vulndb/111265</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-50402</font><br/>[<b>披露时间</b>] 2025-02-17 03:37:23<br/>[<b>漏洞描述</b>] QNAP Systems多款产品格式化字符串错误漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/111264'>http://www.nsfocus.net/vulndb/111264</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 绿盟<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2024-11787</font><br/>[<b>披露时间</b>] 2025-02-18 09:34:35<br/>[<b>漏洞描述</b>] Fuji Electric Monitouch V-SFT堆栈缓冲区溢出远程代码执行漏洞<br/>[<b>相关链接</b>] <a href='http://www.nsfocus.net/vulndb/111279'>http://www.nsfocus.net/vulndb/111279</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
