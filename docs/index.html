@@ -1,4 +1,4 @@
-<!-- RELEASE TIME : 2025-03-06 03:05:35 -->
+<!-- RELEASE TIME : 2025-03-06 05:38:14 -->
 <html lang="zh-cn">
 
  <head>
@@ -280,6 +280,86 @@
        <th scope="col">URL</th>
       </tr>
       <tr>
+       <td scope="row">c06f810839aeeb8ae08884d3fd5c9f3a</td>
+       <td>CVE-2025-27625</td>
+       <td>2025-03-05 23:15:14 <img src="imgs/new.gif" /></td>
+       <td>In Jenkins 2.499 and earlier, LTS 2.492.1 and earlier, redirects starting with backslash (`\`) characters are considered safe, allowing attackers to perform phishing attacks by having users go to a Jenkins URL that will forward them to a different site, because browsers interpret these characters as part of scheme-relative redirects.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-27625">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">891190bae20a399a80c311b4ca7738e7</td>
+       <td>CVE-2025-27624</td>
+       <td>2025-03-05 23:15:14 <img src="imgs/new.gif" /></td>
+       <td>A cross-site request forgery (CSRF) vulnerability in Jenkins 2.499 and earlier, LTS 2.492.1 and earlier allows attackers to have users toggle their collapsed/expanded status of sidepanel widgets (e.g., Build Queue and Build Executor Status widgets).</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-27624">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">c8197bd18732a77786dc4570a822382f</td>
+       <td>CVE-2025-27623</td>
+       <td>2025-03-05 23:15:14 <img src="imgs/new.gif" /></td>
+       <td>Jenkins 2.499 and earlier, LTS 2.492.1 and earlier does not redact encrypted values of secrets when accessing `config.xml` of views via REST API or CLI, allowing attackers with View/Read permission to view encrypted values of secrets.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-27623">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">08ffe6db287ce73bea7c0b6cbf5554c2</td>
+       <td>CVE-2025-27622</td>
+       <td>2025-03-05 23:15:13 <img src="imgs/new.gif" /></td>
+       <td>Jenkins 2.499 and earlier, LTS 2.492.1 and earlier does not redact encrypted values of secrets when accessing `config.xml` of agents via REST API or CLI, allowing attackers with Agent/Extended Read permission to view encrypted values of secrets.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-27622">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">a422340ed39482e332382adaad13ed8c</td>
+       <td>CVE-2025-27508</td>
+       <td>2025-03-05 22:15:35 <img src="imgs/new.gif" /></td>
+       <td>Emissary is a P2P based data-driven workflow engine. The ChecksumCalculator class within allows for hashing and checksum generation, but it includes or defaults to algorithms that are no longer recommended for secure cryptographic use cases (e.g., SHA-1, CRC32, and SSDEEP). These algorithms, while possibly valid for certain non-security-critical tasks, can expose users to security risks if used in scenarios where strong cryptographic guarantees are required. This issue is fixed in 8.24.0.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-27508">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">53dcb8cabc7fbce4d974227d3bb094bb</td>
+       <td>CVE-2025-27516</td>
+       <td>2025-03-05 21:15:20 <img src="imgs/new.gif" /></td>
+       <td>Jinja is an extensible templating engine. Prior to 3.1.6, an oversight in how the Jinja sandboxed environment interacts with the |attr filter allows an attacker that controls the content of a template to execute arbitrary Python code. To exploit the vulnerability, an attacker needs to control the content of a template. Whether that is the case depends on the type of application using Jinja. This vulnerability impacts users of applications which execute untrusted templates. Jinja's sandbox does catch calls to str.format and ensures they don't escape the sandbox. However, it's possible to use the |attr filter to get a reference to a string's plain format method, bypassing the sandbox. After the fix, the |attr filter no longer bypasses the environment's attribute lookup. This vulnerability is fixed in 3.1.6.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-27516">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">fba7d18d9f924e8fd14dc9ab1b1b03e8</td>
+       <td>CVE-2025-25634</td>
+       <td>2025-03-05 21:15:19 <img src="imgs/new.gif" /></td>
+       <td>A vulnerability has been found in Tenda AC15 15.03.05.19 in the function GetParentControlInfo of the file /goform/GetParentControlInfo. The manipulation of the argument src leads to stack-based buffer overflow.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-25634">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">32820f0ef452b50fef851478619f9bb8</td>
+       <td>CVE-2025-25632</td>
+       <td>2025-03-05 21:15:19 <img src="imgs/new.gif" /></td>
+       <td>Tenda AC15 v15.03.05.19 is vulnerable to Command Injection via the handler function in /goform/telnet.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-25632">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">27b5bdc0e3852ce4b067d453a5445250</td>
+       <td>CVE-2025-25362</td>
+       <td>2025-03-05 21:15:19 <img src="imgs/new.gif" /></td>
+       <td>A Server-Side Template Injection (SSTI) vulnerability in Spacy-LLM v0.7.2 allows attackers to execute arbitrary code via injecting a crafted payload into the template field.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-25362">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">918131658590553323c407bfbc8d5f9a</td>
+       <td>CVE-2024-57174</td>
+       <td>2025-03-05 21:15:19 <img src="imgs/new.gif" /></td>
+       <td>A misconfiguration in Alphion ASEE-1443 Firmware v0.4.H.00.02.15 defines a previously unregistered domain name as the default DNS suffix. This allows attackers to register the unclaimed domain and point its wildcard DNS entry to an attacker-controlled IP address, making it possible to access sensitive information.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-57174">详情</a></td>
+      </tr>
+
+      <tr>
        <td scope="row">36899e66420ba93cd0e570307536cf6b</td>
        <td>CVE-2025-23416</td>
        <td>2025-03-05 04:23:54 <img src="imgs/new.gif" /></td>
@@ -437,86 +517,6 @@
        <td>2025-03-04 00:15:31</td>
        <td>A vulnerability has been found in shishuocms 1.1 and classified as critical. This vulnerability affects the function handleRequest of the file src/main/java/com/shishuo/cms/action/manage/ManageUpLoadAction.java. The manipulation of the argument file leads to unrestricted upload. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-1890">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">9f04288bf30c40b91583678a46a24ebf</td>
-       <td>CVE-2025-27585</td>
-       <td>2025-03-03 01:15:12</td>
-       <td>A stored cross-site scripting (XSS) vulnerability in Serosoft Solutions Pvt Ltd Academia Student Information System (SIS) EagleR v1.0.118 allows attackers to execute arbitrary web scripts or HTML via injecting a crafted payload into the Print Name parameter at /rest/staffResource/update.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-27585">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">a65272fa7edaeefdf24840e5d9f5621e</td>
-       <td>CVE-2025-27584</td>
-       <td>2025-03-03 01:15:12</td>
-       <td>A stored cross-site scripting (XSS) vulnerability in Serosoft Solutions Pvt Ltd Academia Student Information System (SIS) EagleR v1.0.118 allows attackers to execute arbitrary web scripts or HTML via injecting a crafted payload into the First Name parameter at /rest/staffResource/update.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-27584">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">5c610c3e93da029c2b8eeafec5fc7647</td>
-       <td>CVE-2025-27583</td>
-       <td>2025-03-03 01:15:12</td>
-       <td>Incorrect access control in the component /rest/staffResource/findAllUsersAcrossOrg of Serosoft Solutions Pvt Ltd Academia Student Information System (SIS) EagleR v1.0.118 allows create and modify user accounts, including an Administrator account.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-27583">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">fc63d9afab3fd518ca996a32456a4260</td>
-       <td>CVE-2025-25953</td>
-       <td>2025-03-03 01:15:11</td>
-       <td>Serosoft Solutions Pvt Ltd Academia Student Information System (SIS) EagleR v1.0.118 was discovered to contain an Azure JWT access token exposure. This vulnerability allows authenticated attackers to escalate privileges and access sensitive information.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-25953">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">716a1e2abb537a1c8fc50ea46efc179c</td>
-       <td>CVE-2025-25952</td>
-       <td>2025-03-03 01:15:11</td>
-       <td>An Insecure Direct Object References (IDOR) in the component /getStudemtAllDetailsById?studentId=XX of Serosoft Solutions Pvt Ltd Academia Student Information System (SIS) EagleR v1.0.118 allows attackers to access sensitive user information via a crafted API request.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-25952">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">6e1578a02d8d84ec077c331086ded8db</td>
-       <td>CVE-2025-25951</td>
-       <td>2025-03-03 01:15:11</td>
-       <td>An information disclosure vulnerability in the component /rest/cb/executeBasicSearch of Serosoft Solutions Pvt Ltd Academia Student Information System (SIS) EagleR v1.0.118 allows attackers to access sensitive user information.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-25951">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">e7f618f9c50716da9292c26bdfcacae6</td>
-       <td>CVE-2025-25950</td>
-       <td>2025-03-03 01:15:11</td>
-       <td>Incorrect access control in the component /rest/staffResource/update of Serosoft Solutions Pvt Ltd Academia Student Information System (SIS) EagleR v1.0.118 allows create and modify user accounts, including an Administrator account.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-25950">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">ff452da27434b1dc0c0ad1655bcbf72a</td>
-       <td>CVE-2025-25949</td>
-       <td>2025-03-03 01:15:11</td>
-       <td>A stored cross-site scripting (XSS) vulnerability in Serosoft Solutions Pvt Ltd Academia Student Information System (SIS) EagleR v1.0.118 allows attackers to execute arbitrary web scripts or HTML via injecting a crafted payload into the User ID parameter at /rest/staffResource/update.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-25949">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">7c784497583ed8bdfe46df0b6c0e515c</td>
-       <td>CVE-2025-25948</td>
-       <td>2025-03-03 01:15:11</td>
-       <td>Incorrect access control in the component /rest/staffResource/create of Serosoft Solutions Pvt Ltd Academia Student Information System (SIS) EagleR v1.0.118 allows create and modify user accounts, including an Administrator account.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-25948">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">5d62fd331d4a7c2d2660b787768bd240</td>
-       <td>CVE-2025-1843</td>
-       <td>2025-03-03 01:15:11</td>
-       <td>A vulnerability, which was classified as critical, has been found in Mini-Tmall up to 20250211. This issue affects the function select of the file com/xq/tmall/dao/ProductMapper.java. The manipulation of the argument orderBy leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-1843">详情</a></td>
       </tr>
 
      </tbody>
