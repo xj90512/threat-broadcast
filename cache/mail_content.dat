@@ -5,7 +5,7 @@
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-1953</font><br/>[<b>披露时间</b>] 2025-03-19 11:08:03<br/>[<b>漏洞描述</b>] AIBrix 安全特征问题漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=14430'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=14430</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2025-03-17 14:31:40<br/>[<b>漏洞描述</b>] 用友 U8+CRM客户关系管理软件 /eventset/eventsetlist.php 存在SQL注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=14405'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=14405</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
