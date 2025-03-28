@@ -1,20 +1,11 @@
 
-<h3>发现最新漏洞情报<font color="red">10</font>条：</h3>
+<h3>发现最新漏洞情报<font color="red">1</font>条：</h3>
 <ul>
-    <li><font color="red">10</font>条由 [<a href="https://www.tenable.com/">Tenable (Nessus)</a>] 提供</li>
+    <li><font color="red">1</font>条由 [<a href="https://poc.shuziguanxing.com/">数字观星POC++</a>] 提供</li>
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-31165</font><br/>[<b>披露时间</b>] 2025-03-27 04:15:29<br/>[<b>漏洞描述</b>] Cross-Site Scripting (XSS) vulnerability in the Logbug module of NightWolf Penetration Testing Platform 1.2.2 allows attackers to execute JavaScript through the markdown editor feature.<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2025-31165'>https://www.tenable.com/cve/CVE-2025-31165</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-31113</font><br/>[<b>披露时间</b>] 2025-03-27 04:15:29<br/>[<b>漏洞描述</b>] Rejected reason: Not used<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2025-31113'>https://www.tenable.com/cve/CVE-2025-31113</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-31112</font><br/>[<b>披露时间</b>] 2025-03-27 04:15:29<br/>[<b>漏洞描述</b>] Rejected reason: Not used<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2025-31112'>https://www.tenable.com/cve/CVE-2025-31112</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-31111</font><br/>[<b>披露时间</b>] 2025-03-27 04:15:29<br/>[<b>漏洞描述</b>] Rejected reason: Not used<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2025-31111'>https://www.tenable.com/cve/CVE-2025-31111</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-31110</font><br/>[<b>披露时间</b>] 2025-03-27 04:15:28<br/>[<b>漏洞描述</b>] Rejected reason: Not used<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2025-31110'>https://www.tenable.com/cve/CVE-2025-31110</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-31109</font><br/>[<b>披露时间</b>] 2025-03-27 04:15:28<br/>[<b>漏洞描述</b>] Rejected reason: Not used<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2025-31109'>https://www.tenable.com/cve/CVE-2025-31109</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-31108</font><br/>[<b>披露时间</b>] 2025-03-27 04:15:28<br/>[<b>漏洞描述</b>] Rejected reason: Not used<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2025-31108'>https://www.tenable.com/cve/CVE-2025-31108</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-31107</font><br/>[<b>披露时间</b>] 2025-03-27 04:15:28<br/>[<b>漏洞描述</b>] Rejected reason: Not used<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2025-31107'>https://www.tenable.com/cve/CVE-2025-31107</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-31106</font><br/>[<b>披露时间</b>] 2025-03-27 04:15:28<br/>[<b>漏洞描述</b>] Rejected reason: Not used<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2025-31106'>https://www.tenable.com/cve/CVE-2025-31106</a>
-<br/>==============================================<br/>[<b>漏洞来源</b>] Tenable (Nessus)<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-31105</font><br/>[<b>披露时间</b>] 2025-03-27 04:15:27<br/>[<b>漏洞描述</b>] Rejected reason: Not used<br/>[<b>相关链接</b>] <a href='https://www.tenable.com/cve/CVE-2025-31105'>https://www.tenable.com/cve/CVE-2025-31105</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2025-03-19 16:31:33<br/>[<b>漏洞描述</b>] 妖气山视频管理系统 /api/get_media_list_by_filter.json 存在SQL注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=14443'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=14443</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
