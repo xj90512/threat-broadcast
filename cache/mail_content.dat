@@ -5,7 +5,7 @@
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2025-03-19 16:31:33<br/>[<b>漏洞描述</b>] 妖气山视频管理系统 /api/get_media_list_by_filter.json 存在SQL注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=14443'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=14443</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-29927</font><br/>[<b>披露时间</b>] 2025-03-24 12:51:49<br/>[<b>漏洞描述</b>] Vercel Next.Js x-middleware-subrequest 存在权限管理不当漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=14458'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=14458</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
