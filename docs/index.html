@@ -1,4 +1,4 @@
-<!-- RELEASE TIME : 2025-04-14 07:37:05 -->
+<!-- RELEASE TIME : 2025-04-15 06:46:23 -->
 <html lang="zh-cn">
 
  <head>
@@ -362,7 +362,7 @@
       <tr>
        <td scope="row">2f17290c042cce0e9dafa0d7882458cd</td>
        <td>CVE-2025-2814</td>
-       <td>2025-04-13 00:15:14 <img src="imgs/new.gif" /></td>
+       <td>2025-04-13 00:15:14</td>
        <td>Crypt::CBC versions between 1.21 and 3.04 for Perl may use the rand() function as the default source of entropy, which is not cryptographically secure, for cryptographic functions. This issue affects operating systems where "/dev/urandom'" is unavailable. In that case, Crypt::CBC will fallback to use the insecure rand() function.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-2814">详情</a></td>
       </tr>
@@ -1492,6 +1492,14 @@
       </tr>
 
       <tr>
+       <td scope="row">bf32befa629a638d5e4f85f1ad5dcd30</td>
+       <td>CVE-2025-32395</td>
+       <td>2025-04-11 15:51:41</td>
+       <td>Vite 存在访问控制不当可导致任意文件读取漏洞(CVE-2025-32395)</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=14632">详情</a></td>
+      </tr>
+
+      <tr>
        <td scope="row">5fdffac1466d42844fd21d764ffc1d98</td>
        <td></td>
        <td>2025-03-25 18:31:39</td>
@@ -1713,14 +1721,6 @@
        <td>2025-02-25 11:41:47</td>
        <td>Palo Alto Networks PAN-OS 路径遍历漏洞</td>
        <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=14226">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">470289dd264e3b4fec567dafd4092d18</td>
-       <td>CVE-2025-1094</td>
-       <td>2025-02-21 11:01:57</td>
-       <td>PostgreSQL SQL注入漏洞</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=14209">详情</a></td>
       </tr>
 
      </tbody>
