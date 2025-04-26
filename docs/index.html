@@ -1,4 +1,4 @@
-<!-- RELEASE TIME : 2025-04-25 22:41:11 -->
+<!-- RELEASE TIME : 2025-04-26 23:34:51 -->
 <html lang="zh-cn">
 
  <head>
@@ -280,6 +280,86 @@
        <th scope="col">URL</th>
       </tr>
       <tr>
+       <td scope="row">6619b763bdd485d5a8a9d6d6aea21b8c</td>
+       <td>CVE-2025-46656</td>
+       <td>2025-04-26 22:15:17 <img src="imgs/new.gif" /></td>
+       <td>python-markdownify (aka markdownify) before 0.14.1 allows large headline prefixes such as <h9999999> in addition to <h1> through <h6>. This causes memory consumption.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-46656">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">3aa1c241fb5280f45a553229b2c16af0</td>
+       <td>CVE-2025-3954</td>
+       <td>2025-04-26 22:15:16 <img src="imgs/new.gif" /></td>
+       <td>A vulnerability, which was classified as problematic, has been found in ChurchCRM 5.16.0. Affected by this issue is some unknown functionality of the component Referer Handler. The manipulation leads to server-side request forgery. The attack may be launched remotely. The complexity of an attack is rather high. The exploitation is known to be difficult. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-3954">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">44f20aa073dd444278e5d08ca00faefc</td>
+       <td>CVE-2025-46655</td>
+       <td>2025-04-26 21:15:15 <img src="imgs/new.gif" /></td>
+       <td>CodiMD through 2.5.4 has a CSP-based protection mechanism against XSS through uploaded SVG documents containing JavaScript, but it can be bypassed in certain cases of different-origin file storage, such as AWS S3. NOTE: it can be considered a user error if AWS is employed for hosting untrusted JavaScript content, but the selected architecture within AWS does not have components that are able to insert Content-Security-Policy headers.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-46655">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">14ff2147d65495333a24317ab8596039</td>
+       <td>CVE-2025-46654</td>
+       <td>2025-04-26 21:15:15 <img src="imgs/new.gif" /></td>
+       <td>CodiMD through 2.2.0 has a CSP-based protection mechanism against XSS through uploaded JavaScript content, but it can be bypassed by uploading a .html file that references an uploaded .js file.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-46654">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">ab9ae543b45ac9741e9696bd566b8420</td>
+       <td>CVE-2025-46653</td>
+       <td>2025-04-26 21:15:14 <img src="imgs/new.gif" /></td>
+       <td>Formidable (aka node-formidable) 2.1.0 through 3.x before 3.5.3 relies on hexoid to prevent guessing of filenames for untrusted executable content; however, hexoid is documented as not "cryptographically secure." (Also, there is a scenario in which only the last two characters of a hexoid string need to be guessed, but this is not often relevant.) NOTE: this does not imply that, in a typical use case, attackers will be able to exploit any hexoid behavior to upload and execute their own content.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-46653">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">505f251f0e3f089dd1c537ce1742d15a</td>
+       <td>CVE-2025-46652</td>
+       <td>2025-04-26 18:15:31 <img src="imgs/new.gif" /></td>
+       <td>In IZArc through 4.5, there is a Mark-of-the-Web Bypass Vulnerability. When a user performs an extraction from an archive file that bears Mark-of-the-Web, Mark-of-the-Web is not propagated to the extracted files.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-46652">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">e0dba901389586b446c31af00c0d547f</td>
+       <td>CVE-2025-46646</td>
+       <td>2025-04-26 15:15:45 <img src="imgs/new.gif" /></td>
+       <td>In Artifex Ghostscript before 10.05.0, decode_utf8 in base/gp_utf8.c mishandles overlong UTF-8 encoding. NOTE: this issue exists because of an incomplete fix for CVE-2024-46954.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-46646">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">8ebdca284ce35de798f3ae0186ec4e77</td>
+       <td>CVE-2024-53636</td>
+       <td>2025-04-26 15:15:44 <img src="imgs/new.gif" /></td>
+       <td>An arbitrary file upload vulnerability via writefile.php of Serosoft Academia Student Information System (SIS) EagleR-1.0.118 allows attackers to execute arbitrary code via ../ in the filePath parameter.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-53636">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">9053a95bd7bc899228913e86136f56c6</td>
+       <td>CVE-2025-2101</td>
+       <td>2025-04-26 09:15:19 <img src="imgs/new.gif" /></td>
+       <td>The Edumall theme for WordPress is vulnerable to Local File Inclusion in all versions up to, and including, 4.2.4 via the 'template' parameter of the 'edumall_lazy_load_template' AJAX action. This makes it possible for unauthenticated attackers to include and execute arbitrary PHP files on the server, allowing the execution of any PHP code in those files. This can be used to bypass access controls, obtain sensitive data, or achieve code execution in cases where PHP files can be uploaded and included.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-2101">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">11cab3da3a35b8b942b44bacf2c0a664</td>
+       <td>CVE-2024-13812</td>
+       <td>2025-04-26 09:15:17 <img src="imgs/new.gif" /></td>
+       <td>The The Anps Theme plugin plugin for WordPress is vulnerable to arbitrary shortcode execution in all versions up to, and including, 1.1.1. This is due to the software allowing users to execute an action that does not properly validate a value before running do_shortcode. This makes it possible for unauthenticated attackers to execute arbitrary shortcodes.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-13812">详情</a></td>
+      </tr>
+
+      <tr>
        <td scope="row">c55508cf763bd03db4ffb8d3851d1b9d</td>
        <td>CVE-2025-3935</td>
        <td>2025-04-25 19:15:49 <img src="imgs/new.gif" /></td>
@@ -362,7 +442,7 @@
       <tr>
        <td scope="row">d6f18348b7f7501d1111fe2fac507632</td>
        <td>CVE-2025-43861</td>
-       <td>2025-04-24 20:49:57 <img src="imgs/new.gif" /></td>
+       <td>2025-04-24 20:49:57</td>
        <td>ManageWiki is a MediaWiki extension allowing users to manage wikis. Prior to commit 2f177dc, ManageWiki is vulnerable to reflected or stored XSS in the review dialog. A logged-in attacker must change a form field to include a malicious payload. If that same user then opens the "Review Changes" dialog, the payload will be rendered and executed in the context of their own session. This issue has been patched in commit 2f177dc.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-43861">详情</a></td>
       </tr>
@@ -370,7 +450,7 @@
       <tr>
        <td scope="row">de5834476320206c4cc064e833695471</td>
        <td>CVE-2022-44759</td>
-       <td>2025-04-24 20:38:36 <img src="imgs/new.gif" /></td>
+       <td>2025-04-24 20:38:36</td>
        <td>Improper sanitization of SVG files in HCL Leap allows client-side script injection in deployed applications.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2022-44759">详情</a></td>
       </tr>
@@ -378,7 +458,7 @@
       <tr>
        <td scope="row">1c2198598e2f096babf69ed8d08c3921</td>
        <td>CVE-2022-44760</td>
-       <td>2025-04-24 20:37:58 <img src="imgs/new.gif" /></td>
+       <td>2025-04-24 20:37:58</td>
        <td>Unsafe default file type filter policy in HCL Leap allows execution of unsafe JavaScript in deployed applications.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2022-44760">详情</a></td>
       </tr>
@@ -386,7 +466,7 @@
       <tr>
        <td scope="row">ebf8e22cba4eaeb9a8524fb4141e78cb</td>
        <td>CVE-2023-37516</td>
-       <td>2025-04-24 20:37:20 <img src="imgs/new.gif" /></td>
+       <td>2025-04-24 20:37:20</td>
        <td>Missing "no cache" headers in HCL Leap permits user directory information to be cached.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-37516">详情</a></td>
       </tr>
@@ -394,7 +474,7 @@
       <tr>
        <td scope="row">3d7805746c74173da8ab5166c6d3d51e</td>
        <td>CVE-2024-30127</td>
-       <td>2025-04-24 20:35:13 <img src="imgs/new.gif" /></td>
+       <td>2025-04-24 20:35:13</td>
        <td>Missing "no cache" headers in HCL Leap permits sensitive data to be cached.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-30127">详情</a></td>
       </tr>
@@ -402,7 +482,7 @@
       <tr>
        <td scope="row">255da108e6d693fe615ca14833446b15</td>
        <td>CVE-2025-26382</td>
-       <td>2025-04-24 20:15:31 <img src="imgs/new.gif" /></td>
+       <td>2025-04-24 20:15:31</td>
        <td>Under certain circumstances the iSTAR Configuration Utility (ICU) tool could have a buffer overflow issue</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-26382">详情</a></td>
       </tr>
@@ -410,7 +490,7 @@
       <tr>
        <td scope="row">5ad2db7af9195cc2ffcffe28f90530c0</td>
        <td>CVE-2025-43859</td>
-       <td>2025-04-24 19:15:47 <img src="imgs/new.gif" /></td>
+       <td>2025-04-24 19:15:47</td>
        <td>h11 is a Python implementation of HTTP/1.1. Prior to version 0.16.0, a leniency in h11's parsing of line terminators in chunked-coding message bodies can lead to request smuggling vulnerabilities under certain conditions. This issue has been patched in version 0.16.0. Since exploitation requires the combination of buggy h11 with a buggy (reverse) proxy, fixing either component is sufficient to mitigate this issue.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-43859">详情</a></td>
       </tr>
@@ -418,7 +498,7 @@
       <tr>
        <td scope="row">294ec674d0149f08c04e7f51e3c241fe</td>
        <td>CVE-2025-43858</td>
-       <td>2025-04-24 18:15:20 <img src="imgs/new.gif" /></td>
+       <td>2025-04-24 18:15:20</td>
        <td>YoutubeDLSharp is a wrapper for the command-line video downloaders youtube-dl and yt-dlp. In versions starting from 1.0.0-beta4 and prior to 1.1.2, an unsafe conversion of arguments allows the injection of a malicious commands when starting `yt-dlp` from a commands prompt running on Windows OS with the `UseWindowsEncodingWorkaround` value defined to true (default behavior). If a user is using built-in methods from the YoutubeDL.cs file, the value is true by default and a user cannot disable it from these methods. This issue has been patched in version 1.1.2.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-43858">详情</a></td>
       </tr>
@@ -426,7 +506,7 @@
       <tr>
        <td scope="row">ee33ff052235c99ff21d73f7507d4ba6</td>
        <td>CVE-2025-31324</td>
-       <td>2025-04-24 17:15:35 <img src="imgs/new.gif" /></td>
+       <td>2025-04-24 17:15:35</td>
        <td>SAP NetWeaver Visual Composer Metadata Uploader is not protected with a proper authorization, allowing unauthenticated agent to upload potentially malicious executable binaries that could severely harm the host system. This could significantly affect the confidentiality, integrity, and availability of the targeted system.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-31324">详情</a></td>
       </tr>
@@ -434,89 +514,9 @@
       <tr>
        <td scope="row">cf5b1d23676eedb0962af5b9d1b3e086</td>
        <td>CVE-2024-30147</td>
-       <td>2025-04-24 17:15:35 <img src="imgs/new.gif" /></td>
+       <td>2025-04-24 17:15:35</td>
        <td>Multiple vectors in HCL Leap allow client-side script injection in the authoring environment and deployed applications.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-30147">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">df5634c2ad77fda3b2d9619a9044b284</td>
-       <td>CVE-2025-3832</td>
-       <td>2025-04-24 09:15:32 <img src="imgs/new.gif" /></td>
-       <td>The FuseDesk plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the ‘successredirect’ parameter in all versions up to, and including, 6.7 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with Contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-3832">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">c95fe7e4fe646edbc0a3c54204f56368</td>
-       <td>CVE-2025-3793</td>
-       <td>2025-04-24 09:15:32 <img src="imgs/new.gif" /></td>
-       <td>The Buddypress Force Password Change plugin for WordPress is vulnerable to authenticated account takeover due to the plugin not properly validating a user's identity prior to updating their password through the 'bp_force_password_ajax' function in all versions up to, and including, 0.1. This makes it possible for authenticated attackers, with subscriber-level access and above and under certain prerequisites, to change arbitrary user's passwords, including administrators, and leverage that to gain access to their accounts.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-3793">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">5f1dce1c53e04df03923bc92482f6297</td>
-       <td>CVE-2025-3776</td>
-       <td>2025-04-24 09:15:31 <img src="imgs/new.gif" /></td>
-       <td>The Verification SMS with TargetSMS plugin for WordPress is vulnerable to limited Remote Code Execution in all versions up to, and including, 1.5 via the 'targetvr_ajax_handler' function. This is due to a lack of validation on the type of function that can be called. This makes it possible for unauthenticated attackers to execute any callable function on the site, such as phpinfo().</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-3776">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">12a1209a0b3c0e0e02cfdd1eeb037f30</td>
-       <td>CVE-2025-3607</td>
-       <td>2025-04-24 09:15:31 <img src="imgs/new.gif" /></td>
-       <td>The Frontend Login and Registration Blocks plugin for WordPress is vulnerable to privilege escalation via account takeover in all versions up to, and including, 1.0.7. This is due to the plugin not properly validating a user's identity prior to updating a password. This makes it possible for authenticated attackers, with Subscriber-level access and above, to change arbitrary user's passwords, including administrators, and leverage that to gain access to their account.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-3607">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">43cdd10ed3f1128942fa38118948a312</td>
-       <td>CVE-2025-3604</td>
-       <td>2025-04-24 09:15:31 <img src="imgs/new.gif" /></td>
-       <td>The Flynax Bridge plugin for WordPress is vulnerable to privilege escalation via account takeover in all versions up to, and including, 2.2.0. This is due to the plugin not properly validating a user's identity prior to updating their details like email. This makes it possible for unauthenticated attackers to change arbitrary user's email addresses, including administrators, and leverage that to reset the user's password and gain access to their account.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-3604">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">f1be86dc64b4af9b15729f92ca501382</td>
-       <td>CVE-2025-3603</td>
-       <td>2025-04-24 09:15:31 <img src="imgs/new.gif" /></td>
-       <td>The Flynax Bridge plugin for WordPress is vulnerable to privilege escalation via account takeover in all versions up to, and including, 2.2.0. This is due to the plugin not properly validating a user's identity prior to updating their details like password. This makes it possible for unauthenticated attackers to change arbitrary user's passwords, including administrators, and leverage that to gain access to their account.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-3603">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">940e664b0446c3a7325c8999770161b0</td>
-       <td>CVE-2025-3300</td>
-       <td>2025-04-24 09:15:31 <img src="imgs/new.gif" /></td>
-       <td>The WPMasterToolKit (WPMTK) – All in one plugin plugin for WordPress is vulnerable to Directory Traversal in all versions up to, and including, 2.5.2. This makes it possible for authenticated attackers, with Administrator-level access and above, to read and modify the contents of arbitrary files on the server, which can contain sensitive information.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-3300">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">ab4335dd74b0716d8a73800b21c1bab3</td>
-       <td>CVE-2025-3280</td>
-       <td>2025-04-24 09:15:31 <img src="imgs/new.gif" /></td>
-       <td>The ELEX WooCommerce Advanced Bulk Edit Products, Prices & Attributes plugin for WordPress is vulnerable to SQL Injection via the 'attribute_value_filter' parameter in all versions up to, and including, 1.4.9 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for authenticated attackers, with Subscriber-level access and above, to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-3280">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">b0bfddb29c72a6549728a6b160e3d48f</td>
-       <td>CVE-2025-3101</td>
-       <td>2025-04-24 09:15:30 <img src="imgs/new.gif" /></td>
-       <td>The Configurator Theme Core plugin for WordPress is vulnerable to privilege escalation in all versions up to, and including, 1.4.7. This is due to the plugin not properly validating user meta fields prior to updating them in the database. This makes it possible for authenticated attackers, with Subscriber-level access and above, to change escalate their privileges to Administrator.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-3101">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">207e9d162318506e4a949bc9173fc20a</td>
-       <td>CVE-2025-3065</td>
-       <td>2025-04-24 09:15:30 <img src="imgs/new.gif" /></td>
-       <td>The Database Toolset plugin is vulnerable to arbitrary file deletion due to insufficient file path validation in a function in all versions up to, and including, 1.8.4. This makes it possible for unauthenticated attackers to delete arbitrary files on the server, which can easily lead to remote code execution when the right file is deleted (such as wp-config.php).</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-3065">详情</a></td>
       </tr>
 
      </tbody>
