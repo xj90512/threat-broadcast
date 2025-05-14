@@ -1,4 +1,4 @@
-<!-- RELEASE TIME : 2025-05-13 21:36:50 -->
+<!-- RELEASE TIME : 2025-05-14 02:18:52 -->
 <html lang="zh-cn">
 
  <head>
@@ -442,7 +442,7 @@
       <tr>
        <td scope="row">6426a20bef2f15a6bf91db60e6600b63</td>
        <td>CVE-2025-40627</td>
-       <td>2025-05-12 12:15:17 <img src="imgs/new.gif" /></td>
+       <td>2025-05-12 12:15:17</td>
        <td>Reflected Cross-Site Scripting (XSS) vulnerability in AbanteCart v1.4.0, that could allow an attacker to execute JavaScript code in a victim's browser by sending the victim a malicious URL. This vulnerability can be exploited to steal sensitive user data, such as session cookies, or to perform actions on behalf of the user, through "/eyes? [XSS_PAYLOAD]".</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-40627">详情</a></td>
       </tr>
@@ -450,7 +450,7 @@
       <tr>
        <td scope="row">562a75cf0196b5f2b50350489b686e31</td>
        <td>CVE-2025-40626</td>
-       <td>2025-05-12 12:15:17 <img src="imgs/new.gif" /></td>
+       <td>2025-05-12 12:15:17</td>
        <td>Reflected Cross-Site Scripting (XSS) vulnerability in AbanteCart v1.4.0, that could allow an attacker to execute JavaScript code in a victim's browser by sending the victim a malicious URL. This vulnerability can be exploited to steal sensitive user data, such as session cookies, or to perform actions on behalf of the user, through "/about_us?[XSS_PAYLOAD]".</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-40626">详情</a></td>
       </tr>
@@ -458,7 +458,7 @@
       <tr>
        <td scope="row">a3837d1e4b85df4ef7c2258cc2a7de7b</td>
        <td>CVE-2025-47271</td>
-       <td>2025-05-12 11:15:51 <img src="imgs/new.gif" /></td>
+       <td>2025-05-12 11:15:51</td>
        <td>The OZI action is a GitHub Action that publishes releases to PyPI and mirror releases, signature bundles, and provenance in a tagged release. In versions 1.13.2 through 1.13.5, potentially untrusted data flows into PR creation logic. A malicious actor could construct a branch name that injects arbitrary code. This is patched in 1.13.6. As a workaround, one may downgrade to a version prior to 1.13.2.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-47271">详情</a></td>
       </tr>
@@ -466,7 +466,7 @@
       <tr>
        <td scope="row">d8bc5aae8dfdff6d8b66aa0ab027513b</td>
        <td>CVE-2025-47270</td>
-       <td>2025-05-12 11:15:51 <img src="imgs/new.gif" /></td>
+       <td>2025-05-12 11:15:51</td>
        <td>nimiq/core-rs-albatross is a Rust implementation of the Nimiq Proof-of-Stake protocol based on the Albatross consensus algorithm. The `nimiq-network-libp2p` subcrate of nimiq/core-rs-albatross is vulnerable to a Denial of Service (DoS) attack due to uncontrolled memory allocation. Specifically, the implementation of the `Discovery` network message handling allocates a buffer based on a length value provided by the peer, without enforcing an upper bound. Since this length is a `u32`, a peer can trigger allocations of up to 4 GB, potentially leading to memory exhaustion and node crashes. As Discovery messages are regularly exchanged for peer discovery, this vulnerability can be exploited repeatedly. The patch for this vulnerability is formally released as part of v1.1.0. The patch implements a limit to the discovery message size of 1 MB and also resizes the message buffer size incrementally as the data is read. No known workarounds are available.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-47270">详情</a></td>
       </tr>
@@ -474,7 +474,7 @@
       <tr>
        <td scope="row">92dc606b797f4d86ba6a66f057b95801</td>
        <td>CVE-2025-46729</td>
-       <td>2025-05-12 11:15:50 <img src="imgs/new.gif" /></td>
+       <td>2025-05-12 11:15:50</td>
        <td>julmud/phpDVDProfiler is an adoption of the defunct phpDVDProfiler project, which allows users to display on the web their DVD collections maintained with Invelos's DVDProfiler software. Starting in v_20230807 and prior to v_20250511, cross-site scripting in the search function. v_20250511 contains a patch for the issue.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-46729">详情</a></td>
       </tr>
@@ -482,7 +482,7 @@
       <tr>
        <td scope="row">e0aefc0553e798e0bac623aaa5e75235</td>
        <td>CVE-2025-32390</td>
-       <td>2025-05-12 11:15:50 <img src="imgs/new.gif" /></td>
+       <td>2025-05-12 11:15:50</td>
        <td>EspoCRM is a free, open-source customer relationship management platform. Prior to version 9.0.8, HTML Injection in Knowledge Base (KB) articles leads to complete page defacement imitating the login page. Authenticated users with the read knowledge article privilege can browse to the KB article and if they submit their credentials, they get captured in plain text. The vulnerability is allowed by overly permissive HTML editing being allowed on the KB articles. Any authenticated user with the privilege to read KB articles is impacted. In an enterprise with multiple applications, the malicious KB article could be edited to match the login pages of other applications, which would make it useful for credential harvesting against other applications as well. Version 9.0.8 contains a patch for the issue.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-32390">详情</a></td>
       </tr>
@@ -490,7 +490,7 @@
       <tr>
        <td scope="row">2639cf7a04d2c6012c987ffbb21ab4a4</td>
        <td>CVE-2025-22247</td>
-       <td>2025-05-12 11:15:49 <img src="imgs/new.gif" /></td>
+       <td>2025-05-12 11:15:49</td>
        <td>VMware Tools contains an insecure file handling vulnerability. A malicious actor with non-administrative privileges on a guest VM may tamper the local files to trigger insecure file operations within that VM.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-22247">详情</a></td>
       </tr>
@@ -498,7 +498,7 @@
       <tr>
        <td scope="row">125969a0e807369c4709908f6fbba62f</td>
        <td>CVE-2025-1533</td>
-       <td>2025-05-12 10:15:21 <img src="imgs/new.gif" /></td>
+       <td>2025-05-12 10:15:21</td>
        <td>A stack buffer overflow has been identified in the AsIO3.sys driver. This vulnerability can be triggered by input manipulation, may leading to a system crash (BSOD) or other potentially undefined execution. Refer to the 'Security Update for Armoury Crate App' section on the ASUS Security Advisory for more information.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-1533">详情</a></td>
       </tr>
@@ -506,7 +506,7 @@
       <tr>
        <td scope="row">ebfe5c4d35e8412963d221e7593ac510</td>
        <td>CVE-2025-41393</td>
-       <td>2025-05-12 08:15:19 <img src="imgs/new.gif" /></td>
+       <td>2025-05-12 08:15:19</td>
        <td>Reflected cross-site scripting vulnerability exists in the laser printers and MFPs (multifunction printers) which implement Ricoh Web Image Monitor. If exploited, an arbitrary script may be executed on the web browser of the user who accessed Web Image Monitor. As for the details of affected product names and versions, refer to the information provided by the vendor under [References].</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-41393">详情</a></td>
       </tr>
@@ -514,7 +514,7 @@
       <tr>
        <td scope="row">0897a123ac4f888d5756e95713f9541e</td>
        <td>CVE-2025-3496</td>
-       <td>2025-05-12 08:15:19 <img src="imgs/new.gif" /></td>
+       <td>2025-05-12 08:15:19</td>
        <td>An unauthenticated remote attacker can cause a buffer overflow which could lead to unexpected behaviour or DoS via Bluetooth or RS-232 interface.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-3496">详情</a></td>
       </tr>
@@ -1620,6 +1620,14 @@
       </tr>
 
       <tr>
+       <td scope="row">72f76788c2ecfd009fe21ad6b4ce1719</td>
+       <td></td>
+       <td>2025-03-19 16:31:32</td>
+       <td>灵当 CRM /crm/upload.php 存在任意文件上传漏洞</td>
+       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=14442">详情</a></td>
+      </tr>
+
+      <tr>
        <td scope="row">0a36f52d1ec744345b4368ba9d5753ca</td>
        <td>CVE-2025-1953</td>
        <td>2025-03-19 11:08:03</td>
@@ -1713,14 +1721,6 @@
        <td>2025-03-05 18:01:44</td>
        <td>VMware ESXi等多个产品 越界写入漏洞</td>
        <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=14300">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">d3d552c84310e15cfd05abf1dd70e5b4</td>
-       <td>CVE-2025-22225</td>
-       <td>2025-03-05 18:01:43</td>
-       <td>VMware ESXi等多个产品 资源控制不当漏洞</td>
-       <td><a target="_blank" href="https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=14299">详情</a></td>
       </tr>
 
      </tbody>
