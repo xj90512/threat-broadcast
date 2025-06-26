@@ -1,4 +1,4 @@
-<!-- RELEASE TIME : 2025-06-25 21:39:16 -->
+<!-- RELEASE TIME : 2025-06-26 11:37:31 -->
 <html lang="zh-cn">
 
  <head>
@@ -280,6 +280,86 @@
        <th scope="col">URL</th>
       </tr>
       <tr>
+       <td scope="row">4661bc06d2cbb70aaa82729bf450f63c</td>
+       <td>CVE-2025-6703</td>
+       <td>2025-06-26 09:30:03 <img src="imgs/new.gif" /></td>
+       <td>Improper Input Validation vulnerability in Mozilla neqo leads to an unexploitable crash..This issue affects neqo: from 0.4.24 through 0.13.2.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-6703">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">1d3623e947ea2e9c3b8c8bc4cd5e0486</td>
+       <td>CVE-2024-11584</td>
+       <td>2025-06-26 09:25:20 <img src="imgs/new.gif" /></td>
+       <td>cloud-init through 25.1.2 includes the systemd socket unit cloud-init-hotplugd.socket with default SocketMode that grants 0666 permissions, making it world-writable. This being used for the "/run/cloud-init/hook-hotplug-cmd" FIFO. An unprivelege user could trigger hotplug-hook commands.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-11584">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">e4a81e7c7b2adff8410a3e24cdd84e6a</td>
+       <td>CVE-2025-6212</td>
+       <td>2025-06-26 09:22:03 <img src="imgs/new.gif" /></td>
+       <td>The Ultra Addons for Contact Form 7 plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the Database module in versions 3.5.11 to 3.5.19 due to insufficient input sanitization and output escaping. The unfiltered field names are stored alongside the sanitized values. Later, the admin-side AJAX endpoint ajax_get_table_data() returns those raw names as JSON column headers, and the client-side DataTables renderer injects them directly into the DOM without any HTML encoding. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-6212">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">65e616fed14cdf2b9c1c5dbaabb9c425</td>
+       <td>CVE-2025-5842</td>
+       <td>2025-06-26 09:22:02 <img src="imgs/new.gif" /></td>
+       <td>The Modern Design Library plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the ‘class’ parameter in all versions up to, and including, 1.1.4 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with Contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-5842">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">13e9ebb8f2260a304eb251ec7ce2cef6</td>
+       <td>CVE-2025-5338</td>
+       <td>2025-06-26 09:22:02 <img src="imgs/new.gif" /></td>
+       <td>The Royal Elementor Addons plugin for WordPress is vulnerable to Stored Cross-Site Scripting via multiple widgets in all versions up to, and including, 1.7.1024 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-5338">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">ed168a992c2dd131b8e293ac00978760</td>
+       <td>CVE-2024-6174</td>
+       <td>2025-06-26 09:15:25 <img src="imgs/new.gif" /></td>
+       <td>When a non-x86 platform is detected, cloud-init grants root access to a hardcoded url with a local IP address. To prevent this, cloud-init default configurations disable platform enumeration.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-6174">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">f47e7b2690b61589c950e9ee0edda3ab</td>
+       <td>CVE-2025-52934</td>
+       <td>2025-06-26 08:15:23 <img src="imgs/new.gif" /></td>
+       <td>Rejected reason: Not a vulnerability.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-52934">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">317cc7c86ab8ff93f11ed91bf7390b04</td>
+       <td>CVE-2025-5459</td>
+       <td>2025-06-26 07:15:27 <img src="imgs/new.gif" /></td>
+       <td>A user with specific node group editing permissions and a specially crafted class parameter could be used to execute commands as root on the primary host. It affects Puppet Enterprise versions 2018.1.8 through 2023.8.3 and 2025.3 and has been resolved in versions 2023.8.4 and 2025.4.0.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-5459">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">d59ba0011aff523ceaf6d5b64426aa4d</td>
+       <td>CVE-2025-5846</td>
+       <td>2025-06-26 06:15:24 <img src="imgs/new.gif" /></td>
+       <td>An issue has been discovered in GitLab EE affecting all versions from 16.10 before 17.11.5, 18.0 before 18.0.3, and 18.1 before 18.1.1 that could have allowed authenticated users to assign unrelated compliance frameworks to projects by sending crafted GraphQL mutations that bypassed framework-specific permission checks.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-5846">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">b641c317cfdc9032aa56d4135c300bf0</td>
+       <td>CVE-2025-5315</td>
+       <td>2025-06-26 06:15:23 <img src="imgs/new.gif" /></td>
+       <td>An issue has been discovered in GitLab CE/EE affecting all versions from 17.2 before 17.11.5, 18.0 before 18.0.3, and 18.1 before 18.1.1 that could have allowed authenticated users with Guest role permissions to add child items to incident work items by sending crafted API requests that bypassed UI-enforced role restrictions.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-5315">详情</a></td>
+      </tr>
+
+      <tr>
        <td scope="row">756f48de24a1f53ceeaaf0dfeb69790e</td>
        <td>CVE-2025-6627</td>
        <td>2025-06-25 19:15:24 <img src="imgs/new.gif" /></td>
@@ -437,86 +517,6 @@
        <td>2025-06-25 03:15:26 <img src="imgs/new.gif" /></td>
        <td>IBM InfoSphere Information Server 11.7 vulnerable to SQL injection. A remote attacker could send specially crafted SQL statements, which could allow the attacker to view, add, modify, or delete information in the back-end database.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-0966">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">b1df165b83e77ecb0cd56e3a3e64d645</td>
-       <td>CVE-2025-49147</td>
-       <td>2025-06-24 17:37:07 <img src="imgs/new.gif" /></td>
-       <td>Umbraco, a free and open source .NET content management system, has a vulnerability in versions 10.0.0 through 10.8.10 and 13.0.0 through 13.9.1. Via a request to an anonymously authenticated endpoint it's possible to retrieve information about the configured password requirements. The information available is limited but would perhaps give some additional detail useful for someone attempting to brute force derive a user's password. This information was not exposed in Umbraco 7 or 8, nor in 14 or higher versions. The vulnerability is patched in versions 10.8.11 and 13.9.2.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-49147">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">9b6d5c12b820fdf13fa411bdddede659</td>
-       <td>CVE-2025-23260</td>
-       <td>2025-06-24 17:28:40 <img src="imgs/new.gif" /></td>
-       <td>NVIDIA AIStore contains a vulnerability in the AIS Operator where a user may gain elevated k8s cluster access by using the ServiceAccount attached to the ClusterRole. A successful exploit of this vulnerability may lead to information disclosure.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-23260">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">aeb88ce2b3e8d06a2608d3f642bb5ac4</td>
-       <td>CVE-2025-4378</td>
-       <td>2025-06-24 17:15:35 <img src="imgs/new.gif" /></td>
-       <td>Cleartext Transmission of Sensitive Information, Use of Hard-coded Credentials vulnerability in Ataturk University ATA-AOF Mobile Application allows Authentication Abuse, Authentication Bypass.This issue affects ATA-AOF Mobile Application: before 20.06.2025.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-4378">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">f6da6ff9dd6baa9d37d6c638f160ed41</td>
-       <td>CVE-2024-56918</td>
-       <td>2025-06-24 17:15:29 <img src="imgs/new.gif" /></td>
-       <td>In Netbox Community 4.1.7, the login page is vulnerable to cross-site scripting (XSS), which allows a privileged, authenticated attacker to exfiltrate user input from the login form.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-56918">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">61b665ca40d6bf37e5f4a2e3a4e0bb0a</td>
-       <td>CVE-2025-6570</td>
-       <td>2025-06-24 16:15:30 <img src="imgs/new.gif" /></td>
-       <td>A vulnerability, which was classified as critical, has been found in PHPGurukul Hospital Management System 4.0. Affected by this issue is some unknown functionality of the file /doctor/search.php. The manipulation of the argument searchdata leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-6570">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">f657444d7def2303bb84ceb1c2b3940d</td>
-       <td>CVE-2025-50699</td>
-       <td>2025-06-24 16:15:29 <img src="imgs/new.gif" /></td>
-       <td>PHPGurukul Online DJ Booking Management System 2.0 is vulnerable to Cross Site Scripting (XSS) in odms/admin/view-user-queries.php.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-50699">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">e92e11b9ec0f76cb4075afe658fdc145</td>
-       <td>CVE-2025-50695</td>
-       <td>2025-06-24 16:15:29 <img src="imgs/new.gif" /></td>
-       <td>PHPGurukul Online DJ Booking Management System 2.0 is vulnerable to Cross Site Scripting (XSS) in /admin/view-booking-detail.php and /admin/invoice-generating.php.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-50695">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">12da75c04baa63438e33b39d8d83619f</td>
-       <td>CVE-2025-50693</td>
-       <td>2025-06-24 16:15:29 <img src="imgs/new.gif" /></td>
-       <td>PHPGurukul Online DJ Booking Management System 2.0 is vulnerable to Insecure Direct Object Reference (IDOR) in odms/request-details.php.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-50693">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">591995119d28736bd68afd1ab948133a</td>
-       <td>CVE-2025-4383</td>
-       <td>2025-06-24 16:15:29 <img src="imgs/new.gif" /></td>
-       <td>Improper Restriction of Excessive Authentication Attempts vulnerability in Art-in Bilişim Teknolojileri ve Yazılım Hizm. Tic. Ltd. Şti. Wi-Fi Cloud Hotspot allows Authentication Abuse, Authentication Bypass.This issue affects Wi-Fi Cloud Hotspot: before 30.05.2025.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-4383">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">780b1454843cc1591aa56b3d83a73b9c</td>
-       <td>CVE-2025-44531</td>
-       <td>2025-06-24 16:15:27 <img src="imgs/new.gif" /></td>
-       <td>An issue in Realtek RTL8762EKF-EVB RTL8762E SDK v1.4.0 allows attackers to cause a Denial of Service (DoS) via sending a crafted before a pairing public key is received during a Bluetooth connection attempt.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-44531">详情</a></td>
       </tr>
 
      </tbody>
