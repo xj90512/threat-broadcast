@@ -1,4 +1,4 @@
-<!-- RELEASE TIME : 2025-07-07 07:39:39 -->
+<!-- RELEASE TIME : 2025-07-07 19:35:26 -->
 <html lang="zh-cn">
 
  <head>
@@ -280,6 +280,86 @@
        <th scope="col">URL</th>
       </tr>
       <tr>
+       <td scope="row">4011c0b3ebbe16fcb35bab514ac2f03c</td>
+       <td>CVE-2025-7139</td>
+       <td>2025-07-07 18:15:29 <img src="imgs/new.gif" /></td>
+       <td>A vulnerability was found in SourceCodester Best Salon Management System 1.0. It has been rated as problematic. This issue affects some unknown processing of the file /panel/edit-customer-detailed.php of the component Update Customer Details Page. The manipulation of the argument Name leads to cross site scripting. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-7139">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">d23db1b2843cd2a05c904a8fdf3fada9</td>
+       <td>CVE-2025-7138</td>
+       <td>2025-07-07 18:15:29 <img src="imgs/new.gif" /></td>
+       <td>A vulnerability was found in SourceCodester Best Salon Management System 1.0. It has been declared as critical. This vulnerability affects unknown code of the file /panel/admin-profile.php. The manipulation of the argument adminname leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-7138">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">98e5eb4357041362a25c3be1beb3789d</td>
+       <td>CVE-2025-53536</td>
+       <td>2025-07-07 18:15:28 <img src="imgs/new.gif" /></td>
+       <td>Roo Code is an AI-powered autonomous coding agent. Prior to 3.22.6, if the victim had "Write" auto-approved, an attacker with the ability to submit prompts to the agent could write to VS Code settings files and trigger code execution. There were multiple ways to achieve that. One example is with the php.validate.executablePath setting which lets you set the path for the php executable for syntax validation. The attacker could have written the path to an arbitrary command there and then created a php file to trigger it. This vulnerability is fixed in 3.22.6.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-53536">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">72ae57d93fc3d90cb5f832e36740f5cf</td>
+       <td>CVE-2025-53535</td>
+       <td>2025-07-07 18:15:28 <img src="imgs/new.gif" /></td>
+       <td>Better Auth is an authentication and authorization library for TypeScript. An open redirect has been found in the originCheck middleware function, which affects the following routes: /verify-email, /reset-password/:token, /delete-user/callback, /magic-link/verify, /oauth-proxy-callback. This vulnerability is fixed in 1.2.10.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-53535">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">8859e434a9ba81d6d97f777a219e60d8</td>
+       <td>CVE-2025-20325</td>
+       <td>2025-07-07 18:15:26 <img src="imgs/new.gif" /></td>
+       <td>In Splunk Enterprise versions below 9.4.3, 9.3.5, 9.2.7, and 9.1.10, and Splunk Cloud Platform versions below 9.3.2411.103, 9.3.2408.113, and 9.2.2406.119, the software potentially exposes the search head cluster [splunk.secret](https://help.splunk.com/en/splunk-enterprise/administer/manage-users-and-security/9.4/install-splunk-enterprise-securely/deploy-secure-passwords-across-multiple-servers) key. This exposure could happen if you have a Search Head cluster and you configure the Splunk Enterprise `SHCConfig` log channel at the DEBUG logging level in the clustered deployment. <br><br>The vulnerability would require either local access to the log files or administrative access to internal indexes, which by default only the admin role receives. Review roles and capabilities on your instance and restrict internal index access to administrator-level roles. <br><br>See [Define roles on the Splunk platform with capabilities](https://docs.splunk.com/Documentation/Splunk/latest/Security/Rolesandcapabilities), [Deploy a search head cluster](https://help.splunk.com/en/splunk-enterprise/administer/distributed-search/9.4/deploy-search-head-clustering/deploy-a-search-head-cluster), [Deploy secure passwords across multiple servers](https://help.splunk.com/en/splunk-enterprise/administer/manage-users-and-security/9.4/install-splunk-enterprise-securely/deploy-secure-passwords-across-multiple-servers) and [Set a security key for the search head cluster](https://help.splunk.com/splunk-enterprise/administer/distributed-search/9.4/configure-search-head-clustering/set-a-security-key-for-the-search-head-cluster#id_2c54937a_736c_47b5_9485_67e9e390acfa__Set_a_security_key_for_the_search_head_cluster) for more information.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-20325">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">8ee67815ae036c7bd9202082b659e1f4</td>
+       <td>CVE-2025-20324</td>
+       <td>2025-07-07 18:15:26 <img src="imgs/new.gif" /></td>
+       <td>In Splunk Enterprise versions below 9.4.2, 9.3.5, 9.2.7, and 9.1.10 and Splunk Cloud Platform versions below 9.3.2411.104, 9.3.2408.113, and 9.2.2406.119, a low-privileged user that does not hold the "admin" or "power" Splunk roles could create or overwrite [system source type](https://help.splunk.com/en/splunk-enterprise/get-started/get-data-in/9.2/configure-source-types/create-source-types) configurations by sending a specially-crafted payload to the `/servicesNS/nobody/search/admin/sourcetypes/` REST endpoint on the Splunk management port.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-20324">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">5eb18ddb6a9e27b278b6300ec4a3817c</td>
+       <td>CVE-2025-20323</td>
+       <td>2025-07-07 18:15:26 <img src="imgs/new.gif" /></td>
+       <td>In Splunk Enterprise versions below 9.4.3, 9.3.5, 9.2.7, and 9.1.10, a low-privileged user that does not hold the "admin" or "power" Splunk roles could turn off the scheduled search `Bucket Copy Trigger` within the Splunk Archiver application. This is because of missing access controls in the saved searches for this app.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-20323">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">69c456b0fcd5aca63227ad64bc791212</td>
+       <td>CVE-2025-20322</td>
+       <td>2025-07-07 18:15:26 <img src="imgs/new.gif" /></td>
+       <td>In Splunk Enterprise versions below 9.4.3, 9.3.5, 9.2.7, and 9.1.10, and Splunk Cloud Platform versions below 9.3.2411.104, 9.3.2408.113, and 9.2.2406.119, an unauthenticated attacker could send a specially-crafted SPL search command that could trigger a rolling restart in the Search Head Cluster through a Cross-Site Request Forgery (CSRF), potentially leading to a denial of service (DoS).<br><br>The vulnerability requires the attacker to phish the administrator-level victim by tricking them into initiating a request within their browser. The attacker should not be able to exploit the vulnerability at will.<br><br>See [How rolling restart works](https://docs.splunk.com/Documentation/Splunk/9.4.2/DistSearch/RestartSHC) for more information.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-20322">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">88223b6090bc9a24cdc8100d365c6606</td>
+       <td>CVE-2025-20321</td>
+       <td>2025-07-07 18:15:26 <img src="imgs/new.gif" /></td>
+       <td>In Splunk Enterprise versions below 9.4.3, 9.3.5, 9.2.7 and 9.1.10, and Splunk Cloud Platform versions below 9.3.2411.104, 9.3.2408.114, and 9.2.2406.119, an unauthenticated attacker can send a specially-crafted SPL search that could change the membership state in a Splunk Search Head Cluster (SHC) through a Cross-Site Request Forgery (CSRF), potentially leading to the removal of the captain or a member of the SHC.<br><br>The vulnerability requires the attacker to phish the administrator-level victim by tricking them into initiating a request within their browser. The attacker should not be able to exploit the vulnerability at will.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-20321">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">14afdaf3c232d2664ef100a13b0839cc</td>
+       <td>CVE-2025-20320</td>
+       <td>2025-07-07 18:15:25 <img src="imgs/new.gif" /></td>
+       <td>In Splunk Enterprise versions below 9.4.3, 9.3.5, 9.2.7 and 9.1.10, and Splunk Cloud Platform versions below 9.3.2411.107, 9.3.2408.117, and 9.2.2406.121, a low-privileged user that does not hold the "admin" or "power" Splunk roles could craft a malicious payload through the `User Interface - Views` configuration page that could potentially lead to a denial of service (DoS).The user could cause the DoS by exploiting a path traversal vulnerability that allows for deletion of arbitrary files within a Splunk directory. The vulnerability requires the low-privileged user to phish the administrator-level victim by tricking them into initiating a request within their browser. The low-privileged user should not be able to exploit the vulnerability at will.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-20320">详情</a></td>
+      </tr>
+
+      <tr>
        <td scope="row">4d39611e4598adc8c5f36b45bb126d05</td>
        <td>CVE-2025-7113</td>
        <td>2025-07-07 05:15:42 <img src="imgs/new.gif" /></td>
@@ -437,86 +517,6 @@
        <td>2025-07-06 07:15:35 <img src="imgs/new.gif" /></td>
        <td>A vulnerability classified as critical has been found in Shenzhen Libituo Technology LBT-T300-T310 up to 2.2.3.6. This affects the function config_3g_para of the file /appy.cgi. The manipulation of the argument username_3g/password_3g leads to buffer overflow. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. Other parameters might be affected as well. The vendor was contacted early about this disclosure but did not respond in any way.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-7077">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">f66ab38c3ab28bd69cd5170acc364437</td>
-       <td>CVE-2025-7074</td>
-       <td>2025-07-05 09:15:27</td>
-       <td>A vulnerability classified as problematic has been found in vercel hyper up to 3.4.1. This affects the function expand/braceExpand/ignoreMap of the file hyper/bin/rimraf-standalone.js. The manipulation leads to inefficient regular expression complexity. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-7074">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">91ee50252666d0db3f1a91e585418619</td>
-       <td>CVE-2023-50786</td>
-       <td>2025-07-05 04:15:24</td>
-       <td>Dradis through 4.16.0 allows referencing external images (resources) over HTTPS, instead of forcing the use of embedded (uploaded) images. This can be leveraged by an authorized author to attempt to steal the Net-NTLM hashes of other authors on a Windows domain network.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2023-50786">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">7417054c1331c0a56c5be562a3ec93bf</td>
-       <td>CVE-2025-47228</td>
-       <td>2025-07-05 03:15:30</td>
-       <td>In the Production Environment extension in Netmake ScriptCase through 9.12.006 (23), shell injection in the SSH connection settings allows authenticated attackers to execute system commands via crafted HTTP requests.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-47228">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">70ef4e60bca2bc36c9d568cad395a585</td>
-       <td>CVE-2025-47227</td>
-       <td>2025-07-05 03:15:30</td>
-       <td>In the Production Environment extension in Netmake ScriptCase through 9.12.006 (23), the Administrator password reset mechanism is mishandled. Making both a GET and a POST request to login.php.is sufficient. An unauthenticated attacker can then bypass authentication via administrator account takeover.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-47227">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">0f1c2f48a77607a1c79e4e3bec49312a</td>
-       <td>CVE-2024-58254</td>
-       <td>2025-07-05 02:15:21</td>
-       <td>Rejected reason: DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2024-11738. Reason: This candidate is a duplicate of CVE-2024-11738. Notes: All CVE users should reference CVE-2024-11738 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-58254">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">27365e0d0b8495806fce87691d5a7fdc</td>
-       <td>CVE-2025-53605</td>
-       <td>2025-07-05 01:15:28</td>
-       <td>The protobuf crate before 3.7.2 for Rust allows uncontrolled recursion in the protobuf::coded_input_stream::CodedInputStream::skip_group parsing of unknown fields in untrusted input.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-53605">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">286bbbad5f7ff1814dd4b843c4bd7e67</td>
-       <td>CVE-2025-53604</td>
-       <td>2025-07-05 01:15:28</td>
-       <td>The web-push crate before 0.10.3 for Rust allows a denial of service (memory consumption) in the built-in clients via a large integer in a Content-Length header.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-53604">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">8b0b909833e29768749b5f7660eb0e67</td>
-       <td>CVE-2025-53603</td>
-       <td>2025-07-05 01:15:27</td>
-       <td>In Alinto SOPE SOGo 2.0.2 through 5.12.2, sope-core/NGExtensions/NGHashMap.m allows a NULL pointer dereference and SOGo crash via a request in which a parameter in the query string is a duplicate of a parameter in the POST body.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-53603">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">50a1aadc261008f64e13542605929be0</td>
-       <td>CVE-2025-43711</td>
-       <td>2025-07-05 00:15:23</td>
-       <td>Tunnelblick 3.5beta06 before 7.0, when incompletely uninstalled, allows attackers to execute arbitrary code as root (upon the next boot) by dragging a crafted Tunnelblick.app file into /Applications.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-43711">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">774e231f1af53b6fd6a0de4aea90ac23</td>
-       <td>CVE-2025-26850</td>
-       <td>2025-07-05 00:15:22</td>
-       <td>The agent in Quest KACE Systems Management Appliance (SMA) before 14.0.97 and 14.1.x before 14.1.19 potentially allows privilege escalation on managed systems.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-26850">详情</a></td>
       </tr>
 
      </tbody>
