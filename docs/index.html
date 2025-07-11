@@ -1,4 +1,4 @@
-<!-- RELEASE TIME : 2025-07-10 23:37:56 -->
+<!-- RELEASE TIME : 2025-07-11 18:48:09 -->
 <html lang="zh-cn">
 
  <head>
@@ -280,6 +280,86 @@
        <th scope="col">URL</th>
       </tr>
       <tr>
+       <td scope="row">7db20da98bce815e0823d2da47d8471a</td>
+       <td>CVE-2025-7435</td>
+       <td>2025-07-11 03:16:06 <img src="imgs/new.gif" /></td>
+       <td>A vulnerability was found in LiveHelperChat lhc-php-resque Extension up to ee1270b35625f552425e32a6a3061cd54b5085c4. It has been classified as problematic. This affects an unknown part of the file /site_admin/lhcphpresque/list/ of the component List Handler. The manipulation of the argument queue name leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. This product takes the approach of rolling releases to provide continious delivery. Therefore, version details for affected and updated releases are not available. The identifier of the patch is 542aa8449b5aa889b3a54f419e794afe19f56d5d/0ce7b4f1193c0ed6c6e31a960fafededf979eef2. It is recommended to apply a patch to fix this issue.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-7435">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">8e332f9e1dad52d333d0ffcb7aa288ad</td>
+       <td>CVE-2025-53864</td>
+       <td>2025-07-11 03:16:03 <img src="imgs/new.gif" /></td>
+       <td>Connect2id Nimbus JOSE + JWT before 10.0.2 allows a remote attacker to cause a denial of service via a deeply nested JSON object supplied in a JWT claim set, because of uncontrolled recursion. NOTE: this is independent of the Gson 2.11.0 issue because the Connect2id product could have checked the JSON object nesting depth, regardless of what limits (if any) were imposed by Gson.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-53864">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">b09f406c569fb977ad13741c9a6b4f44</td>
+       <td>CVE-2025-7436</td>
+       <td>2025-07-11 03:02:06 <img src="imgs/new.gif" /></td>
+       <td>A vulnerability was found in Campcodes Online Recruitment Management System 1.0. It has been declared as critical. This vulnerability affects unknown code of the file /admin/ajax.php?action=delete_vacancy. The manipulation of the argument ID leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-7436">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">045b276016c1b6adc6d688ab4a60a444</td>
+       <td>CVE-2025-7434</td>
+       <td>2025-07-11 02:15:23 <img src="imgs/new.gif" /></td>
+       <td>A vulnerability was found in Tenda FH451 up to 1.0.0.9 and classified as critical. Affected by this issue is the function fromAddressNat of the file /goform/addressNat of the component POST Request Handler. The manipulation of the argument page leads to stack-based buffer overflow. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-7434">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">7dfe4667185dccb9305ebb7f8d227b87</td>
+       <td>CVE-2025-7423</td>
+       <td>2025-07-11 01:15:30 <img src="imgs/new.gif" /></td>
+       <td>A vulnerability classified as critical was found in Tenda O3V2 1.0.0.12(3880). Affected by this vulnerability is the function formWifiMacFilterSet of the file /goform/setWrlFilterList of the component httpd. The manipulation of the argument macList leads to stack-based buffer overflow. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-7423">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">41522074a614023e82cfdd82db115876</td>
+       <td>CVE-2025-7422</td>
+       <td>2025-07-11 01:15:30 <img src="imgs/new.gif" /></td>
+       <td>A vulnerability classified as critical has been found in Tenda O3V2 1.0.0.12(3880). Affected is the function setAutoReboot of the file /goform/setNetworkService of the component httpd. The manipulation of the argument week leads to stack-based buffer overflow. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-7422">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">f9f0fb5f3705b74ee90c1fdd0edcd4bd</td>
+       <td>CVE-2025-7421</td>
+       <td>2025-07-11 01:15:30 <img src="imgs/new.gif" /></td>
+       <td>A vulnerability was found in Tenda O3V2 1.0.0.12(3880). It has been rated as critical. This issue affects the function fromMacFilterModify of the file /goform/operateMacFilter of the component httpd. The manipulation of the argument mac leads to stack-based buffer overflow. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-7421">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">5a9e526330cb1deae27e49be7209ffeb</td>
+       <td>CVE-2025-5241</td>
+       <td>2025-07-11 01:15:29 <img src="imgs/new.gif" /></td>
+       <td>Overly Restrictive Account Lockout Mechanism vulnerability in Mitsubishi Electric Corporation MELSEC iQ-F Series allows a remote unauthenticated attacker to lockout legitimate users for a certain period by repeatedly attempting to login with incorrect passwords. The legitimate users will be unable to login until a certain period has passed after the lockout or until the product is reset.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-5241">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">5d555755291b97701275c8bf3c8ef8cc</td>
+       <td>CVE-2025-7420</td>
+       <td>2025-07-11 00:15:29 <img src="imgs/new.gif" /></td>
+       <td>A vulnerability was found in Tenda O3V2 1.0.0.12(3880). It has been declared as critical. This vulnerability affects the function formWifiBasicSet of the file /goform/setWrlBasicInfo of the component httpd. The manipulation of the argument extChannel leads to stack-based buffer overflow. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-7420">详情</a></td>
+      </tr>
+
+      <tr>
+       <td scope="row">18ff523fb85527fbedf275e719d11004</td>
+       <td>CVE-2025-53519</td>
+       <td>2025-07-11 00:15:28 <img src="imgs/new.gif" /></td>
+       <td>A vulnerability exists in Advantech iView versions prior to 5.7.05 build 7057, which could allow a reflected cross-site scripting (XSS) attack. By manipulating specific parameters, an attacker could execute unauthorized scripts in the user's browser, potentially leading to information disclosure or other malicious activities.</td>
+       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-53519">详情</a></td>
+      </tr>
+
+      <tr>
        <td scope="row">f6c1903433eafe34e5d544212b5f2ee7</td>
        <td>CVE-2025-2520</td>
        <td>2025-07-10 19:54:35 <img src="imgs/new.gif" /></td>
@@ -362,7 +442,7 @@
       <tr>
        <td scope="row">bae54a3fe8d32cb3a173535acafcb865</td>
        <td>CVE-2025-53620</td>
-       <td>2025-07-09 19:15:24 <img src="imgs/new.gif" /></td>
+       <td>2025-07-09 19:15:24</td>
        <td>@builder.io/qwik-city is the meta-framework for Qwik. When a Qwik Server Action QRL is executed it dynamically load the file containing the symbol. When an invalid qfunc is sent, the server does not handle the thrown error. The error then causes Node JS to exit. This vulnerability is fixed in 1.13.0.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-53620">详情</a></td>
       </tr>
@@ -370,7 +450,7 @@
       <tr>
        <td scope="row">939d6730e1b8f7db108dbea1a9ee30a1</td>
        <td>CVE-2025-36599</td>
-       <td>2025-07-09 19:15:24 <img src="imgs/new.gif" /></td>
+       <td>2025-07-09 19:15:24</td>
        <td>Dell PowerFlex Manager VM, versions prior to 4.6.2.1, contains an Insertion of Sensitive Information into Log File vulnerability. A low privileged attacker with remote access could potentially exploit this vulnerability, leading to the disclosure of certain user credentials. The attacker may be able to use the exposed credentials to access the system with privileges of the compromised account.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-36599">详情</a></td>
       </tr>
@@ -378,7 +458,7 @@
       <tr>
        <td scope="row">a6f6de5065d901a8aa88514c8de065b2</td>
        <td>CVE-2021-27961</td>
-       <td>2025-07-09 19:15:23 <img src="imgs/new.gif" /></td>
+       <td>2025-07-09 19:15:23</td>
        <td>evesys 7.1 (2152) through 8.0 (2202) allows Reflected XSS via the indexeva.php action parameter.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2021-27961">详情</a></td>
       </tr>
@@ -386,7 +466,7 @@
       <tr>
        <td scope="row">809dbce13bbf4d88e7a3cee3c9d4ebbd</td>
        <td>CVE-2024-10788</td>
-       <td>2025-07-09 18:30:35 <img src="imgs/new.gif" /></td>
+       <td>2025-07-09 18:30:35</td>
        <td>The Activity Log – Monitor & Record User Changes plugin for WordPress is vulnerable to Stored...</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-10788">详情</a></td>
       </tr>
@@ -394,7 +474,7 @@
       <tr>
        <td scope="row">7763db8a0d37d1b686692be1915f0d68</td>
        <td>CVE-2025-53548</td>
-       <td>2025-07-09 18:15:24 <img src="imgs/new.gif" /></td>
+       <td>2025-07-09 18:15:24</td>
        <td>Clerk helps developers build user management. Applications that use the verifyWebhook() helper to verify incoming Clerk webhooks are susceptible to accepting improperly signed webhook events. The issue was resolved in @clerk/backend 2.4.0.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-53548">详情</a></td>
       </tr>
@@ -402,7 +482,7 @@
       <tr>
        <td scope="row">e3b0d93547aa7809f4e137ffb3b6ad49</td>
        <td>CVE-2025-53548</td>
-       <td>2025-07-09 18:07:40 <img src="imgs/new.gif" /></td>
+       <td>2025-07-09 18:07:40</td>
        <td>@clerk/backend Performs Insufficient Verification of Data Authenticity</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-53548">详情</a></td>
       </tr>
@@ -410,7 +490,7 @@
       <tr>
        <td scope="row">c9c09a47edc52a000ec5e6a2f1747b63</td>
        <td>CVE-2025-53645</td>
-       <td>2025-07-09 17:15:31 <img src="imgs/new.gif" /></td>
+       <td>2025-07-09 17:15:31</td>
        <td>Zimbra Collaboration Suite (ZCS) before 9.0.0 Patch 46, 10.0.x before 10.0.15, and 10.1.x before 10.1.9 is vulnerable to a denial of service condition due to improper handling of excessive, comma-separated path segments in both the Webmail interface and the Admin Console. An unauthenticated remote attacker can send specially crafted GET requests that trigger redundant processing and inflated responses. This leads to uncontrolled resource consumption, resulting in denial of service.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-53645">详情</a></td>
       </tr>
@@ -418,7 +498,7 @@
       <tr>
        <td scope="row">e7ab1adfeaf7f1cb7e29ebd300b788dd</td>
        <td>CVE-2025-44525</td>
-       <td>2025-07-09 17:15:30 <img src="imgs/new.gif" /></td>
+       <td>2025-07-09 17:15:30</td>
        <td>Texas Instruments CC2652RB LaunchPad SimpleLink CC13XX CC26XX SDK 7.41.00.17 was discovered to utilize insufficient permission checks on critical fields within Bluetooth Low Energy (BLE) data packets. This issue allows attackers to cause a Denial of Service (DoS) via a crafted LL_Length_Req packet.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-44525">详情</a></td>
       </tr>
@@ -426,7 +506,7 @@
       <tr>
        <td scope="row">ac0541402e5584f97e3e636f8f511a0b</td>
        <td>CVE-2025-7381</td>
-       <td>2025-07-09 16:15:27 <img src="imgs/new.gif" /></td>
+       <td>2025-07-09 16:15:27</td>
        <td>ImpactThis is an information disclosure vulnerability originating from PHP's base image. This vulnerability exposes the PHP version through an X-Powered-By header, which attackers could exploit to fingerprint the server and identify potential weaknesses. WorkaroundsThe mitigation requires changing the expose_php variable from "On" to "Off" in the file located at /usr/local/etc/php/php.ini.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-7381">详情</a></td>
       </tr>
@@ -434,89 +514,9 @@
       <tr>
        <td scope="row">e7de4d65808bc9b90aa6ba268bf75021</td>
        <td>CVE-2025-53743</td>
-       <td>2025-07-09 16:15:27 <img src="imgs/new.gif" /></td>
+       <td>2025-07-09 16:15:27</td>
        <td>Jenkins Applitools Eyes Plugin 1.16.5 and earlier does not mask Applitools API keys displayed on the job configuration form, increasing the potential for attackers to observe and capture them.</td>
        <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-53743">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">312da8d01b2d032cdcf4c217b82a2d28</td>
-       <td>CVE-2025-53742</td>
-       <td>2025-07-09 16:15:27 <img src="imgs/new.gif" /></td>
-       <td>Jenkins Applitools Eyes Plugin 1.16.5 and earlier stores Applitools API keys unencrypted in job config.xml files on the Jenkins controller, where they can be viewed by users with Item/Extended Read permission or access to the Jenkins controller file system.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-53742">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">c546561ae895e97012152b58a1968933</td>
-       <td>CVE-2025-53678</td>
-       <td>2025-07-09 16:15:27 <img src="imgs/new.gif" /></td>
-       <td>Jenkins User1st uTester Plugin 1.1 and earlier stores the uTester JWT token unencrypted in its global configuration file on the Jenkins controller, where it can be viewed by users with access to the Jenkins controller file system.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-53678">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">03a04bea4530c0b4e5032f6607fb1d25</td>
-       <td>CVE-2025-53677</td>
-       <td>2025-07-09 16:15:27 <img src="imgs/new.gif" /></td>
-       <td>Jenkins Xooa Plugin 0.0.7 and earlier does not mask the Xooa Deployment Token on the global configuration form, increasing the potential for attackers to observe and capture it.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-53677">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">344612c2abe0f4e7fbaeb9bb41d5e565</td>
-       <td>CVE-2025-53676</td>
-       <td>2025-07-09 16:15:27 <img src="imgs/new.gif" /></td>
-       <td>Jenkins Xooa Plugin 0.0.7 and earlier stores the Xooa Deployment Token unencrypted in its global configuration file on the Jenkins controller, where it can be viewed by users with access to the Jenkins controller file system.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-53676">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">b949f031335a62fee911576bf62130ea</td>
-       <td>CVE-2025-27369</td>
-       <td>2025-07-08 19:15:41</td>
-       <td>IBM OpenPages with Watson 8.3 and 9.0 is vulnerable to information disclosure of sensitive information due to a weaker than expected security for certain REST end points used for the administration of OpenPages. An authenticated user is able to obtain certain information about system configuration and internal state which is only intended for administrators of the system.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-27369">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">1e5b773e1fa69144d3dc2f7067206321</td>
-       <td>CVE-2024-49784</td>
-       <td>2025-07-08 18:35:23</td>
-       <td>IBM OpenPages with Watson 8.3 and 9.0 could provide weaker than expected security in storage of encrypted data with AES encryption and CBC mode. If an authenticated remote attacker with access to the database or a local attacker with access to server files could extract the encrypted data values they could exploit this weaker algorithm to use additional cryptographic methods to possibly extract the encrypted data.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2024-49784">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">f28e825dbe5acba13bb1101b18c4fa73</td>
-       <td>CVE-2025-47109</td>
-       <td>2025-07-08 18:31:44</td>
-       <td>After Effects versions 25.2, 24.6.6 and earlier are affected by a NULL Pointer Dereference...</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-47109">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">79b883ad18668a2c19d4075ea2b2f655</td>
-       <td>CVE-2025-7362</td>
-       <td>2025-07-08 18:15:46</td>
-       <td>The MsUpload extension for MediaWiki is vulnerable to stored XSS via the msu-continue system message, which is inserted into the DOM without proper sanitization. The vulnerability occurs in the file upload UI when the same filename is uploaded twice. This issue affects Mediawiki - MsUpload extension: from 1.39.X before 1.39.13, from 1.42.X before 1.42.7, from 1.43.X before 1.43.2.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-7362">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">6f062063093eb512d0f9450343b2483c</td>
-       <td>CVE-2025-7189</td>
-       <td>2025-07-08 18:15:46</td>
-       <td>A vulnerability, which was classified as critical, has been found in code-projects Chat System 1.0. Affected by this issue is some unknown functionality of the file /user/send_message.php. The manipulation of the argument msg leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-7189">详情</a></td>
-      </tr>
-
-      <tr>
-       <td scope="row">38b99c6c812497777a27b0075f1bfe49</td>
-       <td>CVE-2025-0928</td>
-       <td>2025-07-08 18:15:26</td>
-       <td>In Juju versions prior to 3.6.8 and 2.9.52, any authenticated controller user was allowed to upload arbitrary agent binaries to any model or to the controller itself, without verifying model membership or requiring explicit permissions. This enabled the distribution of poisoned binaries to new or upgraded machines, potentially resulting in remote code execution.</td>
-       <td><a target="_blank" href="https://www.tenable.com/cve/CVE-2025-0928">详情</a></td>
       </tr>
 
      </tbody>
