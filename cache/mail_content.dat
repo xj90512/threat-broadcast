@@ -5,7 +5,7 @@
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2025-07-16 20:31:42<br/>[<b>漏洞描述</b>] 用友 YonBIP 设计缺陷漏洞 可导致密码重置<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=15331'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=15331</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2025-07-15 18:31:38<br/>[<b>漏洞描述</b>] 大华 智能物联综合管理平台 /evo-runs/v1.0/receive 存在命令注入漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=15321'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=15321</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
