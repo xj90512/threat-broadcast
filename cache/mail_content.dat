@@ -5,7 +5,7 @@
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2025-07-18 15:01:30<br/>[<b>漏洞描述</b>] 金山办公 WPS云文档 /open/v6/api/etcd/operate 存在未授权访问漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=15356'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=15356</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-54424</font><br/>[<b>披露时间</b>] 2025-08-04 18:33:05<br/>[<b>漏洞描述</b>] 飞致云 1Panel 未授权 签名验证不当漏洞 可导致远程命令执行<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=15518'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=15518</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
