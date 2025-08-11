@@ -5,7 +5,7 @@
 </ul>
 <h3>详细漏洞清单如下：</h3>
 <br/>
-<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'></font><br/>[<b>披露时间</b>] 2025-07-08 15:31:47<br/>[<b>漏洞描述</b>] 明源云 ERP /PubPlatform/nav/login/sso/login.aspx 存在身份验证缺陷漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=15229'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=15229</a>
+<br/>==============================================<br/>[<b>漏洞来源</b>] 数字观星POC++<br/>[<b>漏洞编号</b>] <font color='blue'>CVE-2025-54794</font><br/>[<b>披露时间</b>] 2025-08-11 16:32:54<br/>[<b>漏洞描述</b>] Anthropic Claude Code 路径遍历漏洞<br/>[<b>相关链接</b>] <a href='https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=15567'>https://poc.shuziguanxing.com/#/publicIssueInfo#issueId=15567</a>
 
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
